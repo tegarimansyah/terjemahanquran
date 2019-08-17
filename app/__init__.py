@@ -5,14 +5,13 @@ app = Flask(__name__)
 
 def include_view(views):
     module_path = 'app.views.{}'
-    for view in views:
+    for view, url_prefix in views:
         module = importlib.import_module(module_path.format(view))
-        app.register_blueprint(module.view)
+        app.register_blueprint(module.view, url_prefix=url_prefix)
 
 views = [
-    'home',
-    'test',
-    'display_surah'
+    ('home',''),
+    ('test','/test'),
 ]
 include_view(views)
 
