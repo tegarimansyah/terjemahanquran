@@ -1,7 +1,11 @@
 from flask import Flask
 import importlib
 
-app = Flask(__name__)
+app = Flask(__name__,
+            static_folder='templates/static',
+            static_url_path='/static',
+            template_folder='templates'
+        )
 
 def include_view(views):
     module_path = 'app.views.{}'
@@ -11,7 +15,8 @@ def include_view(views):
 
 views = [
     ('home',''),
-    ('test','/test'),
+    ('display_surah',''),
+    ('test','/test')
 ]
 include_view(views)
 

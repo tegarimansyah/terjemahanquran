@@ -1,9 +1,9 @@
 from flask import Blueprint, render_template, request
 
+from app.surah import list_of_surah
+
 view = Blueprint('test', __name__)
 
 @view.route('/')
-@view.route('/<user>')
-def test(user=None):
-    user = user or 'Tegar'
-    return render_template('index.html', user=user)
+def test():
+    return render_template('static/index.html', list_of_surah=list_of_surah)
