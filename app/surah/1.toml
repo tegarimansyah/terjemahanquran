@@ -1,0 +1,21 @@
+# Global Information
+[basic_info]
+num_of_surah = 7
+num_of_content = 2
+
+[[content]]
+start=1
+end=3
+[[content]]
+start=4
+end=7
+
+# Indonesian Language
+[id]
+language = "id"
+surah_name = "Al Fatihah"
+surah_translation = "Pembukaan"
+content_title = [
+    "Puji terhadap Allah",
+    "Doa memohon jalan yang lurus"
+]

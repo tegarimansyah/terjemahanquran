@@ -1,0 +1,569 @@
+[1]
+[1.id]
+surah_name = "Al Fatihah"
+surah_translation = "Pembukaan"
+
+[2]
+[2.id]
+surah_name = "Al Baqarah"
+surah_translation = "Sapi Betina"
+
+[3]
+[3.id]
+surah_name = "Ali 'Imran"
+surah_translation = "Keluarga 'Imran"
+
+[4]
+[4.id]
+surah_name = "An Nisa'"
+surah_translation = "Wanita"
+
+[5]
+[5.id]
+surah_name = "Al Ma'idah"
+surah_translation = "Hidangan"
+
+[6]
+[6.id]
+surah_name = "Al An'am"
+surah_translation = "Binatang Ternak"
+
+[7]
+[7.id]
+surah_name = "Al A'raf "
+surah_translation = "Tempat Tertinggi"
+
+[8]
+[8.id]
+surah_name = "Al Anfal"
+surah_translation = "Rampasan Perang"
+
+[9]
+[9.id]
+surah_name = "At Taubah"
+surah_translation = "Pengampunan"
+
+[10]
+[10.id]
+surah_name = "Yunus"
+surah_translation = "Nabi Yunus A.S."
+
+[11]
+[11.id]
+surah_name = "Hud"
+surah_translation = "Nabi Huud A.S."
+
+[12]
+[12.id]
+surah_name = "Yusuf"
+surah_translation = "Nabi Yusuf A.S."
+
+[13]
+[13.id]
+surah_name = "Ar Ra'd"
+surah_translation = "Guruh"
+
+[14]
+[14.id]
+surah_name = "Ibrahim"
+surah_translation = "Nabi Ibrahim A.S."
+
+[15]
+[15.id]
+surah_name = "Al Hijr"
+surah_translation = "Daerah Pegunungan"
+
+[16]
+[16.id]
+surah_name = "An Nahl"
+surah_translation = "Lebah"
+
+[17]
+[17.id]
+surah_name = "Al Israa'"
+surah_translation = "Memperjalankan Di Malam Hari"
+
+[18]
+[18.id]
+surah_name = "Al Kahfi"
+surah_translation = "Gua"
+
+[19]
+[19.id]
+surah_name = "Maryam"
+surah_translation = "Maryam"
+
+[20]
+[20.id]
+surah_name = "Thaha"
+surah_translation = "Thaahaa"
+
+[21]
+[21.id]
+surah_name = "Al Anbiya'"
+surah_translation = "Kisah Para Nabi"
+
+[22]
+[22.id]
+surah_name = "Al Hajj"
+surah_translation = "Ibadah Haji"
+
+[23]
+[23.id]
+surah_name = "Al Mu'minun"
+surah_translation = "Orang Mukmin"
+
+[24]
+[24.id]
+surah_name = "An Nur"
+surah_translation = "Cahaya"
+
+[25]
+[25.id]
+surah_name = "Al Furqaan"
+surah_translation = "Pembeda"
+
+[26]
+[26.id]
+surah_name = "Asy Syu'ara'"
+surah_translation = "Penyair"
+
+[27]
+[27.id]
+surah_name = "An Naml"
+surah_translation = "Semut"
+
+[28]
+[28.id]
+surah_name = "Al Qashash"
+surah_translation = "Cerita"
+
+[29]
+[29.id]
+surah_name = "Al 'Ankabuut"
+surah_translation = "Laba-Laba"
+
+[30]
+[30.id]
+surah_name = "Ar Ruum"
+surah_translation = "Bangsa Rumawi"
+
+[31]
+[31.id]
+surah_name = "Luqman"
+surah_translation = "Luqman"
+
+[32]
+[32.id]
+surah_name = "As Sajdah"
+surah_translation = "Sujud"
+
+[33]
+[33.id]
+surah_name = "Al Ahzab"
+surah_translation = "Golongan Yang Bersekutu"
+
+[34]
+[34.id]
+surah_name = "Saba'"
+surah_translation = "Kaum Saba'"
+
+[35]
+[35.id]
+surah_name = "Fathir"
+surah_translation = "Pencipta"
+
+[36]
+[36.id]
+surah_name = "Yaasiin"
+surah_translation = "Yasin"
+
+[37]
+[37.id]
+surah_name = "Ash Shaffat"
+surah_translation = "Yang Bershaf-Shaf"
+
+[38]
+[38.id]
+surah_name = "Shaad"
+surah_translation = "Shaad"
+
+[39]
+[39.id]
+surah_name = "Az Zumar"
+surah_translation = "Rombongan-Rombongan"
+
+[40]
+[40.id]
+surah_name = "Al Mu'min"
+surah_translation = "Orang Yang Beriman"
+
+[41]
+[41.id]
+surah_name = "Fushshilat"
+surah_translation = "Yang Dijelaskan"
+
+[42]
+[42.id]
+surah_name = "Asy Syuura"
+surah_translation = "Musyawarah"
+
+[43]
+[43.id]
+surah_name = "Az Zukhruf"
+surah_translation = "Perhiasan"
+
+[44]
+[44.id]
+surah_name = "Ad Dukhaan"
+surah_translation = "Kabut"
+
+[45]
+[45.id]
+surah_name = "Al Jaatsiyah"
+surah_translation = "Yang Berlutut"
+
+[46]
+[46.id]
+surah_name = "Al Ahqaaf"
+surah_translation = "Bukit Pasir"
+
+[47]
+[47.id]
+surah_name = "Muhammad"
+surah_translation = "Nabi Muhammad SAW"
+
+[48]
+[48.id]
+surah_name = "Al Fath"
+surah_translation = "Kemenangan"
+
+[49]
+[49.id]
+surah_name = "Al Hujuraat"
+surah_translation = "Kamar-Kamar"
+
+[50]
+[50.id]
+surah_name = "Qaaf"
+surah_translation = "Qaaf"
+
+[51]
+[51.id]
+surah_name = "Adz Dzaariyaat"
+surah_translation = "Angin Yang Menerbangkan"
+
+[52]
+[52.id]
+surah_name = "Ath Thuur"
+surah_translation = "Bukit"
+
+[53]
+[53.id]
+surah_name = "An Najm"
+surah_translation = "Bintang"
+
+[54]
+[54.id]
+surah_name = "Al Qamar"
+surah_translation = "Bulan"
+
+[55]
+[55.id]
+surah_name = "Ar Rahmaan"
+surah_translation = "Yang Maha Pemurah"
+
+[56]
+[56.id]
+surah_name = "Al Waaqi'ah"
+surah_translation = "Hari Kiamat"
+
+[57]
+[57.id]
+surah_name = "Al Hadid"
+surah_translation = "Besi"
+
+[58]
+[58.id]
+surah_name = "Al Mujadilah"
+surah_translation = "Wanita Yang Mengajukan Gugatan"
+
+[59]
+[59.id]
+surah_name = "Al Hasyr"
+surah_translation = "Pengusiran"
+
+[60]
+[60.id]
+surah_name = "Al Mumtahanah"
+surah_translation = "Wanita Yang Diuji"
+
+[61]
+[61.id]
+surah_name = "Ash Shaff"
+surah_translation = "Barisan"
+
+[62]
+[62.id]
+surah_name = "Al Jumu'ah"
+surah_translation = "Hari Jum'at"
+
+[63]
+[63.id]
+surah_name = "Al-Munafiqun"
+surah_translation = "Orang-Orang Munafik"
+
+[64]
+[64.id]
+surah_name = "At Taghabun"
+surah_translation = "Hari Ditampakkan Kesalahan-Kesalahan"
+
+[65]
+[65.id]
+surah_name = "Ath Thalaaq"
+surah_translation = "Talak"
+
+[66]
+[66.id]
+surah_name = "At Tahrim"
+surah_translation = "Mengharamkan"
+
+[67]
+[67.id]
+surah_name = "Al Mulk"
+surah_translation = "Kerajaan"
+
+[68]
+[68.id]
+surah_name = "Al Qalam"
+surah_translation = "Pena"
+
+[69]
+[69.id]
+surah_name = "Al Haqqah"
+surah_translation = "Kiamat"
+
+[70]
+[70.id]
+surah_name = "Al Ma'arij"
+surah_translation = "Tempat-Tempat Naik"
+
+[71]
+[71.id]
+surah_name = "Nuh"
+surah_translation = "Nabi Nuh A.S"
+
+[72]
+[72.id]
+surah_name = "Al Jin"
+surah_translation = "Jin"
+
+[73]
+[73.id]
+surah_name = "Al Muzzammil"
+surah_translation = "Orang Yang Berselimut"
+
+[74]
+[74.id]
+surah_name = "Al Muddatstsir"
+surah_translation = "Orang Yang Berselimut"
+
+[75]
+[75.id]
+surah_name = "Al Qiyamah"
+surah_translation = "Hari Kiamat"
+
+[76]
+[76.id]
+surah_name = "Al Insaan"
+surah_translation = "Manusia"
+
+[77]
+[77.id]
+surah_name = "Al Mursalat"
+surah_translation = "Malaikat-Malaikat Yang Diutus"
+
+[78]
+[78.id]
+surah_name = "An Naba´"
+surah_translation = "Berita Besar"
+
+[79]
+[79.id]
+surah_name = "An Naazi´"
+surah_translation = "Malaikat-Malaikat Yang Mencabut"
+
+[80]
+[80.id]
+surah_name = "'Abasa"
+surah_translation = "Bermuka Masam"
+
+[81]
+[81.id]
+surah_name = "At Takwir"
+surah_translation = "Menggulung"
+
+[82]
+[82.id]
+surah_name = "Al Infithar"
+surah_translation = "Terbelah"
+
+[83]
+[83.id]
+surah_name = "Al Muthaffifiin"
+surah_translation = "Orang-Orang Yang Curang"
+
+[84]
+[84.id]
+surah_name = "Al Insyiqaaq"
+surah_translation = "Terbelah"
+
+[85]
+[85.id]
+surah_name = "Al Buruuj"
+surah_translation = "Gugusan Bintang"
+
+[86]
+[86.id]
+surah_name = "Ath Thaariq"
+surah_translation = "Yang Datang Di Malam Hari"
+
+[87]
+[87.id]
+surah_name = "Al A´Laa"
+surah_translation = "Yang Paling Tinggi"
+
+[88]
+[88.id]
+surah_name = "Al Ghaasyiyah"
+surah_translation = "Hari Kiamat"
+
+[89]
+[89.id]
+surah_name = "Al Fajr"
+surah_translation = "Fajar"
+
+[90]
+[90.id]
+surah_name = "Al Balad"
+surah_translation = "Negeri"
+
+[91]
+[91.id]
+surah_name = "Asy Syams"
+surah_translation = "Matahari"
+
+[92]
+[92.id]
+surah_name = "Al Lail"
+surah_translation = "Malam"
+
+[93]
+[93.id]
+surah_name = "Adh Dhuhaa"
+surah_translation = "Waktu Dhuha"
+
+[94]
+[94.id]
+surah_name = "Alam Nasyrah /Al Insyirah"
+surah_translation = "Bukankah Kami Telah Melapangkan"
+
+[95]
+[95.id]
+surah_name = "At Tiin"
+surah_translation = "Buah Tin"
+
+[96]
+[96.id]
+surah_name = "Al 'Alaq"
+surah_translation = "Segumpal Darah"
+
+[97]
+[97.id]
+surah_name = "Al Qadr"
+surah_translation = "Kemuliaan"
+
+[98]
+[98.id]
+surah_name = "Al Bayyinah"
+surah_translation = "Bukti Yang Nyata"
+
+[99]
+[99.id]
+surah_name = "Al Zalzalah"
+surah_translation = "Goncangan"
+
+[100]
+[100.id]
+surah_name = "Al 'Adiyat"
+surah_translation = "Kuda Perang Yang Berlari Kencang"
+
+[101]
+[101.id]
+surah_name = "Al Qari'ah"
+surah_translation = "Hari Kiamat"
+
+[102]
+[102.id]
+surah_name = "At Takatsur"
+surah_translation = "Bermegah-Megahan"
+
+[103]
+[103.id]
+surah_name = "Al 'Ashr"
+surah_translation = "Masa"
+
+[104]
+[104.id]
+surah_name = "Al Humazah"
+surah_translation = "Pengumpat"
+
+[105]
+[105.id]
+surah_name = "Al Fiil"
+surah_translation = "Gajah"
+
+[106]
+[106.id]
+surah_name = "Quraisy"
+surah_translation = "Suku Quraisy"
+
+[107]
+[107.id]
+surah_name = "Al Ma'un"
+surah_translation = "Barang-Barang Yang Berguna"
+
+[108]
+[108.id]
+surah_name = "Al Kautsar"
+surah_translation = "Nikmat Yang Banyak"
+
+[109]
+[109.id]
+surah_name = "Al Kafirun"
+surah_translation = "Orang-Orang Kafir"
+
+[110]
+[110.id]
+surah_name = "An Nashr"
+surah_translation = "Pertolongan"
+
+[111]
+[111.id]
+surah_name = "Al Lahab"
+surah_translation = "Gejolak Api"
+
+[112]
+[112.id]
+surah_name = "Al Ikhlas"
+surah_translation = "Memurnikan Keesaan Allah"
+
+[113]
+[113.id]
+surah_name = "Al Falaq"
+surah_translation = "Waktu Subuh"
+
+[114]
+[114.id]
+surah_name = "An Naas"
+surah_translation = "Manusia"
