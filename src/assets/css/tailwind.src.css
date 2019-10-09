@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your Custom CSS Here */
+
+.App {
+    @apply flex flex-wrap content-center h-screen;
+    background: linear-gradient(
+                    rgba(0, 0, 0, 0.7), 
+                    rgba(0, 0, 0, 0.7)
+                ),
+                url('https://source.unsplash.com/daily?nature,water,mountain,lake');
+    background-size: cover;
+    min-height: 100vh;
+    
+}
+
+.container {
+    @apply ml-auto mr-auto text-center;
+}
+
+.input-name {
+    @apply appearance-none bg-transparent border-none w-full text-white mr-3 py-1 px-2 leading-tight;
+}
+
+.btn-start {
+    @apply flex-shrink-0 border border-teal-400 text-teal-500 text-sm py-1 px-2 rounded;
+    background: none;
+}
+
+.music-btn {
+    @apply font-light py-2 px-4 rounded fixed top-0 right-0;
+    font-size: 8pt;
+}
+.music-btn:hover {
+    @apply bg-blue-700 border border-gray-400;
+}
+
+.character-place {
+    @apply z-0 absolute bottom-0 left-0 w-full h-screen justify-center flex flex-col;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.6), 
+        rgba(0, 0, 0, 0.6)
+    );
+}
+
+.character {
+    animation: character-spin infinite 20s linear;
+}
+
+@keyframes character-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+.game-menu {
+    @apply z-10 w-1/4 bg-gray-400 flex flex-col justify-center;
+}
+
+.game-menu:hover {
+    @apply bg-gray-600;
+}
