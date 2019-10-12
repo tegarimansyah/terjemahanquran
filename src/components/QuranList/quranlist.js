@@ -27,6 +27,14 @@ class ReadingList extends React.Component {
                 console.log(error);
               })
         );
+
+        trackPromise(
+            Axios.get('quran_list/2.json').then((response) => {
+                console.log(response);
+              }, (error) => {
+                console.log(error);
+              })
+        );
     }
 
     render() {
