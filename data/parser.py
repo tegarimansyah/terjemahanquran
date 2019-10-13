@@ -21,9 +21,11 @@ with open('quran_data.txt','r') as data:
 
             # Write or append
             if surah_num > last_num or qs == 'Done':
-                print(f"Write new file: surah {last_num}")
-                with open(f'../public/quran_list/{last_num}.json', 'w') as output:
-                    output.write(json.dumps(file_data))
+                if surah_num > 0 and surah_num < 114: # Skip saving file if num is not between 1-114
+                    print(f"Write new file: surah {last_num}")
+                    with open(f'../public/quran_list/{last_num}.json', 'w') as output:
+                        output.write(json.dumps(file_data))
+
                 last_num = surah_num
                 file_data = {
                     "name": surah_name.replace(':', ''),
