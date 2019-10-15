@@ -21,7 +21,7 @@ class ReadingList extends React.Component {
         });
 
         trackPromise(
-            Axios.get('http://api.alquran.cloud/v1/surah/1').then((response) => {
+            Axios.get('https://api.alquran.cloud/v1/surah/1').then((response) => {
                 console.log(response);
               }, (error) => {
                 console.log(error);

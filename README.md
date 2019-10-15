@@ -1,8 +1,12 @@
 # Mini Habit for Read Quran
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1edc3496-5c58-4858-b053-3a8dc9cc6391/deploy-status)](https://app.netlify.com/sites/practical-johnson-bad12e/deploys)
+
 Projek ini bertujuan untuk membantu muslimin dan muslimat untuk memudahkan membaca dan mempelajari Al Qur'An setiap hari. Pendekatan yang di tawarkan adalah menggunakan konsep Mini Habit, yaitu memberikan target sekecil mungkin sehingga dapat dilakukan kapanpun tanpa alasan "sedang sibuk". 
 
 ## Fitur yang ditawarkan
+
+* Mengingatkan tema bacaan selanjutnya
 
 ## Teknologi yang digunakan
 
