@@ -4,6 +4,7 @@ import { trackPromise } from 'react-promise-tracker';
 import LoadingIndicator from '../LoadingIndicator/loading'
 import Axios from 'axios';
 
+import Logo from '../../assets/images/logo.png'
 
 class HomeScreen extends React.Component {
     constructor() {
@@ -41,12 +42,16 @@ class HomeScreen extends React.Component {
 
     render() {
         return (
-            <div className="container">
-                <h1 className="tracking-wide text-white text-3xl lg:text-5xl">Allah would not punish them while they seek forgiveness</h1>
-                <LoadingIndicator />
-                <h2 className="tracking-wider text-white mb-4 text-1xl lg:text-2xl">QS Al-Anfal 8:33</h2>
-                <Link to='/'><button className="btn-start border-teal-400 text-teal-500 hover:text-teal-700">Program Membaca Al Qur'an Setiap Hari</button></Link>
-                <Link to='/'><button className="btn-start border-gray-400 text-gray-500 hover:text-gray-700">Pilih Yang Mau Dibaca</button></Link>
+            <div className="container relative flex content-between flex-wrap h-screen lg:w-8/12 sm:w-10/12 md:w-10/12">
+                    <img src={Logo} alt="Enjoy the Qur'an Logo"/>
+                    <h3>Home of Quran Affairs</h3>
+                    <Link to="/reading_list">Go to somewhere else</Link>
+                    <LoadingIndicator/>
+                    <ul>
+                        { Object.keys(this.state.surah).map(
+                            num_surah =>  <li key={num_surah.toString()}> {this.state.surah[num_surah].id.surah_name} </li>
+                        )}
+                    </ul>
             </div>
         );
     }

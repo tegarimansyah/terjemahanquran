@@ -8362,102 +8362,34 @@ video {
   min-height: 100vh;
 }
 
+.MenuItem {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 0;
+  padding-right: 0;
+  display: block;
+  border-bottom-width: 2px;
+  border-color: transparent;
+}
+
 .container {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
 
-.input-name {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  background-color: transparent;
-  border-style: none;
-  width: 100%;
-  color: #fff;
-  margin-right: 0.75rem;
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-  line-height: 1.25;
-}
-
 .btn-start {
   flex-shrink: 0;
-  border-width: 1px;
-  border-color: #4fd1c5;
-  color: #38b2ac;
-  font-size: 0.875rem;
+  font-size: 1.125rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   border-radius: 0.25rem;
-  background: none;
-}
-
-.music-btn {
-  font-weight: 300;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  border-radius: 0.25rem;
-  position: fixed;
-  top: 0;
-  right: 0;
-  font-size: 8pt;
-}
-
-.music-btn:hover {
-  background-color: #2b6cb0;
+  margin-right: 0.5rem;
+  margin-bottom: 0.75rem;
   border-width: 1px;
-  border-color: #cbd5e0;
-}
-
-.character-place {
-  z-index: 0;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  justify-content: center;
-  display: flex;
-  flex-direction: column;
-  background: linear-gradient(
-        rgba(0, 0, 0, 0.6), 
-        rgba(0, 0, 0, 0.6)
-    );
-}
-
-.character {
-  animation: character-spin infinite 20s linear;
-}
-
-@keyframes character-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.game-menu {
-  z-index: 10;
-  width: 25%;
-  background-color: #cbd5e0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.game-menu:hover {
-  background-color: #718096;
+  background: none;
 }
 
 @media (min-width: 640px) {
@@ -39411,3 +39343,4 @@ video {
     z-index: auto;
   }
 }
+
