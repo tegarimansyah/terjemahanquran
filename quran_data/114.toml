@@ -1,0 +1,7 @@
+name = "An-Naas"
+number = 114
+[[theme]]
+from = 1
+to = 6
+text = "kosong"
+

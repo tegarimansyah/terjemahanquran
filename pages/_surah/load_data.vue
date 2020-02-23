@@ -1,0 +1,20 @@
+<template>
+  <h1>Loading content</h1>
+</template>
+<script>
+export default {
+  created () {
+    this.surah_number = this.$route.params.surah
+    this.$axios.$get(`${localStorage.base_url}/surah/${this.surah_number}/editions/${localStorage.edition},simple-quran`)
+      .then((response) => {
+        const translation = response.data[0]
+        const arabic = response.data[1]
+        for (const [i, ayah] of arabic.ayahs.entries()) {
+          translation.ayahs[i].arabic = ayah.text
+        }
+        localStorage[`surah_${this.$route.params.surah}`] = JSON.stringify(translation)
+        this.$router.push(`/${this.surah_number}`)
+      })
+  }
+}
+</script>

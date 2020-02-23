@@ -1,0 +1,7 @@
+name = "Al-Mursalaah"
+number = 77
+[[theme]]
+from = 1
+to = 50
+text = "Segala ancaman Allah pasti terjadi"
+

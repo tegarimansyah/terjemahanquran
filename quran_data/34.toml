@@ -1,0 +1,12 @@
+name = "Saba"
+number = 34
+[[theme]]
+from = 1
+to = 14
+text = "Amat terpujilah Allah dan amat sempurnalah ilmunya"
+
+[[theme]]
+from = 24
+to = 24
+text = "Rejeki manusia dijamin Allah"
+

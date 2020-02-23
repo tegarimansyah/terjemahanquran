@@ -1,0 +1,17 @@
+name = "Ath-Thuur"
+number = 52
+[[theme]]
+from = 1
+to = 20
+text = "Bukit"
+
+[[theme]]
+from = 21
+to = 21
+text = "Allah mempertemukan keluarga yang beriman dengan anak cucu mereka di dalam surga"
+
+[[theme]]
+from = 22
+to = 49
+text = "Bukit"
+

@@ -1,0 +1,42 @@
+name = "Al-Mu'minuun"
+number = 23
+[[theme]]
+from = 1
+to = 11
+text = "Ciri-ciri orang mukmin"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 17
+to = 22
+text = "Langit dan segala sesuatu yang ada di bumi, diciptakan oleh Allah untuk kelanjutan kehidupan manusia"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 57
+to = 61
+text = "Sifat-sifat seorang muslim yang mukhlis"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 95
+to = 114
+text = "Peristiwa-peristiwa pada hari Kiamat dan kedahsyatannya"
+
+[[theme]]
+from = 115
+to = 118
+text = "Penciptaan manusia tidak sia-sia"
+

@@ -1,0 +1,32 @@
+name = "Al-Maidah"
+number = 5
+[[theme]]
+from = 6
+to = 6
+text = "Perintah untuk wudhu & membersihkan badan"
+
+[[theme]]
+from = 8
+to = 8
+text = "Kewajiban berlaku Adil dan Jujur"
+
+[[theme]]
+from = 9
+to = 31
+text = "kosong"
+
+[[theme]]
+from = 32
+to = 40
+text = "Hukum terhadap perusuh dan pengacau keamanan"
+
+[[theme]]
+from = 51
+to = 53
+text = "Dilarang berteman akrab dengan orang-orang Yahudi dan Nasrani dan akibat melanggarnya"
+
+[[theme]]
+from = 89
+to = 93
+text = "Larangan meminum khamar, berjudi, berkorban untuk berhala dan mengundi nasib"
+

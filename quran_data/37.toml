@@ -1,0 +1,22 @@
+name = "Ash-Shaaffaat"
+number = 37
+[[theme]]
+from = 1
+to = 70
+text = "Bukti-bukti keesaan Allah. Alam langit dipelihara dari gangguan syaitan"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 100
+to = 101
+text = "Doa memohon anak yang soleh"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+

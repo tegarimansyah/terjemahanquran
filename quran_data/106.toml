@@ -1,0 +1,7 @@
+name = "Al-Quraisy"
+number = 106
+[[theme]]
+from = 1
+to = 4
+text = "Orang Quraisy"
+

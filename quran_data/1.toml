@@ -1,0 +1,7 @@
+name = "Al-Fatihah"
+number = 1
+[[theme]]
+from = 1
+to = 7
+text = "kosong"
+

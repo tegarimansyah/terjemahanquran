@@ -1,0 +1,22 @@
+name = "Qaaf"
+number = 50
+[[theme]]
+from = 1
+to = 15
+text = "Hari Berbangkit"
+
+[[theme]]
+from = 16
+to = 16
+text = "Allah itu dekat"
+
+[[theme]]
+from = 17
+to = 26
+text = "Kejadian-kejadian dalam alam membuktikan kebenaran adanya hari berbangkit"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+

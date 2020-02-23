@@ -1,0 +1,32 @@
+name = "Al-Qamar"
+number = 54
+[[theme]]
+from = 17
+to = 17
+text = "kosong"
+
+[[theme]]
+from = 17
+to = 17
+text = "Al-Qur'an sebagai peringatan & pelajaran"
+
+[[theme]]
+from = 22
+to = 22
+text = "Al-Qur'an sebagai peringatan & pelajaran"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 40
+to = 40
+text = "Al-Qur'an sebagai peringatan & pelajaran"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+

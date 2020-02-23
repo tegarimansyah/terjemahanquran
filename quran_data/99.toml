@@ -1,0 +1,7 @@
+name = "Al-Zalzalah"
+number = 99
+[[theme]]
+from = 1
+to = 8
+text = "Kegoncangan"
+

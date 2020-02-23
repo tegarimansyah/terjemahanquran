@@ -1,0 +1,27 @@
+name = "Maryam"
+number = 19
+[[theme]]
+from = 1
+to = 6
+text = "Kisah Nabi Zakariya AS dan Nabi Yahya AS"
+
+[[theme]]
+from = 7
+to = 36
+text = "Tuduhan terhadap Maryam dan pembelaan Nabi Isa A.S. kepada ibunya"
+
+[[theme]]
+from = 37
+to = 65
+text = "Pertentangan pendapat tentang Isa A.S."
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 95
+to = 98
+text = "Al-Qur'an dimudahkan dengan bahasamu"
+

@@ -1,0 +1,7 @@
+name = "An-Nabaa"
+number = 78
+[[theme]]
+from = 1
+to = 40
+text = "Berita berbangkit"
+

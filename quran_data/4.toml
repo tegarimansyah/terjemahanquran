@@ -1,0 +1,92 @@
+name = "An-Nisaa"
+number = 4
+[[theme]]
+from = 1
+to = 1
+text = "Allah menciptakan pasangan bagi manusia"
+
+[[theme]]
+from = 2
+to = 6
+text = "Kewajiban para wasi terhadap asuhannya dan kewajiban para wali terhadap orang yang dibawah perwalian"
+
+[[theme]]
+from = 7
+to = 11
+text = "Hukum waris"
+
+[[theme]]
+from = 12
+to = 14
+text = "Hukum waris"
+
+[[theme]]
+from = 15
+to = 16
+text = "kosong"
+
+[[theme]]
+from = 17
+to = 18
+text = "Taubat"
+
+[[theme]]
+from = 19
+to = 28
+text = "Beberapa hukum perkawinan"
+
+[[theme]]
+from = 15
+to = 16
+text = "kosong"
+
+[[theme]]
+from = 34
+to = 35
+text = "Manajemen rumah tangga"
+
+[[theme]]
+from = 36
+to = 36
+text = "Kewajiban terhadap Allah dan terhadap sesama manusia"
+
+[[theme]]
+from = 37
+to = 96
+text = "kosong"
+
+[[theme]]
+from = 97
+to = 100
+text = "Kewajiban berhijrah di jalan Allah dan balasannya"
+
+[[theme]]
+from = 101
+to = 122
+text = "kosong"
+
+[[theme]]
+from = 123
+to = 126
+text = "Balasan dari Perbuatan, & ikhlas berserah diri"
+
+[[theme]]
+from = 127
+to = 146
+text = "kosong"
+
+[[theme]]
+from = 147
+to = 152
+text = "Larangan melontarkan ucapan-ucapan buruk kepada seseorang"
+
+[[theme]]
+from = 147
+to = 152
+text = "kosong"
+
+[[theme]]
+from = 153
+to = 176
+text = "kosong"
+

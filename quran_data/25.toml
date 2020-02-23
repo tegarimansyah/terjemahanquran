@@ -1,0 +1,22 @@
+name = "Al-Furqan"
+number = 25
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 63
+to = 66
+text = "Hamba Allah adalah yang berjalan di bumi dengan rendah hati"
+
+[[theme]]
+from = 74
+to = 74
+text = "Doa memohon pasangan & keturunan"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+

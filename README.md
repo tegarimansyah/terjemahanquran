@@ -6,22 +6,22 @@ Projek ini bertujuan untuk membantu muslimin dan muslimat untuk memudahkan memba
 
 ## Fitur yang ditawarkan
 
-* Mengingatkan tema bacaan selanjutnya
+* Khataman arti Al Qur'an
+* Informasi tema bacaan selanjutnya
 
 ## Teknologi yang digunakan
 
 * Hosting menggunakan Github Pages
-* Informasi Al Quran disimpan menggunakan format TOML dan di convert menjadi JSON menggunakan Python (folder data)
-* Frontend menggunakan ReactJS
+* Informasi Al Quran disimpan menggunakan format TOML
+* Frontend menggunakan NuxtJS
 * Arabic dan translation dari [alquran.cloud](https://alquran.cloud)
 
 ## To Do
 
-* Routing antara halaman awal, daftar surah, tema pada surah, bacaan per ayat, dan halaman arti
-* Simpan data pada localstorage mana yang sudah di baca dan apa selanjutnya
-* Dapat merekam bacaan surah dan memutarnya kembali
-* Dapat memisahkan bacaan per ayat
-* Terhubung ke server (login, upload suara)
-* Share bacaan 
-* Komentar bacaan
-* Komentar bacaan dengan suara
+[x] Memilih untuk menampilkan arab atau artinya 
+[x] Routing untuk masing masing surat 
+[ ] Menampilkan tema pada surat tersebut
+[ ] Offline Mode
+[ ] Dapat merekam bacaan surah dan memutarnya kembali
+[ ] Dapat memisahkan bacaan suara per ayat
+[ ] Share bacaan 

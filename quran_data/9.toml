@@ -1,0 +1,22 @@
+name = "At-Taubah"
+number = 9
+[[theme]]
+from = 1
+to = 24
+text = "Pengumuman tentang pembatalan perjanjian damai"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 71
+to = 72
+text = "Anjuran kepada orang-orang mu'min dan janji Allah terhadap mereka"
+
+[[theme]]
+from = 128
+to = 129
+text = "Tawakal : Berserah setelah berusaha"
+

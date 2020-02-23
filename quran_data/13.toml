@@ -1,0 +1,42 @@
+name = "Ar-Ra'd"
+number = 13
+[[theme]]
+from = 1
+to = 10
+text = "kosong"
+
+[[theme]]
+from = 11
+to = 11
+text = "Kebangkitan dan keruntuhan suatu bangsa tergantung pada sikap dan tindakan mereka sendiri"
+
+[[theme]]
+from = 12
+to = 17
+text = "kosong"
+
+[[theme]]
+from = 18
+to = 24
+text = "Mengadakan hubungan silaturahmi merupakan salah satu sifat mulia"
+
+[[theme]]
+from = 22
+to = 24
+text = "Keluarga yang saleh dapat berjumpa lagi di surga"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 28
+to = 29
+text = "Ketentuan hari orang-orang yang beriman serta pembalasan bagi mereka"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
