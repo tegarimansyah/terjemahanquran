@@ -11,7 +11,7 @@ export default {
     } else {
       localStorage.language = 'id'
       localStorage.edition = 'id.indonesian'
-      localStorage.base_url = 'http://api.alquran.cloud/v1'
+      localStorage.base_url = 'https://api.alquran.cloud/v1'
     }
   }
 }
