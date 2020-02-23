@@ -1,6 +1,6 @@
 # Mini Habit for Read Quran
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1edc3496-5c58-4858-b053-3a8dc9cc6391/deploy-status)](https://app.netlify.com/sites/practical-johnson-bad12e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1edc3496-5c58-4858-b053-3a8dc9cc6391/deploy-status)](https://app.netlify.com/sites/baca-quran/deploys)
 
 Projek ini bertujuan untuk membantu muslimin dan muslimat untuk memudahkan membaca dan mempelajari Al Qur'An setiap hari. Pendekatan yang di tawarkan adalah menggunakan konsep Mini Habit, yaitu memberikan target sekecil mungkin sehingga dapat dilakukan kapanpun tanpa alasan "sedang sibuk". 
 
@@ -11,7 +11,7 @@ Projek ini bertujuan untuk membantu muslimin dan muslimat untuk memudahkan memba
 
 ## Teknologi yang digunakan
 
-* Hosting menggunakan Github Pages
+* Hosting dan CI/CD menggunakan Netlify
 * Informasi Al Quran disimpan menggunakan format TOML
 * Frontend menggunakan NuxtJS
 * Arabic dan translation dari [alquran.cloud](https://alquran.cloud)

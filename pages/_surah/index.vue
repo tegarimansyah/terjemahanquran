@@ -34,8 +34,8 @@ export default {
   data () {
     return {
       surah: null,
-      enable_translation: false,
-      enable_arabic: false
+      enable_translation: true,
+      enable_arabic: true
     }
   },
   watch: {
