@@ -75,4 +75,7 @@ export default {
       // }
     }
   },
+  generate: {
+    routes: Array(114).fill().map((_, i) => `/${i+1}`) // generate /1 to /114
+  }
 }
