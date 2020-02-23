@@ -1,0 +1,32 @@
+name = "Al-Hajj"
+number = 22
+[[theme]]
+from = 11
+to = 13
+text = "Celaan terhadap orang-orang yang tidak berpendirian"
+
+[[theme]]
+from = 15
+to = 17
+text = "Pertolongan Allah pasti datang"
+
+[[theme]]
+from = 18
+to = 18
+text = "Semua bersujud kepada Allah"
+
+[[theme]]
+from = 26
+to = 28
+text = "Haji, Menasiknya, & Syi'arnya"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 58
+to = 62
+text = "Balasan terhadap orang-orang yang mati dalam berhijrah di jalan Allah"
+

@@ -1,0 +1,7 @@
+name = "Al-Kautsar"
+number = 108
+[[theme]]
+from = 1
+to = 3
+text = "Nikmat yang banyak"
+

@@ -1,0 +1,42 @@
+name = "Al-An'am"
+number = 6
+[[theme]]
+from = 1
+to = 20
+text = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad S.A.W."
+
+[[theme]]
+from = 32
+to = 32
+text = "Perbedaan dunia & akhirat"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 53
+to = 58
+text = "Tuntunan-tuntunan dalam menghadapi masyarakat"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 106
+to = 108
+text = "Saling menghormati dalam beragama"
+
+[[theme]]
+from = 141
+to = 143
+text = "Besarnya Karunia Allah kepada Manusia"
+
+[[theme]]
+from = 159
+to = 161
+text = "Peraturan-peraturan yang dibuat-buat oleh kaum musyrikin dan pimpinan Allah terhadap kaum muslimin"
+

@@ -1,0 +1,7 @@
+name = "Yaasiin"
+number = 36
+[[theme]]
+from = 1
+to = 83
+text = "kosong"
+

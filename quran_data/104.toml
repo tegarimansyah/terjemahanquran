@@ -1,0 +1,7 @@
+name = "Al-Humazah"
+number = 104
+[[theme]]
+from = 1
+to = 9
+text = "Pengumpat"
+

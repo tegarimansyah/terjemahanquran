@@ -1,0 +1,7 @@
+name = "Al-Maa'uun"
+number = 107
+[[theme]]
+from = 1
+to = 7
+text = "Bantuan"
+

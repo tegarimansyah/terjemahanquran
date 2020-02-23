@@ -1,0 +1,12 @@
+name = "An-Najm"
+number = 53
+[[theme]]
+from = 1
+to = 62
+text = "Bintang"
+
+[[theme]]
+from = 1
+to = 62
+text = "Bintang"
+

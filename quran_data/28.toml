@@ -1,0 +1,22 @@
+name = "Al-Qasas"
+number = 28
+[[theme]]
+from = 26
+to = 26
+text = "kosong"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 77
+to = 77
+text = "Mengejar akhirat tidak boleh meninggalkan dunia"
+
+[[theme]]
+from = 88
+to = 88
+text = "Segalanya akan binasa kecuali Allah"
+

@@ -1,0 +1,17 @@
+name = "Fussilat"
+number = 41
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 30
+to = 35
+text = "Sifat baik dianugerahkan kepada orang yang sabar"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+

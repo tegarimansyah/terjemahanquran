@@ -1,0 +1,287 @@
+name = "Al-Baqarah"
+number = 2
+[[theme]]
+from = 1
+to = 7
+text = "Ciri-ciri golongan mukmin & non-muslim"
+
+[[theme]]
+from = 8
+to = 20
+text = "Ciri-ciri orang munafik"
+
+[[theme]]
+from = 21
+to = 24
+text = "Tantangan kepada kaum musyrikin mengenai Qur'an dan perintah menyembah Allah"
+
+[[theme]]
+from = 25
+to = 25
+text = "Kabar gembira untuk orang beriman"
+
+[[theme]]
+from = 26
+to = 27
+text = "Perumpamaan-perumpamaan dalam Al-Qur'an dan hikmah-hikmahnya"
+
+[[theme]]
+from = 28
+to = 29
+text = "Tanda-tanda kekuasaan Allah"
+
+[[theme]]
+from = 30
+to = 32
+text = "Manusia direncanakan Allah untuk menjadi khalifah"
+
+[[theme]]
+from = 33
+to = 42
+text = "Kisah Nabi Adam"
+
+[[theme]]
+from = 43
+to = 44
+text = "Perintah menunaikan sholat dan zakat"
+
+[[theme]]
+from = 45
+to = 46
+text = "Sabar & sholat sebagai penolong"
+
+[[theme]]
+from = 47
+to = 48
+text = "kosong"
+
+[[theme]]
+from = 49
+to = 61
+text = "Perincian nikmat Tuhan kepada Bani Israil"
+
+[[theme]]
+from = 62
+to = 66
+text = "Kisah Nabi Nuh A.S"
+
+[[theme]]
+from = 67
+to = 74
+text = "Kisah penyembelihan sapi betina"
+
+[[theme]]
+from = 75
+to = 82
+text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
+
+[[theme]]
+from = 75
+to = 82
+text = "kosong"
+
+[[theme]]
+from = 83
+to = 91
+text = "Sikap-sikap orang Yahudi terhadap para Rasul dan kitab-kitab yang diturunkan Allah"
+
+[[theme]]
+from = 92
+to = 101
+text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi, merupakan lambang bagi kecendrungan mer"
+
+[[theme]]
+from = 102
+to = 115
+text = "Menasakhkan sesuatu ayat adalah urusan Allah"
+
+[[theme]]
+from = 116
+to = 123
+text = "Larangan mengikuti Yahudi dan Nasrani"
+
+[[theme]]
+from = 124
+to = 127
+text = "Kisah Nabi Ibrahim & Kota Mekkah"
+
+[[theme]]
+from = 128
+to = 129
+text = "Do'a menjadi seorang muslim"
+
+[[theme]]
+from = 130
+to = 149
+text = "Sekitar pemindahan kiblat"
+
+[[theme]]
+from = 150
+to = 152
+text = "Perintah berserah & mengingat Allah dimana saja"
+
+[[theme]]
+from = 153
+to = 157
+text = "Allah beserta orang sabar"
+
+[[theme]]
+from = 158
+to = 158
+text = "Sa'i & Manasik Haji"
+
+[[theme]]
+from = 159
+to = 171
+text = "Laknat terhadap orang-orang yang menyembunyikan ayat-ayat Allah dan terhadap orang-orang kafir"
+
+[[theme]]
+from = 172
+to = 173
+text = "Perintah memakan makanan yang halal"
+
+[[theme]]
+from = 174
+to = 176
+text = "Ayat-Ayat Allah"
+
+[[theme]]
+from = 177
+to = 177
+text = "Kebajikan adalah urusan akhirat, bukan duniawi"
+
+[[theme]]
+from = 178
+to = 179
+text = "Qisas dan hikmahnya"
+
+[[theme]]
+from = 180
+to = 182
+text = "Wasiat & larangan mengubahnya"
+
+[[theme]]
+from = 186
+to = 186
+text = "Allah Maha Dekat"
+
+[[theme]]
+from = 187
+to = 194
+text = "Berjihad dengan Jiwa & Harta"
+
+[[theme]]
+from = 187
+to = 194
+text = "Berjihad dengan Jiwa & Harta"
+
+[[theme]]
+from = 195
+to = 195
+text = "Perintah untuk berinfaq di jalan Allah"
+
+[[theme]]
+from = 196
+to = 199
+text = "Haji"
+
+[[theme]]
+from = 200
+to = 201
+text = "Doa kebaikan dunia & akhirat"
+
+[[theme]]
+from = 202
+to = 214
+text = "Perbuatan orang-orang munafik"
+
+[[theme]]
+from = 215
+to = 215
+text = "Infak & sedekah"
+
+[[theme]]
+from = 216
+to = 216
+text = "Kebaikan di balik yang tidak kita sukai"
+
+[[theme]]
+from = 217
+to = 220
+text = "Hukum perang dalam Islam"
+
+[[theme]]
+from = 221
+to = 232
+text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
+
+[[theme]]
+from = 233
+to = 233
+text = "Anjuran menyusui anak selama 2 tahun"
+
+[[theme]]
+from = 234
+to = 237
+text = "Hukum Perceraian,"
+
+[[theme]]
+from = 238
+to = 242
+text = "Kewajiban mengerjakan salat walaupun dalam keadaan takut"
+
+[[theme]]
+from = 243
+to = 251
+text = "Jihad di Jalan Allah"
+
+[[theme]]
+from = 252
+to = 252
+text = "Kebenaran Muhammad Adalah Rasulullah"
+
+[[theme]]
+from = 253
+to = 254
+text = "Keistimewaan dan perbedaan derajat para Rasul dan anjuran berjihad dengan harta"
+
+[[theme]]
+from = 256
+to = 257
+text = "Tak ada paksaan dalam mempelajari agama Islam"
+
+[[theme]]
+from = 258
+to = 260
+text = "Kisah Nabi Ibrahim & Mukjizatnya"
+
+[[theme]]
+from = 261
+to = 263
+text = "Menafkahkan harta di jalan Allah"
+
+[[theme]]
+from = 264
+to = 270
+text = "Sedekah"
+
+[[theme]]
+from = 271
+to = 271
+text = "Mencontohkan sedekah itu baik, menyembunyikannya lebih baik"
+
+[[theme]]
+from = 272
+to = 281
+text = "Hukum Riba"
+
+[[theme]]
+from = 282
+to = 283
+text = "Kesaksian dalam mu'amalah"
+
+[[theme]]
+from = 284
+to = 286
+text = "Doa orang mukmin"
+

@@ -1,0 +1,22 @@
+name = "Gafir"
+number = 40
+[[theme]]
+from = 1
+to = 20
+text = "Orang-orang mu'min janganlah terpedaya oleh kemakmuran orang-orang musyrikin"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 60
+to = 60
+text = "Tentang doa"
+
+[[theme]]
+from = 61
+to = 65
+text = "Allah akan memperkenankan do'a hamba-Nya"
+

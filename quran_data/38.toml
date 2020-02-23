@@ -1,0 +1,17 @@
+name = "Shood"
+number = 38
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+
+[[theme]]
+from = 29
+to = 29
+text = "Dorongan mempelajari Al-Qur'an"
+
+[[theme]]
+from = 0
+to = 0
+text = "kosong"
+

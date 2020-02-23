@@ -1,0 +1,12 @@
+name = "Al-Mujaadalah"
+number = 58
+[[theme]]
+from = 11
+to = 13
+text = "Etika berkumpul dalam mencari ilmu"
+
+[[theme]]
+from = 0
+to = 0
+text = "QS 59 Al-Hasyr: 1-24"
+
