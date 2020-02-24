@@ -2,6 +2,14 @@ name = "Al-Fatihah"
 number = 1
 [[theme]]
 from = 1
+to = 4
+text = "Pujian bagi Allah"
+[[theme]]
+from = 5
+to = 5
+text = "Pernyataan penghambaan"
+[[theme]]
+from = 6
 to = 7
-text = "kosong"
+text = "Permintaan untuk mendapatkan jalan yang lurus"
 

@@ -1,5 +1,7 @@
 <template>
-  <h1>Loading content</h1>
+  <div class="p-10">
+    <h1>Loading content</h1>
+  </div>
 </template>
 <script>
 export default {

@@ -1,13 +1,36 @@
 <template>
-  <h1>Initialize Data</h1>
+  <div class="p-10">
+    <h1 class="text-2xl font-bold">
+      Enjoy The Qur'an
+    </h1>
+    <em class="text-sm">Alpha version, need more collaborator for this <a href="https://github.com/tegarimansyah/quran.urusan.id" class="text-blue-600">open source project</a></em>
+    <p>Read Al Qur'an or translation. Understanding what you read. This site still a Proof of Concept.</p>
+    <hr class="my-3">
+    <p><strong>Things to add</strong>: Bookmark, separate by theme, full offline capability, jump to section, add our recitation.</p>
+    <hr class="my-3">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <nuxt-link :id="index+1" v-for="(surah, index) in surah_list" :key="index+1" :to="`/${index+1}`">
+        <div class="mt-1 mb-3 p-1 pt-3 col-span-1 hover:bg-gray-300">
+          <span class="block font-semibold">{{ surah.id.surah_name }}</span>
+          <span class="block">{{ surah.id.surah_translation }}</span>
+        </div>
+      </nuxt-link>
+    </div>
+  </div>
 </template>
 
 <script>
+import surahList from '~/components/surah.js'
 
 export default {
+  data () {
+    return {
+      surah_list: surahList('all')
+    }
+  },
   mounted () {
     if (localStorage.language && localStorage.edition && localStorage.base_url) {
-      this.username = localStorage.username
+      this.language = localStorage.language
     } else {
       localStorage.language = 'id'
       localStorage.edition = 'id.indonesian'
@@ -16,41 +39,3 @@ export default {
   }
 }
 </script>
-
-<style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-  @apply min-h-screen flex justify-center items-center text-center mx-auto;
-}
-*/
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
-</style>
