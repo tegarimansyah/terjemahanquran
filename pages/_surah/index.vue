@@ -10,6 +10,7 @@
     <input v-model="enable_arabic" type="checkbox"> Show Arabic
     <hr class="my-3">
     <div :id="ayah.numberInSurah" v-for="ayah in surah.ayahs" :key="ayah.numberInSurah" class="mt-1 mb-3 p-1 pt-3 hover:bg-gray-300">
+      <span class="block">{{ ayah.numberInSurah }}</span>
       <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
       <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
     </div>
