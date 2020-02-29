@@ -11,8 +11,9 @@
     <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
       <nuxt-link :id="index+1" v-for="(surah, index) in surah_list" :key="index+1" :to="`/${index+1}`">
         <div class="mt-1 mb-3 p-1 pt-3 col-span-1 hover:bg-gray-300">
-          <span class="block font-semibold">{{ surah.id.surah_name }}</span>
+          <span class="block font-semibold">{{ index+1 }} - {{ surah.id.surah_name }}</span>
           <span class="block">{{ surah.id.surah_translation }}</span>
+          <span class="block">{{ surah.id.total_ayah }} ayahs</span>
         </div>
       </nuxt-link>
     </div>
