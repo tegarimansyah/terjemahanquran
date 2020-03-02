@@ -24,11 +24,13 @@
 
 <script>
 import surahList from '~/components/surah.js'
+import themeList from '~/components/theme.js'
 
 export default {
   data () {
     return {
-      surah_list: surahList('all')
+      surah_list: surahList('all'),
+      theme_list: themeList('all')
     }
   },
   mounted () {
