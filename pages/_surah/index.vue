@@ -9,17 +9,21 @@
     <input v-model="enable_translation" type="checkbox"> Show Translation
     <input v-model="enable_arabic" type="checkbox"> Show Arabic
     <hr class="my-3">
-    <div :id="ayah.numberInSurah" v-for="ayah in surah.ayahs" :key="ayah.numberInSurah" class="mt-1 mb-3 p-1 pt-3 hover:bg-gray-300">
-      <span class="block">{{ ayah.numberInSurah }}</span>
-      <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
-      <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
+    <div :id="ayah.numberInSurah" v-for="ayah in surah.ayahs" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 hover:bg-gray-300">
+      <div class="col-span-1 flex items-center">
+        <span class="block">{{ ayah.numberInSurah }}</span>
+      </div>
+      <div class="col-span-11">
+        <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
+        <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
+      </div>
     </div>
   </div>
 </template>
 
 <style>
 .container {
-    @apply p-10
+    @apply p-10 m-auto
 }
 .hide {
     display: none;
@@ -61,6 +65,10 @@ export default {
     } else {
       this.surah = JSON.parse(this.surah)
       this.surah_name = surahList(this.surah_number)
+      if (localStorage.enable_translation === undefined) {
+        localStorage.enable_translation = 'true'
+        localStorage.enable_arabic = 'false'
+      }
       this.enable_translation = localStorage.enable_translation === 'true'
       this.enable_arabic = localStorage.enable_arabic === 'true'
     }

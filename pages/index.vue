@@ -1,5 +1,5 @@
 <template>
-  <div class="p-10">
+  <div class="p-10 m-auto">
     <h1 class="text-2xl font-bold">
       Enjoy The Qur'an
     </h1>
