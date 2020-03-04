@@ -9,7 +9,7 @@
     <input v-model="enable_translation" type="checkbox"> Show Translation
     <input v-model="enable_arabic" type="checkbox"> Show Arabic
     <hr class="my-3">
-    <div :id="ayah.numberInSurah" v-for="ayah in surah.ayahs" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 hover:bg-gray-300">
+    <div :id="ayah.numberInSurah" v-for="ayah in surah.ayahs" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
       <div class="col-span-1 flex items-center">
         <span class="block">{{ ayah.numberInSurah }}</span>
       </div>
