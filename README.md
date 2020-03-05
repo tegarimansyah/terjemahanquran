@@ -18,10 +18,10 @@ Projek ini bertujuan untuk membantu muslimin dan muslimat untuk memudahkan memba
 
 ## To Do
 
-[x] Memilih untuk menampilkan arab atau artinya 
-[x] Routing untuk masing masing surat 
-[x] Menampilkan tema pada surat tersebut
-[ ] Offline Mode
-[ ] Dapat merekam bacaan surah dan memutarnya kembali
-[ ] Dapat memisahkan bacaan suara per ayat
-[ ] Share bacaan 
+- [x] Memilih untuk menampilkan arab atau artinya 
+- [x] Routing untuk masing masing surat 
+- [x] Menampilkan tema pada surat tersebut
+- [ ] Offline Mode
+- [ ] Dapat merekam bacaan surah dan memutarnya kembali
+- [ ] Dapat memisahkan bacaan suara per ayat
+- [ ] Share bacaan 
