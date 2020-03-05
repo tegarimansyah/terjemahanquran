@@ -36,7 +36,10 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    ['@nuxtjs/google-analytics', {
+      id: process.env.GA_ID || ''
+    }]
   ],
   /*
   ** Nuxt.js modules
@@ -63,15 +66,15 @@ export default {
     */
     extend (config, ctx) {
       // if (ctx.dev && ctx.isClient) {
-        config.module.rules.push({
-            enforce : 'pre',
-            test    : /\.(js|vue)$/,
-            loader  : 'eslint-loader',
-            exclude : /(node_modules)/,
-            options : {
-                fix : true
-            }
-        });
+      config.module.rules.push({
+        enforce : 'pre',
+        test    : /\.(js|vue)$/,
+        loader  : 'eslint-loader',
+        exclude : /(node_modules)/,
+        options : {
+            fix : true
+        }
+      })
       // }
     }
   },
