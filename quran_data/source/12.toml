@@ -1,21 +1,21 @@
 name = "Yusuf"
 number = 12
-[[theme]]
+[[topic]]
 from = 30
 to = 31
 text = "Yusuf dipenjara"
 
-[[theme]]
+[[topic]]
 from = 1
 to = 52
 text = "Kisah Nabi Yusuf A.S"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 101
 to = 101
 text = "Doa mohon diwafatkan sebagai muslim"

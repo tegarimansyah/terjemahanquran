@@ -1,26 +1,26 @@
 name = "Ar-Ruum"
 number = 30
-[[theme]]
+[[topic]]
 from = 1
 to = 20
 text = "Kebenaran pemberitaan Al-Qur'an tentang peristiwa yang akan terjadi"
 
-[[theme]]
+[[topic]]
 from = 21
 to = 21
 text = "Allah menciptakan pasangan bagi manusia & kasih sayang diantaranya"
 
-[[theme]]
+[[topic]]
 from = 22
 to = 36
 text = "Islam adalah agama Fitrah"
 
-[[theme]]
+[[topic]]
 from = 37
 to = 40
 text = "Allah mengatur pemberian rezki dan penggunaannya"
 
-[[theme]]
+[[topic]]
 from = 41
 to = 45
 text = "QS 30 Ar-Ruum: 46-60"

@@ -1,6 +1,6 @@
 name = "Al-Asr"
 number = 103
-[[theme]]
+[[topic]]
 from = 1
 to = 3
 text = "Waktu"

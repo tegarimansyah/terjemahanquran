@@ -1,31 +1,31 @@
 name = "An-Nuur"
 number = 24
-[[theme]]
+[[topic]]
 from = 1
 to = 20
 text = "Tuduhan yang bohong terhadap Aisyah R.A., Ummul Mu'minun"
 
-[[theme]]
+[[topic]]
 from = 21
 to = 25
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 26
 to = 26
 text = "Wanita baik untuk lelaki baik & sebaliknya"
 
-[[theme]]
+[[topic]]
 from = 30
 to = 31
 text = "Adat berpakaian bagi laki2 & perempuan"
 
-[[theme]]
+[[topic]]
 from = 35
 to = 38
 text = "Allah pemberi cahaya langit & bumi"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"

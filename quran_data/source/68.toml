@@ -1,6 +1,6 @@
 name = "Al-Qalam"
 number = 68
-[[theme]]
+[[topic]]
 from = 1
 to = 52
 text = "Kalam"

@@ -1,36 +1,36 @@
 name = "Al-Israa"
 number = 17
-[[theme]]
+[[topic]]
 from = 1
 to = 15
 text = "Isyarat kepada umat islam sebagai suatu umat yang akan menjadi besar"
 
-[[theme]]
+[[topic]]
 from = 23
 to = 24
 text = "Adab & doa kepada orangtua"
 
-[[theme]]
+[[topic]]
 from = 25
 to = 28
 text = "Beberapa tata krama pergaulan"
 
-[[theme]]
+[[topic]]
 from = 29
 to = 29
 text = "Jangan terlalu pelit & jangan terlalu pemurah"
 
-[[theme]]
+[[topic]]
 from = 30
 to = 32
 text = "Beberapa tata krama pergaulan"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 78
 to = 79
 text = "Perintah tahajjud & sholat 5 waktu"

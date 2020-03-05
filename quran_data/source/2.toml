@@ -1,286 +1,286 @@
 name = "Al-Baqarah"
 number = 2
-[[theme]]
+[[topic]]
 from = 1
 to = 7
 text = "Ciri-ciri golongan mukmin & non-muslim"
 
-[[theme]]
+[[topic]]
 from = 8
 to = 20
 text = "Ciri-ciri orang munafik"
 
-[[theme]]
+[[topic]]
 from = 21
 to = 24
 text = "Tantangan kepada kaum musyrikin mengenai Qur'an dan perintah menyembah Allah"
 
-[[theme]]
+[[topic]]
 from = 25
 to = 25
 text = "Kabar gembira untuk orang beriman"
 
-[[theme]]
+[[topic]]
 from = 26
 to = 27
 text = "Perumpamaan-perumpamaan dalam Al-Qur'an dan hikmah-hikmahnya"
 
-[[theme]]
+[[topic]]
 from = 28
 to = 29
 text = "Tanda-tanda kekuasaan Allah"
 
-[[theme]]
+[[topic]]
 from = 30
 to = 32
 text = "Manusia direncanakan Allah untuk menjadi khalifah"
 
-[[theme]]
+[[topic]]
 from = 33
 to = 42
 text = "Kisah Nabi Adam"
 
-[[theme]]
+[[topic]]
 from = 43
 to = 44
 text = "Perintah menunaikan sholat dan zakat"
 
-[[theme]]
+[[topic]]
 from = 45
 to = 46
 text = "Sabar & sholat sebagai penolong"
 
-[[theme]]
+[[topic]]
 from = 47
 to = 48
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 49
 to = 61
 text = "Perincian nikmat Tuhan kepada Bani Israil"
 
-[[theme]]
+[[topic]]
 from = 62
 to = 66
 text = "Kisah Nabi Nuh A.S"
 
-[[theme]]
+[[topic]]
 from = 67
 to = 74
 text = "Kisah penyembelihan sapi betina"
 
-[[theme]]
+[[topic]]
 from = 75
 to = 82
 text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
 
-[[theme]]
+[[topic]]
 from = 75
 to = 82
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 83
 to = 91
 text = "Sikap-sikap orang Yahudi terhadap para Rasul dan kitab-kitab yang diturunkan Allah"
 
-[[theme]]
+[[topic]]
 from = 92
 to = 101
 text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi, merupakan lambang bagi kecendrungan mer"
 
-[[theme]]
+[[topic]]
 from = 102
 to = 115
 text = "Menasakhkan sesuatu ayat adalah urusan Allah"
 
-[[theme]]
+[[topic]]
 from = 116
 to = 123
 text = "Larangan mengikuti Yahudi dan Nasrani"
 
-[[theme]]
+[[topic]]
 from = 124
 to = 127
 text = "Kisah Nabi Ibrahim & Kota Mekkah"
 
-[[theme]]
+[[topic]]
 from = 128
 to = 129
 text = "Do'a menjadi seorang muslim"
 
-[[theme]]
+[[topic]]
 from = 130
 to = 149
 text = "Sekitar pemindahan kiblat"
 
-[[theme]]
+[[topic]]
 from = 150
 to = 152
 text = "Perintah berserah & mengingat Allah dimana saja"
 
-[[theme]]
+[[topic]]
 from = 153
 to = 157
 text = "Allah beserta orang sabar"
 
-[[theme]]
+[[topic]]
 from = 158
 to = 158
 text = "Sa'i & Manasik Haji"
 
-[[theme]]
+[[topic]]
 from = 159
 to = 171
 text = "Laknat terhadap orang-orang yang menyembunyikan ayat-ayat Allah dan terhadap orang-orang kafir"
 
-[[theme]]
+[[topic]]
 from = 172
 to = 173
 text = "Perintah memakan makanan yang halal"
 
-[[theme]]
+[[topic]]
 from = 174
 to = 176
 text = "Ayat-Ayat Allah"
 
-[[theme]]
+[[topic]]
 from = 177
 to = 177
 text = "Kebajikan adalah urusan akhirat, bukan duniawi"
 
-[[theme]]
+[[topic]]
 from = 178
 to = 179
 text = "Qisas dan hikmahnya"
 
-[[theme]]
+[[topic]]
 from = 180
 to = 182
 text = "Wasiat & larangan mengubahnya"
 
-[[theme]]
+[[topic]]
 from = 186
 to = 186
 text = "Allah Maha Dekat"
 
-[[theme]]
+[[topic]]
 from = 187
 to = 194
 text = "Berjihad dengan Jiwa & Harta"
 
-[[theme]]
+[[topic]]
 from = 187
 to = 194
 text = "Berjihad dengan Jiwa & Harta"
 
-[[theme]]
+[[topic]]
 from = 195
 to = 195
 text = "Perintah untuk berinfaq di jalan Allah"
 
-[[theme]]
+[[topic]]
 from = 196
 to = 199
 text = "Haji"
 
-[[theme]]
+[[topic]]
 from = 200
 to = 201
 text = "Doa kebaikan dunia & akhirat"
 
-[[theme]]
+[[topic]]
 from = 202
 to = 214
 text = "Perbuatan orang-orang munafik"
 
-[[theme]]
+[[topic]]
 from = 215
 to = 215
 text = "Infak & sedekah"
 
-[[theme]]
+[[topic]]
 from = 216
 to = 216
 text = "Kebaikan di balik yang tidak kita sukai"
 
-[[theme]]
+[[topic]]
 from = 217
 to = 220
 text = "Hukum perang dalam Islam"
 
-[[theme]]
+[[topic]]
 from = 221
 to = 232
 text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
 
-[[theme]]
+[[topic]]
 from = 233
 to = 233
 text = "Anjuran menyusui anak selama 2 tahun"
 
-[[theme]]
+[[topic]]
 from = 234
 to = 237
 text = "Hukum Perceraian,"
 
-[[theme]]
+[[topic]]
 from = 238
 to = 242
 text = "Kewajiban mengerjakan salat walaupun dalam keadaan takut"
 
-[[theme]]
+[[topic]]
 from = 243
 to = 251
 text = "Jihad di Jalan Allah"
 
-[[theme]]
+[[topic]]
 from = 252
 to = 252
 text = "Kebenaran Muhammad Adalah Rasulullah"
 
-[[theme]]
+[[topic]]
 from = 253
 to = 254
 text = "Keistimewaan dan perbedaan derajat para Rasul dan anjuran berjihad dengan harta"
 
-[[theme]]
+[[topic]]
 from = 256
 to = 257
 text = "Tak ada paksaan dalam mempelajari agama Islam"
 
-[[theme]]
+[[topic]]
 from = 258
 to = 260
 text = "Kisah Nabi Ibrahim & Mukjizatnya"
 
-[[theme]]
+[[topic]]
 from = 261
 to = 263
 text = "Menafkahkan harta di jalan Allah"
 
-[[theme]]
+[[topic]]
 from = 264
 to = 270
 text = "Sedekah"
 
-[[theme]]
+[[topic]]
 from = 271
 to = 271
 text = "Mencontohkan sedekah itu baik, menyembunyikannya lebih baik"
 
-[[theme]]
+[[topic]]
 from = 272
 to = 281
 text = "Hukum Riba"
 
-[[theme]]
+[[topic]]
 from = 282
 to = 283
 text = "Kesaksian dalam mu'amalah"
 
-[[theme]]
+[[topic]]
 from = 284
 to = 286
 text = "Doa orang mukmin"

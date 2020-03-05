@@ -11,7 +11,7 @@ const stringfile = filenames.reduce((acc, filename) => [
 // write js file
 const filedata = `const data = [${stringfile}]
 
-const themeList = (num) => {
+const topicList = (num) => {
     if (num === 'all') {
       return data
     } else {
@@ -19,9 +19,9 @@ const themeList = (num) => {
     }
   }
   
-export default themeList
+export default topicList
 `
-fs.writeFile('components/theme.js', filedata, function (err) {
+fs.writeFile('components/topic.js', filedata, function (err) {
   if (err) throw err
   console.log('The object file file was saved!')
 })

@@ -8,12 +8,12 @@
     </h1>
     <input v-model="enable_translation" type="checkbox"> Show Translation
     <input v-model="enable_arabic" type="checkbox"> Show Arabic
-    <input v-model="enable_theme" type="checkbox"> Show Theme
+    <input v-model="enable_topic" type="checkbox"> Show Topic
     <em class="text-sm block">If you find any mistake, please <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new" class="text-blue-600">leave a comment</a> or email me: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
     <hr class="my-3">
-    <div v-for="currentTheme in theme" :key="`${currentTheme.from}-${currentTheme.to}`">
-      <span :class="{ hide: !enable_theme }" class="block font-bold mt-10 theme">{{ currentTheme.text }}</span>
-      <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTheme.from, currentTheme.to)" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
+    <div v-for="currentTopic in topic" :key="`${currentTopic.from}-${currentTopic.to}`">
+      <span :class="{ hide: !enable_topic }" class="block font-bold mt-10 topic">{{ currentTopic.text }}</span>
+      <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTopic.from, currentTopic.to)" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
         <div class="col-span-1 flex items-center">
           <span class="block">{{ ayah.numberInSurah }}</span>
         </div>
@@ -51,7 +51,7 @@ export default {
       surah: null,
       enable_translation: true,
       enable_arabic: true,
-      enable_theme: true
+      enable_topic: true
     }
   },
   watch: {
@@ -61,8 +61,8 @@ export default {
     enable_arabic (state) {
       localStorage.enable_arabic = state
     },
-    enable_theme (state) {
-      localStorage.enable_theme = state
+    enable_topic (state) {
+      localStorage.enable_topic = state
     }
   },
   created () {
@@ -73,14 +73,14 @@ export default {
       this.$router.push(`/${this.surah_number}/load_data`)
     } else {
       this.surah = JSON.parse(this.surah)
-      this.theme = this.surah.theme
-      if (!this.theme) {
+      this.topic = this.surah.topic
+      if (!this.topic) {
         this.$router.push(`/${this.surah_number}/load_data`)
       }
       this.surah_name = surahList(this.surah_number)
       if (localStorage.enable_translation === undefined) {
         localStorage.enable_translation = 'true'
-        localStorage.enable_theme = 'true'
+        localStorage.enable_topic = 'true'
         localStorage.enable_arabic = 'false'
       }
       this.enable_translation = localStorage.enable_translation === 'true'

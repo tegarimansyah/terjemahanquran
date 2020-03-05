@@ -1,16 +1,16 @@
 name = "Shood"
 number = 38
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 29
 to = 29
 text = "Dorongan mempelajari Al-Qur'an"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"

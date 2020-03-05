@@ -1,21 +1,21 @@
 name = "Qaaf"
 number = 50
-[[theme]]
+[[topic]]
 from = 1
 to = 15
 text = "Hari Berbangkit"
 
-[[theme]]
+[[topic]]
 from = 16
 to = 16
 text = "Allah itu dekat"
 
-[[theme]]
+[[topic]]
 from = 17
 to = 26
 text = "Kejadian-kejadian dalam alam membuktikan kebenaran adanya hari berbangkit"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"

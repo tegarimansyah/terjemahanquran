@@ -1,6 +1,6 @@
 name = "Al-Adiyaat"
 number = 100
-[[theme]]
+[[topic]]
 from = 1
 to = 11
 text = "Kuda perang yang berlari"

@@ -1,21 +1,21 @@
 name = "Al-Fath"
 number = 48
-[[theme]]
+[[topic]]
 from = 1
 to = 7
 text = "Kabar gembira kepada Nabi Muhammad S.A.W dan kaum muslimin"
 
-[[theme]]
+[[topic]]
 from = 8
 to = 17
 text = "Kabar gembira kepada Nabi Muhammad S.A.W dan kaum muslimin"
 
-[[theme]]
+[[topic]]
 from = 18
 to = 26
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 27
 to = 29
 text = "Kebenaran mimpi Nabi Muhammad memasuki Mekah terbukti"

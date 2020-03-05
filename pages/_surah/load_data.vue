@@ -2,19 +2,19 @@
   <div class="p-10">
     <h1>Loading content</h1>
     <ul>
-      <li v-for="(theme, index) in theme_list.theme" :key="index+1">
-        {{ theme.from }} - {{ theme.to }}: {{ theme.text }}
+      <li v-for="(topic, index) in topic_list.topic" :key="index+1">
+        {{ topic.from }} - {{ topic.to }}: {{ topic.text }}
       </li>
     </ul>
   </div>
 </template>
 <script>
-import themeList from '~/components/theme.js'
+import topicList from '~/components/topic.js'
 
 export default {
   data () {
     return {
-      theme_list: themeList(this.$route.params.surah)
+      topic_list: topicList(this.$route.params.surah)
     }
   },
   created () {
@@ -26,7 +26,7 @@ export default {
         for (const [i, ayah] of arabic.ayahs.entries()) {
           translation.ayahs[i].arabic = ayah.text
         }
-        translation.theme = this.theme_list.theme
+        translation.topic = this.topic_list.topic
         localStorage[`surah_${this.$route.params.surah}`] = JSON.stringify(translation)
         this.$router.push(`/${this.surah_number}`)
       })

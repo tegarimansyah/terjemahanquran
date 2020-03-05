@@ -1,16 +1,16 @@
 name = "Fussilat"
 number = 41
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 30
 to = 35
 text = "Sifat baik dianugerahkan kepada orang yang sabar"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"

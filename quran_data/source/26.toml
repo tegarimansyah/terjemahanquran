@@ -1,26 +1,26 @@
 name = "Asy-Syu'ara"
 number = 26
-[[theme]]
+[[topic]]
 from = 1
 to = 9
 text = "Muhammad S.A.W tidak usah bersedih hati terhadap keingkaran kaum musyrikin"
 
-[[theme]]
+[[topic]]
 from = 10
 to = 40
 text = "Soal jawab antara Musa A.S. dan Fir'aun"
 
-[[theme]]
+[[topic]]
 from = 60
 to = 68
 text = "Kisah Nabi Musa AS Membelah Laut Merah & Tenggelamnya fir'aun"
 
-[[theme]]
+[[topic]]
 from = 78
 to = 83
 text = "Kisah Ibrahim A.S."
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "QS 27 An-Naml: 1-18"

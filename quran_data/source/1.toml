@@ -1,14 +1,14 @@
 name = "Al-Fatihah"
 number = 1
-[[theme]]
+[[topic]]
 from = 1
 to = 4
 text = "Pujian bagi Allah"
-[[theme]]
+[[topic]]
 from = 5
 to = 5
 text = "Pernyataan penghambaan"
-[[theme]]
+[[topic]]
 from = 6
 to = 7
 text = "Permintaan untuk mendapatkan jalan yang lurus"

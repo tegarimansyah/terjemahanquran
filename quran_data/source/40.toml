@@ -1,21 +1,21 @@
 name = "Gafir"
 number = 40
-[[theme]]
+[[topic]]
 from = 1
 to = 20
 text = "Orang-orang mu'min janganlah terpedaya oleh kemakmuran orang-orang musyrikin"
 
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 60
 to = 60
 text = "Tentang doa"
 
-[[theme]]
+[[topic]]
 from = 61
 to = 65
 text = "Allah akan memperkenankan do'a hamba-Nya"

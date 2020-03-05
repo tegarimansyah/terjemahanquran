@@ -1,11 +1,11 @@
 name = "Saba"
 number = 34
-[[theme]]
+[[topic]]
 from = 1
 to = 14
 text = "Amat terpujilah Allah dan amat sempurnalah ilmunya"
 
-[[theme]]
+[[topic]]
 from = 24
 to = 24
 text = "Rejeki manusia dijamin Allah"

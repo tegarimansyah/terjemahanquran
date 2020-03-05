@@ -1,31 +1,31 @@
 name = "Al-Ahzab"
 number = 33
-[[theme]]
+[[topic]]
 from = 1
 to = 10
 text = "Bantuan Allah kepada kaum muslimin dalam peperangan Ahzab"
 
-[[theme]]
+[[topic]]
 from = 11
 to = 21
 text = "Bantuan Allah kepada kaum muslimin dalam peperangan Ahzab"
 
-[[theme]]
+[[topic]]
 from = 22
 to = 44
 text = "Sifat-sifat orang mu'min dan kewajiban mereka terhadap perintah rasul"
 
-[[theme]]
+[[topic]]
 from = 45
 to = 58
 text = "Adab dan sopan santun dalam rumah tangga Nabi S.A.W."
 
-[[theme]]
+[[topic]]
 from = 59
 to = 59
 text = "Menutup aurat / Hijab"
 
-[[theme]]
+[[topic]]
 from = 60
 to = 63
 text = "Ancaman-ancaman terhadap orang-orang munafik dan orang-orang yang membuat kerusuhan di Madinah"

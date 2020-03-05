@@ -7,10 +7,10 @@ Initial data scrapped from [https://quranindonesiaproject.com/](https://quranind
 ## File Structure
 * name
 * number
-* theme (A surah might have several themes)
+* topic (A surah might have several topics)
     * from (surah num)
     * to (surah num)
-    * text (of theme)
+    * text (of topic)
 
 ## Missing Chapter
 

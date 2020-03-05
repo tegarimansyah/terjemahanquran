@@ -1,21 +1,21 @@
 name = "Huud"
 number = 11
-[[theme]]
+[[topic]]
 from = 0
 to = 0
 text = "kosong"
 
-[[theme]]
+[[topic]]
 from = 6
 to = 6
 text = "Rezeki semua makhluk sudah dijamin Allah"
 
-[[theme]]
+[[topic]]
 from = 47
 to = 49
 text = "Keselamatan seseorang tergantung amalnya"
 
-[[theme]]
+[[topic]]
 from = 114
 to = 115
 text = "Perbuatan baik menghapus kesalahan"
