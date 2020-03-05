@@ -6,6 +6,7 @@
     <p>Read Al Qur'an or translation. Understanding what you read.</p>
     <br>
     <em class="text-sm block">Alpha version, need more collaborator for this <a href="https://github.com/tegarimansyah/quran.urusan.id" class="text-blue-600">open source project</a>. <strong>This site still a Proof of Concept.</strong></em>
+    <em class="text-sm block">Credit: Arabic and translation from <a href="alquran.cloud" class="text-blue-600">alquran.cloud</a>, theme from <a href="https://quranindonesiaproject.com/" class="text-blue-500">Quran Indonesia Project</a>. Baarakallah for them.</em>
     <em class="text-sm block">If you find any mistake, please <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new" class="text-blue-600">leave a comment</a> or email me: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
     <hr class="my-3">
     <p><strong>Things to add</strong>: Bookmark, full offline capability, jump to section, add your own recitation.</p>

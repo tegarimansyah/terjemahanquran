@@ -9,6 +9,7 @@
     <input v-model="enable_translation" type="checkbox"> Show Translation
     <input v-model="enable_arabic" type="checkbox"> Show Arabic
     <input v-model="enable_theme" type="checkbox"> Show Theme
+    <em class="text-sm block">If you find any mistake, please <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new" class="text-blue-600">leave a comment</a> or email me: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
     <hr class="my-3">
     <div v-for="currentTheme in theme" :key="`${currentTheme.from}-${currentTheme.to}`">
       <span :class="{ hide: !enable_theme }" class="block font-bold mt-10 theme">{{ currentTheme.text }}</span>
