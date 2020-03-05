@@ -90,5 +90,5 @@ sw.*
 *.swp
 
 # Archieve
-archieve/
+archive/*
 quran_data/audio/*
