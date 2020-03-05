@@ -8,14 +8,18 @@
     </h1>
     <input v-model="enable_translation" type="checkbox"> Show Translation
     <input v-model="enable_arabic" type="checkbox"> Show Arabic
+    <input v-model="enable_theme" type="checkbox"> Show Theme
     <hr class="my-3">
-    <div :id="ayah.numberInSurah" v-for="ayah in surah.ayahs" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
-      <div class="col-span-1 flex items-center">
-        <span class="block">{{ ayah.numberInSurah }}</span>
-      </div>
-      <div class="col-span-11">
-        <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
-        <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
+    <div v-for="currentTheme in theme" :key="`${currentTheme.from}-${currentTheme.to}`">
+      <span :class="{ hide: !enable_theme }" class="block font-bold mt-10 theme">{{ currentTheme.text }}</span>
+      <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTheme.from, currentTheme.to)" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
+        <div class="col-span-1 flex items-center">
+          <span class="block">{{ ayah.numberInSurah }}</span>
+        </div>
+        <div class="col-span-11">
+          <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
+          <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
+        </div>
       </div>
     </div>
   </div>
@@ -45,7 +49,8 @@ export default {
     return {
       surah: null,
       enable_translation: true,
-      enable_arabic: true
+      enable_arabic: true,
+      enable_theme: true
     }
   },
   watch: {
@@ -54,6 +59,9 @@ export default {
     },
     enable_arabic (state) {
       localStorage.enable_arabic = state
+    },
+    enable_theme (state) {
+      localStorage.enable_theme = state
     }
   },
   created () {
@@ -64,13 +72,23 @@ export default {
       this.$router.push(`/${this.surah_number}/load_data`)
     } else {
       this.surah = JSON.parse(this.surah)
+      this.theme = this.surah.theme
+      if (!this.theme) {
+        this.$router.push(`/${this.surah_number}/load_data`)
+      }
       this.surah_name = surahList(this.surah_number)
       if (localStorage.enable_translation === undefined) {
         localStorage.enable_translation = 'true'
+        localStorage.enable_theme = 'true'
         localStorage.enable_arabic = 'false'
       }
       this.enable_translation = localStorage.enable_translation === 'true'
       this.enable_arabic = localStorage.enable_arabic === 'true'
+    }
+  },
+  methods: {
+    selectedAyah (start, end) {
+      return this.surah.ayahs.slice(start - 1, end)
     }
   }
 }

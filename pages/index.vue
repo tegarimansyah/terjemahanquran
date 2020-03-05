@@ -8,7 +8,7 @@
     <em class="text-sm block">Alpha version, need more collaborator for this <a href="https://github.com/tegarimansyah/quran.urusan.id" class="text-blue-600">open source project</a>. <strong>This site still a Proof of Concept.</strong></em>
     <em class="text-sm block">If you find any mistake, please <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new" class="text-blue-600">leave a comment</a> or email me: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
     <hr class="my-3">
-    <p><strong>Things to add</strong>: Bookmark, separate by theme, full offline capability, jump to section, add our recitation.</p>
+    <p><strong>Things to add</strong>: Bookmark, full offline capability, jump to section, add your own recitation.</p>
     <hr class="my-3">
     <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-center">
       <nuxt-link :id="index+1" v-for="(surah, index) in surah_list" :key="index+1" :to="`/${index+1}`">

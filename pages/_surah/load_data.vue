@@ -26,6 +26,7 @@ export default {
         for (const [i, ayah] of arabic.ayahs.entries()) {
           translation.ayahs[i].arabic = ayah.text
         }
+        translation.theme = this.theme_list.theme
         localStorage[`surah_${this.$route.params.surah}`] = JSON.stringify(translation)
         this.$router.push(`/${this.surah_number}`)
       })
