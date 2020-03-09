@@ -2,6 +2,15 @@ name = "At-Tariq"
 number = 86
 [[topic]]
 from = 1
-to = 17
-text = "Tiap-tiap manusia itu ada yang menjaganya, Al-Qur'an pemisah antara yang benar dan yang salah"
+to = 4
+text = "Setiap Orang Ada yang Menjaganya"
 
+[[topic]]
+from = 5
+to = 10
+text = "Allah Kuasa Membangkitkan Manusia"
+
+[[topic]]
+from = 11
+to = 17
+text = "Al-Quran Pemisah Antara yang Haq dan yang Batil"
