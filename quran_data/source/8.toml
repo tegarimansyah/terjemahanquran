@@ -1,27 +1,27 @@
 name = "Al-Anfaal"
 number = 8
-[[topic]]
+[[topics]]
 from = 2
 to = 4
-text = "Sifat-sifat orang mukmin"
+topic = "Sifat-sifat orang mukmin"
 
-[[topic]]
+[[topics]]
 from = 5
 to = 19
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 5
 to = 19
-text = "Keengganan sebahagian sahabat untuk pergi ke peperangan badar dan pertolongan Allah kepada kaum musl"
+topic = "Keengganan sebahagian sahabat untuk pergi ke peperangan badar dan pertolongan Allah kepada kaum musl"
 
-[[topic]]
+[[topics]]
 from = 20
 to = 30
-text = "Larangan menyalahi perintah-perintah Allah"
+topic = "Larangan menyalahi perintah-perintah Allah"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

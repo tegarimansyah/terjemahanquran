@@ -1,7 +1,7 @@
 name = "Al-Falaq"
 number = 113
-[[topic]]
+[[topics]]
 from = 1
 to = 5
-text = "Cuaca subuh & doa mohon perlindungan"
+topic = "Cuaca subuh & doa mohon perlindungan"
 

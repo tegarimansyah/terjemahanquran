@@ -2,8 +2,8 @@
   <div class="p-10">
     <h1>Loading content</h1>
     <ul>
-      <li v-for="(topic, index) in topic_list.topic" :key="index+1">
-        {{ topic.from }} - {{ topic.to }}: {{ topic.text }}
+      <li v-for="(topic, index) in topic_list.topics" :key="index+1">
+        {{ topic.from }} - {{ topic.to }}: {{ topic.topic }}
       </li>
     </ul>
   </div>
@@ -26,7 +26,7 @@ export default {
         for (const [i, ayah] of arabic.ayahs.entries()) {
           translation.ayahs[i].arabic = ayah.text
         }
-        translation.topic = this.topic_list.topic
+        translation.topics = this.topic_list.topics
         localStorage[`surah_${this.$route.params.surah}`] = JSON.stringify(translation)
         this.$router.push(`/${this.surah_number}`)
       })

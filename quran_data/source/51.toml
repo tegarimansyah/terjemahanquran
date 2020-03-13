@@ -1,12 +1,12 @@
 name = "Adz-Dzaariyaat"
 number = 51
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 55
 to = 60
-text = "Tujuan penciptaan manusia"
+topic = "Tujuan penciptaan manusia"
 

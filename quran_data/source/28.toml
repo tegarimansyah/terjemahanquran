@@ -1,22 +1,22 @@
 name = "Al-Qasas"
 number = 28
-[[topic]]
+[[topics]]
 from = 26
 to = 26
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 77
 to = 77
-text = "Mengejar akhirat tidak boleh meninggalkan dunia"
+topic = "Mengejar akhirat tidak boleh meninggalkan dunia"
 
-[[topic]]
+[[topics]]
 from = 88
 to = 88
-text = "Segalanya akan binasa kecuali Allah"
+topic = "Segalanya akan binasa kecuali Allah"
 

@@ -1,12 +1,12 @@
 name = "An-Najm"
 number = 53
-[[topic]]
+[[topics]]
 from = 1
 to = 62
-text = "Bintang"
+topic = "Bintang"
 
-[[topic]]
+[[topics]]
 from = 1
 to = 62
-text = "Bintang"
+topic = "Bintang"
 

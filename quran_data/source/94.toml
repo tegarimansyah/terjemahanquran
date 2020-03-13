@@ -1,7 +1,7 @@
 name = "Al-Insyirah"
 number = 94
-[[topic]]
+[[topics]]
 from = 1
 to = 8
-text = "Kelapangan"
+topic = "Kelapangan"
 

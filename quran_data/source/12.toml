@@ -1,22 +1,22 @@
 name = "Yusuf"
 number = 12
-[[topic]]
+[[topics]]
 from = 30
 to = 31
-text = "Yusuf dipenjara"
+topic = "Yusuf dipenjara"
 
-[[topic]]
+[[topics]]
 from = 1
 to = 52
-text = "Kisah Nabi Yusuf A.S"
+topic = "Kisah Nabi Yusuf A.S"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 101
 to = 101
-text = "Doa mohon diwafatkan sebagai muslim"
+topic = "Doa mohon diwafatkan sebagai muslim"
 

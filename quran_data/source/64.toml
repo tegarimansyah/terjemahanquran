@@ -1,17 +1,17 @@
 name = "At-Taghabun"
 number = 64
-[[topic]]
+[[topics]]
 from = 1
 to = 10
-text = "Kesalahan-kesalahan manusia akan dinampakkan Allah pada hari kiamat"
+topic = "Kesalahan-kesalahan manusia akan dinampakkan Allah pada hari kiamat"
 
-[[topic]]
+[[topics]]
 from = 11
 to = 13
-text = "Kesalahan-kesalahan manusia akan dinampakkan pada hari kiamat"
+topic = "Kesalahan-kesalahan manusia akan dinampakkan pada hari kiamat"
 
-[[topic]]
+[[topics]]
 from = 14
 to = 18
-text = "QS 65 At-Talaq: 1-12"
+topic = "QS 65 At-Talaq: 1-12"
 

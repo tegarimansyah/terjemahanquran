@@ -1,22 +1,22 @@
 name = "Yunus"
 number = 10
-[[topic]]
+[[topics]]
 from = 1
 to = 10
-text = "Tanda-tanda kebesaran Allah dalam alam semesta"
+topic = "Tanda-tanda kebesaran Allah dalam alam semesta"
 
-[[topic]]
+[[topics]]
 from = 25
 to = 30
-text = "Ajakan masuk surga"
+topic = "Ajakan masuk surga"
 
-[[topic]]
+[[topics]]
 from = 40
 to = 56
-text = "Bukti-bukti kekuasaan Allah yang membatalkan kepercayaan orang"
+topic = "Bukti-bukti kekuasaan Allah yang membatalkan kepercayaan orang"
 
-[[topic]]
+[[topics]]
 from = 57
 to = 57
-text = "Al-Qur'an sebagai penyembuh & petunjuk"
+topic = "Al-Qur'an sebagai penyembuh & petunjuk"
 

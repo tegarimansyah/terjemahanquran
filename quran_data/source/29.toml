@@ -1,12 +1,12 @@
 name = "Al-Ankabuut"
 number = 29
-[[topic]]
+[[topics]]
 from = 1
 to = 7
-text = "Orang yang beriman pasti akan diuji"
+topic = "Orang yang beriman pasti akan diuji"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

@@ -1,7 +1,7 @@
 name = "Al-Gashiya"
 number = 88
-[[topic]]
+[[topics]]
 from = 1
 to = 26
-text = "Keadaan penghuni surga dan penghuni neraka dan anjuran memperhatikan alam semesta"
+topic = "Keadaan penghuni surga dan penghuni neraka dan anjuran memperhatikan alam semesta"
 

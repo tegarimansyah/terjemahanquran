@@ -1,42 +1,42 @@
 name = "Al-Mu'minuun"
 number = 23
-[[topic]]
+[[topics]]
 from = 1
 to = 11
-text = "Ciri-ciri orang mukmin"
+topic = "Ciri-ciri orang mukmin"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 17
 to = 22
-text = "Langit dan segala sesuatu yang ada di bumi, diciptakan oleh Allah untuk kelanjutan kehidupan manusia"
+topic = "Langit dan segala sesuatu yang ada di bumi, diciptakan oleh Allah untuk kelanjutan kehidupan manusia"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 57
 to = 61
-text = "Sifat-sifat seorang muslim yang mukhlis"
+topic = "Sifat-sifat seorang muslim yang mukhlis"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 95
 to = 114
-text = "Peristiwa-peristiwa pada hari Kiamat dan kedahsyatannya"
+topic = "Peristiwa-peristiwa pada hari Kiamat dan kedahsyatannya"
 
-[[topic]]
+[[topics]]
 from = 115
 to = 118
-text = "Penciptaan manusia tidak sia-sia"
+topic = "Penciptaan manusia tidak sia-sia"
 

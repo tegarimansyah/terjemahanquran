@@ -1,27 +1,27 @@
 name = "Asy-Syu'ara"
 number = 26
-[[topic]]
+[[topics]]
 from = 1
 to = 9
-text = "Muhammad S.A.W tidak usah bersedih hati terhadap keingkaran kaum musyrikin"
+topic = "Muhammad S.A.W tidak usah bersedih hati terhadap keingkaran kaum musyrikin"
 
-[[topic]]
+[[topics]]
 from = 10
 to = 40
-text = "Soal jawab antara Musa A.S. dan Fir'aun"
+topic = "Soal jawab antara Musa A.S. dan Fir'aun"
 
-[[topic]]
+[[topics]]
 from = 60
 to = 68
-text = "Kisah Nabi Musa AS Membelah Laut Merah & Tenggelamnya fir'aun"
+topic = "Kisah Nabi Musa AS Membelah Laut Merah & Tenggelamnya fir'aun"
 
-[[topic]]
+[[topics]]
 from = 78
 to = 83
-text = "Kisah Ibrahim A.S."
+topic = "Kisah Ibrahim A.S."
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "QS 27 An-Naml: 1-18"
+topic = "QS 27 An-Naml: 1-18"
 

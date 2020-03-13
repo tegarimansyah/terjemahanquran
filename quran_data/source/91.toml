@@ -1,7 +1,7 @@
 name = "Asy-Syams"
 number = 91
-[[topic]]
+[[topics]]
 from = 1
 to = 15
-text = "Manusia diberi potensi baik dan buruk"
+topic = "Manusia diberi potensi baik dan buruk"
 

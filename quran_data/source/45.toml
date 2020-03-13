@@ -1,7 +1,7 @@
 name = "Al-Jatsiyah"
 number = 45
-[[topic]]
+[[topics]]
 from = 1
 to = 37
-text = "Yang berlutut"
+topic = "Yang berlutut"
 

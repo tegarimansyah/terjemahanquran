@@ -1,12 +1,12 @@
 name = "Al-Mumtahanah"
 number = 60
-[[topic]]
+[[topics]]
 from = 1
 to = 13
-text = "Perempuan yang diuji"
+topic = "Perempuan yang diuji"
 
-[[topic]]
+[[topics]]
 from = 1
 to = 13
-text = "Perempuan yang diuji"
+topic = "Perempuan yang diuji"
 

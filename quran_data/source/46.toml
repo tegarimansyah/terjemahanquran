@@ -1,17 +1,17 @@
 name = "Al-Ahqaaf"
 number = 46
-[[topic]]
+[[topics]]
 from = 1
 to = 14
-text = "Kebenaran tauhid dan kebatilan syirik"
+topic = "Kebenaran tauhid dan kebatilan syirik"
 
-[[topic]]
+[[topics]]
 from = 15
 to = 15
-text = "Doa mohon dapat bersyukur"
+topic = "Doa mohon dapat bersyukur"
 
-[[topic]]
+[[topics]]
 from = 16
 to = 35
-text = "Kebenaran tauhid dan kebatilan syirik"
+topic = "Kebenaran tauhid dan kebatilan syirik"
 

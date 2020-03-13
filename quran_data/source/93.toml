@@ -1,7 +1,7 @@
 name = "Adh-Dhuhaa"
 number = 93
-[[topic]]
+[[topics]]
 from = 1
 to = 11
-text = "Waktu dhuha (saat matahari naik)"
+topic = "Waktu dhuha (saat matahari naik)"
 

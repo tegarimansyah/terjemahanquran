@@ -1,7 +1,7 @@
 name = "Al-Buruj"
 number = 85
-[[topic]]
+[[topics]]
 from = 1
 to = 22
-text = "Orang-orang yang menentang Muhammad SAW akan mengalami kehancuran"
+topic = "Orang-orang yang menentang Muhammad SAW akan mengalami kehancuran"
 

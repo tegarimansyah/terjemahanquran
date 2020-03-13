@@ -1,42 +1,42 @@
 name = "Al-An'am"
 number = 6
-[[topic]]
+[[topics]]
 from = 1
 to = 20
-text = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad S.A.W."
+topic = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad S.A.W."
 
-[[topic]]
+[[topics]]
 from = 32
 to = 32
-text = "Perbedaan dunia & akhirat"
+topic = "Perbedaan dunia & akhirat"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 53
 to = 58
-text = "Tuntunan-tuntunan dalam menghadapi masyarakat"
+topic = "Tuntunan-tuntunan dalam menghadapi masyarakat"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 106
 to = 108
-text = "Saling menghormati dalam beragama"
+topic = "Saling menghormati dalam beragama"
 
-[[topic]]
+[[topics]]
 from = 141
 to = 143
-text = "Besarnya Karunia Allah kepada Manusia"
+topic = "Besarnya Karunia Allah kepada Manusia"
 
-[[topic]]
+[[topics]]
 from = 159
 to = 161
-text = "Peraturan-peraturan yang dibuat-buat oleh kaum musyrikin dan pimpinan Allah terhadap kaum muslimin"
+topic = "Peraturan-peraturan yang dibuat-buat oleh kaum musyrikin dan pimpinan Allah terhadap kaum muslimin"
 

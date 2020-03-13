@@ -1,42 +1,42 @@
 name = "Ar-Ra'd"
 number = 13
-[[topic]]
+[[topics]]
 from = 1
 to = 10
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 11
 to = 11
-text = "Kebangkitan dan keruntuhan suatu bangsa tergantung pada sikap dan tindakan mereka sendiri"
+topic = "Kebangkitan dan keruntuhan suatu bangsa tergantung pada sikap dan tindakan mereka sendiri"
 
-[[topic]]
+[[topics]]
 from = 12
 to = 17
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 18
 to = 24
-text = "Mengadakan hubungan silaturahmi merupakan salah satu sifat mulia"
+topic = "Mengadakan hubungan silaturahmi merupakan salah satu sifat mulia"
 
-[[topic]]
+[[topics]]
 from = 22
 to = 24
-text = "Keluarga yang saleh dapat berjumpa lagi di surga"
+topic = "Keluarga yang saleh dapat berjumpa lagi di surga"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 28
 to = 29
-text = "Ketentuan hari orang-orang yang beriman serta pembalasan bagi mereka"
+topic = "Ketentuan hari orang-orang yang beriman serta pembalasan bagi mereka"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

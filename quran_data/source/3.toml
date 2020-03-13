@@ -1,147 +1,147 @@
 name = "Ali-Imran"
 number = 3
-[[topic]]
+[[topics]]
 from = 1
 to = 4
-text = "Al-Qur'an & kitab-kitab sebelumnya"
+topic = "Al-Qur'an & kitab-kitab sebelumnya"
 
-[[topic]]
+[[topics]]
 from = 5
 to = 7
-text = "Al-Qur'an dan kitab-kitab yang sebelumnya"
+topic = "Al-Qur'an dan kitab-kitab yang sebelumnya"
 
-[[topic]]
+[[topics]]
 from = 8
 to = 9
-text = "Doa petunjuk hati"
+topic = "Doa petunjuk hati"
 
-[[topic]]
+[[topics]]
 from = 10
 to = 13
-text = "Ancaman Allah kepada orang-orang kafir dan pengaruh harta benda duniawi"
+topic = "Ancaman Allah kepada orang-orang kafir dan pengaruh harta benda duniawi"
 
-[[topic]]
+[[topics]]
 from = 14
 to = 14
-text = "Kesenangan hidup di dunia"
+topic = "Kesenangan hidup di dunia"
 
-[[topic]]
+[[topics]]
 from = 15
 to = 17
-text = "Doa minta ampun dari dosa"
+topic = "Doa minta ampun dari dosa"
 
-[[topic]]
+[[topics]]
 from = 18
 to = 27
-text = "Pernyataan Allah tentang keesaan dan keadilan-Nya serta agama yang di ridhai-Nya"
+topic = "Pernyataan Allah tentang keesaan dan keadilan-Nya serta agama yang di ridhai-Nya"
 
-[[topic]]
+[[topics]]
 from = 28
 to = 32
-text = "Larangan berpihak kepada orang kafir"
+topic = "Larangan berpihak kepada orang kafir"
 
-[[topic]]
+[[topics]]
 from = 33
 to = 37
-text = "Keutamaan keluarga 'Imran"
+topic = "Keutamaan keluarga 'Imran"
 
-[[topic]]
+[[topics]]
 from = 38
 to = 50
-text = "Keutamaan keluarga 'Imran"
+topic = "Keutamaan keluarga 'Imran"
 
-[[topic]]
+[[topics]]
 from = 38
 to = 50
-text = "Keutamaan keluarga 'Imran"
+topic = "Keutamaan keluarga 'Imran"
 
-[[topic]]
+[[topics]]
 from = 51
 to = 52
-text = "Nabi Isa & sahabatnya adalah penolong agama Allah"
+topic = "Nabi Isa & sahabatnya adalah penolong agama Allah"
 
-[[topic]]
+[[topics]]
 from = 53
 to = 65
-text = "Ajakan kepada agama Tauhid \"Millatu Ibrahim\""
+topic = "Ajakan kepada agama Tauhid \"Millatu Ibrahim\""
 
-[[topic]]
+[[topics]]
 from = 66
 to = 75
-text = "QS 3 Ali-Imran: 76-77"
+topic = "QS 3 Ali-Imran: 76-77"
 
-[[topic]]
+[[topics]]
 from = 78
 to = 103
-text = "Bantahan Allah terhadap pendapat-pendapat ahli kitab yang keliru"
+topic = "Bantahan Allah terhadap pendapat-pendapat ahli kitab yang keliru"
 
-[[topic]]
+[[topics]]
 from = 104
 to = 104
-text = "Keharusan menjaga persatuan"
+topic = "Keharusan menjaga persatuan"
 
-[[topic]]
+[[topics]]
 from = 105
 to = 127
-text = "kelebihan umat islam dari umat yang lain"
+topic = "kelebihan umat islam dari umat yang lain"
 
-[[topic]]
+[[topics]]
 from = 128
 to = 129
-text = "Sabar dan tawakal kepada Allah pangkal kemenangan"
+topic = "Sabar dan tawakal kepada Allah pangkal kemenangan"
 
-[[topic]]
+[[topics]]
 from = 130
 to = 135
-text = "Larangan memakan riba & ciri orang bertakwa"
+topic = "Larangan memakan riba & ciri orang bertakwa"
 
-[[topic]]
+[[topics]]
 from = 136
 to = 144
-text = "Agama Nabi Ibrahim A.S"
+topic = "Agama Nabi Ibrahim A.S"
 
-[[topic]]
+[[topics]]
 from = 145
 to = 145
-text = "Balasan dunia akhirat"
+topic = "Balasan dunia akhirat"
 
-[[topic]]
+[[topics]]
 from = 146
 to = 151
-text = "Kehidupan dunia adalah kesenangan yang memperdaya"
+topic = "Kehidupan dunia adalah kesenangan yang memperdaya"
 
-[[topic]]
+[[topics]]
 from = 152
 to = 161
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 162
 to = 184
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 185
 to = 186
-text = "Kehidupan dunia adalah kesenangan yang memperdaya"
+topic = "Kehidupan dunia adalah kesenangan yang memperdaya"
 
-[[topic]]
+[[topics]]
 from = 187
 to = 191
-text = "Kebakhilan dan dusta serta balasannya"
+topic = "Kebakhilan dan dusta serta balasannya"
 
-[[topic]]
+[[topics]]
 from = 192
 to = 194
-text = "Doa orang beriman & jawaban Allah"
+topic = "Doa orang beriman & jawaban Allah"
 
-[[topic]]
+[[topics]]
 from = 195
 to = 195
-text = "Faedah selalu ingat kepada Allah dan merenungkan ciptaan-Nya"
+topic = "Faedah selalu ingat kepada Allah dan merenungkan ciptaan-Nya"
 
-[[topic]]
+[[topics]]
 from = 196
 to = 199
-text = "Kesenangan sementara bagi orang-orang kafir dan kebahagiaan abadi bagi orang mu'min"
+topic = "Kesenangan sementara bagi orang-orang kafir dan kebahagiaan abadi bagi orang mu'min"
 

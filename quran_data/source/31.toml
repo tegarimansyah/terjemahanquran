@@ -1,22 +1,22 @@
 name = "Luqmaan"
 number = 31
-[[topic]]
+[[topics]]
 from = 1
 to = 5
-text = "Al-Qur'an sebagai petunjuk & rahmat bagi orang yang berbuat baik"
+topic = "Al-Qur'an sebagai petunjuk & rahmat bagi orang yang berbuat baik"
 
-[[topic]]
+[[topics]]
 from = 6
 to = 11
-text = "Bukti-bukti keesaan Allah. Alam langit dipelihara dari gangguan syaitan"
+topic = "Bukti-bukti keesaan Allah. Alam langit dipelihara dari gangguan syaitan"
 
-[[topic]]
+[[topics]]
 from = 12
 to = 19
-text = "Nasihat orangtua kepada anaknya"
+topic = "Nasihat orangtua kepada anaknya"
 
-[[topic]]
+[[topics]]
 from = 20
 to = 34
-text = "Kekuasaan Allah adalah mutlak dan akibat pengingkaran terhadapnya"
+topic = "Kekuasaan Allah adalah mutlak dan akibat pengingkaran terhadapnya"
 

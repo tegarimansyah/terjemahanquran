@@ -1,7 +1,7 @@
 name = "Al-Infitar"
 number = 82
-[[topic]]
+[[topics]]
 from = 1
 to = 19
-text = "Hari Kiamat, & Semua perbuatan manusia dicatat oleh malaikat."
+topic = "Hari Kiamat, & Semua perbuatan manusia dicatat oleh malaikat."
 

@@ -1,22 +1,22 @@
 name = "At-Taubah"
 number = 9
-[[topic]]
+[[topics]]
 from = 1
 to = 24
-text = "Pengumuman tentang pembatalan perjanjian damai"
+topic = "Pengumuman tentang pembatalan perjanjian damai"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 71
 to = 72
-text = "Anjuran kepada orang-orang mu'min dan janji Allah terhadap mereka"
+topic = "Anjuran kepada orang-orang mu'min dan janji Allah terhadap mereka"
 
-[[topic]]
+[[topics]]
 from = 128
 to = 129
-text = "Tawakal : Berserah setelah berusaha"
+topic = "Tawakal : Berserah setelah berusaha"
 

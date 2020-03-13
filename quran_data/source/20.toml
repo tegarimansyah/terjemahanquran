@@ -1,27 +1,27 @@
 name = "Tohaa"
 number = 20
-[[topic]]
+[[topics]]
 from = 1
 to = 24
-text = "Perintah Allah kepada Nabi Musa A.S. dan permohonan Nabi Musa A.S."
+topic = "Perintah Allah kepada Nabi Musa A.S. dan permohonan Nabi Musa A.S."
 
-[[topic]]
+[[topics]]
 from = 25
 to = 28
-text = "Doa mempermudah urusan"
+topic = "Doa mempermudah urusan"
 
-[[topic]]
+[[topics]]
 from = 29
 to = 41
-text = "Ni'mat-ni'mat Allah kepada Nabi Musa A.S. sejak kecil"
+topic = "Ni'mat-ni'mat Allah kepada Nabi Musa A.S. sejak kecil"
 
-[[topic]]
+[[topics]]
 from = 112
 to = 114
-text = "Hak orang beriman dan diturunkannya Al Qur'an dengan bahasa Arab"
+topic = "Hak orang beriman dan diturunkannya Al Qur'an dengan bahasa Arab"
 
-[[topic]]
+[[topics]]
 from = 132
 to = 135
-text = "kewajiban suami mengajak keluarganya sholat"
+topic = "kewajiban suami mengajak keluarganya sholat"
 

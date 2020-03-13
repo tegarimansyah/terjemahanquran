@@ -1,12 +1,12 @@
 name = "An-Naml"
 number = 27
-[[topic]]
+[[topics]]
 from = 19
 to = 19
-text = "Doa memohon hidayah & rahmat Allah"
+topic = "Doa memohon hidayah & rahmat Allah"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

@@ -1,7 +1,7 @@
 name = "Al-Qiyamah"
 number = 75
-[[topic]]
+[[topics]]
 from = 1
 to = 40
-text = "Kekuasaan Allah menghidupkan manusia seperti semula"
+topic = "Kekuasaan Allah menghidupkan manusia seperti semula"
 

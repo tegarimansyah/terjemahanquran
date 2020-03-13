@@ -1,17 +1,17 @@
 name = "Al-Hijr"
 number = 15
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 45
 to = 50
-text = "Rahmat Allah bagi orang-orang yang bertakwa"
+topic = "Rahmat Allah bagi orang-orang yang bertakwa"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

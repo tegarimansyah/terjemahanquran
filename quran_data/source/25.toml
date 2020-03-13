@@ -1,22 +1,22 @@
 name = "Al-Furqan"
 number = 25
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 63
 to = 66
-text = "Hamba Allah adalah yang berjalan di bumi dengan rendah hati"
+topic = "Hamba Allah adalah yang berjalan di bumi dengan rendah hati"
 
-[[topic]]
+[[topics]]
 from = 74
 to = 74
-text = "Doa memohon pasangan & keturunan"
+topic = "Doa memohon pasangan & keturunan"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

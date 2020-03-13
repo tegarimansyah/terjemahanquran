@@ -1,32 +1,32 @@
 name = "Al-Hujuraat"
 number = 49
-[[topic]]
+[[topics]]
 from = 1
 to = 5
-text = "Tatakrama terhadap Rasulullah S.A.W"
+topic = "Tatakrama terhadap Rasulullah S.A.W"
 
-[[topic]]
+[[topics]]
 from = 6
 to = 6
-text = "Perintah memastikan kebenaran sebuah berita"
+topic = "Perintah memastikan kebenaran sebuah berita"
 
-[[topic]]
+[[topics]]
 from = 7
 to = 9
-text = "Tatakrama terhadap Rasulullah S.A.W"
+topic = "Tatakrama terhadap Rasulullah S.A.W"
 
-[[topic]]
+[[topics]]
 from = 10
 to = 12
-text = "Orang muslim itu bersaudara & Jangan merendahkan orang lain / berprasangka"
+topic = "Orang muslim itu bersaudara & Jangan merendahkan orang lain / berprasangka"
 
-[[topic]]
+[[topics]]
 from = 13
 to = 13
-text = "Manusia diciptakan berbeda untuk saling mengenal"
+topic = "Manusia diciptakan berbeda untuk saling mengenal"
 
-[[topic]]
+[[topics]]
 from = 14
 to = 18
-text = "Ciri-ciri iman yang sebenarnya"
+topic = "Ciri-ciri iman yang sebenarnya"
 

@@ -1,17 +1,17 @@
 name = "At-Tariq"
 number = 86
 
-[[topic]]
+[[topics]]
 from = 1
 to = 4
-text = "Setiap Orang Ada yang Menjaganya"
+topic = "Setiap Orang Ada yang Menjaganya"
 
-[[topic]]
+[[topics]]
 from = 5
 to = 10
-text = "Allah Kuasa Membangkitkan Manusia"
+topic = "Allah Kuasa Membangkitkan Manusia"
 
-[[topic]]
+[[topics]]
 from = 11
 to = 17
-text = "Al-Quran Pemisah Antara yang Haq dan yang Batil"
+topic = "Al-Quran Pemisah Antara yang Haq dan yang Batil"

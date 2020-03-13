@@ -1,92 +1,92 @@
 name = "An-Nisaa"
 number = 4
-[[topic]]
+[[topics]]
 from = 1
 to = 1
-text = "Allah menciptakan pasangan bagi manusia"
+topic = "Allah menciptakan pasangan bagi manusia"
 
-[[topic]]
+[[topics]]
 from = 2
 to = 6
-text = "Kewajiban para wasi terhadap asuhannya dan kewajiban para wali terhadap orang yang dibawah perwalian"
+topic = "Kewajiban para wasi terhadap asuhannya dan kewajiban para wali terhadap orang yang dibawah perwalian"
 
-[[topic]]
+[[topics]]
 from = 7
 to = 11
-text = "Hukum waris"
+topic = "Hukum waris"
 
-[[topic]]
+[[topics]]
 from = 12
 to = 14
-text = "Hukum waris"
+topic = "Hukum waris"
 
-[[topic]]
+[[topics]]
 from = 15
 to = 16
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 17
 to = 18
-text = "Taubat"
+topic = "Taubat"
 
-[[topic]]
+[[topics]]
 from = 19
 to = 28
-text = "Beberapa hukum perkawinan"
+topic = "Beberapa hukum perkawinan"
 
-[[topic]]
+[[topics]]
 from = 15
 to = 16
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 34
 to = 35
-text = "Manajemen rumah tangga"
+topic = "Manajemen rumah tangga"
 
-[[topic]]
+[[topics]]
 from = 36
 to = 36
-text = "Kewajiban terhadap Allah dan terhadap sesama manusia"
+topic = "Kewajiban terhadap Allah dan terhadap sesama manusia"
 
-[[topic]]
+[[topics]]
 from = 37
 to = 96
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 97
 to = 100
-text = "Kewajiban berhijrah di jalan Allah dan balasannya"
+topic = "Kewajiban berhijrah di jalan Allah dan balasannya"
 
-[[topic]]
+[[topics]]
 from = 101
 to = 122
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 123
 to = 126
-text = "Balasan dari Perbuatan, & ikhlas berserah diri"
+topic = "Balasan dari Perbuatan, & ikhlas berserah diri"
 
-[[topic]]
+[[topics]]
 from = 127
 to = 146
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 147
 to = 152
-text = "Larangan melontarkan ucapan-ucapan buruk kepada seseorang"
+topic = "Larangan melontarkan ucapan-ucapan buruk kepada seseorang"
 
-[[topic]]
+[[topics]]
 from = 147
 to = 152
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 153
 to = 176
-text = "kosong"
+topic = "kosong"
 

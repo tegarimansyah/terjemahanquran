@@ -1,17 +1,17 @@
 name = "Al-Munafiquun"
 number = 63
-[[topic]]
+[[topics]]
 from = 1
 to = 8
-text = "Sifat-sifat orang munafik"
+topic = "Sifat-sifat orang munafik"
 
-[[topic]]
+[[topics]]
 from = 9
 to = 9
-text = "Janganlah harta & anak melalaikan dari mengingat Allah"
+topic = "Janganlah harta & anak melalaikan dari mengingat Allah"
 
-[[topic]]
+[[topics]]
 from = 10
 to = 11
-text = "Sifat-sifat orang munafik"
+topic = "Sifat-sifat orang munafik"
 

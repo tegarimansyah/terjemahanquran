@@ -1,7 +1,7 @@
 name = "Al-Muzzammil"
 number = 73
-[[topic]]
+[[topics]]
 from = 1
 to = 20
-text = "Orang yang berselimut"
+topic = "Orang yang berselimut"
 

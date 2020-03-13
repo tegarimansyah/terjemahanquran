@@ -1,7 +1,7 @@
 name = "Al-Balad"
 number = 90
-[[topic]]
+[[topics]]
 from = 1
 to = 20
-text = "Hidup manusia penuh dengan perjuangan"
+topic = "Hidup manusia penuh dengan perjuangan"
 

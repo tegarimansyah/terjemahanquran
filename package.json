@@ -10,7 +10,8 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "test": "jest"
+    "test": "jest",
+    "generate_quran_data": "node quran_data/parse_to_object.js"
   },
   "dependencies": {
     "@iarna/toml": "^2.2.3",

@@ -1,17 +1,17 @@
 name = "Shood"
 number = 38
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 29
 to = 29
-text = "Dorongan mempelajari Al-Qur'an"
+topic = "Dorongan mempelajari Al-Qur'an"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

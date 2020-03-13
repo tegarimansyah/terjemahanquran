@@ -1,32 +1,32 @@
 name = "Al-Hajj"
 number = 22
-[[topic]]
+[[topics]]
 from = 11
 to = 13
-text = "Celaan terhadap orang-orang yang tidak berpendirian"
+topic = "Celaan terhadap orang-orang yang tidak berpendirian"
 
-[[topic]]
+[[topics]]
 from = 15
 to = 17
-text = "Pertolongan Allah pasti datang"
+topic = "Pertolongan Allah pasti datang"
 
-[[topic]]
+[[topics]]
 from = 18
 to = 18
-text = "Semua bersujud kepada Allah"
+topic = "Semua bersujud kepada Allah"
 
-[[topic]]
+[[topics]]
 from = 26
 to = 28
-text = "Haji, Menasiknya, & Syi'arnya"
+topic = "Haji, Menasiknya, & Syi'arnya"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 58
 to = 62
-text = "Balasan terhadap orang-orang yang mati dalam berhijrah di jalan Allah"
+topic = "Balasan terhadap orang-orang yang mati dalam berhijrah di jalan Allah"
 

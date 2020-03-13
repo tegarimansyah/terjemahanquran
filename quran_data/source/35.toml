@@ -1,17 +1,17 @@
 name = "Fatir"
 number = 35
-[[topic]]
+[[topics]]
 from = 1
 to = 7
-text = "Allah adalah Pencipta, Penguasa, dan Pemberi rahmat"
+topic = "Allah adalah Pencipta, Penguasa, dan Pemberi rahmat"
 
-[[topic]]
+[[topics]]
 from = 29
 to = 29
-text = "Balasan kepada orang yang membaca Al-Qur'an, mendirikan sholat & sedekah"
+topic = "Balasan kepada orang yang membaca Al-Qur'an, mendirikan sholat & sedekah"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

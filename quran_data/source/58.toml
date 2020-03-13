@@ -1,12 +1,12 @@
 name = "Al-Mujaadalah"
 number = 58
-[[topic]]
+[[topics]]
 from = 11
 to = 13
-text = "Etika berkumpul dalam mencari ilmu"
+topic = "Etika berkumpul dalam mencari ilmu"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "QS 59 Al-Hasyr: 1-24"
+topic = "QS 59 Al-Hasyr: 1-24"
 

@@ -1,17 +1,17 @@
 name = "Az-Zumar"
 number = 39
-[[topic]]
+[[topics]]
 from = 1
 to = 5
-text = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
+topic = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
 
-[[topic]]
+[[topics]]
 from = 10
 to = 18
-text = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
+topic = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
 
-[[topic]]
+[[topics]]
 from = 53
 to = 55
-text = "Allah mengampuni semua dosa"
+topic = "Allah mengampuni semua dosa"
 

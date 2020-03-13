@@ -1,22 +1,22 @@
 name = "Asy-Syuraa"
 number = 42
-[[topic]]
+[[topics]]
 from = 1
 to = 12
-text = "Perselisihan-perselisihan umat manusia dikembalikan penyelesainnya kepada Kitab Allah"
+topic = "Perselisihan-perselisihan umat manusia dikembalikan penyelesainnya kepada Kitab Allah"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 30
 to = 43
-text = "Bersabar & Memaafkan"
+topic = "Bersabar & Memaafkan"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 

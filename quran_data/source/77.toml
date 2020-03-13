@@ -1,7 +1,7 @@
 name = "Al-Mursalaah"
 number = 77
-[[topic]]
+[[topics]]
 from = 1
 to = 50
-text = "Segala ancaman Allah pasti terjadi"
+topic = "Segala ancaman Allah pasti terjadi"
 

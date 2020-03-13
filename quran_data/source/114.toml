@@ -1,7 +1,7 @@
 name = "An-Naas"
 number = 114
-[[topic]]
+[[topics]]
 from = 1
 to = 6
-text = "kosong"
+topic = "kosong"
 

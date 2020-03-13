@@ -1,12 +1,12 @@
 name = "Ar-Rahmaan"
 number = 55
-[[topic]]
+[[topics]]
 from = 1
 to = 78
-text = "Yang Maha Pengasih & nikmat yang dianugerahkan"
+topic = "Yang Maha Pengasih & nikmat yang dianugerahkan"
 
-[[topic]]
+[[topics]]
 from = 35
 to = 35
-text = "Al-Qur'an sebagai peringatan & pelajaran"
+topic = "Al-Qur'an sebagai peringatan & pelajaran"
 

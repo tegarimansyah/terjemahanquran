@@ -1,12 +1,12 @@
 name = "Al-Jumu'ah"
 number = 62
-[[topic]]
+[[topics]]
 from = 1
 to = 8
-text = "Pengutusan Muhammad S.A.W adalah karunia Allah kepada umat manusia"
+topic = "Pengutusan Muhammad S.A.W adalah karunia Allah kepada umat manusia"
 
-[[topic]]
+[[topics]]
 from = 9
 to = 11
-text = "Perintah solat Jumat"
+topic = "Perintah solat Jumat"
 

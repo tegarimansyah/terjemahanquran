@@ -1,7 +1,7 @@
 name = "Al-Bayyinah"
 number = 98
-[[topic]]
+[[topics]]
 from = 1
 to = 8
-text = "Bukti yang nyata"
+topic = "Bukti yang nyata"
 

@@ -1,7 +1,7 @@
 name = "Al-Quraisy"
 number = 106
-[[topic]]
+[[topics]]
 from = 1
 to = 4
-text = "Orang Quraisy"
+topic = "Orang Quraisy"
 

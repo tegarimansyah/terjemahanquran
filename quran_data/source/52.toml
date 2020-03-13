@@ -1,17 +1,17 @@
 name = "Ath-Thuur"
 number = 52
-[[topic]]
+[[topics]]
 from = 1
 to = 20
-text = "Bukit"
+topic = "Bukit"
 
-[[topic]]
+[[topics]]
 from = 21
 to = 21
-text = "Allah mempertemukan keluarga yang beriman dengan anak cucu mereka di dalam surga"
+topic = "Allah mempertemukan keluarga yang beriman dengan anak cucu mereka di dalam surga"
 
-[[topic]]
+[[topics]]
 from = 22
 to = 49
-text = "Bukit"
+topic = "Bukit"
 

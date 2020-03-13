@@ -1,287 +1,287 @@
 name = "Al-Baqarah"
 number = 2
-[[topic]]
+[[topics]]
 from = 1
 to = 7
-text = "Ciri-ciri golongan mukmin & non-muslim"
+topic = "Ciri-ciri golongan mukmin & non-muslim"
 
-[[topic]]
+[[topics]]
 from = 8
 to = 20
-text = "Ciri-ciri orang munafik"
+topic = "Ciri-ciri orang munafik"
 
-[[topic]]
+[[topics]]
 from = 21
 to = 24
-text = "Tantangan kepada kaum musyrikin mengenai Qur'an dan perintah menyembah Allah"
+topic = "Tantangan kepada kaum musyrikin mengenai Qur'an dan perintah menyembah Allah"
 
-[[topic]]
+[[topics]]
 from = 25
 to = 25
-text = "Kabar gembira untuk orang beriman"
+topic = "Kabar gembira untuk orang beriman"
 
-[[topic]]
+[[topics]]
 from = 26
 to = 27
-text = "Perumpamaan-perumpamaan dalam Al-Qur'an dan hikmah-hikmahnya"
+topic = "Perumpamaan-perumpamaan dalam Al-Qur'an dan hikmah-hikmahnya"
 
-[[topic]]
+[[topics]]
 from = 28
 to = 29
-text = "Tanda-tanda kekuasaan Allah"
+topic = "Tanda-tanda kekuasaan Allah"
 
-[[topic]]
+[[topics]]
 from = 30
 to = 32
-text = "Manusia direncanakan Allah untuk menjadi khalifah"
+topic = "Manusia direncanakan Allah untuk menjadi khalifah"
 
-[[topic]]
+[[topics]]
 from = 33
 to = 42
-text = "Kisah Nabi Adam"
+topic = "Kisah Nabi Adam"
 
-[[topic]]
+[[topics]]
 from = 43
 to = 44
-text = "Perintah menunaikan sholat dan zakat"
+topic = "Perintah menunaikan sholat dan zakat"
 
-[[topic]]
+[[topics]]
 from = 45
 to = 46
-text = "Sabar & sholat sebagai penolong"
+topic = "Sabar & sholat sebagai penolong"
 
-[[topic]]
+[[topics]]
 from = 47
 to = 48
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 49
 to = 61
-text = "Perincian nikmat Tuhan kepada Bani Israil"
+topic = "Perincian nikmat Tuhan kepada Bani Israil"
 
-[[topic]]
+[[topics]]
 from = 62
 to = 66
-text = "Kisah Nabi Nuh A.S"
+topic = "Kisah Nabi Nuh A.S"
 
-[[topic]]
+[[topics]]
 from = 67
 to = 74
-text = "Kisah penyembelihan sapi betina"
+topic = "Kisah penyembelihan sapi betina"
 
-[[topic]]
+[[topics]]
 from = 75
 to = 82
-text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
+topic = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
 
-[[topic]]
+[[topics]]
 from = 75
 to = 82
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 83
 to = 91
-text = "Sikap-sikap orang Yahudi terhadap para Rasul dan kitab-kitab yang diturunkan Allah"
+topic = "Sikap-sikap orang Yahudi terhadap para Rasul dan kitab-kitab yang diturunkan Allah"
 
-[[topic]]
+[[topics]]
 from = 92
 to = 101
-text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi, merupakan lambang bagi kecendrungan mer"
+topic = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi, merupakan lambang bagi kecendrungan mer"
 
-[[topic]]
+[[topics]]
 from = 102
 to = 115
-text = "Menasakhkan sesuatu ayat adalah urusan Allah"
+topic = "Menasakhkan sesuatu ayat adalah urusan Allah"
 
-[[topic]]
+[[topics]]
 from = 116
 to = 123
-text = "Larangan mengikuti Yahudi dan Nasrani"
+topic = "Larangan mengikuti Yahudi dan Nasrani"
 
-[[topic]]
+[[topics]]
 from = 124
 to = 127
-text = "Kisah Nabi Ibrahim & Kota Mekkah"
+topic = "Kisah Nabi Ibrahim & Kota Mekkah"
 
-[[topic]]
+[[topics]]
 from = 128
 to = 129
-text = "Do'a menjadi seorang muslim"
+topic = "Do'a menjadi seorang muslim"
 
-[[topic]]
+[[topics]]
 from = 130
 to = 149
-text = "Sekitar pemindahan kiblat"
+topic = "Sekitar pemindahan kiblat"
 
-[[topic]]
+[[topics]]
 from = 150
 to = 152
-text = "Perintah berserah & mengingat Allah dimana saja"
+topic = "Perintah berserah & mengingat Allah dimana saja"
 
-[[topic]]
+[[topics]]
 from = 153
 to = 157
-text = "Allah beserta orang sabar"
+topic = "Allah beserta orang sabar"
 
-[[topic]]
+[[topics]]
 from = 158
 to = 158
-text = "Sa'i & Manasik Haji"
+topic = "Sa'i & Manasik Haji"
 
-[[topic]]
+[[topics]]
 from = 159
 to = 171
-text = "Laknat terhadap orang-orang yang menyembunyikan ayat-ayat Allah dan terhadap orang-orang kafir"
+topic = "Laknat terhadap orang-orang yang menyembunyikan ayat-ayat Allah dan terhadap orang-orang kafir"
 
-[[topic]]
+[[topics]]
 from = 172
 to = 173
-text = "Perintah memakan makanan yang halal"
+topic = "Perintah memakan makanan yang halal"
 
-[[topic]]
+[[topics]]
 from = 174
 to = 176
-text = "Ayat-Ayat Allah"
+topic = "Ayat-Ayat Allah"
 
-[[topic]]
+[[topics]]
 from = 177
 to = 177
-text = "Kebajikan adalah urusan akhirat, bukan duniawi"
+topic = "Kebajikan adalah urusan akhirat, bukan duniawi"
 
-[[topic]]
+[[topics]]
 from = 178
 to = 179
-text = "Qisas dan hikmahnya"
+topic = "Qisas dan hikmahnya"
 
-[[topic]]
+[[topics]]
 from = 180
 to = 182
-text = "Wasiat & larangan mengubahnya"
+topic = "Wasiat & larangan mengubahnya"
 
-[[topic]]
+[[topics]]
 from = 186
 to = 186
-text = "Allah Maha Dekat"
+topic = "Allah Maha Dekat"
 
-[[topic]]
+[[topics]]
 from = 187
 to = 194
-text = "Berjihad dengan Jiwa & Harta"
+topic = "Berjihad dengan Jiwa & Harta"
 
-[[topic]]
+[[topics]]
 from = 187
 to = 194
-text = "Berjihad dengan Jiwa & Harta"
+topic = "Berjihad dengan Jiwa & Harta"
 
-[[topic]]
+[[topics]]
 from = 195
 to = 195
-text = "Perintah untuk berinfaq di jalan Allah"
+topic = "Perintah untuk berinfaq di jalan Allah"
 
-[[topic]]
+[[topics]]
 from = 196
 to = 199
-text = "Haji"
+topic = "Haji"
 
-[[topic]]
+[[topics]]
 from = 200
 to = 201
-text = "Doa kebaikan dunia & akhirat"
+topic = "Doa kebaikan dunia & akhirat"
 
-[[topic]]
+[[topics]]
 from = 202
 to = 214
-text = "Perbuatan orang-orang munafik"
+topic = "Perbuatan orang-orang munafik"
 
-[[topic]]
+[[topics]]
 from = 215
 to = 215
-text = "Infak & sedekah"
+topic = "Infak & sedekah"
 
-[[topic]]
+[[topics]]
 from = 216
 to = 216
-text = "Kebaikan di balik yang tidak kita sukai"
+topic = "Kebaikan di balik yang tidak kita sukai"
 
-[[topic]]
+[[topics]]
 from = 217
 to = 220
-text = "Hukum perang dalam Islam"
+topic = "Hukum perang dalam Islam"
 
-[[topic]]
+[[topics]]
 from = 221
 to = 232
-text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
+topic = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
 
-[[topic]]
+[[topics]]
 from = 233
 to = 233
-text = "Anjuran menyusui anak selama 2 tahun"
+topic = "Anjuran menyusui anak selama 2 tahun"
 
-[[topic]]
+[[topics]]
 from = 234
 to = 237
-text = "Hukum Perceraian,"
+topic = "Hukum Perceraian,"
 
-[[topic]]
+[[topics]]
 from = 238
 to = 242
-text = "Kewajiban mengerjakan salat walaupun dalam keadaan takut"
+topic = "Kewajiban mengerjakan salat walaupun dalam keadaan takut"
 
-[[topic]]
+[[topics]]
 from = 243
 to = 251
-text = "Jihad di Jalan Allah"
+topic = "Jihad di Jalan Allah"
 
-[[topic]]
+[[topics]]
 from = 252
 to = 252
-text = "Kebenaran Muhammad Adalah Rasulullah"
+topic = "Kebenaran Muhammad Adalah Rasulullah"
 
-[[topic]]
+[[topics]]
 from = 253
 to = 254
-text = "Keistimewaan dan perbedaan derajat para Rasul dan anjuran berjihad dengan harta"
+topic = "Keistimewaan dan perbedaan derajat para Rasul dan anjuran berjihad dengan harta"
 
-[[topic]]
+[[topics]]
 from = 256
 to = 257
-text = "Tak ada paksaan dalam mempelajari agama Islam"
+topic = "Tak ada paksaan dalam mempelajari agama Islam"
 
-[[topic]]
+[[topics]]
 from = 258
 to = 260
-text = "Kisah Nabi Ibrahim & Mukjizatnya"
+topic = "Kisah Nabi Ibrahim & Mukjizatnya"
 
-[[topic]]
+[[topics]]
 from = 261
 to = 263
-text = "Menafkahkan harta di jalan Allah"
+topic = "Menafkahkan harta di jalan Allah"
 
-[[topic]]
+[[topics]]
 from = 264
 to = 270
-text = "Sedekah"
+topic = "Sedekah"
 
-[[topic]]
+[[topics]]
 from = 271
 to = 271
-text = "Mencontohkan sedekah itu baik, menyembunyikannya lebih baik"
+topic = "Mencontohkan sedekah itu baik, menyembunyikannya lebih baik"
 
-[[topic]]
+[[topics]]
 from = 272
 to = 281
-text = "Hukum Riba"
+topic = "Hukum Riba"
 
-[[topic]]
+[[topics]]
 from = 282
 to = 283
-text = "Kesaksian dalam mu'amalah"
+topic = "Kesaksian dalam mu'amalah"
 
-[[topic]]
+[[topics]]
 from = 284
 to = 286
-text = "Doa orang mukmin"
+topic = "Doa orang mukmin"
 

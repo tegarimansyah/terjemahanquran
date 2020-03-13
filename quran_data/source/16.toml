@@ -1,57 +1,57 @@
 name = "An-Nahl"
 number = 16
-[[topic]]
+[[topics]]
 from = 7
 to = 8
-text = "Alam itu merupakan satu kesatuan yang membuktikan kekuasaan Maha Pencipta"
+topic = "Alam itu merupakan satu kesatuan yang membuktikan kekuasaan Maha Pencipta"
 
-[[topic]]
+[[topics]]
 from = 43
 to = 48
-text = "Tiap-tiap umat mempunyai rasul yang diutus untuk menerangkan kebenaran"
+topic = "Tiap-tiap umat mempunyai rasul yang diutus untuk menerangkan kebenaran"
 
-[[topic]]
+[[topics]]
 from = 49
 to = 50
-text = "Allah Maha Pengampun"
+topic = "Allah Maha Pengampun"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 68
 to = 69
-text = "Segi-segi pelajaran yang dapat diambil dari kehidupan alam semesta"
+topic = "Segi-segi pelajaran yang dapat diambil dari kehidupan alam semesta"
 
-[[topic]]
+[[topics]]
 from = 78
 to = 83
-text = "Tidak wajarnya sikap orang-orang musyrik menisbahkan sesuatu kepada Allah"
+topic = "Tidak wajarnya sikap orang-orang musyrik menisbahkan sesuatu kepada Allah"
 
-[[topic]]
+[[topics]]
 from = 90
 to = 91
-text = "Perintah berbuat baik"
+topic = "Perintah berbuat baik"
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 98
 to = 98
-text = "Adab sebelum membaca Al-Qur'an"
+topic = "Adab sebelum membaca Al-Qur'an"
 
-[[topic]]
+[[topics]]
 from = 125
 to = 128
-text = "Cara mengajak kepada kebenaran"
+topic = "Cara mengajak kepada kebenaran"
 

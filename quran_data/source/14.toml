@@ -1,57 +1,57 @@
 name = "Ibrahim"
 number = 14
-[[topic]]
+[[topics]]
 from = 1
 to = 3
-text = "Al-Qur'an menunjuki semua umat manusia ke jalan yang terang"
+topic = "Al-Qur'an menunjuki semua umat manusia ke jalan yang terang"
 
-[[topic]]
+[[topics]]
 from = 4
 to = 7
-text = "Jika bersyukur akan ditambah nikmatnya"
+topic = "Jika bersyukur akan ditambah nikmatnya"
 
-[[topic]]
+[[topics]]
 from = 8
 to = 18
-text = "Sikap umat manusia menghadapi ajaran Rasul"
+topic = "Sikap umat manusia menghadapi ajaran Rasul"
 
-[[topic]]
+[[topics]]
 from = 19
 to = 23
-text = "Akibat yang diderita oleh kaum yang menolak kebenaran"
+topic = "Akibat yang diderita oleh kaum yang menolak kebenaran"
 
-[[topic]]
+[[topics]]
 from = 24
 to = 27
-text = "Perumpamaan kalimat yang baik seperti pohon yang baik"
+topic = "Perumpamaan kalimat yang baik seperti pohon yang baik"
 
-[[topic]]
+[[topics]]
 from = 28
 to = 39
-text = "Tindakan-tindakan pemimpin yang menyebabkan kehancuran pengikut-pengikutnya"
+topic = "Tindakan-tindakan pemimpin yang menyebabkan kehancuran pengikut-pengikutnya"
 
-[[topic]]
+[[topics]]
 from = 40
 to = 40
-text = "Doa agar anak tetap sholat"
+topic = "Doa agar anak tetap sholat"
 
-[[topic]]
+[[topics]]
 from = 41
 to = 41
-text = "Doa agar orangtua diampuni"
+topic = "Doa agar orangtua diampuni"
 
-[[topic]]
+[[topics]]
 from = 42
 to = 45
-text = "Orang yang zalim pasti dapat azab"
+topic = "Orang yang zalim pasti dapat azab"
 
-[[topic]]
+[[topics]]
 from = 46
 to = 51
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 52
 to = 52
-text = "Al-Qur'an adalah penjelasan yang sempurna"
+topic = "Al-Qur'an adalah penjelasan yang sempurna"
 

@@ -1,7 +1,7 @@
 name = "Al-Kautsar"
 number = 108
-[[topic]]
+[[topics]]
 from = 1
 to = 3
-text = "Nikmat yang banyak"
+topic = "Nikmat yang banyak"
 

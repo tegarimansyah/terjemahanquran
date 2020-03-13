@@ -1,7 +1,7 @@
 name = "Al-Haqqah"
 number = 69
-[[topic]]
+[[topics]]
 from = 1
 to = 52
-text = "Kepastian hari kiamat, waktu terjadinya hari kiamat, hari perhitungan amal baik dan buruk, kebenaran"
+topic = "Kepastian hari kiamat, waktu terjadinya hari kiamat, hari perhitungan amal baik dan buruk, kebenaran"
 

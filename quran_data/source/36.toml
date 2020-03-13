@@ -1,7 +1,7 @@
 name = "Yaasiin"
 number = 36
-[[topic]]
+[[topics]]
 from = 1
 to = 83
-text = "kosong"
+topic = "kosong"
 

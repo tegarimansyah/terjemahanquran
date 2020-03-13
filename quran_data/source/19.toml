@@ -1,27 +1,27 @@
 name = "Maryam"
 number = 19
-[[topic]]
+[[topics]]
 from = 1
 to = 6
-text = "Kisah Nabi Zakariya AS dan Nabi Yahya AS"
+topic = "Kisah Nabi Zakariya AS dan Nabi Yahya AS"
 
-[[topic]]
+[[topics]]
 from = 7
 to = 36
-text = "Tuduhan terhadap Maryam dan pembelaan Nabi Isa A.S. kepada ibunya"
+topic = "Tuduhan terhadap Maryam dan pembelaan Nabi Isa A.S. kepada ibunya"
 
-[[topic]]
+[[topics]]
 from = 37
 to = 65
-text = "Pertentangan pendapat tentang Isa A.S."
+topic = "Pertentangan pendapat tentang Isa A.S."
 
-[[topic]]
+[[topics]]
 from = 0
 to = 0
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 95
 to = 98
-text = "Al-Qur'an dimudahkan dengan bahasamu"
+topic = "Al-Qur'an dimudahkan dengan bahasamu"
 

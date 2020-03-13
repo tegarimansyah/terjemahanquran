@@ -1,17 +1,17 @@
 name = "Al-Insaan"
 number = 76
-[[topic]]
+[[topics]]
 from = 1
 to = 11
-text = "Kehidupan manusia menuju kesempurnaan"
+topic = "Kehidupan manusia menuju kesempurnaan"
 
-[[topic]]
+[[topics]]
 from = 12
 to = 22
-text = "Kesempurnaan hidup di dalam surga"
+topic = "Kesempurnaan hidup di dalam surga"
 
-[[topic]]
+[[topics]]
 from = 23
 to = 31
-text = "Tuntunan-tuntunan Allah kepada Muhammad SAW"
+topic = "Tuntunan-tuntunan Allah kepada Muhammad SAW"
 

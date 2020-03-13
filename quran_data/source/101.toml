@@ -1,7 +1,7 @@
 name = "Al-Qaariah"
 number = 101
-[[topic]]
+[[topics]]
 from = 1
 to = 11
-text = "Hari kiamat"
+topic = "Hari kiamat"
 

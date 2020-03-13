@@ -1,7 +1,7 @@
 name = "An-Nabaa"
 number = 78
-[[topic]]
+[[topics]]
 from = 1
 to = 40
-text = "Berita berbangkit"
+topic = "Berita berbangkit"
 

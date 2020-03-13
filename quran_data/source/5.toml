@@ -1,32 +1,32 @@
 name = "Al-Maidah"
 number = 5
-[[topic]]
+[[topics]]
 from = 6
 to = 6
-text = "Perintah untuk wudhu & membersihkan badan"
+topic = "Perintah untuk wudhu & membersihkan badan"
 
-[[topic]]
+[[topics]]
 from = 8
 to = 8
-text = "Kewajiban berlaku Adil dan Jujur"
+topic = "Kewajiban berlaku Adil dan Jujur"
 
-[[topic]]
+[[topics]]
 from = 9
 to = 31
-text = "kosong"
+topic = "kosong"
 
-[[topic]]
+[[topics]]
 from = 32
 to = 40
-text = "Hukum terhadap perusuh dan pengacau keamanan"
+topic = "Hukum terhadap perusuh dan pengacau keamanan"
 
-[[topic]]
+[[topics]]
 from = 51
 to = 53
-text = "Dilarang berteman akrab dengan orang-orang Yahudi dan Nasrani dan akibat melanggarnya"
+topic = "Dilarang berteman akrab dengan orang-orang Yahudi dan Nasrani dan akibat melanggarnya"
 
-[[topic]]
+[[topics]]
 from = 89
 to = 93
-text = "Larangan meminum khamar, berjudi, berkorban untuk berhala dan mengundi nasib"
+topic = "Larangan meminum khamar, berjudi, berkorban untuk berhala dan mengundi nasib"
 

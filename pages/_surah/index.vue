@@ -11,8 +11,8 @@
     <input v-model="enable_topic" type="checkbox"> Show Topic
     <em class="text-sm block">If you find any mistake, please <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new/choose" class="text-blue-600">leave a comment</a> or email me: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
     <hr class="my-3">
-    <div v-for="currentTopic in topic" :key="`${currentTopic.from}-${currentTopic.to}`">
-      <span :class="{ hide: !enable_topic }" class="block font-bold mt-10 topic">{{ currentTopic.text }}</span>
+    <div v-for="currentTopic in topics" :key="`${currentTopic.from}-${currentTopic.to}`">
+      <span :class="{ hide: !enable_topic }" class="block font-bold mt-10 topic">{{ currentTopic.topic }}</span>
       <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTopic.from, currentTopic.to)" :key="ayah.numberInSurah" class="flex mt-1 mb-3 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
         <div class="col-span-1 flex items-center">
           <span class="block">{{ ayah.numberInSurah }}</span>
@@ -73,8 +73,8 @@ export default {
       this.$router.push(`/${this.surah_number}/load_data`)
     } else {
       this.surah = JSON.parse(this.surah)
-      this.topic = this.surah.topic
-      if (!this.topic) {
+      this.topics = this.surah.topics
+      if (!this.topics) {
         this.$router.push(`/${this.surah_number}/load_data`)
       }
       this.surah_name = surahList(this.surah_number)
