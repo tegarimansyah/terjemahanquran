@@ -5,6 +5,36 @@ from = 1
 to = 15
 topic = "Isyarat kepada umat islam sebagai suatu umat yang akan menjadi besar"
 
+[[topics.subs]]
+from = 1
+to = 1
+text = "Isra' dari Mekkah ke Baitul Maqdis sebagai penghormatan terhadap Nabi Muhammad"
+
+[[topics.subs]]
+from = 2
+to = 3
+text = "Penghormatan terhadap Nabi Musa dengan menurunkan Taurat kepadanya"
+
+[[topics.subs]]
+from = 4
+to = 8
+text = "Kehancuran Bani Israil karena tidak mengikuti ajaran Taurat"
+
+[[topics.subs]]
+from = 9
+to = 12
+text = "Al-Qur'an petunjuk ke jalan yang benar"
+
+[[topics.subs]]
+from = 15
+to = 22
+text = "Setiap orang memikul dosanya sendiri"
+
+[[topics.subs]]
+from = 23
+to = 41
+text = "Beberapa tata krama pergaulan"
+
 [[topics]]
 from = 23
 to = 24
