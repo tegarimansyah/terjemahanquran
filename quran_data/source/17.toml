@@ -26,7 +26,7 @@ to = 12
 text = "Al-Qur'an petunjuk ke jalan yang benar"
 
 [[topics.subs]]
-from = 15
+from = 13
 to = 22
 text = "Setiap orang memikul dosanya sendiri"
 
@@ -35,33 +35,58 @@ from = 23
 to = 41
 text = "Beberapa tata krama pergaulan"
 
-[[topics]]
-from = 23
-to = 24
-topic = "Adab & doa kepada orangtua"
+[[topics.subs]]
+from = 42
+to = 44
+text = "Sanggahan terhadap orang yang mempersekutukan Allah"
 
-[[topics]]
-from = 25
-to = 28
-topic = "Beberapa tata krama pergaulan"
+[[topics.subs]]
+from = 45
+to = 48
+text = "Orang kafir tidak memahami Al-Qur'an"
 
-[[topics]]
-from = 29
-to = 29
-topic = "Jangan terlalu pelit & jangan terlalu pemurah"
+[[topics.subs]]
+from = 49
+to = 57
+text = "Cara membantah keinkaran kaum musyrikin"
 
-[[topics]]
-from = 30
-to = 32
-topic = "Beberapa tata krama pergaulan"
+[[topics.subs]]
+from = 58
+to = 50
+text = "Kaum yang ingkar pasti mendapat hukuman"
 
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
+[[topics.subs]]
+from = 61
+to = 65
+text = "Permusuhan dan godaan setan terhadap manusia"
 
-[[topics]]
+[[topics.subs]]
+from = 66
+to = 72
+text = "Peringatan tentang nikmat Allah dengan beberapa kejadian pada hari kiamat"
+
+[[topics.subs]]
+from = 73
+to = 77
+text = "Perlawanan terhadap Nabi Muhammad akan gagal seperti terhadap nabi-nabi terdahulu"
+
+[[topics.subs]]
 from = 78
-to = 79
-topic = "Perintah tahajjud & sholat 5 waktu"
+to = 85
+text = "Petunjuk Allah dalam menghadapi tantangan"
+
+[[topics.subs]]
+from = 86
+to = 93
+text = "Tantangan Nabi Muhammad untuk menandingi Al-Qur'an"
+
+[[topics.subs]]
+from = 94
+to = 100
+text = "Keingkaran orang kafir daan bantahan terhadapnya"
+
+[[topics.subs]]
+from = 101
+to = 111
+text = "Beberapa kisah pengalaman Nabi Musa sebagai pelipur Nabi Muhammad"
 
