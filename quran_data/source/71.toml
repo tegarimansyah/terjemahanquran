@@ -1,7 +1,17 @@
 name = "Nuh"
 number = 71
-[[topics]]
-from = 1
-to = 28
-topic = "Nabi Nuh"
 
+[[topics]]
+topic = "KISAH NUH DENGAN KAUMNYA"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Seruan Nabi Nuh kepada kaumnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pengaduan Nuh kepada Allah tentang keingkaran kaumnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Azab yang ditimpakan kepada kaum Nuh "

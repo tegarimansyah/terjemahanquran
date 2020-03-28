@@ -1,57 +1,66 @@
 name = "Ibrahim"
 number = 14
-[[topics]]
-from = 1
-to = 3
-topic = "Al-Qur'an menunjuki semua umat manusia ke jalan yang terang"
 
 [[topics]]
-from = 4
-to = 7
-topic = "Jika bersyukur akan ditambah nikmatnya"
+topic = "WAHYU ILAHI MENGHAPUS KEGELAPAN "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Al-Qur'an menunjukkan semua umat manusia ke jalan yang terang "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Musa A.S. dan rasul-rasul sebelum Nabi Muhammad SAW  adalah pemimpin kaum mereka masing-masing"
 
 [[topics]]
-from = 8
-to = 18
-topic = "Sikap umat manusia menghadapi ajaran Rasul"
+topic = "SIKAP UMAT MANUSIA MENGHADAPI AJARAN RASUL "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kebenaran pada permulaannya ditolak"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Akibat yang diderita oleh kaum yang menolak kebenaran"
 
 [[topics]]
-from = 19
-to = 23
-topic = "Akibat yang diderita oleh kaum yang menolak kebenaran"
+topic = "PENGAKUAN SETAN SETELAH ALLAH MENJATUHKAN KEPUTUSANNYA"
 
 [[topics]]
-from = 24
-to = 27
-topic = "Perumpamaan kalimat yang baik seperti pohon yang baik"
+topic = "YANG TERAKHIR "
 
 [[topics]]
-from = 28
-to = 39
-topic = "Tindakan-tindakan pemimpin yang menyebabkan kehancuran pengikut-pengikutnya"
+topic = "PERUMPAMAAN TENTANG KEBENARAN DAN KEBATILAN"
 
 [[topics]]
-from = 40
-to = 40
-topic = "Doa agar anak tetap sholat"
+topic = "TINDAKAN PEMIMPIN YANG ENYEBABKAN KEHANCURAN PENGIKUTNYA "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Akibat kufur kepada nikmat Allah serta mempersekutukannya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah Allah untuk mendirikan shalat dan bersedekah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa nikmat Allah yang dilimpahkan kepada hamba-hamba-Nya "
 
 [[topics]]
-from = 41
-to = 41
-topic = "Doa agar orangtua diampuni"
+topic = "PERMOHONAN NABI IBRAHIM A.S.  "
 
 [[topics]]
-from = 42
-to = 45
-topic = "Orang yang zalim pasti dapat azab"
-
-[[topics]]
-from = 46
-to = 51
-topic = "kosong"
-
-[[topics]]
-from = 52
-to = 52
-topic = "Al-Qur'an adalah penjelasan yang sempurna"
-
+topic = "HUKUM TERHADAP PENANTANG ALLAH"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang yang zalim pasti mendapat azab"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Segala tipu daya akan gagal "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "

@@ -1,7 +1,25 @@
 name = "Al-Jatsiyah"
 number = 45
-[[topics]]
-from = 1
-to = 37
-topic = "Yang berlutut"
 
+[[topics]]
+topic = "BUKTI-BUKTI TENTANG KEBERADAAN ALLAH DI ALAM SEMESTA"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Celakalah orang yang mendustakan wahyu "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perbuatan manusia baik atau buruk kembali kepada dirinya sendiri "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Bani Israil mengingkari kerasulan Muhammad setelah mereka mengetahui bukti-bukti kebenarannya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tidak ada yang dapat memberikan petunjuk kepada penyembah hawa nafsu"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pada hari penghisaban, manusia berlutut dan membaca catatan perbuatannya selama di dunia "

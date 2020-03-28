@@ -1,37 +1,73 @@
 name = "Al-Israa"
 number = 17
-[[topics]]
-from = 1
-to = 15
-topic = "Isyarat kepada umat islam sebagai suatu umat yang akan menjadi besar"
 
 [[topics]]
-from = 23
-to = 24
-topic = "Adab & doa kepada orangtua"
-
-[[topics]]
-from = 25
-to = 28
-topic = "Beberapa tata krama pergaulan"
-
-[[topics]]
-from = 29
-to = 29
-topic = "Jangan terlalu pelit & jangan terlalu pemurah"
-
-[[topics]]
-from = 30
-to = 32
-topic = "Beberapa tata krama pergaulan"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 78
-to = 79
-topic = "Perintah tahajjud & sholat 5 waktu"
-
+topic = "ISYARAT BAHWA UMAT ISLAM AKAN MENJADI UMAT YANG BESAR"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Isra' dari Mekah ke Baitul Maqdis sebagai penghormatan terhadap Nabi Muhammad"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penghormatan terhadap Nabi Musa dengan menurunkan Taurat kepadanya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "KehancuranBaniIsrailkarenatidakmengikutiajaranTaurat"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Al-Qur'an petunjuk ke jalan yang benar"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Setiap orang memikul dosanya sendiri "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa tata krama pergaulan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sanggahan terhadap orang yang mempersekutukan Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang kafir tidak dapat memahami Al-Qur'an"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara membantah keingkaran kaum musyrikin "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kaum yang ingkar pasti mendapat hukuman "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Permusuhan dan godaan setan terhadap manusia"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Peringatan tentang nikmat Allah dengan beberapa kejadian pada hari kiamat "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perlawanan terhadap Nabi Muhammad akan gagal seperti terhadap nabi-nabi terdahulu"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Petunjuk Allah dalam menghadapi tantangan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tantangan Nabi Muhammad untuk menandingi Al-Qur'an"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keingkaran orang kafir dan bantahan terhadapnya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa kisah pengalaman Nabi Musa sebagai pelipur Nabi Muhammad "

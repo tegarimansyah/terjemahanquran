@@ -1,12 +1,21 @@
 name = "Al-Mujaadalah"
 number = 58
-[[topics]]
-from = 11
-to = 13
-topic = "Etika berkumpul dalam mencari ilmu"
 
 [[topics]]
-from = 0
-to = 0
-topic = "QS 59 Al-Hasyr: 1-24"
-
+topic = "BEBERAPA KETENTUAN DALAM ISLAM "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hukum Zhihar"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Celaan terhadap perundingan rahasia untuk memusuhi Islam"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sopan-santun menghadiri majelis Nabi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan bersahabat dengan orang yang memusuhi Islam"

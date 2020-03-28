@@ -1,32 +1,89 @@
 name = "Al-Maidah"
 number = 5
-[[topics]]
-from = 6
-to = 6
-topic = "Perintah untuk wudhu & membersihkan badan"
 
 [[topics]]
-from = 8
-to = 8
-topic = "Kewajiban berlaku Adil dan Jujur"
+topic = "JANJI PRASETIA KEPADA ALLAH DAN PENYEMPURNAAN AGAMA ISLAM"
 
 [[topics]]
-from = 9
-to = 31
-topic = "kosong"
+topic = "WUDHU, MANDI, DAN TAYAMUM "
 
 [[topics]]
-from = 32
-to = 40
-topic = "Hukum terhadap perusuh dan pengacau keamanan"
+topic = "KEWAJIBAN BERSIKAP ADIL DAN JUJUR"
 
 [[topics]]
-from = 51
-to = 53
-topic = "Dilarang berteman akrab dengan orang-orang Yahudi dan Nasrani dan akibat melanggarnya"
+topic = "PENGINGKARAN JANJI PRASETIA OLEH ORANG YAHUDI DAN NASRANI "
 
 [[topics]]
-from = 89
-to = 93
-topic = "Larangan meminum khamar, berjudi, berkorban untuk berhala dan mengundi nasib"
+topic = "KEENGGANAN BANGSA YAHUDI MENAATI PERINTAH NABI MUSA A.S. UNTUK MEMASUKI PALESTINA DAN AKIBATNYA "
 
+[[topics]]
+topic = "KISAH PEMBUNUHAN PERTAMA DAN BESARNYA MALAPETAKA AKIBAT PEMBUNUHAN"
+
+[[topics]]
+topic = "HUKUMAN BAGI PERUSUH DAN PENGACAU KEAMANAN"
+
+[[topics]]
+topic = "PENGINGKARAN ORANG YAHUDI TERHADAP HUKUM-HUKUM TAURAT"
+
+[[topics]]
+topic = "DAN KEWAJIBAN MEMUTUSKAN PERKARA MENURUT HUKUM YANG DITURUNKAN ALLAH "
+
+[[topics]]
+topic = "LARANGAN BERTEMAN AKRAB DENGAN ORANG YAHUDI DAN NASRANI"
+
+[[topics]]
+topic = "DAN AKIBAT MELANGGARNYA"
+
+[[topics]]
+topic = "LAKNAT ALLAH TERHADAP ORANG YAHUDI "
+
+[[topics]]
+topic = "KEWAJIBAN RASULULLAH SAW MENYAMPAIKAN AGAMA"
+
+[[topics]]
+topic = "PERNYATAAN ALLAH TENTANG KEKAFIRAN ORANG YANG MEYAKINI 'ISA A.S. SEBAGAI TUHAN "
+
+[[topics]]
+topic = "PENYEBAB LAKNAT ALLAH TERHADAP ORANG YAHUDI "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+
+[[topics]]
+topic = "HUBUNGAN ORANG YAHUDI DAN NASRANI DENGAN ORANG MUKMIN "
+
+[[topics]]
+topic = "PERINGATAN UNTUK KAUM MUSLIMIN TERKAIT ADAT JAHILIYAH YANG"
+
+[[topics]]
+topic = "TERLARANG"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan mengharamkan makanan yang halal "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sumpah dan kaffaratnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan meminum khamar, berjudi, berkurban untuk berhala, dan mengundi nasib "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Menghormati Ka'bah sebagai pusat kehidupan manusia,"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan bertanya sesuatu yang menyebabkan kemudharatan"
+
+[[topics]]
+topic = "ANJURAN BERWASIAT DENGAN PERSAKSIAN"
+
+[[topics]]
+topic = "SALAH SATU PERISTIWA PADA HARI KIAMAT"
+
+[[topics]]
+topic = "BEBERAPA KISAH TENTANG 'ISA A.S. "

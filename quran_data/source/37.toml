@@ -1,22 +1,61 @@
 name = "Ash-Shaaffaat"
 number = 37
-[[topics]]
-from = 1
-to = 70
-topic = "Bukti-bukti keesaan Allah. Alam langit dipelihara dari gangguan syaitan"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 100
-to = 101
-topic = "Doa memohon anak yang soleh"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+topic = "BUKTI-BUKTI KEESAAN ALLAH"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Alam langit dipelihara dari gangguan setan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tuhan mematahkan dalil-dalil kaum musyrikin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keadaan orang-orang musyrik di akhirat"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keadaan orang-orang mukmin di surga"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Buah pohon zaqqum makanan ahli neraka "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Akibat yang diderita umat terdahulu karena membangkang terhadap kebenaran "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah mengabulkan permohonan Nabi Nuh "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nabi Ibrahim menghancurkan berhala"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penyembelihan Isma'il "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kabar gembira tentang kelahiran Ishaq"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nikmat yang diberikan Allah kepada nabi Musa, Harun, Ilyas, Luth, dan Yunus "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tak layak Allah mempunyai anak perempuan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kaum musyrikin beserta sembahannya tidak berdaya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Para rasul dan pengikutnya pasti mendapat kemenangan "

@@ -1,22 +1,116 @@
 name = "At-Taubah"
 number = 9
-[[topics]]
-from = 1
-to = 24
-topic = "Pengumuman tentang pembatalan perjanjian damai"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "PENGUMUMAN TENTANG PEMBATALAN PERJANJIAN DAMAI DENGAN KAUM MUSYRIKIN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang Islam terbebas dari tanggung jawab terhadap perjanjian dengan kaum musyrikin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pengumuman perang terhadap kaum musyrikin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penyebab perjanjian damai dibatalkan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ujian keimanan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang yang layak memakmurkan masjid"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Umat Islam mendapat kemenangan dalam berbagai pertempuran"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kepercayaan orang-orang Yahudi dan Nasrani serta sikap mereka"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Bulan-bulan yang dihormati"
 
 [[topics]]
-from = 71
-to = 72
-topic = "Anjuran kepada orang-orang mu'min dan janji Allah terhadap mereka"
-
-[[topics]]
-from = 128
-to = 129
-topic = "Tawakal : Berserah setelah berusaha"
-
+topic = "KISAH PERANG TABUK "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Anjuran untuk berjihad "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hanya orang munafik yang tidak mau berperang"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sikap orang munafik terhadap pembagian sedekah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ketentuan pembagian zakat "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tuduhan orang munafik terhadap Nabi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hasutan orang-orang munafik dan ancaman Allah terhadap mereka "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Anjuran kepada orang-orang mukmin dan janji Allah terhadap mereka"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan bersikap tegas terhadap orang kafir dan munafik "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ikrar orang munafik tidak dapat dipercaya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kemunafikan adalah dosa yang tidak diampuni Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keadaan orang-orang munafik yang tidak mau turut berjihad"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan menshalatkan jenazah orang munafik"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keengganan orang munafik untuk berjihad dan pahala orang yang berjihad"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Uzur yang dibenarkan syariat untuk tidak berjihad"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan Penguasa memungut zakat "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan waspada terhadap tipu muslihat orang yang mempergunakan masjid sebagai alatnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penghargaan Allah terhadap para syuhada'"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan memintakan ampun untuk orang musyrik"

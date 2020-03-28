@@ -1,7 +1,21 @@
 name = "Al-Qiyamah"
 number = 75
-[[topics]]
-from = 1
-to = 40
-topic = "Kekuasaan Allah menghidupkan manusia seperti semula"
 
+[[topics]]
+topic = "HARI KIAMAT DAN HURU HARANYA"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kekuasaan Allah menghidupkan manusia seperti semula"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Urutan ayat-ayat dan surat-surat dalam Al-Qur'an menurut ketentuan Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keadaan manusia di saat sakaratul maut"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Manusia diciptakan Allah bukan sia-sia"

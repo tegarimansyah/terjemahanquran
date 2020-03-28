@@ -1,7 +1,49 @@
 name = "Yaasiin"
 number = 36
-[[topics]]
-from = 1
-to = 83
-topic = "kosong"
 
+[[topics]]
+topic = "PERNYATAAN DARI ALLAH BAHWA MUHAMMAD BENAR-BENAR SEORANG RASUL"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kegunaan Al-Qur'an yang diturunkan kepada Muhammad"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang kafir pasti mendapat azab karena tidak mengindahkan peringatan Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Peringatan hanya berguna bagi orang yang takut kepada Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kisah penduduk sebuah kota yang harus menjadi pelajaran bagi penduduk Mekah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penyesalan terhadap orang-orang yang tidak beriman "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tanda-tanda kekuasaan Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keadaan orang-orang mukmin pada hari kiamat "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cercaan Allah terhadap orang yang tidak beriman"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nabi Muhammad bukanlah seorang penyair"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kekuasaan Allah membangkitkan manusia pada hari kiamat"

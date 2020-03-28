@@ -1,12 +1,17 @@
 name = "Al-Mumtahanah"
 number = 60
-[[topics]]
-from = 1
-to = 13
-topic = "Perempuan yang diuji"
 
 [[topics]]
-from = 1
-to = 13
-topic = "Perempuan yang diuji"
-
+topic = "BEBERAPA KETENTUAN DALAM KEADAAN PERANG"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan menjadikan seseorang dari golongan musuh sebagai teman setia "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hubungan antara orang Islam dan orang kafir yang tidak memusuhi Islam "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perlakuan terhadap perempuan-perempuan mukmin yang masuk daerah Islam "

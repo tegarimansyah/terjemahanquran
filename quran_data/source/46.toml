@@ -1,17 +1,14 @@
 name = "Al-Ahqaaf"
 number = 46
-[[topics]]
-from = 1
-to = 14
-topic = "Kebenaran tauhid dan kebatilan syirik"
 
 [[topics]]
-from = 15
-to = 15
-topic = "Doa mohon dapat bersyukur"
+topic = "KEBENARAN TAUHID DAN KEBATILAN SYIRIK"
 
 [[topics]]
-from = 16
-to = 35
-topic = "Kebenaran tauhid dan kebatilan syirik"
+topic = "KEWAJIBAN MENGHORMATI KEDUA ORANG TUA "
 
+[[topics]]
+topic = "KEHANCURAN KAUM 'AD "
+
+[[topics]]
+topic = "PENYIARAN AL-QUR'AN KEPADA GOLONGAN JIN "

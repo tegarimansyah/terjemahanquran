@@ -1,7 +1,22 @@
 name = "Al-Qalam"
 number = 68
-[[topics]]
-from = 1
-to = 52
-topic = "Kalam"
 
+[[topics]]
+topic = "BANTAHAN ALLAH TERHADAP TUDUHAN ORANG KAFIR KEPADA NABI MUHAMMAD"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Muhammad adalah seorang yang berakhlak agung"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan mentaati orang-orang yang mendustakan kebenaran"
+
+[[topics]]
+topic = "ALLAH TELAH MENIMPAKAN COBAAN KEPADA ORANG KAFIR SEPERTI"
+
+[[topics]]
+topic = "YANG DITIMPAKAN KEPADA PEMILIK KEBUN "
+
+[[topics]]
+topic = "ALLAH TIDAK MENYAMAKAN ORANG YANG BAIK DENGAN ORANG YANG BURUK "

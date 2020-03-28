@@ -1,7 +1,26 @@
 name = "An-Nabaa"
 number = 78
+
 [[topics]]
-from = 1
-to = 40
-topic = "Berita berbangkit"
+topic = "HARI KEBANGKITAN "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kekuasaan Allah menciptakan alam adalah bukti kekuasaan-Nya membangkitkan manusia"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kedahsyatan hari kebangkitan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Balasan terhadap orang yang durhaka"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Balasan terhadap orang yang bertakwa"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah agar manusia memilih jalan yang benar kepada Tuhannya"
 

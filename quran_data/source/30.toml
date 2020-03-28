@@ -1,27 +1,59 @@
 name = "Ar-Ruum"
 number = 30
-[[topics]]
-from = 1
-to = 20
-topic = "Kebenaran pemberitaan Al-Qur'an tentang peristiwa yang akan terjadi"
 
 [[topics]]
-from = 21
-to = 21
-topic = "Allah menciptakan pasangan bagi manusia & kasih sayang diantaranya"
+topic = "KEBENARAN PEMBERITAAN AL-QUR'AN TENTANG PERISTIWA YANG AKAN TERJADI"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Berita kemenangan bangsa Romawi, Ahli Kitab, atas bangsa Persia musyrik"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kaum yang menentang Nabi Muhammad akan hancur seperti halnya kaum yang menentang nabi-nabi terdahulu"
 
 [[topics]]
-from = 22
-to = 36
-topic = "Islam adalah agama Fitrah"
+topic = "BUKTI KEBENARAN HARI KEBANGKITAN DAN PENGGOLONGAN MANUSIA"
 
 [[topics]]
-from = 37
-to = 40
-topic = "Allah mengatur pemberian rezki dan penggunaannya"
+topic = "MENJADI MUKMIN DAN KAFIR "
 
 [[topics]]
-from = 41
-to = 45
-topic = "QS 30 Ar-Ruum: 46-60"
+topic = "BUKTI-BUKTI KEBESARAN ALLAH SWT YANG TERDAPAT PADA ALAM"
 
+[[topics]]
+topic = "SEMESTA"
+
+[[topics]]
+topic = "ISLAM ADALAH AGAMA FITRAH"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Suatu tamsil yang terdapat pada keadaan manusia tentang keesaan Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Manusia, menurut fitrahnya, beragama tauhid "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sifat-sifat manusia yang tercela"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah mengatur pemberian dan penggunaan rezeki"
+
+[[topics]]
+topic = "AKIBAT YANG BURUK DAN YANG BAIK DARI PERBUATAN MANUSIA"
+
+[[topics]]
+topic = "MEMPERHATIKAN ALAM MENAMBAH KEYAKINAN TERHADAP ALLAH "
+
+[[topics]]
+topic = "BUKTI-BUKTI TENTANG KEKUASAAN ALLAH DAN KEADAAN MANUSIA"
+
+[[topics]]
+topic = "PADA HARI KIAMAT "
+
+[[topics]]
+topic = "ANJURAN MEMPERHATIKAN PERUMPAMAAN YANG TERDAPAT DALAM AL-QUR'AN"

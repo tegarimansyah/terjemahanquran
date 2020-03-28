@@ -1,22 +1,53 @@
-name = "Gafir"
+name = "AL-MU'MIN / Ghafir"
 number = 40
-[[topics]]
-from = 1
-to = 20
-topic = "Orang-orang mu'min janganlah terpedaya oleh kemakmuran orang-orang musyrikin"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 60
-to = 60
-topic = "Tentang doa"
-
-[[topics]]
-from = 61
-to = 65
-topic = "Allah akan memperkenankan do'a hamba-Nya"
-
+topic = "PENENTANGAN TERHADAP AGAMA PASTI MENEMUI KEGAGALAN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang-orang mukmin jangan teperdaya oleh kemakmuran orang-orang musyrikin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Para malaikat bertasbih kepada Allah dan mendoakan orang-orang mukmin "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keinginan orang-orang kafir keluar dari neraka"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban menunaikan ibadah kepada Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pelajaran yang dapat diambil dari kisah Nabi Musa "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pengingkaran terhadap kekuasaan Allah hanyalah karena kesombongan semata "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah akan memperkenankan doa hamba-Nya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kekuasaan Allah yang tercermin pada alam semesta "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nasib orang yang menentang ayat-ayat Allah dan rasul-Nya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Rasul ada yang disebutkan kisahnya dalam Al-Qur'an dan ada yang tidak disebutkan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pelajaran yang dapat diambil dari peristiwa yang terjadi pada umat-umat terdahulu "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Iman pada waktu azab telah datang tidak berguna lagi "

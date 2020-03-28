@@ -1,7 +1,19 @@
 name = "Al-Muzzammil"
 number = 73
-[[topics]]
-from = 1
-to = 20
-topic = "Orang yang berselimut"
 
+[[topics]]
+topic = "PETUNJUK ALLAH KEPADA NABI MUHAMMAD UNTUK MEMPERSIAPKAN"
+
+[[topics]]
+topic = "DIRI DALAM BERDAKWAH "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban shalat malam atas Nabi Muhammad"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa petunjuk lainnya untuk Nabi Muhammad "
+
+[[topics]]
+topic = "BEBERAPA PETUNJUK BAGI KAUM MUSLIMIN"

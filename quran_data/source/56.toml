@@ -1,7 +1,28 @@
 name = "Al-Waqiah"
 number = 56
-[[topics]]
-from = 1
-to = 96
-topic = "Hari Kiamat"
 
+[[topics]]
+topic = "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pada hari kiamat manusia terbagi menjadi tiga golongan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Golongan kanan, golongan kiri, dan orang-orang yang paling dahulu beriman "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Balasan kepada orang yang paling dahulu beriman "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Balasan kepada golongan kanan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Azab atas golongan kiri dan celaan untuk mereka"
+
+[[topics]]
+topic = "SUMPAH ALLAH TENTANG KEMULIAAN AL-QUR'AN"

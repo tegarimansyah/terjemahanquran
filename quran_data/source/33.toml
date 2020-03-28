@@ -1,32 +1,82 @@
 name = "Al-Ahzab"
 number = 33
-[[topics]]
-from = 1
-to = 10
-topic = "Bantuan Allah kepada kaum muslimin dalam peperangan Ahzab"
 
 [[topics]]
-from = 11
-to = 21
-topic = "Bantuan Allah kepada kaum muslimin dalam peperangan Ahzab"
+topic = "HUKUM KEKELUARGAAN HARUS BERDASARKAN KETETAPAN ALLAH DAN RASUL"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Takwa dan tawakkal kepada Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hukum zhihar dan kedudukan anak angkat"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kedudukan hubungan darah dalam hubungan waris "
 
 [[topics]]
-from = 22
-to = 44
-topic = "Sifat-sifat orang mu'min dan kewajiban mereka terhadap perintah rasul"
+topic = "BANTUAN ALLAH KEPADA KAUM MUSLIMIN DALAM PERANG AHZAB"
 
 [[topics]]
-from = 45
-to = 58
-topic = "Adab dan sopan santun dalam rumah tangga Nabi S.A.W."
+topic = "PERANG DENGAN BANI QURAIZHAH "
 
 [[topics]]
-from = 59
-to = 59
-topic = "Menutup aurat / Hijab"
+topic = "KETENTUAN ALLAH TERHADAP ISTRI NABI"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
 
 [[topics]]
-from = 60
-to = 63
-topic = "Ancaman-ancaman terhadap orang-orang munafik dan orang-orang yang membuat kerusuhan di Madinah"
+topic = "SIFAT-SIFAT ORANG MUKMIN DAN KEWAJIBAN MEREKA TERHADAP PERINTAH RASUL"
 
+[[topics]]
+topic = "ANAK ANGKAT TIDAK SAMA DENGAN ANAK KANDUNG "
+
+[[topics]]
+topic = "KEHARUSAN MENGINGAT ALLAH"
+
+[[topics]]
+topic = "MUHAMMAD ADALAH RASUL YANG DIUTUS UNTUK SEGENAP UMAT MANUSIA "
+
+[[topics]]
+topic = "BEBERAPA KETENTUAN ISLAM TENTANG HUKUM PERKAWINAN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perempuan yang diceraikan sebelum dicampuri tidak ada 'iddah dan harus diberi mut'ah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perempuan yang halal dinikahi oleh Rasul"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nabi boleh memilih di antara istri-istrinya, siapa yang dipertahankannya dan siapa dilepaskannya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nabi tidak boleh menikah lagi setelah ayat ini diturunkan"
+
+[[topics]]
+topic = "ADAB DAN SOPAN SANTUN DALAM RUMAH TANGGA NABI"
+
+[[topics]]
+topic = "KEHARUSAN PEREMPUAN BERJILBAB, JIKA BERADA DI LUAR RUMAH"
+
+[[topics]]
+topic = "ANCAMAN TERHADAP ORANG MUNAFIK DAN ORANG YANG BERBUAT KERUSUHAN DI MADINAH "
+
+[[topics]]
+topic = "HANYA ALLAH YANG MENGETAHUI KAPAN HARI KEBANGKITAN TERJADI"
+
+[[topics]]
+topic = "ANCAMAN TERHADAP ORANG KAFIR"
+
+[[topics]]
+topic = "TAKWA KEPADA ALLAH MEMBAWA PERBAIKAN AMAL DAN AMPUNAN DOSA "
+
+[[topics]]
+topic = "MENERIMA TUGAS TETAPI TIDAK MELAKSANAKANNYA ADALAH KEZALIMAN "

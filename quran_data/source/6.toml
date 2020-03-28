@@ -1,42 +1,53 @@
 name = "Al-An'am"
 number = 6
-[[topics]]
-from = 1
-to = 20
-topic = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad S.A.W."
 
 [[topics]]
-from = 32
-to = 32
-topic = "Perbedaan dunia & akhirat"
+topic = "KEYAKINAN TENTANG KEESAAN ALLAH-LAH YANG MENANG"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Dalil-dalil tentang keesaan Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Faktor penyebab kekafiran kaum musyrikin dan ancaman untuk mereka"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad SAW  "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kesaksian kaum musyrikin terhadap dirinya sendiri dan keadaan mereka pada hari kiamat"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Firman Allah yang membesarkan hati Nabi Muhammad SAW  "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kesempurnaan ilmu Allah dan bukti-bukti kekuasaan-Nya"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "TUNTUNAN DALAM HIDUP BERMASYARAKAT"
 
 [[topics]]
-from = 53
-to = 58
-topic = "Tuntunan-tuntunan dalam menghadapi masyarakat"
+topic = "NABI IBRAHIM A.S. MEMIMPIN KAUMNYA KEPADA AGAMA TAUHID"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "ORANG YANG DIBERI KITAB, HIKMAH, DAN KENABIAN "
 
 [[topics]]
-from = 106
-to = 108
-topic = "Saling menghormati dalam beragama"
+topic = "KEBENARAN WAHYU, AKIBAT BERBUAT DUSTA TERHADAP ALLAH, DAN LARANGAN MEMAKI BERHALA"
 
 [[topics]]
-from = 141
-to = 143
-topic = "Besarnya Karunia Allah kepada Manusia"
+topic = "SIKAP KERAS KEPALA KAUM MUSYRIKIN DAN SIKAP MEREKA TERHADAP KERASULAN MUHAMMAD SAW "
 
 [[topics]]
-from = 159
-to = 161
-topic = "Peraturan-peraturan yang dibuat-buat oleh kaum musyrikin dan pimpinan Allah terhadap kaum muslimin"
+topic = "DERAJAT SESEORANG SESUAI DENGAN AMALNYA "
 
+[[topics]]
+topic = "PERATURAN YANG DIBUAT-BUAT OLEH KAUM MUSYRIKIN DAN PETUNJUK"
+
+[[topics]]
+topic = "ALLAH UNTUK KAUM MUSLIMIN"

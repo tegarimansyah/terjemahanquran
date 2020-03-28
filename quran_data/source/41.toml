@@ -1,17 +1,20 @@
 name = "Fussilat"
 number = 41
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 30
-to = 35
-topic = "Sifat baik dianugerahkan kepada orang yang sabar"
+topic = "NABI ADALAH MANUSIA BIASA YANG DIBERI WAHYU"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "ALLAH MENCIPTAKAN LANGIT DAN BUMI DALAM BEBERAPA PERIODE"
 
+[[topics]]
+topic = "PERINGATAN KEPADA KAUM QURAISY TENTANG PERISTIWA YANG DIALAMI KAUM 'AD DAN TSAMUD"
+
+[[topics]]
+topic = "ANGGOTA TUBUH MANUSIA AKAN MENJADI SAKSI PADA HARI KIAMAT"
+
+[[topics]]
+topic = "PEMBALASAN ALLAH TERHADAP ORANG KAFIR DAN ORANG YANG BERIMAN "
+
+[[topics]]
+topic = "AL-QUR'AN ADALAH PETUNJUK DAN PENAWAR "

@@ -1,7 +1,13 @@
 name = "Ash-Shaff"
 number = 61
-[[topics]]
-from = 1
-to = 14
-topic = "Barisan"
 
+[[topics]]
+topic = "JALAN MENCAPAI KEMENANGAN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan umat Islam mempertahankan agama dalam barisan yang teratur"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kemenangan hanya dapat diperoleh dengan pengorbanan "

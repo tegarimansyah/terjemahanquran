@@ -1,22 +1,53 @@
 name = "Yusuf"
 number = 12
-[[topics]]
-from = 30
-to = 31
-topic = "Yusuf dipenjara"
 
 [[topics]]
-from = 1
-to = 52
-topic = "Kisah Nabi Yusuf A.S"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 101
-to = 101
-topic = "Doa mohon diwafatkan sebagai muslim"
-
+topic = "KISAH NABI YUSUF "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Yusuf bermimpi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Yusuf dan saudara-saudaranya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Yusuf mendapat godaan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Yusuf dipenjara "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Dakwah Yusuf dalam penjara"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Takwil Yusuf tentang mimpi raja"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Yusuf dibebaskan dari penjara"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pertemuan Yusuf dengan saudara-saudaranya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pertemuan Yusuf A.S. dengan kedua orang tuanya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Doa Yusuf A.S.  "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pelajaran yang dapat diambil dari kisah Yusuf A.S. "

@@ -1,17 +1,16 @@
-name = "At-Tahriim"
+name = "At-Tahrim"
 number = 66
-[[topics]]
-from = 1
-to = 5
-topic = "Beberapa tuntunan tentang kehidupan rumah tangga"
 
 [[topics]]
-from = 6
-to = 9
-topic = "Perintah memelihara diri dan keluarga dari adzab Allah & perintah taubat dan berjihad"
+topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Nabi Muhammad dan istri-istrinya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah taubat dan berjihad "
 
 [[topics]]
-from = 10
-to = 12
-topic = "Contoh-contoh tentang isteri yang tidak baik dan isteri yang baik"
-
+topic = "CONTOH ISTRI YANG TIDAK BAIK DAN ISTRI YANG BAIK"

@@ -1,22 +1,49 @@
 name = "Asy-Syuraa"
 number = 42
-[[topics]]
-from = 1
-to = 12
-topic = "Perselisihan-perselisihan umat manusia dikembalikan penyelesainnya kepada Kitab Allah"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 30
-to = 43
-topic = "Bersabar & Memaafkan"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+topic = "POKOK-POKOK AJARAN PARA RASUL ADALAH SAMA"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Wahyu yang diturunkan kepada Nabi Muhammad sama dengan yang diturunkan kepada rasul-rasul sebelumnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Para malaikat memohonkan ampunan kepada Allah untuk penghuni bumi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Al-Qur'an sebagai peringatan untuk seluruh umat manusia "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penyelesaian perselisihan umat manusia dikembalikan kepada kitab Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Semua rasul mengajak untuk menyembah Allah Yang Maha Esa"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah memberikan balasan amal seseorang menurut niatnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah memaafkan sebagian besar dosa hamba-Nya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban bermusyawarah tentang masalah keduniaan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Bersabar dan memberi maaf lebih baik daripada menuntut balas"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang yang dibiarkan sesat oleh Allah tidak akan menemukan pemimpin yang memberi petunjuk"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara wahyu diturunkan kepada rasul"

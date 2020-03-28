@@ -1,17 +1,37 @@
 name = "Al-Hijr"
 number = 15
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 45
-to = 50
-topic = "Rahmat Allah bagi orang-orang yang bertakwa"
+topic = "JAMINAN ALLAH TERHADAP KEMURNIAN AL-QUR'AN DAN KEJAYAAN ISLAM"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "KEKUASAAN ALLAH MELIPUTI ALAM SEMESTA "
+
+[[topics]]
+topic = "PANDANGAN ISLAM TENTANG KEJADIAN MANUSIA "
+
+[[topics]]
+topic = "RAHMAT ALLAH BAGI ORANG YANG BERTAKWA"
+
+[[topics]]
+topic = "KISAH BEBERAPA ORANG NABI"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kisah Nabi Ibrahim dengan tamunya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kisah Nabi Luth"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kisah Nabi Syu'aib"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kisah kaum Tsamud "
+
+[[topics]]
+topic = "ANUGERAH ALLAH DAN PERINTAHKEPADA NABI MUHAMMAD "
 

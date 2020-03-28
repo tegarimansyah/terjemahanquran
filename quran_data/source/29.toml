@@ -1,12 +1,82 @@
-name = "Al-Ankabuut"
+name = "Al-'Ankabuut"
 number = 29
-[[topics]]
-from = 1
-to = 7
-topic = "Orang yang beriman pasti akan diuji"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "COBAAN ADALAH BAROMETER BAGI SEMPURNA ATAU TIDAKNYA IMAN SESEORANG "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cobaan memang diperlukan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Manfaat usaha manusia kembali kepada dirinya sendiri"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ajakan mempersekutukan Tuhan harus ditentang sekalipun dari ibu-bapak"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sikap orang yang lemah iman dalam menghadapi cobaan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cobaan terhadap Nabi Nuh "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cobaan terhadap Nabi Ibrahim dan Nabi Luth "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cobaan terhadap Nabi Syu'aib "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cobaan terhadap Nabi Huud dan Nabi Shaleh "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cobaan terhadap Nabi Musa "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perlawanan terhadap kebenaran pasti hancur"
 
+[[topics]]
+topic = "AL-QUR'AN MENYUCIKAN JIWA MANUSIA"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Shalat mencegah kejahatan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Berdebat dengan nonmuslim"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Azab Allah pasti datang pada waktunya"
+
+[[topics]]
+topic = "KEHIDUPAN AKHIRAT ADALAH KEHIDUPAN YANG SEBENARNYA "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kabar gembira untuk orang yang beriman"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah menentukan rezeki setiap makhluk"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Dalam keadaan terdesak manusia mengakui kekuasaan Allah"
+
+[[topics]]
+topic = "JAMINAN ALLAH TERHADAP KEAMANAN TANAH SUCI"

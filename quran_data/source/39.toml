@@ -1,17 +1,65 @@
 name = "Az-Zumar"
 number = 39
-[[topics]]
-from = 1
-to = 5
-topic = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
 
 [[topics]]
-from = 10
-to = 18
-topic = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
+topic = "BERIBADAH KEPADA ALLAH DENGAN HATI PENUH KEIKHLASAN"
 
 [[topics]]
-from = 53
-to = 55
-topic = "Allah mengampuni semua dosa"
+topic = "PERBANDINGAN ANTARA ORANG MUKMIN DAN ORANG KAFIR"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang kafir akan menemui azab neraka dan orang- yang berbuat kebaikan akan mendapat pahala berlipat ganda"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hanya kepada Allah orang mukmin bertawakal"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Setiap orang akan memetik buah amalnya sendiri"
 
+[[topics]]
+topic = "ORANG YANG ZALIM PASTI MENDAPAT AZAB PADA HARI KIAMAT"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Syafaat itu adalah semata-mata hak Allah"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Salah satu sifat orang yang tidak beriman kepada kehidupan akhirat"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Salah satu watak manusia yang buruk"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah menentukan kadar rezeki hamba-Nya"
+
+[[topics]]
+topic = "LARANGAN BERPUTUS ASA TERHADAP RAHMAT ALLAH "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah segera bertaubat sebelum datangnya azab"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perbedaan keadaan orang yang bertakwa dengan orang yang mendustakan hari kiamat"
+
+[[topics]]
+topic = "GAMBARAN TENTANG KEKUASAAN ALLAH PADA HARI KIAMAT"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Peringatan agar menjauhi kemusyrikan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa peristiwa yang terjadi pada hari kiamat"

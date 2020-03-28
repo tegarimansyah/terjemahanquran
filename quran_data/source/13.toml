@@ -1,42 +1,63 @@
 name = "Ar-Ra'd"
 number = 13
-[[topics]]
-from = 1
-to = 10
-topic = "kosong"
 
 [[topics]]
-from = 11
-to = 11
-topic = "Kebangkitan dan keruntuhan suatu bangsa tergantung pada sikap dan tindakan mereka sendiri"
+topic = "KEBENARAN AL-QUR'AN "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Bukti kekuasaan Allah dan kesempurnaan ilmu-Nya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kebangkitan dan keruntuhan suatu bangsa tergantung pada sikap dan tindakan mereka sendiri"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tanda-tanda keesaan Allah "
 
 [[topics]]
-from = 12
-to = 17
-topic = "kosong"
+topic = "MANUSIA MEMPEROLEH BALASAN AMAL PERBUATANNYA "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa sifat dan perbuatan yang mulia dalam Islam "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Di antara sifat dan perbuatan orang yang ingkar kepada Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ketenteraman hati orang-orang yang beriman serta pembalasan bagi mereka "
 
 [[topics]]
-from = 18
-to = 24
-topic = "Mengadakan hubungan silaturahmi merupakan salah satu sifat mulia"
-
-[[topics]]
-from = 22
-to = 24
-topic = "Keluarga yang saleh dapat berjumpa lagi di surga"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 28
-to = 29
-topic = "Ketentuan hari orang-orang yang beriman serta pembalasan bagi mereka"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+topic = "PENGUTUSAN RASUL-RASUL KEPADA UMAT MANUSIA MERUPAKAN SUNNATULLAH"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah mengutus Muhammad kepada umatnya sebagaimana Dia mengutus rasul-rasul kepada umat-umat mereka" 
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Al-Qur'an kitab yang menggoncangkan dunia"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Penentang Rasul pasti akan hancur"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Gambaran surga "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang mukmin menerima keseluruhan Al-Qur'an"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hidup berkeluarga tidak berlawanan dengan kerasulan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tiap-tiap masa memiliki tantangan dan jawabannya sendiri-sendiri"

@@ -1,32 +1,65 @@
 name = "An-Nuur"
 number = 24
-[[topics]]
-from = 1
-to = 20
-topic = "Tuduhan yang bohong terhadap Aisyah R.A., Ummul Mu'minun"
 
 [[topics]]
-from = 21
-to = 25
-topic = "kosong"
-
-[[topics]]
-from = 26
-to = 26
-topic = "Wanita baik untuk lelaki baik & sebaliknya"
-
-[[topics]]
-from = 30
-to = 31
-topic = "Adat berpakaian bagi laki2 & perempuan"
-
-[[topics]]
-from = 35
-to = 38
-topic = "Allah pemberi cahaya langit & bumi"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+topic = "HUKUM PERZINAAN DAN PERGAULAN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hukum perzinaan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hukum menuduh perempuan baik-baik berzina"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hukum Li'an"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tuduhan terhadap 'Aisyah Ummul Mukminin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pedoman memasuki rumah orang lain "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pedoman pergaulan antara laki-laki dan perempuan yang bukan mahram "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Anjuran menikah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pencerminan ayat-ayat Al-Qur'an sebagai nur Ilahi pada langit dan bumi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang yang mendapat pancaran nur Ilahi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang yang tidak mendapat pancaran nur Ilahi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cerminan kekuasaan Allah "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perbedaan sikap orang munafik dan orang mukmin dalam bertahkim kepada rasul"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kekuasaan yang dijanjikan Allah kepada orang yang taat dan mengerjakan amal saleh"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pedoman pergaulan dalam rumah tangga"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Adab pergaulan orang mukmin terhadap Rasul "

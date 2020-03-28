@@ -1,17 +1,14 @@
-name = "Ath-Thuur"
+name = "Ath-Thur"
 number = 52
-[[topics]]
-from = 1
-to = 20
-topic = "Bukit"
 
 [[topics]]
-from = 21
-to = 21
-topic = "Allah mempertemukan keluarga yang beriman dengan anak cucu mereka di dalam surga"
+topic = "SUMPAH YANG MENEGASKAN BAHWA AZAB ALLAH PASTI MENIMPA ORANG"
 
 [[topics]]
-from = 22
-to = 49
-topic = "Bukit"
+topic = "YANG MENDUSTAKAN DAN KARUNIANYA PASTI DILIMPAHKAN KEPADA ORANG YANG BERTAKWA "
 
+[[topics]]
+topic = "BANTAHAN ALLAH TERHADAP OCEHAN KAUM MUSYRIKIN"
+
+[[topics]]
+topic = "KEHARUSAN BERSABAR, BERTASBIH, DAN SHALAT MALAM"

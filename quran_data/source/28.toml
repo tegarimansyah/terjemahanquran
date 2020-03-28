@@ -1,22 +1,83 @@
-name = "Al-Qasas"
+name = "Al-Qashash"
 number = 28
-[[topics]]
-from = 26
-to = 26
-topic = "kosong"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+topic = "KISAH MUSA DAN FIR'AUN SEBAGAI BUKTI KEBENARAN AL-QUR'AN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kekejaman Fir'aun dan pertolongan Allah kepada Bani Israil"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Musa dicampakkan ke sungai Nil"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Musa diberi ilham dan hikmah sebagai persiapan menjadi rasul"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Musa mendapat nasihat agar meninggalkan negeri Mesir"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Musa pulang ke Mesir dan menerima wahyu untuk menyeru Fir'aun"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Permohonan Musa kepada Allah untuk mengangkat Harun menjadi pembantunya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kesombongan Fir'aun "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Taurat diturunkan untuk menjadi petunjuk bagi Bani Israil"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kisah Musa menerima Taurat hanya diketahui Nabi Muhammad melalui wahyu"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang kafir selalu mengingkari bukti sekalipun dahulu meminta"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sebagian ahli kitab ada yang beriman kepada Muhammad SAW setelah menyaksikan bukti kebenaran "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hanya Allah yang dapat memberi taufiq untuk beriman"
 
 [[topics]]
-from = 77
-to = 77
-topic = "Mengejar akhirat tidak boleh meninggalkan dunia"
+topic = "TUHAN TIDAK AKAN MEMBINASAKAN SESUATU UMAT SEBELUM SEORANG"
 
 [[topics]]
-from = 88
-to = 88
-topic = "Segalanya akan binasa kecuali Allah"
+topic = "RASUL DIUTUS KEPADA MEREKA"
 
+[[topics]]
+topic = "KEHIDUPAN DUNIAWI ADALAH BAYANGAN DAN KEHIDUPAN AKHIRAT KEKAL DAN ABADI"
+
+[[topics]]
+topic = "PERTANGGUNGJAWABAN PADA HARI KIAMAT "
+
+[[topics]]
+topic = "HANYA ALLAH YANG BERHAK MENENTUKAN SEGALA SESUATU"
+
+[[topics]]
+topic = "BUKTI YANG MENGHARUSKAN KITA MEMUJI ALLAH"
+
+[[topics]]
+topic = "ORANG MUSYRIKIN MEMPERSEKUTUKAN ALLAH KARENA HAWA NAFSU"
+
+[[topics]]
+topic = "KISAH KARUN DAN KEKAYAANNYA ADALAH PELAJARAN BAGI MANUSIA"
+
+[[topics]]
+topic = "SATU KEBAJIKAN DIBALAS BERLIPAT GANDA"
+
+[[topics]]
+topic = "JANJI ALLAH AKAN MEMENANGKAN MUHAMMAD"

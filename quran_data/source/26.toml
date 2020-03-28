@@ -1,27 +1,49 @@
 name = "Asy-Syu'ara"
 number = 26
-[[topics]]
-from = 1
-to = 9
-topic = "Muhammad S.A.W tidak usah bersedih hati terhadap keingkaran kaum musyrikin"
 
 [[topics]]
-from = 10
-to = 40
-topic = "Soal jawab antara Musa A.S. dan Fir'aun"
+topic = "NABI MUHAMMAD TIDAK PERLU BERSEDIH ATAS KEINGKARAN KAUM MUSYRIKIN "
 
 [[topics]]
-from = 60
-to = 68
-topic = "Kisah Nabi Musa AS Membelah Laut Merah & Tenggelamnya fir'aun"
+topic = "KISAH NABI MUSA "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah Tuhan kepada Nabi Musa untuk menyeru Fir'aun"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Tanya jawab antara Musa dan Fir'aun"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah Tuhan kepada Musa untuk menyelamatkan Bani Israil dan pembinasaan Fir'aun"
 
 [[topics]]
-from = 78
-to = 83
-topic = "Kisah Ibrahim A.S."
+topic = "KISAH IBRAHIM "
 
 [[topics]]
-from = 0
-to = 0
-topic = "QS 27 An-Naml: 1-18"
+topic = "KISAH NUH DENGAN KAUMNYA"
 
+[[topics]]
+topic = "KISAH HUUD "
+
+[[topics]]
+topic = "KISAH SHALEH "
+
+[[topics]]
+topic = "KISAH LUTH DENGAN KAUMNYA"
+
+[[topics]]
+topic = "KISAH SYU'AIB "
+
+[[topics]]
+topic = "AL-QUR'AN DITURUNKAN KEPADA NABI MUHAMMAD DALAM BAHASA ARAB"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perintah memberi peringatan kepada keluarga dan bersikap lemah-lembut terhadap orang mukmin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Setan turun kepada pembohong dan peringatan terhadap penyair "

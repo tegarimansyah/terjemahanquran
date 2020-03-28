@@ -1,32 +1,28 @@
 name = "Al-Hujuraat"
 number = 49
-[[topics]]
-from = 1
-to = 5
-topic = "Tatakrama terhadap Rasulullah S.A.W"
 
 [[topics]]
-from = 6
-to = 6
-topic = "Perintah memastikan kebenaran sebuah berita"
+topic = "TATA KRAMA TERHADAP RASULULLAH"
 
 [[topics]]
-from = 7
-to = 9
-topic = "Tatakrama terhadap Rasulullah S.A.W"
-
-[[topics]]
-from = 10
-to = 12
-topic = "Orang muslim itu bersaudara & Jangan merendahkan orang lain / berprasangka"
-
-[[topics]]
-from = 13
-to = 13
-topic = "Manusia diciptakan berbeda untuk saling mengenal"
-
-[[topics]]
-from = 14
-to = 18
-topic = "Ciri-ciri iman yang sebenarnya"
-
+topic = "PERATURAN TENTANG PERGAULAN UMAT ISLAM"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara menghadapi berita yang dibawa orang fasik"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara menyelesaikan persengketaan yang timbul antara kaum Muslimin "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan memperolok-olokkan, banyak berprasangka, dan lain-lain "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Manusia diciptakan berbangsa-bangsa untuk saling mengenal"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ciri-ciri iman yang sebenarnya"

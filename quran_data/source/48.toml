@@ -1,22 +1,29 @@
 name = "Al-Fath"
 number = 48
-[[topics]]
-from = 1
-to = 7
-topic = "Kabar gembira kepada Nabi Muhammad S.A.W dan kaum muslimin"
 
 [[topics]]
-from = 8
-to = 17
-topic = "Kabar gembira kepada Nabi Muhammad S.A.W dan kaum muslimin"
-
-[[topics]]
-from = 18
-to = 26
-topic = "kosong"
-
-[[topics]]
-from = 27
-to = 29
-topic = "Kebenaran mimpi Nabi Muhammad memasuki Mekah terbukti"
-
+topic = "PERDAMAIAN HUDAIBIYAH ADALAH KEMENANGAN YANG BESAR BAGI KAUM MUSLIMIN"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kabar gembira bagi Nabi Muhammad dan kaum muslimin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Terjadinya Bai'aturridhwan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Celaan untuk orang yang takut berperang "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Allah meridhai orang-orang yang melakukan Bai'aturridhwan dan menjanjikan kemenangan bagi kaum muslimin"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Mimpi Nabi Muhammad memasuki Mekah akan terbukti"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sifat-sifat Nabi Muhammad SAW dan Sahabatnya di dalam Taurat dan Injil "

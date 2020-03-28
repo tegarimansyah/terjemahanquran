@@ -1,92 +1,155 @@
 name = "An-Nisaa"
 number = 4
-[[topics]]
-from = 1
-to = 1
-topic = "Allah menciptakan pasangan bagi manusia"
 
 [[topics]]
-from = 2
-to = 6
-topic = "Kewajiban para wasi terhadap asuhannya dan kewajiban para wali terhadap orang yang dibawah perwalian"
+topic = "HUKUM KELUARGA "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban para washi terhadap asuhannya dan para wali terhadap orang yang di bawah perwaliannya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pokok-pokok hukum warisan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Dasar-dasar untuk menetapkan perbuatan keji dan hukumnya"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara bergaul dengan istri"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa hukum pernikahan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Islam melindungi hak milik laki-laki dan perempuan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa peraturan hidup bersuami-istri "
 
 [[topics]]
-from = 7
-to = 11
-topic = "Hukum waris"
+topic = "KEWAJIBAN TERHADAP ALLAH DAN TERHADAP SESAMA MANUSIA"
 
 [[topics]]
-from = 12
-to = 14
-topic = "Hukum waris"
+topic = "KESUCIAN LAHIR DAN BATIN "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kesucian zhahir dan batin dalam shalat"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang yang tidak suci batinnya dan ancaman Allah terhadapnya "
 
 [[topics]]
-from = 15
-to = 16
-topic = "kosong"
+topic = "DASAR-DASAR PEMERINTAHAN"
 
 [[topics]]
-from = 17
-to = 18
-topic = "Taubat"
+topic = "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan siap siaga terhadap musuh"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sikap orang munafik dalam menghadapi peperangan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban berperang dan beberapa adabnya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara menghadapi orang munafik"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Hukum membunuh seseorang Muslim "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Berlaku telitilah mengambil suatu tindakan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Perbedaan antara orang yang berjihad dan yang tidak berjihad karena uzur, dengan yang tidak berjihad "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban berhijrah di jalan Allah dan balasannya "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kewajiban mengerjakan shalat dalam keadaan apa pun"
 
 [[topics]]
-from = 19
-to = 28
-topic = "Beberapa hukum perkawinan"
+topic = "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan bersikap adil dan tidak memihak dalam menetapkan hukum"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Kejelekan syirik dan pengaruh setan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pembalasan sesuai dengan perbuatan, bukan menurut angan-angan"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan memberikan hak-hak orang lemah dan cara menyelesaikan kesulitan rumah tangga"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan bertakwa "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Keharusan berlaku adil "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Beberapa keburukan orang munafik"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Juz "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Larangan mengucapkan perkataan buruk"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Akibat kekafiran dan buah keimanan"
 
 [[topics]]
-from = 15
-to = 16
-topic = "kosong"
-
-[[topics]]
-from = 34
-to = 35
-topic = "Manajemen rumah tangga"
-
-[[topics]]
-from = 36
-to = 36
-topic = "Kewajiban terhadap Allah dan terhadap sesama manusia"
-
-[[topics]]
-from = 37
-to = 96
-topic = "kosong"
-
-[[topics]]
-from = 97
-to = 100
-topic = "Kewajiban berhijrah di jalan Allah dan balasannya"
-
-[[topics]]
-from = 101
-to = 122
-topic = "kosong"
-
-[[topics]]
-from = 123
-to = 126
-topic = "Balasan dari Perbuatan, & ikhlas berserah diri"
-
-[[topics]]
-from = 127
-to = 146
-topic = "kosong"
-
-[[topics]]
-from = 147
-to = 152
-topic = "Larangan melontarkan ucapan-ucapan buruk kepada seseorang"
-
-[[topics]]
-from = 147
-to = 152
-topic = "kosong"
-
-[[topics]]
-from = 153
-to = 176
-topic = "kosong"
-
+topic = "KESATUAN AGAMA ALLAH"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pembalasan Allah terhadap pelanggaran-pelanggaran orang Yahudi"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Persamaan pokok agama yang diwahyukan kepada para rasul "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Pandangan Al Qur'an terhadap Nabi 'Isa A.S. "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Warisan Kalalah"

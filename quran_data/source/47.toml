@@ -1,17 +1,17 @@
 name = "Muhammad"
 number = 47
-[[topics]]
-from = 1
-to = 6
-topic = "Sikap menghadapi orang-orang kafir dalam peperangan"
 
 [[topics]]
-from = 7
-to = 9
-topic = "Sikap menghadapi orang-orang kafir dalam peperangan"
-
-[[topics]]
-from = 10
-to = 38
-topic = "Ancaman terhadp orang-orang munafik dan orang-orang murtad"
-
+topic = "KETENTUAN-KETENTUAN PEPERANGAN DALAM ISLAM"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Sikap menghadapi orang-orang kafir dalam peperangan "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Orang mukmin pasti menang dan orang kafir pasti hancur"
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Ancaman terhadap orang munafik dan orang murtad"
