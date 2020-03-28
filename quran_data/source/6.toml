@@ -2,6 +2,8 @@ name = "Al-An'am"
 number = 6
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEYAKINAN TENTANG KEESAAN ALLAH-LAH YANG MENANG"
     [[topics.subs]]
     from = 1
@@ -29,25 +31,41 @@ topic = "KEYAKINAN TENTANG KEESAAN ALLAH-LAH YANG MENANG"
     text = "Kesempurnaan ilmu Allah dan bukti-bukti kekuasaan-Nya"
 
 [[topics]]
+from = 1
+to = 1
 topic = "TUNTUNAN DALAM HIDUP BERMASYARAKAT"
 
 [[topics]]
+from = 1
+to = 1
 topic = "NABI IBRAHIM A.S. MEMIMPIN KAUMNYA KEPADA AGAMA TAUHID"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ORANG YANG DIBERI KITAB, HIKMAH, DAN KENABIAN "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEBENARAN WAHYU, AKIBAT BERBUAT DUSTA TERHADAP ALLAH, DAN LARANGAN MEMAKI BERHALA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SIKAP KERAS KEPALA KAUM MUSYRIKIN DAN SIKAP MEREKA TERHADAP KERASULAN MUHAMMAD SAW "
 
 [[topics]]
+from = 1
+to = 1
 topic = "DERAJAT SESEORANG SESUAI DENGAN AMALNYA "
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERATURAN YANG DIBUAT-BUAT OLEH KAUM MUSYRIKIN DAN PETUNJUK"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ALLAH UNTUK KAUM MUSLIMIN"

@@ -2,6 +2,8 @@ name = "Al-Hajj"
 number = 22
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHIDUPAN PADA HARI AKHIR"
     [[topics.subs]]
     from = 1
@@ -37,28 +39,46 @@ topic = "KEHIDUPAN PADA HARI AKHIR"
     text = "Keadaan orang kafir di dalam neraka dan balasan untuk orang yang beriman"
 
 [[topics]]
+from = 1
+to = 1
 topic = "HAJI, MANASIK DAN SYI'ARNYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "IZIN BERPERANG BAGI ORANG-ORANG MUKMIN"
 
 [[topics]]
+from = 1
+to = 1
 topic = "AYAT-AYAT ALLAH SEBAGAI PENGHIBUR NABI MUHAMMAD "
 
 [[topics]]
+from = 1
+to = 1
 topic = "TUGAS RASUL ADALAH MEMBERI PERINGATAN"
 
 [[topics]]
+from = 1
+to = 1
 topic = "BALASAN UNTUK ORANG YANG MATI DALAM HIJRAH DI JALAN ALLAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "NIKMAT ALLAH YANG DIBERIKAN KEPADA MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SETIAP UMAT MEMPUNYAI SYARIAT TERTENTU "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KELEMAHAN PENDIRIAN ORANG KAFIR DALAM MENYEMBAH SELAIN ALLAH "
 
 [[topics]]
+from = 1
+to = 1
 topic = "AGAMA ISLAM BUKANLAH AGAMA YANG SEMPIT"

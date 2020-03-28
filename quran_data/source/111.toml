@@ -2,5 +2,7 @@ name = "Al-Lahab"
 number = 111
 
 [[topics]]
+from = 1
+to = 1
 topic = "TUKANG FITNAH PASTI AKAN CELAKA "
 

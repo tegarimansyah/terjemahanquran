@@ -2,10 +2,16 @@ name = "Al-Anbiyaa"
 number = 21
 
 [[topics]]
+from = 1
+to = 1
 topic = "SIKAP KAUM MUSYRIKIN TERHADAP KERASULAN MUHAMMAD SERTA WAHYU YANG DIBAWANYA DAN PENOLAKAN AL-QUR'AN TERHADAPNYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI KESALAHAN KEPERCAYAAN ORANG MUSYRIK "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH BEBERAPA ORANG NABI"

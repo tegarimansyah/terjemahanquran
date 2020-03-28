@@ -2,6 +2,8 @@ name = "Ash-Shaaffaat"
 number = 37
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI-BUKTI KEESAAN ALLAH"
     [[topics.subs]]
     from = 1

@@ -2,6 +2,8 @@ name = "An-Nabaa"
 number = 78
 
 [[topics]]
+from = 1
+to = 1
 topic = "HARI KEBANGKITAN "
     [[topics.subs]]
     from = 1

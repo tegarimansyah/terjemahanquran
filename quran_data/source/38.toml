@@ -2,9 +2,13 @@ name = "Shad"
 number = 38
 
 [[topics]]
+from = 1
+to = 1
 topic = "MUSUH PARA NABI AKAN HANCUR "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH BEBERAPA NABI "
     [[topics.subs]]
     from = 1

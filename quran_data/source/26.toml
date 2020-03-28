@@ -2,9 +2,13 @@ name = "Asy-Syu'ara"
 number = 26
 
 [[topics]]
+from = 1
+to = 1
 topic = "NABI MUHAMMAD TIDAK PERLU BERSEDIH ATAS KEINGKARAN KAUM MUSYRIKIN "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI MUSA "
     [[topics.subs]]
     from = 1
@@ -20,24 +24,38 @@ topic = "KISAH NABI MUSA "
     text = "Perintah Tuhan kepada Musa untuk menyelamatkan Bani Israil dan pembinasaan Fir'aun"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH IBRAHIM "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NUH DENGAN KAUMNYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH HUUD "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH SHALEH "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH LUTH DENGAN KAUMNYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH SYU'AIB "
 
 [[topics]]
+from = 1
+to = 1
 topic = "AL-QUR'AN DITURUNKAN KEPADA NABI MUHAMMAD DALAM BAHASA ARAB"
     [[topics.subs]]
     from = 1

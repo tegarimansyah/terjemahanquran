@@ -2,6 +2,8 @@ name = "Al-Mulk"
 number = 67
 
 [[topics]]
+from = 1
+to = 1
 topic = "KERAJAAN ALLAH MELIPUTI KERAJAAN DUNIA DAN AKHIRAT"
     [[topics.subs]]
     from = 1

@@ -2,7 +2,11 @@ name = "Al-Gashiya"
 number = 88
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEADAAN PENGHUNI NERAKA DAN PENGHUNI SURGA "
 
 [[topics]]
+from = 1
+to = 1
 topic = "ANJURAN MEMPERHATIKAN ALAM SEMESTA"

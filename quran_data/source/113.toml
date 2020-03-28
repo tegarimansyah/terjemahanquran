@@ -2,4 +2,6 @@ name = "Al-Falaq"
 number = 113
 
 [[topics]]
+from = 1
+to = 1
 topic = "ALLAH PELINDUNG DARI SEGALA KEJAHATAN"

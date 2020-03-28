@@ -2,6 +2,8 @@ name = "An-Nuur"
 number = 24
 
 [[topics]]
+from = 1
+to = 1
 topic = "HUKUM PERZINAAN DAN PERGAULAN"
     [[topics.subs]]
     from = 1

@@ -2,6 +2,8 @@ name = "Ar-Ra'd"
 number = 13
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEBENARAN AL-QUR'AN "
     [[topics.subs]]
     from = 1
@@ -17,6 +19,8 @@ topic = "KEBENARAN AL-QUR'AN "
     text = "Tanda-tanda keesaan Allah "
 
 [[topics]]
+from = 1
+to = 1
 topic = "MANUSIA MEMPEROLEH BALASAN AMAL PERBUATANNYA "
     [[topics.subs]]
     from = 1
@@ -32,6 +36,8 @@ topic = "MANUSIA MEMPEROLEH BALASAN AMAL PERBUATANNYA "
     text = "Ketenteraman hati orang-orang yang beriman serta pembalasan bagi mereka "
 
 [[topics]]
+from = 1
+to = 1
 topic = "PENGUTUSAN RASUL-RASUL KEPADA UMAT MANUSIA MERUPAKAN SUNNATULLAH"
     [[topics.subs]]
     from = 1

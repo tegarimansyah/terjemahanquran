@@ -2,6 +2,8 @@ name = "An-Nisaa"
 number = 4
 
 [[topics]]
+from = 1
+to = 1
 topic = "HUKUM KELUARGA "
     [[topics.subs]]
     from = 1
@@ -37,9 +39,13 @@ topic = "HUKUM KELUARGA "
     text = "Beberapa peraturan hidup bersuami-istri "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEWAJIBAN TERHADAP ALLAH DAN TERHADAP SESAMA MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KESUCIAN LAHIR DAN BATIN "
     [[topics.subs]]
     from = 1
@@ -51,9 +57,13 @@ topic = "KESUCIAN LAHIR DAN BATIN "
     text = "Orang yang tidak suci batinnya dan ancaman Allah terhadapnya "
 
 [[topics]]
+from = 1
+to = 1
 topic = "DASAR-DASAR PEMERINTAHAN"
 
 [[topics]]
+from = 1
+to = 1
 topic = "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM"
     [[topics.subs]]
     from = 1
@@ -93,6 +103,8 @@ topic = "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM"
     text = "Kewajiban mengerjakan shalat dalam keadaan apa pun"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN "
     [[topics.subs]]
     from = 1
@@ -136,6 +148,8 @@ topic = "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN "
     text = "Akibat kekafiran dan buah keimanan"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KESATUAN AGAMA ALLAH"
     [[topics.subs]]
     from = 1

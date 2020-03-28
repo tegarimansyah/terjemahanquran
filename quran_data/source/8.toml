@@ -2,6 +2,8 @@ name = "Al-Anfaal"
 number = 8
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH PERANG BADAR "
     [[topics.subs]]
     from = 1

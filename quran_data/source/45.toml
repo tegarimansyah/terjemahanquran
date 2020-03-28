@@ -2,6 +2,8 @@ name = "Al-Jatsiyah"
 number = 45
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI-BUKTI TENTANG KEBERADAAN ALLAH DI ALAM SEMESTA"
     [[topics.subs]]
     from = 1

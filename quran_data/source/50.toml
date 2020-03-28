@@ -2,6 +2,8 @@ name = "Qaaf"
 number = 50
 
 [[topics]]
+from = 1
+to = 1
 topic = "HARI KEBANGKITAN "
     [[topics.subs]]
     from = 1

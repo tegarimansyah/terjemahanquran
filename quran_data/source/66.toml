@@ -2,6 +2,8 @@ name = "At-Tahrim"
 number = 66
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA "
     [[topics.subs]]
     from = 1
@@ -13,4 +15,6 @@ topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA "
     text = "Perintah taubat dan berjihad "
 
 [[topics]]
+from = 1
+to = 1
 topic = "CONTOH ISTRI YANG TIDAK BAIK DAN ISTRI YANG BAIK"

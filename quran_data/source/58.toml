@@ -2,6 +2,8 @@ name = "Al-Mujaadalah"
 number = 58
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA KETENTUAN DALAM ISLAM "
     [[topics.subs]]
     from = 1

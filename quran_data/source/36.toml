@@ -2,6 +2,8 @@ name = "Yaasiin"
 number = 36
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERNYATAAN DARI ALLAH BAHWA MUHAMMAD BENAR-BENAR SEORANG RASUL"
     [[topics.subs]]
     from = 1

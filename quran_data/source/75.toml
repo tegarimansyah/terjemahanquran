@@ -2,6 +2,8 @@ name = "Al-Qiyamah"
 number = 75
 
 [[topics]]
+from = 1
+to = 1
 topic = "HARI KIAMAT DAN HURU HARANYA"
     [[topics.subs]]
     from = 1

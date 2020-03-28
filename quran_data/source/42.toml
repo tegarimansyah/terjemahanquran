@@ -2,6 +2,8 @@ name = "Asy-Syuraa"
 number = 42
 
 [[topics]]
+from = 1
+to = 1
 topic = "POKOK-POKOK AJARAN PARA RASUL ADALAH SAMA"
     [[topics.subs]]
     from = 1

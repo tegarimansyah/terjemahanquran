@@ -2,6 +2,8 @@ name = "As-Sajdah"
 number = 32
 
 [[topics]]
+from = 1
+to = 1
 topic = "AL-QUR'AN ADALAH WAHYU DARI ALLAH"
     [[topics.subs]]
     from = 1

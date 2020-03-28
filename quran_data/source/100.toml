@@ -2,4 +2,6 @@ name = "Al-Adiyaat"
 number = 100
 
 [[topics]]
+from = 1
+to = 1
 topic = "MANUSIA MENJADI KIKIR KARENA TAMAK KEPADA HARTA"

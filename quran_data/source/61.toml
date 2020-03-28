@@ -2,6 +2,8 @@ name = "Ash-Shaff"
 number = 61
 
 [[topics]]
+from = 1
+to = 1
 topic = "JALAN MENCAPAI KEMENANGAN"
     [[topics.subs]]
     from = 1

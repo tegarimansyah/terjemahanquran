@@ -2,6 +2,8 @@ name = "Yunus"
 number = 10
 
 [[topics]]
+from = 1
+to = 1
 topic = "TANDA-TANDA KEBESARAN ALLAH DALAM ALAM SEMESTA"
     [[topics.subs]]
     from = 1

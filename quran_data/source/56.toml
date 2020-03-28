@@ -2,6 +2,8 @@ name = "Al-Waqiah"
 number = 56
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT "
     [[topics.subs]]
     from = 1
@@ -25,4 +27,6 @@ topic = "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT "
     text = "Azab atas golongan kiri dan celaan untuk mereka"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SUMPAH ALLAH TENTANG KEMULIAAN AL-QUR'AN"

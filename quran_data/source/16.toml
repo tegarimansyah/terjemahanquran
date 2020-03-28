@@ -2,6 +2,8 @@ name = "An-Nahl"
 number = 16
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI KEBESARAN ALLAH DALAM ALAM SEMESTA"
     [[topics.subs]]
     from = 1

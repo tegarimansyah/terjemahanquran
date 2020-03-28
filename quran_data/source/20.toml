@@ -2,9 +2,13 @@ name = "Tahaa"
 number = 20
 
 [[topics]]
+from = 1
+to = 1
 topic = "AL-QUR'AN DITURUNKAN SEBAGAI PERINGATAN BAGI MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI MUSA"
     [[topics.subs]]
     from = 1
@@ -68,7 +72,11 @@ topic = "KISAH NABI MUSA"
     text = "Keadaan pada hari kiamat"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI ADAM DAN PEMBANGKANGAN IBLIS"
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA PERINGATAN DAN AJARAN TENTANG MORAL"

@@ -2,7 +2,11 @@ name = "Ath Thalaaq"
 number = 65
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA KETENTUAN TENTANG TALAK DAN 'IDDAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "HUKUM-HUKUM YANG DIBAWA NABI MUHAMMAD MEMBAWA KEBAHAGIAAN BAGI MANUSIA "

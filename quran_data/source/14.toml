@@ -2,6 +2,8 @@ name = "Ibrahim"
 number = 14
 
 [[topics]]
+from = 1
+to = 1
 topic = "WAHYU ILAHI MENGHAPUS KEGELAPAN "
     [[topics.subs]]
     from = 1
@@ -13,6 +15,8 @@ topic = "WAHYU ILAHI MENGHAPUS KEGELAPAN "
     text = "Musa A.S. dan rasul-rasul sebelum Nabi Muhammad SAW  adalah pemimpin kaum mereka masing-masing"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SIKAP UMAT MANUSIA MENGHADAPI AJARAN RASUL "
     [[topics.subs]]
     from = 1
@@ -24,15 +28,23 @@ topic = "SIKAP UMAT MANUSIA MENGHADAPI AJARAN RASUL "
     text = "Akibat yang diderita oleh kaum yang menolak kebenaran"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PENGAKUAN SETAN SETELAH ALLAH MENJATUHKAN KEPUTUSANNYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "YANG TERAKHIR "
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERUMPAMAAN TENTANG KEBENARAN DAN KEBATILAN"
 
 [[topics]]
+from = 1
+to = 1
 topic = "TINDAKAN PEMIMPIN YANG ENYEBABKAN KEHANCURAN PENGIKUTNYA "
     [[topics.subs]]
     from = 1
@@ -48,9 +60,13 @@ topic = "TINDAKAN PEMIMPIN YANG ENYEBABKAN KEHANCURAN PENGIKUTNYA "
     text = "Beberapa nikmat Allah yang dilimpahkan kepada hamba-hamba-Nya "
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERMOHONAN NABI IBRAHIM A.S.  "
 
 [[topics]]
+from = 1
+to = 1
 topic = "HUKUM TERHADAP PENANTANG ALLAH"
     [[topics.subs]]
     from = 1

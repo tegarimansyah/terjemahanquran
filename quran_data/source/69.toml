@@ -2,6 +2,8 @@ name = "Al-Haqqah"
 number = 69
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEPASTIAN HARI KIAMAT "
     [[topics.subs]]
     from = 1
@@ -17,4 +19,6 @@ topic = "KEPASTIAN HARI KIAMAT "
     text = "Hari penghisaban dan peristiwa-peristiwa berikutnya"
 
 [[topics]]
+from = 1
+to = 1
 topic = "AL-QUR'AN BENAR-BENAR WAHYU ALLAH "

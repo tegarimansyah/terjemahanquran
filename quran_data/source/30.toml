@@ -2,6 +2,8 @@ name = "Ar-Ruum"
 number = 30
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEBENARAN PEMBERITAAN AL-QUR'AN TENTANG PERISTIWA YANG AKAN TERJADI"
     [[topics.subs]]
     from = 1
@@ -13,18 +15,28 @@ topic = "KEBENARAN PEMBERITAAN AL-QUR'AN TENTANG PERISTIWA YANG AKAN TERJADI"
     text = "Kaum yang menentang Nabi Muhammad akan hancur seperti halnya kaum yang menentang nabi-nabi terdahulu"
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI KEBENARAN HARI KEBANGKITAN DAN PENGGOLONGAN MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "MENJADI MUKMIN DAN KAFIR "
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI-BUKTI KEBESARAN ALLAH SWT YANG TERDAPAT PADA ALAM"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SEMESTA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ISLAM ADALAH AGAMA FITRAH"
     [[topics.subs]]
     from = 1
@@ -44,16 +56,26 @@ topic = "ISLAM ADALAH AGAMA FITRAH"
     text = "Allah mengatur pemberian dan penggunaan rezeki"
 
 [[topics]]
+from = 1
+to = 1
 topic = "AKIBAT YANG BURUK DAN YANG BAIK DARI PERBUATAN MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "MEMPERHATIKAN ALAM MENAMBAH KEYAKINAN TERHADAP ALLAH "
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI-BUKTI TENTANG KEKUASAAN ALLAH DAN KEADAAN MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PADA HARI KIAMAT "
 
 [[topics]]
+from = 1
+to = 1
 topic = "ANJURAN MEMPERHATIKAN PERUMPAMAAN YANG TERDAPAT DALAM AL-QUR'AN"

@@ -2,6 +2,8 @@ name = "Muhammad"
 number = 47
 
 [[topics]]
+from = 1
+to = 1
 topic = "KETENTUAN-KETENTUAN PEPERANGAN DALAM ISLAM"
     [[topics.subs]]
     from = 1

@@ -2,6 +2,8 @@ name = "Al-Mursalaah"
 number = 77
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEADAAN MANUSIA PADA HARI KEPUTUSAN "
     [[topics.subs]]
     from = 1

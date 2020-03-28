@@ -2,6 +2,8 @@ name = "Al-Furqan"
 number = 25
 
 [[topics]]
+from = 1
+to = 1
 topic = "AL-QUR'AN ADALAH PERINGATAN UNTUK SELURUH MANUSIA"
     [[topics.subs]]
     from = 1
@@ -33,10 +35,16 @@ topic = "AL-QUR'AN ADALAH PERINGATAN UNTUK SELURUH MANUSIA"
     text = "Keadaan manusia yang tidak membenarkan Al-Qur'an pada hari kiamat "
 
 [[topics]]
+from = 1
+to = 1
 topic = "PELAJARAN DARI KISAH UMAT TERDAHULU"
 
 [[topics]]
+from = 1
+to = 1
 topic = "TANDA-TANDA KEKUASAAN ALLAH DALAM ALAM"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SIFAT-SIFAT HAMBA ALLAH YANG MENDAPAT KEMULIAAN"

@@ -2,6 +2,8 @@ name = "Yusuf"
 number = 12
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI YUSUF "
     [[topics.subs]]
     from = 1

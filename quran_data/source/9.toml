@@ -2,6 +2,8 @@ name = "At-Taubah"
 number = 9
 
 [[topics]]
+from = 1
+to = 1
 topic = "PENGUMUMAN TENTANG PEMBATALAN PERJANJIAN DAMAI DENGAN KAUM MUSYRIKIN"
     [[topics.subs]]
     from = 1
@@ -37,6 +39,8 @@ topic = "PENGUMUMAN TENTANG PEMBATALAN PERJANJIAN DAMAI DENGAN KAUM MUSYRIKIN"
     text = "Bulan-bulan yang dihormati"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH PERANG TABUK "
     [[topics.subs]]
     from = 1

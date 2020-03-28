@@ -2,6 +2,8 @@ name = "Al-Qashash"
 number = 28
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH MUSA DAN FIR'AUN SEBAGAI BUKTI KEBENARAN AL-QUR'AN"
     [[topics.subs]]
     from = 1
@@ -53,31 +55,51 @@ topic = "KISAH MUSA DAN FIR'AUN SEBAGAI BUKTI KEBENARAN AL-QUR'AN"
     text = "Hanya Allah yang dapat memberi taufiq untuk beriman"
 
 [[topics]]
+from = 1
+to = 1
 topic = "TUHAN TIDAK AKAN MEMBINASAKAN SESUATU UMAT SEBELUM SEORANG"
 
 [[topics]]
+from = 1
+to = 1
 topic = "RASUL DIUTUS KEPADA MEREKA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHIDUPAN DUNIAWI ADALAH BAYANGAN DAN KEHIDUPAN AKHIRAT KEKAL DAN ABADI"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERTANGGUNGJAWABAN PADA HARI KIAMAT "
 
 [[topics]]
+from = 1
+to = 1
 topic = "HANYA ALLAH YANG BERHAK MENENTUKAN SEGALA SESUATU"
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI YANG MENGHARUSKAN KITA MEMUJI ALLAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ORANG MUSYRIKIN MEMPERSEKUTUKAN ALLAH KARENA HAWA NAFSU"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH KARUN DAN KEKAYAANNYA ADALAH PELAJARAN BAGI MANUSIA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "SATU KEBAJIKAN DIBALAS BERLIPAT GANDA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "JANJI ALLAH AKAN MEMENANGKAN MUHAMMAD"

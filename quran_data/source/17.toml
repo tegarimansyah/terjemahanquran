@@ -2,6 +2,8 @@ name = "Al-Israa"
 number = 17
 
 [[topics]]
+from = 1
+to = 1
 topic = "ISYARAT BAHWA UMAT ISLAM AKAN MENJADI UMAT YANG BESAR"
     [[topics.subs]]
     from = 1

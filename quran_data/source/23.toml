@@ -2,6 +2,8 @@ name = "Al-Mu'minuun"
 number = 23
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEMENANGAN ORANG MUKMIN "
     [[topics.subs]]
     from = 1
@@ -17,9 +19,13 @@ topic = "KEMENANGAN ORANG MUKMIN "
     text = "Langit dan segala sesuatu yang ada di bumi, diciptakan Allah untuk kelanjutan hidup manusia dan wajib disyukuri"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH BEBERAPA ORANG RASUL "
 
 [[topics]]
+from = 1
+to = 1
 topic = "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA "
     [[topics.subs]]
     from = 1

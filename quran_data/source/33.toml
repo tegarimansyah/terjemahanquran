@@ -2,6 +2,8 @@ name = "Al-Ahzab"
 number = 33
 
 [[topics]]
+from = 1
+to = 1
 topic = "HUKUM KEKELUARGAAN HARUS BERDASARKAN KETETAPAN ALLAH DAN RASUL"
     [[topics.subs]]
     from = 1
@@ -17,12 +19,18 @@ topic = "HUKUM KEKELUARGAAN HARUS BERDASARKAN KETETAPAN ALLAH DAN RASUL"
     text = "Kedudukan hubungan darah dalam hubungan waris "
 
 [[topics]]
+from = 1
+to = 1
 topic = "BANTUAN ALLAH KEPADA KAUM MUSLIMIN DALAM PERANG AHZAB"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERANG DENGAN BANI QURAIZHAH "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KETENTUAN ALLAH TERHADAP ISTRI NABI"
     [[topics.subs]]
     from = 1
@@ -30,18 +38,28 @@ topic = "KETENTUAN ALLAH TERHADAP ISTRI NABI"
     text = "Juz "
 
 [[topics]]
+from = 1
+to = 1
 topic = "SIFAT-SIFAT ORANG MUKMIN DAN KEWAJIBAN MEREKA TERHADAP PERINTAH RASUL"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ANAK ANGKAT TIDAK SAMA DENGAN ANAK KANDUNG "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHARUSAN MENGINGAT ALLAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "MUHAMMAD ADALAH RASUL YANG DIUTUS UNTUK SEGENAP UMAT MANUSIA "
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA KETENTUAN ISLAM TENTANG HUKUM PERKAWINAN"
     [[topics.subs]]
     from = 1
@@ -61,22 +79,36 @@ topic = "BEBERAPA KETENTUAN ISLAM TENTANG HUKUM PERKAWINAN"
     text = "Nabi tidak boleh menikah lagi setelah ayat ini diturunkan"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ADAB DAN SOPAN SANTUN DALAM RUMAH TANGGA NABI"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHARUSAN PEREMPUAN BERJILBAB, JIKA BERADA DI LUAR RUMAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ANCAMAN TERHADAP ORANG MUNAFIK DAN ORANG YANG BERBUAT KERUSUHAN DI MADINAH "
 
 [[topics]]
+from = 1
+to = 1
 topic = "HANYA ALLAH YANG MENGETAHUI KAPAN HARI KEBANGKITAN TERJADI"
 
 [[topics]]
+from = 1
+to = 1
 topic = "ANCAMAN TERHADAP ORANG KAFIR"
 
 [[topics]]
+from = 1
+to = 1
 topic = "TAKWA KEPADA ALLAH MEMBAWA PERBAIKAN AMAL DAN AMPUNAN DOSA "
 
 [[topics]]
+from = 1
+to = 1
 topic = "MENERIMA TUGAS TETAPI TIDAK MELAKSANAKANNYA ADALAH KEZALIMAN "

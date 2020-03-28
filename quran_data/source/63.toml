@@ -2,6 +2,8 @@ name = "Al-Munafiquun"
 number = 63
 
 [[topics]]
+from = 1
+to = 1
 topic = "ORANG-ORANG MUNAFIK"
     [[topics.subs]]
     from = 1

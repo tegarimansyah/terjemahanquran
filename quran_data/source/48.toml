@@ -2,6 +2,8 @@ name = "Al-Fath"
 number = 48
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERDAMAIAN HUDAIBIYAH ADALAH KEMENANGAN YANG BESAR BAGI KAUM MUSLIMIN"
     [[topics.subs]]
     from = 1

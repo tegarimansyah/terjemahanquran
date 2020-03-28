@@ -2,7 +2,11 @@ name = "Abasa"
 number = 80
 
 [[topics]]
+from = 1
+to = 1
 topic = "TEGURAN KEPADA RASULULLAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERINGATAN ALLAH KEPADA MANUSIA YANG TIDAK TAHU HAKIKAT DIRINYA "

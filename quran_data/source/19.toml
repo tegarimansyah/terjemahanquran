@@ -2,6 +2,8 @@ name = "Maryam"
 number = 19
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI ZAKARIYA DAN NABI YAHYA"
     [[topics.subs]]
     from = 1
@@ -17,6 +19,8 @@ topic = "KISAH NABI ZAKARIYA DAN NABI YAHYA"
     text = "Pengangkatan Yahya sebagai nabi dan keutamaannya "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
     [[topics.subs]]
     from = 1
@@ -36,13 +40,21 @@ topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
     text = "Pertentangan pendapat tentang Isa "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI IBRAHIM DENGAN AYAHNYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH BEBERAPA NABI YANG LAIN "
 
 [[topics]]
+from = 1
+to = 1
 topic = "AZAB BAGI ORANG YANG MENENTANG PARA NABI DAN PAHALA BAGI ORANG YANG MENAATINYA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEPALSUAN AJARAN BAHWA TUHAN MEMPUNYAI ANAK"

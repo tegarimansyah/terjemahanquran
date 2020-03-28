@@ -2,6 +2,8 @@ name = "AL-MU'MIN / Ghafir"
 number = 40
 
 [[topics]]
+from = 1
+to = 1
 topic = "PENENTANGAN TERHADAP AGAMA PASTI MENEMUI KEGAGALAN"
     [[topics.subs]]
     from = 1

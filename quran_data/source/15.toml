@@ -2,18 +2,28 @@ name = "Al-Hijr"
 number = 15
 
 [[topics]]
+from = 1
+to = 1
 topic = "JAMINAN ALLAH TERHADAP KEMURNIAN AL-QUR'AN DAN KEJAYAAN ISLAM"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEKUASAAN ALLAH MELIPUTI ALAM SEMESTA "
 
 [[topics]]
+from = 1
+to = 1
 topic = "PANDANGAN ISLAM TENTANG KEJADIAN MANUSIA "
 
 [[topics]]
+from = 1
+to = 1
 topic = "RAHMAT ALLAH BAGI ORANG YANG BERTAKWA"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH BEBERAPA ORANG NABI"
     [[topics.subs]]
     from = 1
@@ -33,5 +43,7 @@ topic = "KISAH BEBERAPA ORANG NABI"
     text = "Kisah kaum Tsamud "
 
 [[topics]]
+from = 1
+to = 1
 topic = "ANUGERAH ALLAH DAN PERINTAHKEPADA NABI MUHAMMAD "
 

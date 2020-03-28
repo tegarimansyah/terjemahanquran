@@ -2,6 +2,8 @@ name = "Huud"
 number = 11
 
 [[topics]]
+from = 1
+to = 1
 topic = "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 1
@@ -37,9 +39,13 @@ topic = "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH "
     text = "Kisah Nabi Ibrahim dan Nabi Luth "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI SYU'AIB "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH NABI MUSA "
     [[topics.subs]]
     from = 1

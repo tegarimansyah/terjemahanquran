@@ -2,6 +2,8 @@ name = "Surat Al-Baqarah"
 number = 2
 
 [[topics]]
+from = 1
+to = 1
 topic = "TIGA GOLONGAN MANUSIA DALAM MENGHADAPI AL QUR'AN"
     [[topics.subs]]
     from = 1
@@ -17,6 +19,8 @@ topic = "TIGA GOLONGAN MANUSIA DALAM MENGHADAPI AL QUR'AN"
     text = "Golongan munafik"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 1
@@ -44,6 +48,8 @@ topic = "KEESAAN DAN KEKUASAAN ALLAH "
     text = "Penciptaan manusia dan penguasaannya di bumi"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     [[topics.subs]]
     from = 1
@@ -123,6 +129,8 @@ topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     text = "Juz "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     [[topics.subs]]
     from = 1
@@ -182,6 +190,8 @@ topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     text = "Hikmah diutusnya para Rasul dan pelbagai cobaan bagi para pengikutnya "
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA HUKUM SYARIAT"
     [[topics.subs]]
     from = 1
@@ -217,6 +227,8 @@ topic = "BEBERAPA HUKUM SYARIAT"
     text = "Juz "
 
 [[topics]]
+from = 1
+to = 1
 topic = "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH"
     [[topics.subs]]
     from = 1
@@ -240,6 +252,8 @@ topic = "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH"
     text = "Membangkitkan kembali orang-orang yang sudah mati"
 
 [[topics]]
+from = 1
+to = 1
 topic = "CARA-CARA PENGGUNAAN HARTA DAN HUKUM-HUKUMNYA"
     [[topics.subs]]
     from = 1

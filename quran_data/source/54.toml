@@ -2,6 +2,8 @@ name = "Al-Qamar"
 number = 54
 
 [[topics]]
+from = 1
+to = 1
 topic = "MUSUH NABI MUHAMMAD AKAN MENGALAMI KEHANCURAN SEBAGAIMANA MUSUH RASUL TERDAHULU"
     [[topics.subs]]
     from = 1

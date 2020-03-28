@@ -2,6 +2,8 @@ name = "Surat ALI 'IMRAAN"
 number = 3
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 1
@@ -37,6 +39,8 @@ topic = "KEESAAN DAN KEKUASAAN ALLAH "
     text = "Bukti cinta kepada Allah SWT "
 
 [[topics]]
+from = 1
+to = 1
 topic = "KELUARGA 'IMRAN"
     [[topics.subs]]
     from = 1
@@ -72,6 +76,8 @@ topic = "KELUARGA 'IMRAN"
     text = "Juz "
 
 [[topics]]
+from = 1
+to = 1
 topic = "BANTAHAN ALLAH TERHADAP PENDAPAT-PENDAPAT AHLI KITAB YANG KELIRU"
     [[topics.subs]]
     from = 1
@@ -99,6 +105,8 @@ topic = "BANTAHAN ALLAH TERHADAP PENDAPAT-PENDAPAT AHLI KITAB YANG KELIRU"
     text = "Larangan mengambil orang Yahudi sebagai teman kepercayaan"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KISAH PERANG BADAR DAN UHUD"
     [[topics.subs]]
     from = 1

@@ -2,9 +2,13 @@ name = "Al-Hujuraat"
 number = 49
 
 [[topics]]
+from = 1
+to = 1
 topic = "TATA KRAMA TERHADAP RASULULLAH"
 
 [[topics]]
+from = 1
+to = 1
 topic = "PERATURAN TENTANG PERGAULAN UMAT ISLAM"
     [[topics.subs]]
     from = 1

@@ -2,6 +2,8 @@ name = "Al-Mumtahanah"
 number = 60
 
 [[topics]]
+from = 1
+to = 1
 topic = "BEBERAPA KETENTUAN DALAM KEADAAN PERANG"
     [[topics.subs]]
     from = 1

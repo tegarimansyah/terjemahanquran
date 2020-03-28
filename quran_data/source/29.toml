@@ -2,6 +2,8 @@ name = "Al-'Ankabuut"
 number = 29
 
 [[topics]]
+from = 1
+to = 1
 topic = "COBAAN ADALAH BAROMETER BAGI SEMPURNA ATAU TIDAKNYA IMAN SESEORANG "
     [[topics.subs]]
     from = 1
@@ -45,6 +47,8 @@ topic = "COBAAN ADALAH BAROMETER BAGI SEMPURNA ATAU TIDAKNYA IMAN SESEORANG "
     text = "Perlawanan terhadap kebenaran pasti hancur"
 
 [[topics]]
+from = 1
+to = 1
 topic = "AL-QUR'AN MENYUCIKAN JIWA MANUSIA"
     [[topics.subs]]
     from = 1
@@ -64,6 +68,8 @@ topic = "AL-QUR'AN MENYUCIKAN JIWA MANUSIA"
     text = "Azab Allah pasti datang pada waktunya"
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHIDUPAN AKHIRAT ADALAH KEHIDUPAN YANG SEBENARNYA "
     [[topics.subs]]
     from = 1
@@ -79,4 +85,6 @@ topic = "KEHIDUPAN AKHIRAT ADALAH KEHIDUPAN YANG SEBENARNYA "
     text = "Dalam keadaan terdesak manusia mengakui kekuasaan Allah"
 
 [[topics]]
+from = 1
+to = 1
 topic = "JAMINAN ALLAH TERHADAP KEAMANAN TANAH SUCI"

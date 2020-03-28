@@ -2,6 +2,8 @@ name = "Al-Insan"
 number = 76
 
 [[topics]]
+from = 1
+to = 1
 topic = "KEHIDUPAN MANUSIA MENUJU KESEMPURNAAN"
     [[topics.subs]]
     from = 1
