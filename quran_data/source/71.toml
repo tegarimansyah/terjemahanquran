@@ -3,17 +3,17 @@ number = 71
 
 [[topics]]
 from = 1
-to = 1
+to = 28
 topic = "KISAH NUH DENGAN KAUMNYA"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 4
     text = "Seruan Nabi Nuh kepada kaumnya "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 5
+    to = 24
     text = "Pengaduan Nuh kepada Allah tentang keingkaran kaumnya "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 25
+    to = 28
     text = "Azab yang ditimpakan kepada kaum Nuh "

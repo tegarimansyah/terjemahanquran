@@ -3,22 +3,22 @@ number = 69
 
 [[topics]]
 from = 1
-to = 1
+to = 37
 topic = "KEPASTIAN HARI KIAMAT "
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 12
     text = "Orang yang mendustakan kebenaran pasti binasa "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 13
+    to = 18
     text = "Peristiwa-peristiwa ketika hari kiamat terjadi"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 19
+    to = 37
     text = "Hari penghisaban dan peristiwa-peristiwa berikutnya"
 
 [[topics]]
-from = 1
-to = 1
+from = 38
+to = 52
 topic = "AL-QUR'AN BENAR-BENAR WAHYU ALLAH "
