@@ -7,26 +7,26 @@ to = 1
 topic = "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT "
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 7
     text = "Pada hari kiamat manusia terbagi menjadi tiga golongan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 8
+    to = 10
     text = "Golongan kanan, golongan kiri, dan orang-orang yang paling dahulu beriman "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 11
+    to = 26
     text = "Balasan kepada orang yang paling dahulu beriman "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 27
+    to = 40
     text = "Balasan kepada golongan kanan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 41
+    to = 74
     text = "Azab atas golongan kiri dan celaan untuk mereka"
 
 [[topics]]
-from = 1
-to = 1
+from = 75
+to = 96
 topic = "SUMPAH ALLAH TENTANG KEMULIAAN AL-QUR'AN"
