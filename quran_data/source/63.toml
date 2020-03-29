@@ -3,13 +3,13 @@ number = 63
 
 [[topics]]
 from = 1
-to = 1
+to = 11
 topic = "ORANG-ORANG MUNAFIK"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 8
     text = "Sifat-sifat orang munafik"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 9
+    to = 11
     text = "Peringatan kepada orang-orang mukmin"

@@ -3,17 +3,17 @@ number = 60
 
 [[topics]]
 from = 1
-to = 1
+to = 13
 topic = "BEBERAPA KETENTUAN DALAM KEADAAN PERANG"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 6
     text = "Larangan menjadikan seseorang dari golongan musuh sebagai teman setia "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 7
+    to = 9
     text = "Hubungan antara orang Islam dan orang kafir yang tidak memusuhi Islam "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 10
+    to = 13
     text = "Perlakuan terhadap perempuan-perempuan mukmin yang masuk daerah Islam "

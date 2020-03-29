@@ -7,14 +7,14 @@ to = 1
 topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA "
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 6
     text = "Nabi Muhammad dan istri-istrinya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 7
+    to = 9
     text = "Perintah taubat dan berjihad "
 
 [[topics]]
-from = 1
-to = 1
+from = 10
+to = 12
 topic = "CONTOH ISTRI YANG TIDAK BAIK DAN ISTRI YANG BAIK"
