@@ -3,7 +3,7 @@ number = 49
 
 [[topics]]
 from = 1
-to = 1
+to = 5
 topic = "TATA KRAMA TERHADAP RASULULLAH"
 
 [[topics]]
@@ -11,22 +11,22 @@ from = 1
 to = 1
 topic = "PERATURAN TENTANG PERGAULAN UMAT ISLAM"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 6
+    to = 8
     text = "Cara menghadapi berita yang dibawa orang fasik"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 9
+    to = 10
     text = "Cara menyelesaikan persengketaan yang timbul antara kaum Muslimin "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 11
+    to = 12
     text = "Larangan memperolok-olokkan, banyak berprasangka, dan lain-lain "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 13
+    to = 13
     text = "Manusia diciptakan berbangsa-bangsa untuk saling mengenal"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 14
+    to = 18
     text = "Ciri-ciri iman yang sebenarnya"
