@@ -3,38 +3,38 @@ number = 38
 
 [[topics]]
 from = 1
-to = 1
+to = 1y
 topic = "MUSUH PARA NABI AKAN HANCUR "
 
 [[topics]]
-from = 1
+from = 17
 to = 1
 topic = "KISAH BEBERAPA NABI "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 17
+    to = 29
     text = "Nabi Dawud mendapat cobaan dari Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 30
+    to = 40
     text = "Nabi Sulaiman mendapat cobaan dari Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 41
+    to = 44
     text = "Nabi Ayyub dan kesabarannya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 45
+    to = 48
     text = "Beberapa orang nabi pilihan "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 49
+    to = 54
     text = "Pahala bagi pengikut nabi-nabi"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 55
+    to = 70
     text = "Azab terhadap orang-orang yang menentang nabi"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 71
+    to = 88
     text = "Adam dan godaan iblis"

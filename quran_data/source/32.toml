@@ -3,25 +3,25 @@ number = 32
 
 [[topics]]
 from = 1
-to = 1
+to = 30
 topic = "AL-QUR'AN ADALAH WAHYU DARI ALLAH"
     [[topics.subs]]
     from = 1
-    to = 1
-    text = "Al-Qur'an bukanlah ciptaan Muhammad "
+    to = 3
+    text = "Al-Qur'an bukanlah ciptaan Muhammad SAW"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 4
+    to = 6
     text = "Masa terciptanya alam semesta"
     [[topics.subs]]
-    from = 1
-    to = 1
-    text = "Proses kejadian manusia dan kebangkitannya pada hari kiamat "
+    from = 7
+    to = 11
+    text = "Proses kejadian manusia dan kebangkitannya pada hari kiamat"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 12
+    to = 22
     text = "Sebuah perbandingan antara orang mukmin dan orang kafir"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 23
+    to = 30
     text = "Perintah Allah untuk menerima Al-Qur'an tanpa ragu-ragu"
