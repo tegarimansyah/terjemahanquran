@@ -7,44 +7,40 @@ to = 1
 topic = "AL-QUR'AN ADALAH PERINGATAN UNTUK SELURUH MANUSIA"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 3
     text = "Kekuasaan Allah dan keharmonisan ciptaan-Nya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 4
+    to = 6
     text = "Tuduhan palsu orang kafir terhadap Al-Qur'an"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 7
+    to = 15
     text = "Keheranan orang kafir tentang diutusnya rasul dari manusia biasa "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 16
+    to = 18
     text = "Tanya-jawab antara Allah dengan sembahan orang kafir pada hari kiamat"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 19
+    to = 20
     text = "Para rasul diutus dari manusia biasa"
     [[topics.subs]]
-    from = 1
-    to = 1
-    text = "Juz "
-    [[topics.subs]]
-    from = 1
-    to = 1
+    from = 21
+    to = 34
     text = "Keadaan manusia yang tidak membenarkan Al-Qur'an pada hari kiamat "
 
 [[topics]]
-from = 1
-to = 1
+from = 35
+to = 44
 topic = "PELAJARAN DARI KISAH UMAT TERDAHULU"
 
 [[topics]]
-from = 1
-to = 1
+from = 45
+to = 62
 topic = "TANDA-TANDA KEKUASAAN ALLAH DALAM ALAM"
 
 [[topics]]
-from = 1
-to = 1
+from = 63
+to = 77
 topic = "SIFAT-SIFAT HAMBA ALLAH YANG MENDAPAT KEMULIAAN"

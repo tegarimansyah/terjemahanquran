@@ -3,65 +3,65 @@ number = 26
 
 [[topics]]
 from = 1
-to = 1
+to = 9
 topic = "NABI MUHAMMAD TIDAK PERLU BERSEDIH ATAS KEINGKARAN KAUM MUSYRIKIN "
 
 [[topics]]
-from = 1
-to = 1
+from = 10
+to = 68
 topic = "KISAH NABI MUSA "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 10
+    to = 17
     text = "Perintah Tuhan kepada Nabi Musa untuk menyeru Fir'aun"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 18
+    to = 51
     text = "Tanya jawab antara Musa dan Fir'aun"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 52
+    to = 68
     text = "Perintah Tuhan kepada Musa untuk menyelamatkan Bani Israil dan pembinasaan Fir'aun"
 
 [[topics]]
-from = 1
-to = 1
+from = 69
+to = 104
 topic = "KISAH IBRAHIM "
 
 [[topics]]
-from = 1
-to = 1
+from = 105
+to = 122
 topic = "KISAH NUH DENGAN KAUMNYA"
 
 [[topics]]
-from = 1
-to = 1
+from = 123
+to = 140
 topic = "KISAH HUUD "
 
 [[topics]]
-from = 1
-to = 1
+from = 141
+to = 159
 topic = "KISAH SHALEH "
 
 [[topics]]
-from = 1
-to = 1
+from = 160
+to = 175
 topic = "KISAH LUTH DENGAN KAUMNYA"
 
 [[topics]]
-from = 1
-to = 1
+from = 176
+to = 191
 topic = "KISAH SYU'AIB "
 
 [[topics]]
-from = 1
-to = 1
+from = 192
+to = 227
 topic = "AL-QUR'AN DITURUNKAN KEPADA NABI MUHAMMAD DALAM BAHASA ARAB"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 192
+    to = 220
     text = "Perintah memberi peringatan kepada keluarga dan bersikap lemah-lembut terhadap orang mukmin"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 221
+    to = 227
     text = "Setan turun kepada pembohong dan peringatan terhadap penyair "
