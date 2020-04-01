@@ -3,66 +3,64 @@ number = 23
 
 [[topics]]
 from = 1
-to = 1
+to = 22
 topic = "KEMENANGAN ORANG MUKMIN "
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 11
     text = "Tujuh sifat yang menjadikan orang mukmin beruntung "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 12
+    to = 16
     text = "Perkembangan kejadian manusia "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 17
+    to = 22
     text = "Langit dan segala sesuatu yang ada di bumi, diciptakan Allah untuk kelanjutan hidup manusia dan wajib disyukuri"
 
 [[topics]]
-from = 1
-to = 1
+from = 23
+to = 50
 topic = "KISAH BEBERAPA ORANG RASUL "
 
 [[topics]]
-from = 1
-to = 1
+from = 51
+to = 118
 topic = "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 51
+    to = 56
     text = "Hawa nafsu memecah belah manusia"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 57
+    to = 61
     text = "Sifat-sifat seorang muslim yang mukhlis"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 62
+    to = 62
     text = "Kewajiban menjalankan agama sesuai dengan kemampuan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 63
+    to = 76
     text = "Celaan dan azab yang diancamkan terhadap orang kafir"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 77
+    to = 83
     text = "Meskipun dalil-dalil tentang kebangkitan di akhirat cukup banyak, namun orang kafir tetap mengingkarinya "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 84
+    to = 92
     text = "Sanggahan terhadap pendirian orang kafir, terutama anggapan bahwa Tuhan mempunyai anak atau sekutu "
-
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 93
+    to = 100
     text = "Doa agar tidak dimasukkan ke dalam golongan orang zalim, pedoman dalam menghadapi lawan dan perintah berlindung dari godaan setan"
-
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 101
+    to = 114
     text = "Peristiwa-peristiwa pada hari kiamat dan kedahsyatannya "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 115
+    to = 118
     text = "Tuhan menciptakan manusia bukan sia-sia "
     
