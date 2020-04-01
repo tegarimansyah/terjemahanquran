@@ -3,58 +3,58 @@ number = 19
 
 [[topics]]
 from = 1
-to = 1
+to = 15
 topic = "KISAH NABI ZAKARIYA DAN NABI YAHYA"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 6
     text = "Penyebab Zakariya berdoa memohon keturunan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 7
+    to = 11
     text = "Terkabulnya doa Zakariya sebagai bukti kekuasaan Allah "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 12
+    to = 15
     text = "Pengangkatan Yahya sebagai nabi dan keutamaannya "
 
 [[topics]]
-from = 1
-to = 1
+from = 16
+to = 40
 topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 16
+    to = 22
     text = "Kehamilan Maryam tanpa sentuhan seorang laki-laki"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 23
+    to = 26
     text = "Kelahiran Nabi 'Isa "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 27
+    to = 36
     text = "Tuduhan terhadap Maryam dan pembelaan Nabi Isa terhadap ibunya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 37
+    to = 40
     text = "Pertentangan pendapat tentang Isa "
 
 [[topics]]
-from = 1
-to = 1
+from = 41
+to = 50
 topic = "KISAH NABI IBRAHIM DENGAN AYAHNYA"
 
 [[topics]]
-from = 1
-to = 1
+from = 51
+to = 65
 topic = "KISAH BEBERAPA NABI YANG LAIN "
 
 [[topics]]
-from = 1
-to = 1
+from = 66
+to = 87
 topic = "AZAB BAGI ORANG YANG MENENTANG PARA NABI DAN PAHALA BAGI ORANG YANG MENAATINYA"
 
 [[topics]]
-from = 1
-to = 1
+from = 88
+to = 98
 topic = "KEPALSUAN AJARAN BAHWA TUHAN MEMPUNYAI ANAK"
