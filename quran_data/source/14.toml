@@ -3,80 +3,71 @@ number = 14
 
 [[topics]]
 from = 1
-to = 1
+to = 7
 topic = "WAHYU ILAHI MENGHAPUS KEGELAPAN "
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 3
     text = "Al-Qur'an menunjukkan semua umat manusia ke jalan yang terang "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 4
+    to = 7
     text = "Musa A.S. dan rasul-rasul sebelum Nabi Muhammad SAW  adalah pemimpin kaum mereka masing-masing"
 
 [[topics]]
-from = 1
-to = 1
+from = 8
+to = 21
 topic = "SIKAP UMAT MANUSIA MENGHADAPI AJARAN RASUL "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 8
+    to = 12
     text = "Kebenaran pada permulaannya ditolak"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 13
+    to = 21
     text = "Akibat yang diderita oleh kaum yang menolak kebenaran"
 
 [[topics]]
-from = 1
-to = 1
-topic = "PENGAKUAN SETAN SETELAH ALLAH MENJATUHKAN KEPUTUSANNYA"
+from = 22
+to = 23
+topic = "PENGAKUAN SETAN SETELAH ALLAH MENJATUHKAN KEPUTUSANNYA YANG TERAKHIR"
 
 [[topics]]
-from = 1
-to = 1
-topic = "YANG TERAKHIR "
-
-[[topics]]
-from = 1
-to = 1
+from = 24
+to = 27
 topic = "PERUMPAMAAN TENTANG KEBENARAN DAN KEBATILAN"
 
 [[topics]]
-from = 1
-to = 1
-topic = "TINDAKAN PEMIMPIN YANG ENYEBABKAN KEHANCURAN PENGIKUTNYA "
+from = 28
+to = 34
+topic = "TINDAKAN PEMIMPIN YANG MENYEBABKAN KEHANCURAN PENGIKUTNYA "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 28
+    to = 30
     text = "Akibat kufur kepada nikmat Allah serta mempersekutukannya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 31
+    to = 31
     text = "Perintah Allah untuk mendirikan shalat dan bersedekah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 32
+    to = 34
     text = "Beberapa nikmat Allah yang dilimpahkan kepada hamba-hamba-Nya "
 
 [[topics]]
-from = 1
-to = 1
+from = 35
+to = 41
 topic = "PERMOHONAN NABI IBRAHIM A.S.  "
 
 [[topics]]
-from = 1
-to = 1
+from = 42
+to = 52
 topic = "HUKUM TERHADAP PENANTANG ALLAH"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 42
+    to = 45
     text = "Orang yang zalim pasti mendapat azab"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 46
+    to = 52
     text = "Segala tipu daya akan gagal "
-    [[topics.subs]]
-    from = 1
-    to = 1
-    text = "Juz "

@@ -3,47 +3,47 @@ number = 15
 
 [[topics]]
 from = 1
-to = 1
+to = 15
 topic = "JAMINAN ALLAH TERHADAP KEMURNIAN AL-QUR'AN DAN KEJAYAAN ISLAM"
 
 [[topics]]
-from = 1
-to = 1
+from = 16
+to = 27
 topic = "KEKUASAAN ALLAH MELIPUTI ALAM SEMESTA "
 
 [[topics]]
-from = 1
-to = 1
+from = 28
+to = 44
 topic = "PANDANGAN ISLAM TENTANG KEJADIAN MANUSIA "
 
 [[topics]]
-from = 1
-to = 1
+from = 45
+to = 50
 topic = "RAHMAT ALLAH BAGI ORANG YANG BERTAKWA"
 
 [[topics]]
-from = 1
-to = 1
+from = 51
+to = 86
 topic = "KISAH BEBERAPA ORANG NABI"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 51
+    to = 58
     text = "Kisah Nabi Ibrahim dengan tamunya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 59
+    to = 77
     text = "Kisah Nabi Luth"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 78
+    to = 79
     text = "Kisah Nabi Syu'aib"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 80
+    to = 86
     text = "Kisah kaum Tsamud "
 
 [[topics]]
-from = 1
-to = 1
+from = 87
+to = 99
 topic = "ANUGERAH ALLAH DAN PERINTAHKEPADA NABI MUHAMMAD "
 
