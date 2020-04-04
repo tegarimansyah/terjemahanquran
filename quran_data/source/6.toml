@@ -3,69 +3,64 @@ number = 6
 
 [[topics]]
 from = 1
-to = 1
+to = 49
 topic = "KEYAKINAN TENTANG KEESAAN ALLAH-LAH YANG MENANG"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 3
     text = "Dalil-dalil tentang keesaan Allah "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 4
+    to = 11
     text = "Faktor penyebab kekafiran kaum musyrikin dan ancaman untuk mereka"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 12
+    to = 21
     text = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad SAW  "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 22
+    to = 32
     text = "Kesaksian kaum musyrikin terhadap dirinya sendiri dan keadaan mereka pada hari kiamat"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 33
+    to = 37
     text = "Firman Allah yang membesarkan hati Nabi Muhammad SAW  "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 38
+    to = 49
     text = "Kesempurnaan ilmu Allah dan bukti-bukti kekuasaan-Nya"
 
 [[topics]]
-from = 1
-to = 1
+from = 50
+to = 73
 topic = "TUNTUNAN DALAM HIDUP BERMASYARAKAT"
 
 [[topics]]
-from = 1
-to = 1
+from = 74
+to = 83
 topic = "NABI IBRAHIM A.S. MEMIMPIN KAUMNYA KEPADA AGAMA TAUHID"
 
 [[topics]]
-from = 1
-to = 1
+from = 84
+to = 92
 topic = "ORANG YANG DIBERI KITAB, HIKMAH, DAN KENABIAN "
 
 [[topics]]
-from = 1
-to = 1
+from = 93
+to = 110
 topic = "KEBENARAN WAHYU, AKIBAT BERBUAT DUSTA TERHADAP ALLAH, DAN LARANGAN MEMAKI BERHALA"
 
 [[topics]]
-from = 1
-to = 1
+from = 111
+to = 129
 topic = "SIKAP KERAS KEPALA KAUM MUSYRIKIN DAN SIKAP MEREKA TERHADAP KERASULAN MUHAMMAD SAW "
 
 [[topics]]
-from = 1
-to = 1
+from = 130
+to = 135
 topic = "DERAJAT SESEORANG SESUAI DENGAN AMALNYA "
 
 [[topics]]
-from = 1
-to = 1
-topic = "PERATURAN YANG DIBUAT-BUAT OLEH KAUM MUSYRIKIN DAN PETUNJUK"
-
-[[topics]]
-from = 1
-to = 1
-topic = "ALLAH UNTUK KAUM MUSLIMIN"
+from = 136
+to = 165
+topic = "PERATURAN YANG DIBUAT-BUAT OLEH KAUM MUSYRIKIN DAN PETUNJUK ALLAH UNTUK KAUM MUSLIMIN"
