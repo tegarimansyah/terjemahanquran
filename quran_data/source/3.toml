@@ -3,160 +3,156 @@ number = 3
 
 [[topics]]
 from = 1
-to = 1
+to = 32
 topic = "KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 9
     text = "Al Qur'an dan Kitab-kitab terdahulu"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 10
+    to = 17
     text = "Ancaman Allah kepada orang kafir dan pengaruh harta "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 18
+    to = 20
     text = "Pernyataan Allah tentang keesaan dan keadilan-Nya serta agama yang diridhai-Nya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 21
+    to = 22
     text = "Pembalasan terhadap orang-orang yang membunuh nabi-nabi "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 23
+    to = 25
     text = "Orang-orang Yahudi berpaling dari hukum Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 26
+    to = 27
     text = "Bukti-bukti kekuasaan dan kebenaran Allah SWT "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 28
+    to = 30
     text = "Larangan berpihak kepada orang kafir"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 31
+    to = 32
     text = "Bukti cinta kepada Allah SWT "
 
 [[topics]]
-from = 1
-to = 1
+from = 33
+to = 92
 topic = "KELUARGA 'IMRAN"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 33
+    to = 44
     text = "Keutamaan keluarga 'Imran"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 45
+    to = 63
     text = "Kisah Al Masih 'Isa putra Maryam "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 64
+    to = 68
     text = "Ajakan kepada agama Tauhid Millatu Ibrahim"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 69
+    to = 74
     text = "Sikap Ahli Kitab terhadap orang Islam"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 75
+    to = 78
     text = "Keburukan-keburukan orang Yahudi"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 79
+    to = 80
     text = "Seorang nabi tidak akan menyuruh manusia menyembah dirinya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 81
+    to = 92
     text = "Janji para Nabi kepada Allah tentang kenabian Muhammad SAW "
-    [[topics.subs]]
-    from = 1
-    to = 1
-    text = "Juz "
 
 [[topics]]
-from = 1
-to = 1
+from = 93
+to = 120
 topic = "BANTAHAN ALLAH TERHADAP PENDAPAT-PENDAPAT AHLI KITAB YANG KELIRU"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 93
+    to = 95
     text = "Bantahan terhadap larangan orang Yahudi tentang makanan "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 96
+    to = 99
     text = "Bantahan terhadap pengakuan Ahli Kitab tentang rumah ibadah yang pertama"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 100
+    to = 109
     text = "Keharusan menjaga persatuan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 110
+    to = 115
     text = "Kelebihan umat Islam dari umat lain "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 116
+    to = 117
     text = "Perumpamaan harta yang diinfakkan orang-orang kafir "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 118
+    to = 120
     text = "Larangan mengambil orang Yahudi sebagai teman kepercayaan"
 
 [[topics]]
-from = 1
-to = 1
+from = 121
+to = 200
 topic = "KISAH PERANG BADAR DAN UHUD"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 121
+    to = 129
     text = "Sabar dan tawakkal kepada Allah pangkal kemenangan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 130
+    to = 131
     text = "Larangan melakukan riba dan perintah untuk bertakwa"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 132
+    to = 148
     text = "Perintah taat kepada Allah dan Rasul, serta sifat-sifat orang yang bertakwa "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 149
+    to = 151
     text = "Peringatan supaya waspada terhadap ajakan orang-orang kafir"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 152
+    to = 155
     text = "Sebab-sebab kekalahan umat Islam dalam perang Uhud"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 156
+    to = 158
     text = "Menanamkan jiwa berkorban dan berjihad "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 159
+    to = 164
     text = "Akhlak dan beberapa sifat Nabi Muhammad SAW "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 165
+    to = 168
     text = "Beberapa sifat orang-orang munafik "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 169
+    to = 175
     text = "Pahala orang-orang yang mati syahid"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 176
+    to = 179
     text = "Ayat-ayat yang menenteramkan hati Nabi Muhammad SAW "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 180
+    to = 189
     text = "Kikir dan dusta serta balasannya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 190
+    to = 195
     text = "Faedah selalu mengingat Allah dan merenungkan ciptaan-Nya "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 196
+    to = 200
     text = "Kesenangan semu bagi orang kafir dan kebahagiaan abadi bagi orang mukmin"

@@ -3,271 +3,263 @@ number = 2
 
 [[topics]]
 from = 1
-to = 1
+to = 20
 topic = "TIGA GOLONGAN MANUSIA DALAM MENGHADAPI AL QUR'AN"
     [[topics.subs]]
     from = 1
-    to = 1
+    to = 5
     text = "Golongan Mukmin"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 6
+    to = 7
     text = "Golongan kafir"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 8
+    to = 20
     text = "Golongan munafik"
 
 [[topics]]
-from = 1
-to = 1
+from = 21
+to = 39
 topic = "KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 21
+    to = 22
     text = "Perintah menyembah Allah Yang Maha Esa"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 23
+    to = 24
     text = "Tantangan kepada kaum musyrikin mengenai Al Qur'an"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 25
+    to = 25
     text = "Balasan untuk orang-orang yang beriman "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 26
+    to = 27
     text = "Perumpamaan-perumpamaan dalam Al Qur'an dan hikmah-hikmahnya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 28
+    to = 29
     text = "Bukti-bukti kekuasaan Allah "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 30
+    to = 39
     text = "Penciptaan manusia dan penguasaannya di bumi"
 
 [[topics]]
-from = 1
-to = 1
+from = 40
+to = 141
 topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 40
+    to = 48
     text = "Beberapa perintah dan larangan Allah kepada Bani Israil "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 49
+    to = 60
     text = "Perincian nikmat Allah kepada Bani Israil "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 61
+    to = 61
     text = "Pembalasan terhadap sikap dan perbuatan Bani Israil"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 62
+    to = 62
     text = "Pahala orang yang beriman "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 63
+    to = 66
     text = "Pembalasan terhadap Bani Israil yang melanggar perjanjian dengan Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 67
+    to = 74
     text = "Kisah penyembelihan sapi betina"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 75
+    to = 82
     text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 83
+    to = 86
     text = "Bani Israil mengingkari janjinya dengan Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 87
+    to = 91
     text = "Sikap orang Yahudi terhadap para Rasul dan Kitab-kitab yang diturunkan Allah "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 92
+    to = 96
     text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi merupakan tanda kecenderungan mereka kepada benda "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 97
+    to = 101
     text = "Memusuhi Jibril berarti memusuhi Allah yang mengutusnya "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 102
+    to = 103
     text = "Tuduhan orang Yahudi terhadap Nabi Sulaiman A.S. "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 104
+    to = 105
     text = "Ketidaksopanan orang-orang Yahudi terhadap Nabi dan sahabat-sahabatnya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 106
+    to = 113
     text = "Menasakhkan sesuatu ayat adalah hak Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 114
+    to = 118
     text = "Tindakan-tindakan menghalangi beribadah "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 119
+    to = 123
     text = "Larangan mengikuti Yahudi dan Nasrani "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 124
+    to = 129
     text = "Perjanjian dengan Nabi Ibrahim A.S. "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 130
+    to = 141
     text = "Agama Nabi Ibrahim A.S. "
-    [[topics.subs]]
-    from = 1
-    to = 1
-    text = "Juz "
 
 [[topics]]
-from = 1
-to = 1
+from = 142
+to = 214
 topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 142
+    to = 152
     text = "Sekitar pemindahan kiblat"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 153
+    to = 157
     text = "Cobaan berat dalam menegakkan kebenaran "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 158
+    to = 158
     text = "Manasik Haji "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 159
+    to = 162
     text = "Laknat untuk orang-orang yang menyembunyikan ayat-ayat Allah dan orang-orang kafir"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 163
+    to = 171
     text = "Allah Yang Berkuasa dan Yang menentukan"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 172
+    to = 176
     text = "Makanan yang halal dan yang haram"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 177
+    to = 177
     text = "Pokok-pokok kebajikan "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 178
+    to = 179
     text = "Qishash dan hikmahnya"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 180
+    to = 182
     text = "Wasiat "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 183
+    to = 188
     text = "Puasa "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 189
+    to = 195
     text = "Berjihad dengan jiwa dan harta di jalan Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 196
+    to = 203
     text = "Haji "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 204
+    to = 210
     text = "Perbuatan orang-orang munafik "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 211
+    to = 214
     text = "Hikmah diutusnya para Rasul dan pelbagai cobaan bagi para pengikutnya "
 
 [[topics]]
-from = 1
-to = 1
+from = 215
+to = 252
 topic = "BEBERAPA HUKUM SYARIAT"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 215
+    to = 215
     text = "Orang-orang yang diberi nafkah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 216
+    to = 218
     text = "Hukum perang dalam Islam"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 219
+    to = 219
     text = "Khamar, judi, harta yang dinafkahkan dan pemeliharaan anak yatim"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 220
+    to = 237
     text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 238
+    to = 239
     text = "Kewajiban mengerjakan shalat meskipun dalam keadaan takut"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 240
+    to = 242
     text = "Wasiat untuk istri dan mut'ah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 243
+    to = 252
     text = "Kewajiban berjihad dan mengeluarkan harta di jalan Allah"
-    [[topics.subs]]
-    from = 1
-    to = 1
-    text = "Juz "
 
 [[topics]]
-from = 1
-to = 1
+from = 253
+to = 260
 topic = "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 253
+    to = 253
     text = "Keistimewaan dan perbedaan derajat rasul-rasul "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 254
+    to = 254
     text = "Anjuran menginfakkan harta"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 255
+    to = 255
     text = "Ayat Kursi "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 256
+    to = 257
     text = "Tidak ada paksaan memeluk agama Islam"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 258
+    to = 260
     text = "Membangkitkan kembali orang-orang yang sudah mati"
 
 [[topics]]
-from = 1
-to = 1
+from = 261
+to = 286
 topic = "CARA-CARA PENGGUNAAN HARTA DAN HUKUM-HUKUMNYA"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 261
+    to = 274
     text = "Menginfakkan harta di jalan Allah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 275
+    to = 281
     text = "Hukum riba "
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 282
+    to = 283
     text = "Kesaksian dalam muamalah"
     [[topics.subs]]
-    from = 1
-    to = 1
+    from = 284
+    to = 286
     text = "Pujian Allah terhadap para mukmin dan doa mereka"
