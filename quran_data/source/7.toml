@@ -1,57 +1,107 @@
-name = "Al-A'Raaf"
+name = "Al-A'Raf"
 number = 7
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 23
-to = 24
-topic = "Doa mohon ampunan & rahmat"
+from = 1
+to = 10
+topic = "KEWAJIBAN MENGIKUTI WAHYU DAN AKIBAT MENANTANGNYA"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 11
+to = 58
+topic = "PERMUSUHAN DAN GODAAN SETAN TERHADAP MANUSIA"
+    [[topics.subs]]
+    from = 11
+    to = 25
+    text = "Penghargaan Allah kepada Nabi Adam dan keturunannya "
+    [[topics.subs]]
+    from = 26
+    to = 30
+    text = "Peringatan Allah terhadap godaan setan"
+    [[topics.subs]]
+    from = 31
+    to = 33
+    text = "Adab berpakaian, makan, dan minum"
+    [[topics.subs]]
+    from = 34
+    to = 53
+    text = "Pengutusan para rasul dan akibat penerimaan dan penolakan kerasulan "
+    [[topics.subs]]
+    from = 54
+    to = 56
+    text = "Siapakah Tuhan semesta alam dan bagaimana bermohon kepada-Nya?"
+    [[topics.subs]]
+    from = 57
+    to = 58
+    text = "Bukti kekuasaan Allah membangkitkan manusia setelah mati"
 
 [[topics]]
-from = 35
-to = 35
-topic = "Rasul dari kalanganmu sendiri"
+from = 59
+to = 171
+topic = "KISAH BEBERAPA ORANG RASUL "
+    [[topics.subs]]
+    from = 59
+    to = 64
+    text = "Kisah Nabi Nuh A.S.  "
+    [[topics.subs]]
+    from = 65
+    to = 72
+    text = "Kisah Nabi Huud A.S. "
+    [[topics.subs]]
+    from = 73
+    to = 79
+    text = "Kisah Nabi Shaleh A.S. "
+    [[topics.subs]]
+    from = 80
+    to = 84
+    text = "Kisah Nabi Luth A.S.  "
+    [[topics.subs]]
+    from = 85
+    to = 102
+    text = "Kisah Nabi Syu'aib A.S. "
+    [[topics.subs]]
+    from = 103
+    to = 171
+    text = "Kisah Nabi Musa A.S.  "
 
 [[topics]]
-from = 54
-to = 55
-topic = "Penciptaan semesta & cara berdoa"
+from = 172
+to = 202
+topic = "PENGKHIANATAN ORANG-ORANG YAHUDI TERHADAP PERJANJIAN DENGAN ALLAH"
+    [[topics.subs]]
+    from = 172
+    to = 174
+    text = "Ketauhidan sesuai dengan fitrah manusia"
+    [[topics.subs]]
+    from = 175
+    to = 177
+    text = "Perumpamaan orang-orang yang mendustakan ayat-ayat Allah"
+    [[topics.subs]]
+    from = 178
+    to = 179
+    text = "Sifat-sifat penghuni neraka"
+    [[topics.subs]]
+    from = 180
+    to = 186
+    text = "Kedatangan azab Allah kepada orang-orang yang mendustakan ayat-ayat-Nya dengan cara istidraj"
+    [[topics.subs]]
+    from = 187
+    to = 188
+    text = "Hanya Allah yang mengetahui waktu hari kiamat"
+    [[topics.subs]]
+    from = 189
+    to = 193
+    text = "Tuhan mengingatkan manusia kepada asal-usul kejadiannya "
+    [[topics.subs]]
+    from = 194
+    to = 198
+    text = "Berhala tidak pantas disembah"
+    [[topics.subs]]
+    from = 199
+    to = 202
+    text = "Dasar-dasar al-akhlaqul kariimah "
 
 [[topics]]
-from = 54
-to = 55
-topic = "kosong"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 85
-to = 87
-topic = "Kisah Nabi Syu'aib A.S"
-
-[[topics]]
-from = 174
-to = 188
-topic = "Penghianatan orang-orang Yahudi terhadap perjanjian manusia dengan Allah"
-
-[[topics]]
-from = 204
-to = 204
-topic = "Perintah mendengar bacaan Qur'an"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+from = 203
+to = 206
+topic = "ADAB MENDENGAR AL-QUR'AN DAN BERZIKIR "

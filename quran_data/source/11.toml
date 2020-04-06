@@ -1,22 +1,52 @@
 name = "Huud"
 number = 11
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 6
-to = 6
-topic = "Rezeki semua makhluk sudah dijamin Allah"
-
+from = 1
+to = 24
+topic = "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH "
+    [[topics.subs]]
+    from = 1
+    to = 4
+    text = "Perintah menyembah Allah"
+    [[topics.subs]]
+    from = 5
+    to = 11
+    text = "Perbedaan sifat orang kafir dan orang mukmin"
+    [[topics.subs]]
+    from = 12
+    to = 24
+    text = "Kebenaran wahyu "
+    
 [[topics]]
-from = 47
-to = 49
-topic = "Keselamatan seseorang tergantung amalnya"
-
-[[topics]]
-from = 114
-to = 115
-topic = "Perbuatan baik menghapus kesalahan"
-
+from = 25
+to = 123
+topic = "KISAH PARA NABI"
+    [[topics.subs]]
+    from = 25
+    to = 49
+    text = "Kisah Nabi Nuh "
+    [[topics.subs]]
+    from = 50
+    to = 60
+    text = "Kisah Nabi Hud "
+    [[topics.subs]]
+    from = 61
+    to = 68
+    text = "Kisah Nabi Shaleh "
+    [[topics.subs]]
+    from = 69
+    to = 83
+    text = "Kisah Nabi Ibrahim dan Nabi Luth "
+    [[topics.subs]]
+    from = 84
+    to = 95
+    topic = "Kisah Nabi Syu'aib"
+    [[topics.subs]]
+    from = 96
+    to = 99
+    topic = "Kisah Nabi Musa"
+    [[topics.subs]]
+    from = 100
+    to = 123
+    text = "Pelajaran dari kisah-kisah beberapa nabi "

@@ -1,12 +1,55 @@
 name = "An-Naml"
 number = 27
-[[topics]]
-from = 19
-to = 19
-topic = "Doa memohon hidayah & rahmat Allah"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 1
+to = 5
+topic = "AL-QUR'AN PEDOMAN HIDUP DAN BERITA GEMBIRA BAGI ORANG MUKMIN"
 
+[[topics]]
+from = 6
+to = 14
+topic = "MUSA MENERIMA WAHYU, DAN MUHAMMAD PUN MENERIMA WAHYU AL-QUR'AN"
+
+[[topics]]
+from = 15
+to = 44
+topic = "KISAH NABI DAWUD DAN NABI SULAIMAN "
+    [[topics.subs]]
+    from = 15
+    to = 19
+    text = "Sulaiman mewarisi kerajaan Dawud "
+    [[topics.subs]]
+    from = 20
+    to = 44
+    text = "Pembicaraan Sulaiman dengan burung Hud-hud "
+
+[[topics]]
+from = 45
+to = 53
+topic = "PELAJARAN DARI KEINGKARAN KAUM SHALEH"
+
+[[topics]]
+from = 54
+to = 58
+topic = "PERBUATAN CABUL KAUM LUTH "
+
+[[topics]]
+from = 59
+to = 66
+topic = "PERINTAH ALLAH KEPADA MUHAMMAD UNTUK MENSYUKURI NIKMAT "
+
+[[topics]]
+from = 67
+to = 75
+topic = "ORANG KAFIR MENGINGKARI HARI KEBANGKITAN"
+
+[[topics]]
+from = 76
+to = 81
+topic = "AL-QUR'AN BUKTI KENABIAN MUHAMMAD "
+
+[[topics]]
+from = 82
+to = 93
+topic = "TANDA-TANDA KEDATANGAN HARI KIAMAT"

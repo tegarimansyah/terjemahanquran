@@ -1,17 +1,62 @@
-name = "Fatir"
+name = "Fathir"
 number = 35
+
 [[topics]]
 from = 1
+to = 4
+topic = "ALLAH ADALAH PENCIPTA, PENGUASA, DAN PEMBERI RAHMAT "
+
+[[topics]]
+from = 5
 to = 7
-topic = "Allah adalah Pencipta, Penguasa, dan Pemberi rahmat"
+topic = "JANJI ALLAH PASTI DATANG "
+
+[[topics]]
+from = 8
+to = 8
+topic = "ORANG YANG TERTIPU DENGAN AMALAN YANG BURUK"
+
+[[topics]]
+from = 9
+to = 14
+topic = "KEKUASAAN ALLAH YANG TERCERMIN DALAM ALAM SEMESTA"
+
+[[topics]]
+from = 15
+to = 17
+topic = "HANYA ALLAH YANG MAHA KAYA DAN TERPUJI "
+
+[[topics]]
+from = 18
+to = 23
+topic = "MASING-MASING MANUSIA HANYA MEMIKUL KESALAHANNYA SENDIRI"
+
+[[topics]]
+from = 24
+to = 26
+topic = "NABI MUHAMMAD PEMBAWA KEBENARAN"
+
+[[topics]]
+from = 27
+to = 28
+topic = "HANYA ORANG YANG BERPENGETAHUAN YANG SEBENARNYA TAKUT KEPADA ALLAH"
 
 [[topics]]
 from = 29
-to = 29
-topic = "Balasan kepada orang yang membaca Al-Qur'an, mendirikan sholat & sedekah"
+to = 31
+topic = "HANYA ORANG YANG MEMAHAMI KITAB ALLAH, MENDIRIKAN SHALAT,DAN BERINFAK DI JALAN ALLAH ITULAH YANG MENGHARAP PAHALA YANG KEKAL"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 32
+to = 37
+topic = "TINGKATAN UMAT ISLAM DALAM MENERIMA AL-QUR'AN"
 
+[[topics]]
+from = 38
+to = 43
+topic = "KETIDAKBERDAYAAN SEMBAHAN SELAIN ALLAH "
+
+[[topics]]
+from = 44
+to = 45
+topic = "ANJURAN AGAR MELAKUKAN PERJALANAN DI BUMI UNTUK MEMBUKTIKAN  KEKUASAAN ALLAH "

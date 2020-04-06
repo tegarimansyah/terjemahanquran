@@ -1,7 +1,23 @@
 name = "Al-Mulk"
 number = 67
+
 [[topics]]
 from = 1
 to = 30
-topic = "Kerajaan"
-
+topic = "KERAJAAN ALLAH MELIPUTI KERAJAAN DUNIA DAN AKHIRAT"
+    [[topics.subs]]
+    from = 1
+    to = 5
+    text = "Kekuasaan dan ilmu Allah yang tergambar di alam semesta "
+    [[topics.subs]]
+    from = 6
+    to = 11
+    text = "Azab yang diderita orang-orang kafir di akhirat "
+    [[topics.subs]]
+    from = 12
+    to = 15
+    text = "Janji-janji Allah kepada orang-orang mukmin"
+    [[topics.subs]]
+    from = 16
+    to = 30
+    text = "Ancaman Allah kepada orang-orang kafir"

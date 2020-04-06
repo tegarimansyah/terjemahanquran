@@ -1,27 +1,82 @@
-name = "Tohaa"
+name = "Tahaa"
 number = 20
+
 [[topics]]
 from = 1
-to = 24
-topic = "Perintah Allah kepada Nabi Musa A.S. dan permohonan Nabi Musa A.S."
+to = 8
+topic = "AL-QUR'AN DITURUNKAN SEBAGAI PERINGATAN BAGI MANUSIA"
 
 [[topics]]
-from = 25
-to = 28
-topic = "Doa mempermudah urusan"
-
-[[topics]]
-from = 29
-to = 41
-topic = "Ni'mat-ni'mat Allah kepada Nabi Musa A.S. sejak kecil"
-
-[[topics]]
-from = 112
+from = 9
 to = 114
-topic = "Hak orang beriman dan diturunkannya Al Qur'an dengan bahasa Arab"
+topic = "KISAH NABI MUSA"
+    [[topics.subs]]
+    from = 9
+    to = 16
+    text = "Nabi Musa menerima permulaan wahyu "
+    [[topics.subs]]
+    from = 17
+    to = 23
+    text = "Dua macam mukjizat Musa"
+    [[topics.subs]]
+    from = 24
+    to = 36
+    text = "Perintah Allah kepada Nabi Musa dan permohonan Nabi Musa"
+    [[topics.subs]]
+    from = 37
+    to = 41
+    text = "Nikmat Allah kepada Nabi Musa sejak kecil"
+    [[topics.subs]]
+    from = 42
+    to = 56
+    text = "Musa dan Harun diperintah menghadap Fir'aun "
+    [[topics.subs]]
+    from = 57
+    to = 69
+    text = "Nabi Musa menundukkan tukang sihir Fir'aun"
+    [[topics.subs]]
+    from = 70
+    to = 76
+    text = "Tukang sihir Fir'aun menjadi orang yang beriman"
+    [[topics.subs]]
+    from = 77
+    to = 82
+    text = "Pembelahan laut dan pembebasan Bani Israil "
+    [[topics.subs]]
+    from = 83
+    to = 84
+    text = "Teguran Allah kepada Nabi Musa"
+    [[topics.subs]]
+    from = 85
+    to = 91
+    text = "Pengkhianatan Samiri"
+    [[topics.subs]]
+    from = 92
+    to = 94
+    text = "Teguran Musa kepada Harun dan balasan Harun"
+    [[topics.subs]]
+    from = 95
+    to = 96
+    text = "Hardikan Musa terhadap Samiri"
+    [[topics.subs]]
+    from = 97
+    to = 98
+    text = "Azab yang ditimpakan kepada Samiri"
+    [[topics.subs]]
+    from = 99
+    to = 104
+    text = "Kisah umat-umat terdahulu merupakan peringatan bagi manusia"
+    [[topics.subs]]
+    from = 105
+    to = 114
+    text = "Keadaan pada hari kiamat"
 
 [[topics]]
-from = 132
-to = 135
-topic = "kewajiban suami mengajak keluarganya sholat"
+from = 115
+to = 127
+topic = "KISAH NABI ADAM DAN PEMBANGKANGAN IBLIS"
 
+[[topics]]
+from = 128
+to = 135
+topic = "BEBERAPA PERINGATAN DAN AJARAN TENTANG MORAL"

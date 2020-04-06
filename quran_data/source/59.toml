@@ -1,2 +1,27 @@
 name = "Al Hasyr"
 number = 59
+
+[[topics]]
+from = 1
+to = 24
+topic = "PENGUSIRAN ORANG-ORANG YAHUDI DARI MADINAH"
+    [[topics.subs]]
+    from = 1
+    to = 5
+    text = "Pengusiran Bani Nadhir dari Madinah "
+    [[topics.subs]]
+    from = 6
+    to = 10
+    text = "Hukum Fai "
+    [[topics.subs]]
+    from = 11
+    to = 17
+    text = "Orang munafik tidak menepati janji terhadap orang Yahudi "
+    [[topics.subs]]
+    from = 18
+    to = 21
+    text = "Beberapa peringatan"
+    [[topics.subs]]
+    from = 22
+    to = 24
+    text = "Beberapa Al-Asmaa' al Husna "

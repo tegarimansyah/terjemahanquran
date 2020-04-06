@@ -1,22 +1,46 @@
 name = "Al-Furqan"
 number = 25
+
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 1
+to = 1
+topic = "AL-QUR'AN ADALAH PERINGATAN UNTUK SELURUH MANUSIA"
+    [[topics.subs]]
+    from = 1
+    to = 3
+    text = "Kekuasaan Allah dan keharmonisan ciptaan-Nya"
+    [[topics.subs]]
+    from = 4
+    to = 6
+    text = "Tuduhan palsu orang kafir terhadap Al-Qur'an"
+    [[topics.subs]]
+    from = 7
+    to = 15
+    text = "Keheranan orang kafir tentang diutusnya rasul dari manusia biasa "
+    [[topics.subs]]
+    from = 16
+    to = 18
+    text = "Tanya-jawab antara Allah dengan sembahan orang kafir pada hari kiamat"
+    [[topics.subs]]
+    from = 19
+    to = 20
+    text = "Para rasul diutus dari manusia biasa"
+    [[topics.subs]]
+    from = 21
+    to = 34
+    text = "Keadaan manusia yang tidak membenarkan Al-Qur'an pada hari kiamat "
+
+[[topics]]
+from = 35
+to = 44
+topic = "PELAJARAN DARI KISAH UMAT TERDAHULU"
+
+[[topics]]
+from = 45
+to = 62
+topic = "TANDA-TANDA KEKUASAAN ALLAH DALAM ALAM"
 
 [[topics]]
 from = 63
-to = 66
-topic = "Hamba Allah adalah yang berjalan di bumi dengan rendah hati"
-
-[[topics]]
-from = 74
-to = 74
-topic = "Doa memohon pasangan & keturunan"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+to = 77
+topic = "SIFAT-SIFAT HAMBA ALLAH YANG MENDAPAT KEMULIAAN"

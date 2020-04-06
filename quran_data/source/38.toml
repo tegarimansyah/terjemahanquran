@@ -1,17 +1,40 @@
-name = "Shood"
+name = "Shad"
 number = 38
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 29
-to = 29
-topic = "Dorongan mempelajari Al-Qur'an"
+from = 1
+to = 1
+topic = "MUSUH PARA NABI AKAN HANCUR "
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+from = 17
+to = 1
+topic = "KISAH BEBERAPA NABI "
+    [[topics.subs]]
+    from = 17
+    to = 29
+    text = "Nabi Dawud mendapat cobaan dari Allah"
+    [[topics.subs]]
+    from = 30
+    to = 40
+    text = "Nabi Sulaiman mendapat cobaan dari Allah"
+    [[topics.subs]]
+    from = 41
+    to = 44
+    text = "Nabi Ayyub dan kesabarannya"
+    [[topics.subs]]
+    from = 45
+    to = 48
+    text = "Beberapa orang nabi pilihan "
+    [[topics.subs]]
+    from = 49
+    to = 54
+    text = "Pahala bagi pengikut nabi-nabi"
+    [[topics.subs]]
+    from = 55
+    to = 70
+    text = "Azab terhadap orang-orang yang menentang nabi"
+    [[topics.subs]]
+    from = 71
+    to = 88
+    text = "Adam dan godaan iblis"

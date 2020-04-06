@@ -1,13 +1,16 @@
 name = "Al-Fatihah"
 number = 1
+
 [[topics]]
 from = 1
 to = 4
 topic = "Pujian bagi Allah"
+
 [[topics]]
 from = 5
 to = 5
 topic = "Pernyataan penghambaan"
+
 [[topics]]
 from = 6
 to = 7

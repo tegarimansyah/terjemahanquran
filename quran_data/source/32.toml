@@ -1,22 +1,27 @@
 name = "As-Sajdah"
 number = 32
+
 [[topics]]
 from = 1
-to = 11
-topic = "Al-Qur'an bukanlah ciptaan Muhammad S.A.W"
-
-[[topics]]
-from = 12
-to = 15
-topic = "Sebuah perbandingan antara orang mu'min dengan orang kafir"
-
-[[topics]]
-from = 16
-to = 22
-topic = "Sebuah perbandingan antara orang mu'min dengan orang kafir"
-
-[[topics]]
-from = 23
 to = 30
-topic = "Jangan ragu dalam menerima Al-Qur'an"
-
+topic = "AL-QUR'AN ADALAH WAHYU DARI ALLAH"
+    [[topics.subs]]
+    from = 1
+    to = 3
+    text = "Al-Qur'an bukanlah ciptaan Muhammad SAW"
+    [[topics.subs]]
+    from = 4
+    to = 6
+    text = "Masa terciptanya alam semesta"
+    [[topics.subs]]
+    from = 7
+    to = 11
+    text = "Proses kejadian manusia dan kebangkitannya pada hari kiamat"
+    [[topics.subs]]
+    from = 12
+    to = 22
+    text = "Sebuah perbandingan antara orang mukmin dan orang kafir"
+    [[topics.subs]]
+    from = 23
+    to = 30
+    text = "Perintah Allah untuk menerima Al-Qur'an tanpa ragu-ragu"

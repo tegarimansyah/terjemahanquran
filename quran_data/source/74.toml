@@ -1,7 +1,19 @@
 name = "Al-Mudatsir"
 number = 74
+
 [[topics]]
 from = 1
-to = 56
-topic = "Orang yang berkemul"
-
+to = 1
+topic = "PERINTAH KEPADA NABI UNTUK BERDAKWAH "
+    [[topics.subs]]
+    from = 1
+    to = 10
+    text = "Beberapa petunjuk dalam berdakwah"
+    [[topics.subs]]
+    from = 11
+    to = 31
+    text = "Urusan orang yang ingkar kepada Allah"
+    [[topics.subs]]
+    from = 32
+    to = 56
+    text = "Yang menerima dakwah akan mendapat pahala dan yang menolaknya akan masuk neraka"

@@ -1,7 +1,12 @@
 name = "Al-'Alaq"
 number = 96
+
 [[topics]]
 from = 1
-to = 19
-topic = "Segumpal Darah"
+to = 5
+topic = "BACA TULIS ADALAH KUNCI ILMU PENGETAHUAN"
 
+[[topics]]
+from = 6
+to = 19
+topic = "MANUSIA MENJADI JAHAT KARENA MERASA CUKUP "

@@ -1,42 +1,66 @@
 name = "Al-An'am"
 number = 6
+
 [[topics]]
 from = 1
-to = 20
-topic = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad S.A.W."
+to = 49
+topic = "KEYAKINAN TENTANG KEESAAN ALLAH-LAH YANG MENANG"
+    [[topics.subs]]
+    from = 1
+    to = 3
+    text = "Dalil-dalil tentang keesaan Allah "
+    [[topics.subs]]
+    from = 4
+    to = 11
+    text = "Faktor penyebab kekafiran kaum musyrikin dan ancaman untuk mereka"
+    [[topics.subs]]
+    from = 12
+    to = 21
+    text = "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad SAW  "
+    [[topics.subs]]
+    from = 22
+    to = 32
+    text = "Kesaksian kaum musyrikin terhadap dirinya sendiri dan keadaan mereka pada hari kiamat"
+    [[topics.subs]]
+    from = 33
+    to = 37
+    text = "Firman Allah yang membesarkan hati Nabi Muhammad SAW  "
+    [[topics.subs]]
+    from = 38
+    to = 49
+    text = "Kesempurnaan ilmu Allah dan bukti-bukti kekuasaan-Nya"
 
 [[topics]]
-from = 32
-to = 32
-topic = "Perbedaan dunia & akhirat"
+from = 50
+to = 73
+topic = "TUNTUNAN DALAM HIDUP BERMASYARAKAT"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 74
+to = 83
+topic = "NABI IBRAHIM A.S. MEMIMPIN KAUMNYA KEPADA AGAMA TAUHID"
 
 [[topics]]
-from = 53
-to = 58
-topic = "Tuntunan-tuntunan dalam menghadapi masyarakat"
+from = 84
+to = 92
+topic = "ORANG YANG DIBERI KITAB, HIKMAH, DAN KENABIAN "
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 93
+to = 110
+topic = "KEBENARAN WAHYU, AKIBAT BERBUAT DUSTA TERHADAP ALLAH, DAN LARANGAN MEMAKI BERHALA"
 
 [[topics]]
-from = 106
-to = 108
-topic = "Saling menghormati dalam beragama"
+from = 111
+to = 129
+topic = "SIKAP KERAS KEPALA KAUM MUSYRIKIN DAN SIKAP MEREKA TERHADAP KERASULAN MUHAMMAD SAW "
 
 [[topics]]
-from = 141
-to = 143
-topic = "Besarnya Karunia Allah kepada Manusia"
+from = 130
+to = 135
+topic = "DERAJAT SESEORANG SESUAI DENGAN AMALNYA "
 
 [[topics]]
-from = 159
-to = 161
-topic = "Peraturan-peraturan yang dibuat-buat oleh kaum musyrikin dan pimpinan Allah terhadap kaum muslimin"
-
+from = 136
+to = 165
+topic = "PERATURAN YANG DIBUAT-BUAT OLEH KAUM MUSYRIKIN DAN PETUNJUK ALLAH UNTUK KAUM MUSLIMIN"

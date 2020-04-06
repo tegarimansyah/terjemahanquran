@@ -1,32 +1,84 @@
 name = "Al-Hajj"
 number = 22
-[[topics]]
-from = 11
-to = 13
-topic = "Celaan terhadap orang-orang yang tidak berpendirian"
 
 [[topics]]
-from = 15
-to = 17
-topic = "Pertolongan Allah pasti datang"
-
-[[topics]]
-from = 18
-to = 18
-topic = "Semua bersujud kepada Allah"
+from = 1
+to = 25
+topic = "KEHIDUPAN PADA HARI AKHIR"
+    [[topics.subs]]
+    from = 1
+    to = 2
+    text = "Kedahsyatan hari kiamat "
+    [[topics.subs]]
+    from = 3
+    to = 4
+    text = "Celaan terhadap orang yang membantah Tuhan "
+    [[topics.subs]]
+    from = 5
+    to = 7
+    text = "Proses kejadian manusia dan tumbuh-tumbuhan adalah bukti yang nyata tentang kebenaran hari kebangkitan"
+    [[topics.subs]]
+    from = 8
+    to = 10
+    text = "Celaan terhadap orang yang membantah Tuhan karena kesombongan "
+    [[topics.subs]]
+    from = 11
+    to = 13
+    text = "Celaan terhadap orang yang tidak memiliki pendirian"
+    [[topics.subs]]
+    from = 14
+    to = 14
+    text = "Balasan terhadap orang yang beriman dan beramal saleh"
+    [[topics.subs]]
+    from = 15
+    to = 18
+    text = "Pertolongan Allah pasti datang"
+    [[topics.subs]]
+    from = 19
+    to = 25
+    text = "Keadaan orang kafir di dalam neraka dan balasan untuk orang yang beriman"
 
 [[topics]]
 from = 26
-to = 28
-topic = "Haji, Menasiknya, & Syi'arnya"
+to = 37
+topic = "HAJI, MANASIK DAN SYI'ARNYA"
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 38
+to = 41
+topic = "IZIN BERPERANG BAGI ORANG-ORANG MUKMIN"
+
+[[topics]]
+from = 42
+to = 48
+topic = "AYAT-AYAT ALLAH SEBAGAI PENGHIBUR NABI MUHAMMAD "
+
+[[topics]]
+from = 49
+to = 57
+topic = "TUGAS RASUL ADALAH MEMBERI PERINGATAN"
 
 [[topics]]
 from = 58
 to = 62
-topic = "Balasan terhadap orang-orang yang mati dalam berhijrah di jalan Allah"
+topic = "BALASAN UNTUK ORANG YANG MATI DALAM HIJRAH DI JALAN ALLAH"
 
+[[topics]]
+from = 63
+to = 66
+topic = "NIKMAT ALLAH YANG DIBERIKAN KEPADA MANUSIA"
+
+[[topics]]
+from = 67
+to = 70
+topic = "SETIAP UMAT MEMPUNYAI SYARIAT TERTENTU "
+
+[[topics]]
+from = 71
+to = 77
+topic = "KELEMAHAN PENDIRIAN ORANG KAFIR DALAM MENYEMBAH SELAIN ALLAH "
+
+[[topics]]
+from = 78
+to = 78
+topic = "AGAMA ISLAM BUKANLAH AGAMA YANG SEMPIT"

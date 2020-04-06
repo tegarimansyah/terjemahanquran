@@ -1,147 +1,158 @@
-name = "Ali-Imran"
+name = "Surat ALI 'IMRAAN"
 number = 3
+
 [[topics]]
 from = 1
-to = 4
-topic = "Al-Qur'an & kitab-kitab sebelumnya"
-
-[[topics]]
-from = 5
-to = 7
-topic = "Al-Qur'an dan kitab-kitab yang sebelumnya"
-
-[[topics]]
-from = 8
-to = 9
-topic = "Doa petunjuk hati"
-
-[[topics]]
-from = 10
-to = 13
-topic = "Ancaman Allah kepada orang-orang kafir dan pengaruh harta benda duniawi"
-
-[[topics]]
-from = 14
-to = 14
-topic = "Kesenangan hidup di dunia"
-
-[[topics]]
-from = 15
-to = 17
-topic = "Doa minta ampun dari dosa"
-
-[[topics]]
-from = 18
-to = 27
-topic = "Pernyataan Allah tentang keesaan dan keadilan-Nya serta agama yang di ridhai-Nya"
-
-[[topics]]
-from = 28
 to = 32
-topic = "Larangan berpihak kepada orang kafir"
+topic = "KEESAAN DAN KEKUASAAN ALLAH "
+    [[topics.subs]]
+    from = 1
+    to = 9
+    text = "Al Qur'an dan Kitab-kitab terdahulu"
+    [[topics.subs]]
+    from = 10
+    to = 17
+    text = "Ancaman Allah kepada orang kafir dan pengaruh harta "
+    [[topics.subs]]
+    from = 18
+    to = 20
+    text = "Pernyataan Allah tentang keesaan dan keadilan-Nya serta agama yang diridhai-Nya"
+    [[topics.subs]]
+    from = 21
+    to = 22
+    text = "Pembalasan terhadap orang-orang yang membunuh nabi-nabi "
+    [[topics.subs]]
+    from = 23
+    to = 25
+    text = "Orang-orang Yahudi berpaling dari hukum Allah"
+    [[topics.subs]]
+    from = 26
+    to = 27
+    text = "Bukti-bukti kekuasaan dan kebenaran Allah SWT "
+    [[topics.subs]]
+    from = 28
+    to = 30
+    text = "Larangan berpihak kepada orang kafir"
+    [[topics.subs]]
+    from = 31
+    to = 32
+    text = "Bukti cinta kepada Allah SWT "
 
 [[topics]]
 from = 33
-to = 37
-topic = "Keutamaan keluarga 'Imran"
+to = 92
+topic = "KELUARGA 'IMRAN"
+    [[topics.subs]]
+    from = 33
+    to = 44
+    text = "Keutamaan keluarga 'Imran"
+    [[topics.subs]]
+    from = 45
+    to = 63
+    text = "Kisah Al Masih 'Isa putra Maryam "
+    [[topics.subs]]
+    from = 64
+    to = 68
+    text = "Ajakan kepada agama Tauhid Millatu Ibrahim"
+    [[topics.subs]]
+    from = 69
+    to = 74
+    text = "Sikap Ahli Kitab terhadap orang Islam"
+    [[topics.subs]]
+    from = 75
+    to = 78
+    text = "Keburukan-keburukan orang Yahudi"
+    [[topics.subs]]
+    from = 79
+    to = 80
+    text = "Seorang nabi tidak akan menyuruh manusia menyembah dirinya"
+    [[topics.subs]]
+    from = 81
+    to = 92
+    text = "Janji para Nabi kepada Allah tentang kenabian Muhammad SAW "
 
 [[topics]]
-from = 38
-to = 50
-topic = "Keutamaan keluarga 'Imran"
+from = 93
+to = 120
+topic = "BANTAHAN ALLAH TERHADAP PENDAPAT-PENDAPAT AHLI KITAB YANG KELIRU"
+    [[topics.subs]]
+    from = 93
+    to = 95
+    text = "Bantahan terhadap larangan orang Yahudi tentang makanan "
+    [[topics.subs]]
+    from = 96
+    to = 99
+    text = "Bantahan terhadap pengakuan Ahli Kitab tentang rumah ibadah yang pertama"
+    [[topics.subs]]
+    from = 100
+    to = 109
+    text = "Keharusan menjaga persatuan"
+    [[topics.subs]]
+    from = 110
+    to = 115
+    text = "Kelebihan umat Islam dari umat lain "
+    [[topics.subs]]
+    from = 116
+    to = 117
+    text = "Perumpamaan harta yang diinfakkan orang-orang kafir "
+    [[topics.subs]]
+    from = 118
+    to = 120
+    text = "Larangan mengambil orang Yahudi sebagai teman kepercayaan"
 
 [[topics]]
-from = 38
-to = 50
-topic = "Keutamaan keluarga 'Imran"
-
-[[topics]]
-from = 51
-to = 52
-topic = "Nabi Isa & sahabatnya adalah penolong agama Allah"
-
-[[topics]]
-from = 53
-to = 65
-topic = "Ajakan kepada agama Tauhid \"Millatu Ibrahim\""
-
-[[topics]]
-from = 66
-to = 75
-topic = "QS 3 Ali-Imran: 76-77"
-
-[[topics]]
-from = 78
-to = 103
-topic = "Bantahan Allah terhadap pendapat-pendapat ahli kitab yang keliru"
-
-[[topics]]
-from = 104
-to = 104
-topic = "Keharusan menjaga persatuan"
-
-[[topics]]
-from = 105
-to = 127
-topic = "kelebihan umat islam dari umat yang lain"
-
-[[topics]]
-from = 128
-to = 129
-topic = "Sabar dan tawakal kepada Allah pangkal kemenangan"
-
-[[topics]]
-from = 130
-to = 135
-topic = "Larangan memakan riba & ciri orang bertakwa"
-
-[[topics]]
-from = 136
-to = 144
-topic = "Agama Nabi Ibrahim A.S"
-
-[[topics]]
-from = 145
-to = 145
-topic = "Balasan dunia akhirat"
-
-[[topics]]
-from = 146
-to = 151
-topic = "Kehidupan dunia adalah kesenangan yang memperdaya"
-
-[[topics]]
-from = 152
-to = 161
-topic = "kosong"
-
-[[topics]]
-from = 162
-to = 184
-topic = "kosong"
-
-[[topics]]
-from = 185
-to = 186
-topic = "Kehidupan dunia adalah kesenangan yang memperdaya"
-
-[[topics]]
-from = 187
-to = 191
-topic = "Kebakhilan dan dusta serta balasannya"
-
-[[topics]]
-from = 192
-to = 194
-topic = "Doa orang beriman & jawaban Allah"
-
-[[topics]]
-from = 195
-to = 195
-topic = "Faedah selalu ingat kepada Allah dan merenungkan ciptaan-Nya"
-
-[[topics]]
-from = 196
-to = 199
-topic = "Kesenangan sementara bagi orang-orang kafir dan kebahagiaan abadi bagi orang mu'min"
-
+from = 121
+to = 200
+topic = "KISAH PERANG BADAR DAN UHUD"
+    [[topics.subs]]
+    from = 121
+    to = 129
+    text = "Sabar dan tawakkal kepada Allah pangkal kemenangan"
+    [[topics.subs]]
+    from = 130
+    to = 131
+    text = "Larangan melakukan riba dan perintah untuk bertakwa"
+    [[topics.subs]]
+    from = 132
+    to = 148
+    text = "Perintah taat kepada Allah dan Rasul, serta sifat-sifat orang yang bertakwa "
+    [[topics.subs]]
+    from = 149
+    to = 151
+    text = "Peringatan supaya waspada terhadap ajakan orang-orang kafir"
+    [[topics.subs]]
+    from = 152
+    to = 155
+    text = "Sebab-sebab kekalahan umat Islam dalam perang Uhud"
+    [[topics.subs]]
+    from = 156
+    to = 158
+    text = "Menanamkan jiwa berkorban dan berjihad "
+    [[topics.subs]]
+    from = 159
+    to = 164
+    text = "Akhlak dan beberapa sifat Nabi Muhammad SAW "
+    [[topics.subs]]
+    from = 165
+    to = 168
+    text = "Beberapa sifat orang-orang munafik "
+    [[topics.subs]]
+    from = 169
+    to = 175
+    text = "Pahala orang-orang yang mati syahid"
+    [[topics.subs]]
+    from = 176
+    to = 179
+    text = "Ayat-ayat yang menenteramkan hati Nabi Muhammad SAW "
+    [[topics.subs]]
+    from = 180
+    to = 189
+    text = "Kikir dan dusta serta balasannya"
+    [[topics.subs]]
+    from = 190
+    to = 195
+    text = "Faedah selalu mengingat Allah dan merenungkan ciptaan-Nya "
+    [[topics.subs]]
+    from = 196
+    to = 200
+    text = "Kesenangan semu bagi orang kafir dan kebahagiaan abadi bagi orang mukmin"

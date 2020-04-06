@@ -1,32 +1,39 @@
 name = "Al-Qamar"
 number = 54
-[[topics]]
-from = 17
-to = 17
-topic = "kosong"
 
 [[topics]]
-from = 17
-to = 17
-topic = "Al-Qur'an sebagai peringatan & pelajaran"
-
-[[topics]]
-from = 22
-to = 22
-topic = "Al-Qur'an sebagai peringatan & pelajaran"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 40
-to = 40
-topic = "Al-Qur'an sebagai peringatan & pelajaran"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+from = 1
+to = 55
+topic = "MUSUH NABI MUHAMMAD AKAN MENGALAMI KEHANCURAN SEBAGAIMANA MUSUH RASUL TERDAHULU"
+    [[topics.subs]]
+    from = 1
+    to = 8
+    text = "Berita kehancuran musuh Nabi Muhammad"
+    [[topics.subs]]
+    from = 9
+    to = 17
+    text = "Kehancuran kaum Nabi Nuh"
+    [[topics.subs]]
+    from = 18
+    to = 22
+    text = "Kehancuran kaum 'Ad"
+    [[topics.subs]]
+    from = 23
+    to = 32
+    text = "Kehancuran kaum Tsamud"
+    [[topics.subs]]
+    from = 33
+    to = 40
+    text = "Kehancuran kaum Luth"
+    [[topics.subs]]
+    from = 41
+    to = 43
+    text = "Kehancuran Fir'aun"
+    [[topics.subs]]
+    from = 44
+    to = 46
+    text = "Peringatan kepada kaum musyrikin bahwa mereka tidak lebih kuat dari umat-umat yang telah dihancurkan Allah "
+    [[topics.subs]]
+    from = 47
+    to = 55
+    text = "Balasan terhadap orang yang berdosa dan pahala bagi orang yang bertakwa"

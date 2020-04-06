@@ -1,12 +1,12 @@
 name = "Adz-Dzaariyaat"
 number = 51
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 55
+from = 1
+to = 23
+topic = "PENEGASAN TENTANG HARI KEBANGKITAN "
+
+[[topics]]
+from = 24
 to = 60
-topic = "Tujuan penciptaan manusia"
-
+topic = "KISAH TENTANG UMAT-UMAT TERDAHULU YANG MENDUSTAKAN PARA NABI"

@@ -1,17 +1,75 @@
 name = "Az-Zumar"
 number = 39
+
 [[topics]]
 from = 1
-to = 5
-topic = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
+to = 9
+topic = "BERIBADAH KEPADA ALLAH DENGAN HATI PENUH KEIKHLASAN"
 
 [[topics]]
 from = 10
-to = 18
-topic = "Beribadah kepada Allah dengan hati yang penuh keikhlasan"
+to = 41
+topic = "PERBANDINGAN ANTARA ORANG MUKMIN DAN ORANG KAFIR"
+    [[topics.subs]]
+    from = 10
+    to = 31
+    text = "Perbandingan antara orang mungkin dan orang kafir"
+    [[topics.subs]]
+    from = 32
+    to = 37
+    text = "Orang kafir akan menemui azab neraka dan orang yang berbuat kebaikan akan mendapat pahala berlipat ganda"
+    [[topics.subs]]
+    from = 38
+    to = 40
+    text = "Hanya kepada Allah orang mukmin bertawakal"
+    [[topics.subs]]
+    from = 41
+    to = 41
+    text = "Setiap orang akan memetik buah amalnya sendiri"
+
+[[topics]]
+from = 42
+to = 52
+topic = "ORANG YANG ZALIM PASTI MENDAPAT AZAB PADA HARI KIAMAT"
+    [[topics.subs]]
+    from = 42
+    to = 44
+    text = "Syafaat itu adalah semata-mata hak Allah"
+    [[topics.subs]]
+    from = 45
+    to = 48
+    text = "Salah satu sifat orang yang tidak beriman kepada kehidupan akhirat"
+    [[topics.subs]]
+    from = 49
+    to = 51
+    text = "Salah satu watak manusia yang buruk"
+    [[topics.subs]]
+    from = 52
+    to = 52
+    text = "Allah menentukan kadar rezeki hamba-Nya"
 
 [[topics]]
 from = 53
-to = 55
-topic = "Allah mengampuni semua dosa"
+to = 63
+topic = "LARANGAN BERPUTUS ASA TERHADAP RAHMAT ALLAH "
+    [[topics.subs]]
+    from = 53
+    to = 59
+    text = "Perintah segera bertaubat sebelum datangnya azab"
+    [[topics.subs]]
+    from = 60
+    to = 63
+    text = "Perbedaan keadaan orang yang bertakwa dengan orang yang mendustakan hari kiamat"
 
+[[topics]]
+from = 64
+to = 75
+topic = "GAMBARAN TENTANG KEKUASAAN ALLAH PADA HARI KIAMAT"
+    [[topics.subs]]
+    from = 64
+    to = 66
+    text = "Peringatan agar menjauhi kemusyrikan "
+    [[topics.subs]]
+    from = 67
+    to = 75
+    text = "Beberapa peristiwa yang terjadi pada hari kiamat"

@@ -1,32 +1,112 @@
 name = "Al-Maidah"
 number = 5
+
+[[topics]]
+from = 1
+to = 5
+topic = "JANJI PRASETIA KEPADA ALLAH DAN PENYEMPURNAAN AGAMA ISLAM"
+
 [[topics]]
 from = 6
-to = 6
-topic = "Perintah untuk wudhu & membersihkan badan"
+to = 7
+topic = "WUDHU, MANDI, DAN TAYAMUM "
 
 [[topics]]
 from = 8
-to = 8
-topic = "Kewajiban berlaku Adil dan Jujur"
+to = 11
+topic = "KEWAJIBAN BERSIKAP ADIL DAN JUJUR"
 
 [[topics]]
-from = 9
-to = 31
-topic = "kosong"
+from = 12
+to = 19
+topic = "PENGINGKARAN JANJI PRASETIA OLEH ORANG YAHUDI DAN NASRANI "
 
 [[topics]]
-from = 32
+from = 20
+to = 26
+topic = "KEENGGANAN BANGSA YAHUDI MENAATI PERINTAH NABI MUSA A.S. UNTUK MEMASUKI PALESTINA DAN AKIBATNYA "
+
+[[topics]]
+from = 27
+to = 32
+topic = "KISAH PEMBUNUHAN PERTAMA DAN BESARNYA MALAPETAKA AKIBAT PEMBUNUHAN"
+
+[[topics]]
+from = 33
 to = 40
-topic = "Hukum terhadap perusuh dan pengacau keamanan"
+topic = "HUKUMAN BAGI PERUSUH DAN PENGACAU KEAMANAN"
+
+[[topics]]
+from = 41
+to = 50
+topic = "PENGINGKARAN ORANG YAHUDI TERHADAP HUKUM-HUKUM TAURAT DAN KEWAJIBAN MEMUTUSKAN PERKARA MENURUT HUKUM YANG DITURUNKAN ALLAH"
 
 [[topics]]
 from = 51
-to = 53
-topic = "Dilarang berteman akrab dengan orang-orang Yahudi dan Nasrani dan akibat melanggarnya"
+to = 63
+topic = "LARANGAN BERTEMAN AKRAB DENGAN ORANG YAHUDI DAN NASRANI DAN AKIBAT MELANGGARNYA"
 
 [[topics]]
-from = 89
-to = 93
-topic = "Larangan meminum khamar, berjudi, berkorban untuk berhala dan mengundi nasib"
+from = 64
+to = 66
+topic = "LAKNAT ALLAH TERHADAP ORANG YAHUDI "
 
+[[topics]]
+from = 67
+to = 71
+topic = "KEWAJIBAN RASULULLAH SAW MENYAMPAIKAN AGAMA"
+
+[[topics]]
+from = 72
+to = 77
+topic = "PERNYATAAN ALLAH TENTANG KEKAFIRAN ORANG YANG MEYAKINI 'ISA A.S. SEBAGAI TUHAN "
+
+[[topics]]
+from = 78
+to = 81
+topic = "PENYEBAB LAKNAT ALLAH TERHADAP ORANG YAHUDI "
+
+[[topics]]
+from = 82
+to = 86
+topic = "HUBUNGAN ORANG YAHUDI DAN NASRANI DENGAN ORANG MUKMIN "
+
+[[topics]]
+from = 87
+to = 105
+topic = "PERINGATAN UNTUK KAUM MUSLIMIN TERKAIT ADAT JAHILIYAH YANG TERLARANG"
+    [[topics.subs]]
+    from = 87
+    to = 88
+    text = "Larangan mengharamkan makanan yang halal "
+    [[topics.subs]]
+    from = 89
+    to = 89
+    text = "Sumpah dan kaffaratnya "
+    [[topics.subs]]
+    from = 90
+    to = 93
+    text = "Larangan meminum khamar, berjudi, berkurban untuk berhala, dan mengundi nasib "
+    [[topics.subs]]
+    from = 94
+    to = 100
+    text = "Menghormati Ka'bah sebagai pusat kehidupan manusia,"
+    [[topics.subs]]
+    from = 101
+    to = 105
+    text = "Larangan bertanya sesuatu yang menyebabkan kemudharatan"
+
+[[topics]]
+from = 106
+to = 108
+topic = "ANJURAN BERWASIAT DENGAN PERSAKSIAN"
+
+[[topics]]
+from = 109
+to = 109
+topic = "SALAH SATU PERISTIWA PADA HARI KIAMAT"
+
+[[topics]]
+from = 110
+to = 120
+topic = "BEBERAPA KISAH TENTANG 'ISA A.S. "

@@ -1,57 +1,76 @@
 name = "An-Nahl"
 number = 16
-[[topics]]
-from = 7
-to = 8
-topic = "Alam itu merupakan satu kesatuan yang membuktikan kekuasaan Maha Pencipta"
 
 [[topics]]
-from = 43
-to = 48
-topic = "Tiap-tiap umat mempunyai rasul yang diutus untuk menerangkan kebenaran"
-
-[[topics]]
-from = 49
-to = 50
-topic = "Allah Maha Pengampun"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 68
-to = 69
-topic = "Segi-segi pelajaran yang dapat diambil dari kehidupan alam semesta"
-
-[[topics]]
-from = 78
-to = 83
-topic = "Tidak wajarnya sikap orang-orang musyrik menisbahkan sesuatu kepada Allah"
-
-[[topics]]
-from = 90
-to = 91
-topic = "Perintah berbuat baik"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
-[[topics]]
-from = 98
-to = 98
-topic = "Adab sebelum membaca Al-Qur'an"
-
-[[topics]]
-from = 125
-to = 128
-topic = "Cara mengajak kepada kebenaran"
-
+from = 1
+to = 1
+topic = "BUKTI KEBESARAN ALLAH DALAM ALAM SEMESTA"
+    [[topics.subs]]
+    from = 1
+    to = 2
+    text = "Kepastian hari kiamat dan kebenaran wahyu"
+    [[topics.subs]]
+    from = 3
+    to = 21
+    text = "Alam merupakan suatu kesatuan yang membuktikan kekuasaan Allah"
+    [[topics.subs]]
+    from = 22
+    to = 25
+    text = "Takabur menjadikan seseorang ingkar kepada kebenaran"
+    [[topics.subs]]
+    from = 26
+    to = 29
+    text = "Orang yang berbuat tipu daya pasti mengalami kehancuran"
+    [[topics.subs]]
+    from = 30
+    to = 32
+    text = "Balasan bagi orang yang bertakwa "
+    [[topics.subs]]
+    from = 33
+    to = 35
+    text = "Orang yang binasa karena perbuatannya sendiri "
+    [[topics.subs]]
+    from = 36
+    to = 50
+    text = "Setiap umat mempunyai rasul yang diutus untuk menerangkan kebenaran "
+    [[topics.subs]]
+    from = 51
+    to = 60
+    text = "Dalam keadaan terjepit, manusia ingat dan kembali kepada Allah "
+    [[topics.subs]]
+    from = 61
+    to = 64
+    text = "Orang musyrik menisbatkan sesuatu kepada Allah"
+    [[topics.subs]]
+    from = 65
+    to = 83
+    text = "Pelajaran yang dapat diambil dari alam semesta"
+    [[topics.subs]]
+    from = 84
+    to = 89
+    text = "Setiap rasul menjadi saksi atas umatnya pada hari kiamat"
+    [[topics.subs]]
+    from = 90
+    to = 99
+    text = "Pokok-pokok akhlak yang baik"
+    [[topics.subs]]
+    from = 100
+    to = 103
+    text = "Allah lebih mengetahui apa yang bermanfaat dan yang sesuai dengan suatu masa "
+    [[topics.subs]]
+    from = 104
+    to = 113
+    text = "Orang yang jauh dari hidayah Allah"
+    [[topics.subs]]
+    from = 114
+    to = 119
+    text = "Makanan yang halal dan yang haram"
+    [[topics.subs]]
+    from = 120
+    to = 124
+    text = "Nabi Ibrahim adalah teladan yang baik"
+    [[topics.subs]]
+    from = 125
+    to = 128
+    text = "Dasar-dasar dakwah dan sikap Islam terhadap lawan"
+    

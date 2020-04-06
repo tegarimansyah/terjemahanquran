@@ -1,12 +1,37 @@
-name = "Saba"
+name = "Saba'"
 number = 34
+
 [[topics]]
 from = 1
-to = 14
-topic = "Amat terpujilah Allah dan amat sempurnalah ilmunya"
+to = 9
+topic = "ALLAH SANGAT TERPUJI DAN ILMUNYA SANGAT SEMPURNA"
 
 [[topics]]
-from = 24
-to = 24
-topic = "Rejeki manusia dijamin Allah"
+from = 10
+to = 14
+topic = "KEPANDAIAN YANG DIBERIKAN KEPADA NABI DAWUD DAN KEKUASAAN YANG DIBERIKAN KEPADA NABI SULAIMAN"
 
+[[topics]]
+from = 15
+to = 21
+topic = "KEINGKARAN KAUM SABA' TERHADAP NIKMAT ALLAH DAN AKIBATNYA"
+
+[[topics]]
+from = 22
+to = 27
+topic = "SEMBAHAN SELAIN ALLAH TIDAK MEMPUNYAI KEKUASAAN SEDIKIT PUN "
+
+[[topics]]
+from = 28
+to = 28
+topic = "RISALAH MUHAMMAD ADALAH UNIVERSAL"
+
+[[topics]]
+from = 29
+to = 45
+topic = "KEINGKARAN ORANG KAFIR DAN KEADAAN MEREKA DI AKHIRAT"
+
+[[topics]]
+from = 46
+to = 47
+topic = "PERNYATAAN ALLAH TENTANG MUHAMMAD DAN TUGASNYA"

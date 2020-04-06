@@ -1,7 +1,17 @@
 name = "Al-Ma'aarij"
 number = 70
+
 [[topics]]
 from = 1
-to = 44
-topic = "Kepastian datangnya azab yang menghinakan kepada orang orang yang ingkar, pengaruh ajaran Islam terh"
+to = 18
+topic = "KEPASTIAN DATANGNYA AZAB KEPADA ORANG KAFIR"
 
+[[topics]]
+from = 19
+to = 35
+topic = "AJARAN ISLAM UNTUK MENGATASI SIFAT-SIFAT YANG JELEK PADA MANUSIA"
+
+[[topics]]
+from = 36
+to = 44
+topic = "AZAB YANG MENGHINAKAN AKAN MENIMPA ORANG YANG MENDUSTAKAN ALLAH"

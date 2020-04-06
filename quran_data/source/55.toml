@@ -1,12 +1,18 @@
 name = "Ar-Rahmaan"
 number = 55
-[[topics]]
-from = 1
-to = 78
-topic = "Yang Maha Pengasih & nikmat yang dianugerahkan"
 
 [[topics]]
-from = 35
-to = 35
-topic = "Al-Qur'an sebagai peringatan & pelajaran"
+from = 1
+to = 30
+topic = "BEBERAPA NIKMAT ALLAH YANG DAPAT DIRASAKAN DI DUNIA "
+
+[[topics]]
+from = 31
+to = 45
+topic = "ANCAMAN ALLAH TERHADAP PERBUATAN DURHAKA"
+
+[[topics]]
+from = 46
+to = 78
+topic = "PAHALA BAGI ORANG YANG BERTAKWA"
 

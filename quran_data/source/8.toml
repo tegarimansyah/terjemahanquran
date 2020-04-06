@@ -1,27 +1,67 @@
 name = "Al-Anfaal"
 number = 8
-[[topics]]
-from = 2
-to = 4
-topic = "Sifat-sifat orang mukmin"
 
 [[topics]]
-from = 5
-to = 19
-topic = "kosong"
-
-[[topics]]
-from = 5
-to = 19
-topic = "Keengganan sebahagian sahabat untuk pergi ke peperangan badar dan pertolongan Allah kepada kaum musl"
-
-[[topics]]
-from = 20
-to = 30
-topic = "Larangan menyalahi perintah-perintah Allah"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+from = 1
+to = 1
+topic = "KISAH PERANG BADAR "
+    [[topics.subs]]
+    from = 1
+    to = 1
+    text = "Cara pembagian ghanimah"
+    [[topics.subs]]
+    from = 2
+    to = 4
+    text = "Sifat-sifat orang mukmin"
+    [[topics.subs]]
+    from = 5
+    to = 14
+    text = "Keengganan sebagian sahabat untuk pergi ke perang Badar dan pertolongan Allah kepada kaum muslimin"
+    [[topics.subs]]
+    from = 15
+    to = 19
+    text = "Larangan melarikan diri dari pertempuran"
+    [[topics.subs]]
+    from = 20
+    to = 23
+    text = "Larangan menyalahi perintah-perintah Allah "
+    [[topics.subs]]
+    from = 24
+    to = 26
+    text = "Kewajiban mentaati perintah Allah dan Rasul-Nya"
+    [[topics.subs]]
+    from = 27
+    to = 29
+    text = "Larangan berkhianat dan faedah bertakwa"
+    [[topics.subs]]
+    from = 30
+    to = 40
+    text = "Permusuhan kaum musyrikin terhadap Nabi dan kewajiban memerangi mereka sampai agama Allah tegak"
+    [[topics.subs]]
+    from = 41
+    to = 41
+    text = "Cara pembagian ghanimah"
+    [[topics.subs]]
+    from = 42
+    to = 44
+    text = "Rahmat Allah kepada kaum Muslimin dalam perang Badar "
+    [[topics.subs]]
+    from = 45
+    to = 47
+    text = "Kewajiban berteguh hati, bersatu dalam peperangan, dan larangan berlaku sombong dan riya'"
+    [[topics.subs]]
+    from = 48
+    to = 51
+    text = "Pengkhianatan setan terhadap janjinya kepada pengikut-pengikutnya"
+    [[topics.subs]]
+    from = 52
+    to = 57
+    text = "Kebinasaan sesuatu kaum disebabkan perbuatan mereka sendiri"
+    [[topics.subs]]
+    from = 58
+    to = 60
+    text = "Syirik adalah dosa yang paling besar dan sikap menghadapi kaum musyrikin dalam peperangan"
+    [[topics.subs]]
+    from = 61
+    to = 75
+    text = "Cinta perdamaian dan keharusan mempertebal semangat jihad "

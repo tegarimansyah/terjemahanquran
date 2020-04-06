@@ -1,7 +1,12 @@
 name = "At-Tiin"
 number = 95
+
 [[topics]]
 from = 1
-to = 8
-topic = "Buah Tin"
+to = 5
+topic = "MANUSIA DICIPTAKAN DALAM BENTUK YANG SEBAIK-BAIKNYA "
 
+[[topics]]
+from = 6
+to = 8
+topic = "YANG MENJADI BAROMETER KEMULIAAN IALAH IMAN DAN AMAL "

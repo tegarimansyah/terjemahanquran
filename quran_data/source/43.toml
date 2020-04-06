@@ -1,12 +1,43 @@
 name = "Az-Zukhruf"
 number = 43
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
 
 [[topics]]
-from = 67
-to = 73
-topic = "Balasan surga untuk hamba Allah yang bertakwa"
+from = 1
+to = 15
+topic = "KAUM MUSYRIKIN MENGAKUI BAHWA ALLAH-LAH PENCIPTA LANGIT DAN BUMI MESKIPUN MEREKA MENYEMBAH BERHALA"
+
+[[topics]]
+from = 16
+to = 25
+topic = "KEINGKARAN KAUM MUSYRIKIN KARENA BERPEGANG TEGUH PADA TRADISI "
+
+[[topics]]
+from = 26
+to = 30
+topic = "NABI IBRAHIM SEBAGAI NENEK MOYANG MEREKA SENDIRI MENENTANG TRADISI"
+
+[[topics]]
+from = 31
+to = 45
+topic = "KEKAYAAN DAN PERHIASAN HANYALAH KENIKMATAN HIDUP DUNIAWI SEDANGKAN KEBAHAGIAAN DI AKHIRAT HANYA DAPAT DICAPAI DENGAN TAKWA "
+
+[[topics]]
+from = 46
+to = 56
+topic = "KEHANCURAN FIR'AUN ADALAH PELAJARAN BAGI UMAT ISLAM"
+
+[[topics]]
+from = 57
+to = 67
+topic = "NABI 'ISA MENGAJAK KAUMNYA UNTUK BERIMAN KEPADA ALLAH "
+
+[[topics]]
+from = 68
+to = 80
+topic = "KEBAHAGIAAN PENDUDUK SURGA DAN KESENGSARAAN PENDUDUK NERAKA"
+
+[[topics]]
+from = 81
+to = 89
+topic = "BANTAHAN AL-QUR'AN TENTANG KEPERCAYAAN TUHAN MEMPUNYAI ANAK "
 

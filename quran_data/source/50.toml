@@ -1,22 +1,31 @@
 name = "Qaaf"
 number = 50
+
 [[topics]]
 from = 1
-to = 15
-topic = "Hari Berbangkit"
-
-[[topics]]
-from = 16
-to = 16
-topic = "Allah itu dekat"
-
-[[topics]]
-from = 17
-to = 26
-topic = "Kejadian-kejadian dalam alam membuktikan kebenaran adanya hari berbangkit"
-
-[[topics]]
-from = 0
-to = 0
-topic = "kosong"
-
+to = 45
+topic = "HARI KEBANGKITAN "
+    [[topics.subs]]
+    from = 1
+    to = 5
+    text = "Pengingkaran kaum musyrikin terhadap kenabian Muhammad dan hari kebangkitan "
+    [[topics.subs]]
+    from = 6
+    to = 11
+    text = "Kejadian-kejadian alam membuktikan kebenaran adanya hari kebangkitan"
+    [[topics.subs]]
+    from = 12
+    to = 15
+    text = "Pelajaran yang dapat diambil dari umat-umat terdahulu yang menentang para nabi"
+    [[topics.subs]]
+    from = 16
+    to = 29
+    text = "Gerak-gerik dan perkataan manusia dicatat oleh para malaikat "
+    [[topics.subs]]
+    from = 30
+    to = 35
+    text = "Balasan terhadap amal baik dan perbuatan jelek"
+    [[topics.subs]]
+    from = 36
+    to = 45
+    text = "Ancaman terhadap orang yang mengingkari hari kebangkitan"

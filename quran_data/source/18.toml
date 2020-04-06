@@ -2,35 +2,19 @@ name = "Al-Kahf"
 number = 18
 
 [[topics]]
-topic = "Al-Qur'an sebagai bimbingan yang lurus"
 from = 1
 to = 8
-
-  [[topics.subs]]
-  from = 4
-  to = 5
-  text = "Ancaman terhadap kepercayaan Tuhan punya anak"
+topic = "Ancaman terhadap kepercayaan Tuhan punya anak"
 
 [[topics]]
-topic = "Kisah Ashabul Kahfi"
 from = 9
 to = 26
-
-  [[topics.subs]]
-  from = 10
-  to = 10
-  text = "Doa Memohon Rahmat dan Penyempurnaan Petunjuk Dalam Segala Urusan"
-  is_dua = true
-
-  [[topics.subs]]
-  from = 23
-  to = 24
-  text = "Etika dalam berjanji"
+topic = "Kisah Ashabul Kahfi"
 
 [[topics]]
-topic = "Petunjuk Tentang Dakwah"
 from = 27
 to = 59
+topic = "Petunjuk Tentang Dakwah"
 
   [[topics.subs]]
   from = 27
@@ -53,9 +37,9 @@ to = 59
   text = "Akibat tidak mengindahkan peringatan Allah"
 
 [[topics]]
-topic = "Kisah Nabi Musa Mencari Ilmu"
 from = 60
 to = 82
+topic = "Kisah Nabi Musa Mencari Ilmu"
 
   [[topics.subs]]
   from = 60
@@ -83,14 +67,14 @@ to = 82
   text = "Hikmah di balik perbuatan Khidhir"
 
 [[topics]]
-topic = "Kisah Zulkarnain Dengan Ya'juj dan Ma'juj"
 from = 83
 to = 101
+topic = "Kisah Zulkarnain Dengan Ya'juj dan Ma'juj"
 
 [[topics]]
-topic = "Azab Bagi Orang Musyrik dan Pahala Bagi Orang Beriman"
 from = 102
 to = 108
+topic = "Azab Bagi Orang Musyrik dan Pahala Bagi Orang Beriman"
 
   [[topics.subs]]
   from = 102
@@ -108,6 +92,6 @@ to = 108
   text = "Surga Firdaus bagi orang yang beramal saleh"
 
 [[topics]]
-topic = "Luasnya Ilmu Allah Tidak Terhingga"
 from = 109
 to = 110
+topic = "Luasnya Ilmu Allah Tidak Terhingga"

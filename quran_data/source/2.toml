@@ -1,287 +1,265 @@
-name = "Al-Baqarah"
+name = "Surat Al-Baqarah"
 number = 2
-[[topics]]
-from = 1
-to = 7
-topic = "Ciri-ciri golongan mukmin & non-muslim"
 
 [[topics]]
-from = 8
+from = 1
 to = 20
-topic = "Ciri-ciri orang munafik"
+topic = "TIGA GOLONGAN MANUSIA DALAM MENGHADAPI AL QUR'AN"
+    [[topics.subs]]
+    from = 1
+    to = 5
+    text = "Golongan Mukmin"
+    [[topics.subs]]
+    from = 6
+    to = 7
+    text = "Golongan kafir"
+    [[topics.subs]]
+    from = 8
+    to = 20
+    text = "Golongan munafik"
 
 [[topics]]
 from = 21
-to = 24
-topic = "Tantangan kepada kaum musyrikin mengenai Qur'an dan perintah menyembah Allah"
+to = 39
+topic = "KEESAAN DAN KEKUASAAN ALLAH "
+    [[topics.subs]]
+    from = 21
+    to = 22
+    text = "Perintah menyembah Allah Yang Maha Esa"
+    [[topics.subs]]
+    from = 23
+    to = 24
+    text = "Tantangan kepada kaum musyrikin mengenai Al Qur'an"
+    [[topics.subs]]
+    from = 25
+    to = 25
+    text = "Balasan untuk orang-orang yang beriman "
+    [[topics.subs]]
+    from = 26
+    to = 27
+    text = "Perumpamaan-perumpamaan dalam Al Qur'an dan hikmah-hikmahnya"
+    [[topics.subs]]
+    from = 28
+    to = 29
+    text = "Bukti-bukti kekuasaan Allah "
+    [[topics.subs]]
+    from = 30
+    to = 39
+    text = "Penciptaan manusia dan penguasaannya di bumi"
 
 [[topics]]
-from = 25
-to = 25
-topic = "Kabar gembira untuk orang beriman"
+from = 40
+to = 141
+topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
+    [[topics.subs]]
+    from = 40
+    to = 48
+    text = "Beberapa perintah dan larangan Allah kepada Bani Israil "
+    [[topics.subs]]
+    from = 49
+    to = 60
+    text = "Perincian nikmat Allah kepada Bani Israil "
+    [[topics.subs]]
+    from = 61
+    to = 61
+    text = "Pembalasan terhadap sikap dan perbuatan Bani Israil"
+    [[topics.subs]]
+    from = 62
+    to = 62
+    text = "Pahala orang yang beriman "
+    [[topics.subs]]
+    from = 63
+    to = 66
+    text = "Pembalasan terhadap Bani Israil yang melanggar perjanjian dengan Allah"
+    [[topics.subs]]
+    from = 67
+    to = 74
+    text = "Kisah penyembelihan sapi betina"
+    [[topics.subs]]
+    from = 75
+    to = 82
+    text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW "
+    [[topics.subs]]
+    from = 83
+    to = 86
+    text = "Bani Israil mengingkari janjinya dengan Allah"
+    [[topics.subs]]
+    from = 87
+    to = 91
+    text = "Sikap orang Yahudi terhadap para Rasul dan Kitab-kitab yang diturunkan Allah "
+    [[topics.subs]]
+    from = 92
+    to = 96
+    text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi merupakan tanda kecenderungan mereka kepada benda "
+    [[topics.subs]]
+    from = 97
+    to = 101
+    text = "Memusuhi Jibril berarti memusuhi Allah yang mengutusnya "
+    [[topics.subs]]
+    from = 102
+    to = 103
+    text = "Tuduhan orang Yahudi terhadap Nabi Sulaiman A.S. "
+    [[topics.subs]]
+    from = 104
+    to = 105
+    text = "Ketidaksopanan orang-orang Yahudi terhadap Nabi dan sahabat-sahabatnya"
+    [[topics.subs]]
+    from = 106
+    to = 113
+    text = "Menasakhkan sesuatu ayat adalah hak Allah"
+    [[topics.subs]]
+    from = 114
+    to = 118
+    text = "Tindakan-tindakan menghalangi beribadah "
+    [[topics.subs]]
+    from = 119
+    to = 123
+    text = "Larangan mengikuti Yahudi dan Nasrani "
+    [[topics.subs]]
+    from = 124
+    to = 129
+    text = "Perjanjian dengan Nabi Ibrahim A.S. "
+    [[topics.subs]]
+    from = 130
+    to = 141
+    text = "Agama Nabi Ibrahim A.S. "
 
 [[topics]]
-from = 26
-to = 27
-topic = "Perumpamaan-perumpamaan dalam Al-Qur'an dan hikmah-hikmahnya"
-
-[[topics]]
-from = 28
-to = 29
-topic = "Tanda-tanda kekuasaan Allah"
-
-[[topics]]
-from = 30
-to = 32
-topic = "Manusia direncanakan Allah untuk menjadi khalifah"
-
-[[topics]]
-from = 33
-to = 42
-topic = "Kisah Nabi Adam"
-
-[[topics]]
-from = 43
-to = 44
-topic = "Perintah menunaikan sholat dan zakat"
-
-[[topics]]
-from = 45
-to = 46
-topic = "Sabar & sholat sebagai penolong"
-
-[[topics]]
-from = 47
-to = 48
-topic = "kosong"
-
-[[topics]]
-from = 49
-to = 61
-topic = "Perincian nikmat Tuhan kepada Bani Israil"
-
-[[topics]]
-from = 62
-to = 66
-topic = "Kisah Nabi Nuh A.S"
-
-[[topics]]
-from = 67
-to = 74
-topic = "Kisah penyembelihan sapi betina"
-
-[[topics]]
-from = 75
-to = 82
-topic = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
-
-[[topics]]
-from = 75
-to = 82
-topic = "kosong"
-
-[[topics]]
-from = 83
-to = 91
-topic = "Sikap-sikap orang Yahudi terhadap para Rasul dan kitab-kitab yang diturunkan Allah"
-
-[[topics]]
-from = 92
-to = 101
-topic = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi, merupakan lambang bagi kecendrungan mer"
-
-[[topics]]
-from = 102
-to = 115
-topic = "Menasakhkan sesuatu ayat adalah urusan Allah"
-
-[[topics]]
-from = 116
-to = 123
-topic = "Larangan mengikuti Yahudi dan Nasrani"
-
-[[topics]]
-from = 124
-to = 127
-topic = "Kisah Nabi Ibrahim & Kota Mekkah"
-
-[[topics]]
-from = 128
-to = 129
-topic = "Do'a menjadi seorang muslim"
-
-[[topics]]
-from = 130
-to = 149
-topic = "Sekitar pemindahan kiblat"
-
-[[topics]]
-from = 150
-to = 152
-topic = "Perintah berserah & mengingat Allah dimana saja"
-
-[[topics]]
-from = 153
-to = 157
-topic = "Allah beserta orang sabar"
-
-[[topics]]
-from = 158
-to = 158
-topic = "Sa'i & Manasik Haji"
-
-[[topics]]
-from = 159
-to = 171
-topic = "Laknat terhadap orang-orang yang menyembunyikan ayat-ayat Allah dan terhadap orang-orang kafir"
-
-[[topics]]
-from = 172
-to = 173
-topic = "Perintah memakan makanan yang halal"
-
-[[topics]]
-from = 174
-to = 176
-topic = "Ayat-Ayat Allah"
-
-[[topics]]
-from = 177
-to = 177
-topic = "Kebajikan adalah urusan akhirat, bukan duniawi"
-
-[[topics]]
-from = 178
-to = 179
-topic = "Qisas dan hikmahnya"
-
-[[topics]]
-from = 180
-to = 182
-topic = "Wasiat & larangan mengubahnya"
-
-[[topics]]
-from = 186
-to = 186
-topic = "Allah Maha Dekat"
-
-[[topics]]
-from = 187
-to = 194
-topic = "Berjihad dengan Jiwa & Harta"
-
-[[topics]]
-from = 187
-to = 194
-topic = "Berjihad dengan Jiwa & Harta"
-
-[[topics]]
-from = 195
-to = 195
-topic = "Perintah untuk berinfaq di jalan Allah"
-
-[[topics]]
-from = 196
-to = 199
-topic = "Haji"
-
-[[topics]]
-from = 200
-to = 201
-topic = "Doa kebaikan dunia & akhirat"
-
-[[topics]]
-from = 202
+from = 142
 to = 214
-topic = "Perbuatan orang-orang munafik"
+topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
+    [[topics.subs]]
+    from = 142
+    to = 152
+    text = "Sekitar pemindahan kiblat"
+    [[topics.subs]]
+    from = 153
+    to = 157
+    text = "Cobaan berat dalam menegakkan kebenaran "
+    [[topics.subs]]
+    from = 158
+    to = 158
+    text = "Manasik Haji "
+    [[topics.subs]]
+    from = 159
+    to = 162
+    text = "Laknat untuk orang-orang yang menyembunyikan ayat-ayat Allah dan orang-orang kafir"
+    [[topics.subs]]
+    from = 163
+    to = 171
+    text = "Allah Yang Berkuasa dan Yang menentukan"
+    [[topics.subs]]
+    from = 172
+    to = 176
+    text = "Makanan yang halal dan yang haram"
+    [[topics.subs]]
+    from = 177
+    to = 177
+    text = "Pokok-pokok kebajikan "
+    [[topics.subs]]
+    from = 178
+    to = 179
+    text = "Qishash dan hikmahnya"
+    [[topics.subs]]
+    from = 180
+    to = 182
+    text = "Wasiat "
+    [[topics.subs]]
+    from = 183
+    to = 188
+    text = "Puasa "
+    [[topics.subs]]
+    from = 189
+    to = 195
+    text = "Berjihad dengan jiwa dan harta di jalan Allah"
+    [[topics.subs]]
+    from = 196
+    to = 203
+    text = "Haji "
+    [[topics.subs]]
+    from = 204
+    to = 210
+    text = "Perbuatan orang-orang munafik "
+    [[topics.subs]]
+    from = 211
+    to = 214
+    text = "Hikmah diutusnya para Rasul dan pelbagai cobaan bagi para pengikutnya "
 
 [[topics]]
 from = 215
-to = 215
-topic = "Infak & sedekah"
-
-[[topics]]
-from = 216
-to = 216
-topic = "Kebaikan di balik yang tidak kita sukai"
-
-[[topics]]
-from = 217
-to = 220
-topic = "Hukum perang dalam Islam"
-
-[[topics]]
-from = 221
-to = 232
-topic = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
-
-[[topics]]
-from = 233
-to = 233
-topic = "Anjuran menyusui anak selama 2 tahun"
-
-[[topics]]
-from = 234
-to = 237
-topic = "Hukum Perceraian,"
-
-[[topics]]
-from = 238
-to = 242
-topic = "Kewajiban mengerjakan salat walaupun dalam keadaan takut"
-
-[[topics]]
-from = 243
-to = 251
-topic = "Jihad di Jalan Allah"
-
-[[topics]]
-from = 252
 to = 252
-topic = "Kebenaran Muhammad Adalah Rasulullah"
+topic = "BEBERAPA HUKUM SYARIAT"
+    [[topics.subs]]
+    from = 215
+    to = 215
+    text = "Orang-orang yang diberi nafkah"
+    [[topics.subs]]
+    from = 216
+    to = 218
+    text = "Hukum perang dalam Islam"
+    [[topics.subs]]
+    from = 219
+    to = 219
+    text = "Khamar, judi, harta yang dinafkahkan dan pemeliharaan anak yatim"
+    [[topics.subs]]
+    from = 220
+    to = 237
+    text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan "
+    [[topics.subs]]
+    from = 238
+    to = 239
+    text = "Kewajiban mengerjakan shalat meskipun dalam keadaan takut"
+    [[topics.subs]]
+    from = 240
+    to = 242
+    text = "Wasiat untuk istri dan mut'ah"
+    [[topics.subs]]
+    from = 243
+    to = 252
+    text = "Kewajiban berjihad dan mengeluarkan harta di jalan Allah"
 
 [[topics]]
 from = 253
-to = 254
-topic = "Keistimewaan dan perbedaan derajat para Rasul dan anjuran berjihad dengan harta"
-
-[[topics]]
-from = 256
-to = 257
-topic = "Tak ada paksaan dalam mempelajari agama Islam"
-
-[[topics]]
-from = 258
 to = 260
-topic = "Kisah Nabi Ibrahim & Mukjizatnya"
+topic = "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH"
+    [[topics.subs]]
+    from = 253
+    to = 253
+    text = "Keistimewaan dan perbedaan derajat rasul-rasul "
+    [[topics.subs]]
+    from = 254
+    to = 254
+    text = "Anjuran menginfakkan harta"
+    [[topics.subs]]
+    from = 255
+    to = 255
+    text = "Ayat Kursi "
+    [[topics.subs]]
+    from = 256
+    to = 257
+    text = "Tidak ada paksaan memeluk agama Islam"
+    [[topics.subs]]
+    from = 258
+    to = 260
+    text = "Membangkitkan kembali orang-orang yang sudah mati"
 
 [[topics]]
 from = 261
-to = 263
-topic = "Menafkahkan harta di jalan Allah"
-
-[[topics]]
-from = 264
-to = 270
-topic = "Sedekah"
-
-[[topics]]
-from = 271
-to = 271
-topic = "Mencontohkan sedekah itu baik, menyembunyikannya lebih baik"
-
-[[topics]]
-from = 272
-to = 281
-topic = "Hukum Riba"
-
-[[topics]]
-from = 282
-to = 283
-topic = "Kesaksian dalam mu'amalah"
-
-[[topics]]
-from = 284
 to = 286
-topic = "Doa orang mukmin"
-
+topic = "CARA-CARA PENGGUNAAN HARTA DAN HUKUM-HUKUMNYA"
+    [[topics.subs]]
+    from = 261
+    to = 274
+    text = "Menginfakkan harta di jalan Allah"
+    [[topics.subs]]
+    from = 275
+    to = 281
+    text = "Hukum riba "
+    [[topics.subs]]
+    from = 282
+    to = 283
+    text = "Kesaksian dalam muamalah"
+    [[topics.subs]]
+    from = 284
+    to = 286
+    text = "Pujian Allah terhadap para mukmin dan doa mereka"

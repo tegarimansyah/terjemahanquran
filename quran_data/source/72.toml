@@ -1,7 +1,12 @@
 name = "Al-Jinn"
 number = 72
+
 [[topics]]
 from = 1
-to = 28
-topic = "Jin"
+to = 19
+topic = "JIN MASUK ISLAM SETELAH MENDENGAR AL-QUR'AN"
 
+[[topics]]
+from = 20
+to = 28
+topic = "PEMELIHARAAN ALLAH TERHADAP WAHYU YANG DITURUNKAN KEPADA NABI"

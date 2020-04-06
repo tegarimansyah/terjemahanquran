@@ -1,27 +1,60 @@
 name = "Maryam"
 number = 19
+
 [[topics]]
 from = 1
-to = 6
-topic = "Kisah Nabi Zakariya AS dan Nabi Yahya AS"
+to = 15
+topic = "KISAH NABI ZAKARIYA DAN NABI YAHYA"
+    [[topics.subs]]
+    from = 1
+    to = 6
+    text = "Penyebab Zakariya berdoa memohon keturunan"
+    [[topics.subs]]
+    from = 7
+    to = 11
+    text = "Terkabulnya doa Zakariya sebagai bukti kekuasaan Allah "
+    [[topics.subs]]
+    from = 12
+    to = 15
+    text = "Pengangkatan Yahya sebagai nabi dan keutamaannya "
 
 [[topics]]
-from = 7
-to = 36
-topic = "Tuduhan terhadap Maryam dan pembelaan Nabi Isa A.S. kepada ibunya"
+from = 16
+to = 40
+topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
+    [[topics.subs]]
+    from = 16
+    to = 22
+    text = "Kehamilan Maryam tanpa sentuhan seorang laki-laki"
+    [[topics.subs]]
+    from = 23
+    to = 26
+    text = "Kelahiran Nabi 'Isa "
+    [[topics.subs]]
+    from = 27
+    to = 36
+    text = "Tuduhan terhadap Maryam dan pembelaan Nabi Isa terhadap ibunya"
+    [[topics.subs]]
+    from = 37
+    to = 40
+    text = "Pertentangan pendapat tentang Isa "
 
 [[topics]]
-from = 37
+from = 41
+to = 50
+topic = "KISAH NABI IBRAHIM DENGAN AYAHNYA"
+
+[[topics]]
+from = 51
 to = 65
-topic = "Pertentangan pendapat tentang Isa A.S."
+topic = "KISAH BEBERAPA NABI YANG LAIN "
 
 [[topics]]
-from = 0
-to = 0
-topic = "kosong"
+from = 66
+to = 87
+topic = "AZAB BAGI ORANG YANG MENENTANG PARA NABI DAN PAHALA BAGI ORANG YANG MENAATINYA"
 
 [[topics]]
-from = 95
+from = 88
 to = 98
-topic = "Al-Qur'an dimudahkan dengan bahasamu"
-
+topic = "KEPALSUAN AJARAN BAHWA TUHAN MEMPUNYAI ANAK"
