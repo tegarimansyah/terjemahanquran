@@ -1,6 +1,9 @@
 <template>
   <div>
     <div v-if="surah != null" class="container">
+      <!-- <div id="mark">
+        300px above viewport
+      </div> -->
       <!-- Header -->
       <div>
         <nuxt-link to="/tadarus">
@@ -18,7 +21,9 @@
         <!-- Sub Topic Start -->
         <div v-if="currentTopic.subs != null">
           <div v-for="sub in currentTopic.subs" :key="sub.from" :id="`topic-${sub.from}`">
-            <span :class="{ hide: !enable_topic }" class="block font-light mt-5 ml-2 topic">{{ sub.text }}</span>
+            <intersect @enter="current_topic = `${sub.text}`" :threshold="[0]">
+              <span :class="{ hide: !enable_topic }" class="block font-light mt-5 ml-2 topic">{{ sub.text }}</span>
+            </intersect>
             <!-- Display Ayah and Translation Start -->
             <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(sub.from, sub.to)" :key="ayah.numberInSurah">
               <div class="flex mt-1 mb-3 ml-2 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
@@ -31,6 +36,7 @@
                 </div>
               </div>
             </div>
+
             <!-- Display Ayah and Translation End -->
           </div>
         </div>
@@ -58,10 +64,11 @@
         <div class="px-4 pt-2 pb-2">
           <span class="block text-xs">
             <nuxt-link :to="`/tadarus`" class="underline"> &lt; Kembali</nuxt-link> |
-            <span v-on:click="scrollToTop" class="underline"> {{ surah_name.id.surah_name }} - {{ surah_name.id.surah_translation }} </span>
+            <span> {{ surah_name.id.surah_name }} - {{ surah_name.id.surah_translation }}</span> |
+            <span v-on:click="scrollToTop"> Scroll to Top &#8593; </span>
           </span>
           <span class="text-base font-semibold tracking-widest text-gray-900 rounded-lg dark-mode:text-white">
-            {{ "topic" }}
+            {{ current_topic }}
           </span>
         </div>
         <div class="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-4 lg:grid-cols-2 gap-4 text-center py-3 ">
@@ -76,6 +83,13 @@
 </template>
 
 <style>
+#mark{
+    width: 100%;
+    position: fixed; bottom: 300px;
+    font-size: 16pt;
+    border-bottom: dashed 2px currentColor;
+    text-shadow: 0 0 10px black;
+}
 .container {
     @apply p-10 pb-32 m-auto;
 }
@@ -92,9 +106,11 @@
 </style>
 
 <script>
+import Intersect from 'vue-intersect'
 import surahList from '@/components/surah.js'
 
 export default {
+  components: { Intersect },
   head () {
     return {
       title: `${this.surah_name.id.surah_name} | Tadarus`
@@ -102,6 +118,7 @@ export default {
   },
   data () {
     return {
+      current_topic: 'Akan Ditampilkan Topik',
       surah: null,
       enable_translation: true,
       enable_arabic: true,
