@@ -1,11 +1,14 @@
 <template>
-  <h1>
-    Tentang
-  </h1>
+  <ComingSoon />
 </template>
 
 <script>
+import ComingSoon from '@/components/ComingSoon'
+
 export default {
+  components: {
+    ComingSoon
+  }
 
 }
 </script>

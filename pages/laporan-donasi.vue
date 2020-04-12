@@ -1,11 +1,14 @@
 <template>
-  <h1>
-    Laporan Donasi dan Keuangan
-  </h1>
+  <ComingSoon />
 </template>
 
 <script>
+import ComingSoon from '@/components/ComingSoon'
+
 export default {
+  components: {
+    ComingSoon
+  }
 
 }
 </script>
