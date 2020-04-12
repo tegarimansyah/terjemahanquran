@@ -79,6 +79,6 @@ export default {
     }
   },
   generate: {
-    routes: Array(114).fill().map((_, i) => `/${i+1}`) // generate /1 to /114
+    routes: Array(114).fill().map((_, i) => `/tadarus/${i+1}`) // generate /tadarus/1 to /tadarus/114
   }
 }
