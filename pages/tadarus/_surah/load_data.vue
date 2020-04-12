@@ -28,7 +28,7 @@ export default {
         }
         translation.topics = this.topic_list.topics
         localStorage[`surah_${this.$route.params.surah}`] = JSON.stringify(translation)
-        this.$router.push(`/${this.surah_number}`)
+        this.$router.push(`/tadarus/${this.surah_number}`)
       })
   }
 }
