@@ -61,6 +61,13 @@ export default {
   ** Build configuration
   */
   build: {
+    loaders: {
+      vue: {
+        transformAssetUrls: {
+          audio: 'src'
+        }
+      }
+    },
     /*
     ** You can extend webpack config here
     */
@@ -73,6 +80,13 @@ export default {
         exclude : /(node_modules)/,
         options : {
             fix : true
+        }
+      }),
+      config.module.rules.push({
+        test: /\.(ogg|mp3|wav|mpe?g)$/i,
+        loader: 'file-loader',
+        options: {
+          name: '[path][name].[ext]'
         }
       })
       // }
