@@ -470,8 +470,8 @@ export default {
       // cek jika kosong maka hilangkan default display
       // Cek jika lebih dari satu dan ada default display
       //
-      console.log(this.playlist)
-      console.log(e)
+      // console.log(this.playlist)
+      // console.log(e)
     }
   }
 }
