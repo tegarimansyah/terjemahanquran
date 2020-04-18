@@ -1,7 +1,7 @@
 {
-  "name": "quran",
+  "name": "al-quran-interaktif",
   "version": "1.0.0",
-  "description": "Mini Habit for Read Quran",
+  "description": "Belajar Memahami Tema Pembahasan Al Qur'an, Mengucapkan Huruf, dan Merekam Bacaan Al Qur'an Anda",
   "author": "Tegar Imansyah",
   "private": true,
   "scripts": {
