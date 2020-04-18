@@ -376,7 +376,7 @@
             Play in All List
           </button> -->
           <button @click="play_audio(playlist)">
-            &#9654; Play in Play List
+            &#9654; Play in Playlist
           </button>
         </div>
         <div>
@@ -405,9 +405,9 @@
             </div>
           </draggable>
         </div>
-        <!-- Play List -->
+        <!-- Playlist -->
         <div>
-          <h1>Play List</h1>
+          <h1>Playlist</h1>
           <hr>
           <draggable
             :list="playlist"
@@ -445,12 +445,23 @@ export default {
     // ComingSoon,
     draggable
   },
+  head () {
+    return {
+      title: `Belajar Membaca Al Qur'an`,
+      meta: [
+        { hid: 'description', name: 'description', content: 'Belajar Membaca Huruf Dengan Makhraj yang Benar dengan Interaktif' },
+        { hid: 'og:title', name: 'og:title', content: 'Belajar Membaca Al Qur\'an' },
+        { hid: 'og:description', name: 'og:description', content: 'Belajar Membaca Huruf Dengan Makhraj yang Benar dengan Interaktif' },
+        { hid: 'og:image', name: 'og:image', content: 'https://quran.urusan.id/icon.png' }
+      ]
+    }
+  },
   data () {
     return {
       list: Array.from(makhrajList),
       playlist: [],
       enabled_harokat: [1, 2, 3, 4, 5, 6, 7, 8, 9],
-      playNow: 'Tekan dan pindahkan dari list ke playlist'
+      playNow: 'Tekan dan pindahkan huruf dari All List ke Playlist'
     }
   },
   methods: {
@@ -466,7 +477,7 @@ export default {
         }
         await this.sleep(1000)
       }
-      this.playNow = 'Tekan dan pindahkan dari list ke playlist'
+      this.playNow = 'Tekan dan pindahkan huruf dari All List ke Playlist'
     },
     reset_list () {
       this.playlist = []
