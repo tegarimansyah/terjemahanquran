@@ -367,13 +367,16 @@
       </div>
     </div>
     <!-- List of Makhraj -->
-    <div class="m-10">
+    <div class="m-10 text-center">
       <!-- Playlist Control -->
       <div class="grid grid-cols-2 gap-4">
         <!-- Play Control -->
         <div>
+          <!-- <button @click="play_audio(list)">
+            Play in All List
+          </button> -->
           <button @click="play_audio(playlist)">
-            Play
+            &#9654; Play in Play List
           </button>
         </div>
         <div>
@@ -381,7 +384,7 @@
             Reset
           </button>
         </div>
-        <div class="col-span-2 text-center">
+        <div class="col-span-2">
           {{ playNow }}
         </div>
         <!-- All List -->
@@ -441,7 +444,7 @@ export default {
       list: Array.from(makhrajList),
       playlist: [],
       enabled_harokat: [1, 2, 3, 4, 5, 6, 7, 8, 9],
-      playNow: 'Now Playing'
+      playNow: 'Tekan dan pindahkan dari list ke playlist'
     }
   },
   methods: {
@@ -457,6 +460,7 @@ export default {
         }
         await this.sleep(1000)
       }
+      this.playNow = 'Tekan dan pindahkan dari list ke playlist'
     },
     reset_list () {
       this.playlist = []
