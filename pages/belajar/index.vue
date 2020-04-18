@@ -425,6 +425,12 @@
           </draggable>
         </div>
       </div>
+      <!-- Disclaimer -->
+      <div class="mt-10">
+        <p>Rekaman suara oleh Ustadz Hartanto Saryono, Lc dari <a href="https://rumahtajwid.id/">Rumah Tajwid</a></p>
+        <p>Ulasan lengkap tentang cara baca dan kesalahan umum dapat dilihat pada <a href="https://www.youtube.com/watch?v=U8fJ03Ry_a0&list=PLUmjRsUhtZH_qCImX0O1RRF-CMFlAQas9">Playlist Video Fasihkan Huruf</a></p>
+        <p>Jika menyukai konten ini, pertimbangkan untuk <a href="https://rumahtajwid.id/cause.html">berdonasi ke Rumah Tajwid</a></p>
+      </div>
     </div>
   </div>
 </template>
@@ -478,4 +484,7 @@ export default {
 </script>
 
 <style>
+a {
+  @apply text-blue-500
+}
 </style>
