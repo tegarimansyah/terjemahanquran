@@ -91,7 +91,10 @@ export default {
         options: {
           name: '[path][name].[ext]'
         }
-      })
+      }),
+      config.node = {
+        fs: "empty"
+    };
       // }
     }
   },

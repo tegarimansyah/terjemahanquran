@@ -18,6 +18,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
+    "fs": "0.0.1-security",
     "nuxt": "^2.11.0",
     "toml": "^3.0.0",
     "vue-intersect": "^1.1.6",

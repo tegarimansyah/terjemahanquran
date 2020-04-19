@@ -1,7 +1,7 @@
 const fs = require('fs')
 const TOML = require('@iarna/toml')
 
-const filenames = Array(114).fill().map((_, i) => `quran_data/source/${i + 1}.toml`)
+const filenames = Array(114).fill().map((_, i) => `quran_data/topic/${i + 1}.toml`)
 
 const stringfile = filenames.reduce((acc, filename) => [
   ...acc,
