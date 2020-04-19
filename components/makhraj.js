@@ -3,7 +3,7 @@ const makhrajList = [
   { display: 'ت', name: 'Ta' },
   { display: 'ث', name: 'Tsa' },
   { display: 'ج', name: 'Jim' },
-  { display: 'ح', name: 'ha' },
+  { display: 'ح', name: 'Ha' },
   { display: 'خ', name: 'Kha' },
   { display: 'د', name: 'Dal' },
   { display: 'ذ', name: 'Dzal' },
@@ -24,7 +24,7 @@ const makhrajList = [
   { display: 'م', name: 'Mim' },
   { display: 'ن', name: 'Nun' },
   { display: 'و', name: 'Wawu' },
-  { display: 'ه', name: 'Ha' },
+  { display: 'ه', name: 'Hha' },
   { display: 'ء', name: 'Hamzah' },
   { display: 'ي', name: 'Ya' }
 
