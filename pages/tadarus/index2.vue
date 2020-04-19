@@ -39,25 +39,51 @@
       </div>
     </div>
     <!-- Main Content -->
-    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-center">
-      <div v-for="(surah, index) in surah_list" :key="index+1">
-        <nuxt-link :id="index+1" :to="`/tadarus/${index+1}`">
-          <div class="mt-1 p-1 pt-3 col-span-1 hover:bg-gray-300">
-            <span class="block font-semibold">{{ surah.number }} - {{ surah.name }}</span>
-            <span class="block">{{ surah.name_latin }} - {{ surah.name_translation }}</span>
-            <span class="block">{{ surah.number_of_ayah }} ayat</span>
-          </div>
-        </nuxt-link>
-        <div
-          @click="show_modal(
-            {
-              name: surah.name_latin,
-              number: surah.number
-            },
-            surah.topic
-          )"
+    <div class=" px-4 md:px-6 lg:px-8 mx-10 lg:mx-40 my-10">
+      <h1 class="text-2xl font-bold">
+        Tadarus
+      </h1>
+      <p>Membaca dan memahami Al Qur'an dengan lebih interaktif.</p>
+
+      <!-- Search Bar -->
+      <div class="text-gray-600 mt-2">
+        <input
+          v-model="search_query"
+          v-on:input="searchbar"
+          class="border-2 border-gray-300 bg-white w-full h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none"
+          type="search"
+          name="search"
+          placeholder="Cari Surat, Arti atau Topik dalam Al Qur'an"
         >
-          Lihat {{ surah.topic.length }} topik
+      </div>
+      <hr class="my-3">
+      <!-- Search Result -->
+      <div v-if="search_result !== null">
+        <span>{{ search_result }}</span>
+        <hr class="mt-5">
+      </div>
+
+      <!-- List of surah -->
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-center">
+        <div v-for="(surah, index) in surah_list" :key="index+1">
+          <nuxt-link :id="index+1" :to="`/tadarus/${index+1}`">
+            <div class="mt-1 p-1 pt-3 col-span-1 hover:bg-gray-300">
+              <span class="block font-semibold">{{ surah.number }} - {{ surah.name }}</span>
+              <span class="block">{{ surah.name_latin }} - {{ surah.name_translation }}</span>
+              <span class="block">{{ surah.number_of_ayah }} ayat</span>
+            </div>
+          </nuxt-link>
+          <div
+            @click="show_modal(
+              {
+                name: surah.name_latin,
+                number: surah.number
+              },
+              surah.topic
+            )"
+          >
+            Lihat {{ surah.topic.length }} topik
+          </div>
         </div>
       </div>
     </div>
@@ -73,8 +99,10 @@ export default {
   },
   data () {
     return {
+      search_query: '',
       surah_list: {},
-      display_modal: false
+      display_modal: false,
+      search_result: null
     }
   },
   mounted () {
@@ -89,6 +117,13 @@ export default {
     }
   },
   methods: {
+    searchbar (query) {
+      if (this.search_query !== '') {
+        this.search_result = `Hasil dari "${this.search_query}"`
+      } else {
+        this.search_result = null
+      }
+    },
     show_modal (surah, topics) {
       this.$store.commit('summary_topic/set', { surah, topics })
       this.display_modal = true
