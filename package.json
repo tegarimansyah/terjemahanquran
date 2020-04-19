@@ -8,7 +8,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate_quran_data": "node quran_data/parse_to_object.js && eslint --fix components/topic.js",
+    "generate_quran_data": "node quran_data/combine_surah_with_topic.js",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "test": "jest"
