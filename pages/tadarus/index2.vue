@@ -4,7 +4,7 @@
     <div :class="{'opacity-0 pointer-events-none': !display_modal, 'opacity-100': display_modal}" class="modal fixed w-full h-full top-0 left-0 flex items-center justify-center">
       <div class="modal-overlay absolute w-full h-full bg-gray-900 opacity-50" />
 
-      <div class="modal-container bg-white w-11/12 md:max-w-md mx-auto rounded shadow-lg z-50 overflow-y-auto">
+      <div class="modal-container bg-white max-h-full mx-auto rounded shadow-lg z-50 overflow-y-auto">
         <!-- Add margin if you want to see some of the overlay behind the modal-->
         <div class="modal-content py-4 text-left px-6">
           <!--Title-->
@@ -20,9 +20,16 @@
           </div>
 
           <!--Body-->
-          <p v-for="(topic, index) in $store.state.summary_topic.topics" :key="index">
-            Ayat {{ topic.from }}-{{ topic.to }}: {{ titleCase(topic.topic) }}
-          </p>
+          <div class="h-64 max-h-full overflow-y-scroll">
+            <div v-for="(topic, index) in $store.state.summary_topic.topics" :key="index" class="mb-2">
+              <span>Ayat {{ topic.from }}-{{ topic.to }}: {{ titleCase(topic.topic) }}</span>
+              <ul class="list-inside list-disc">
+                <li v-for="(subtopic, index2) in topic.subs" :key="index2">
+                  {{ subtopic.text }}
+                </li>
+              </ul>
+            </div>
+          </div>
 
           <!--Footer-->
           <div class="flex justify-end pt-2">
@@ -51,6 +58,7 @@
           v-model="search_query"
           v-on:input="searchbar"
           class="border-2 border-gray-300 bg-white w-full h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none"
+          autocomplete="off"
           type="search"
           name="search"
           placeholder="Cari Surat, Arti atau Topik dalam Al Qur'an"
@@ -59,7 +67,72 @@
       <hr class="my-3">
       <!-- Search Result -->
       <div v-if="search_result !== null">
-        <span>{{ search_result }}</span>
+        <span class="mb-3 block text-2xl">{{ search_result }}</span>
+
+        <div v-if="search_query.length > 2">
+          <!-- Based on Name -->
+          <div>
+            <hr class="mt-2 mb-4 border-blue-400">
+            <h2 class="font-semibold">
+              {{ query_data.in_name.length }} Nama Surat
+            </h2>
+            <ul v-if="query_data.in_name.length > 0">
+              <nuxt-link v-for="surah in query_data.in_name" :key="surah.number" :to="`/tadarus/${surah.number}`" class="mt-2 hover:text-blue-500">
+                <li class="ml-4">
+                  <span class="font-semibold">Surah no {{ surah.number }}:</span> {{ surah.name_latin }} - {{ surah.name_translation }}
+                </li>
+              </nuxt-link>
+            </ul>
+            <p v-else class="ml-4">
+              Tidak ditemukan
+            </p>
+          </div>
+          <!-- Based on Topic -->
+          <div>
+            <hr class="mt-2 mb-4 border-blue-400">
+            <h2 class="font-semibold">
+              {{ query_data.in_topic.length }} Topik
+            </h2>
+            <ul v-if="query_data.in_topic.length > 0">
+              <nuxt-link v-for="data in query_data.in_topic" :key="data.surah_name" :to="`/tadarus/${data.surah_number}`" class="mt-2 hover:text-blue-500">
+                <li class="ml-4 mb-2">
+                  <span class="font-semibold">Dari {{ data.surah_name }} {{ data.topic.from }}-{{ data.topic.to }}</span>: {{ data.topic.topic }}
+                  <ul v-if="data.subtopic.length > 0" class="ml-6">
+                    <li v-for="subtopic in data.subtopic" :key="`${data.surah_name}-${subtopic.from}`">
+                      {{ subtopic.subs.text }}
+                    </li>
+                  </ul>
+                </li>
+              </nuxt-link>
+            </ul>
+            <p v-else class="ml-4">
+              Tidak ditemukan
+            </p>
+          </div>
+          <!-- Based on Translation -->
+          <div>
+            <hr class="mt-2 mb-4 border-blue-400">
+            <h2 class="font-semibold">
+              Arti
+            </h2>
+            <ul>
+              ( COMING SOON )
+            </ul>
+          </div>
+          <!-- Based on Tafsir -->
+          <div>
+            <hr class="mt-2 mb-4 border-blue-400">
+            <h2 class="font-semibold">
+              Tafsir
+            </h2>
+            <ul>
+              ( COMING SOON )
+            </ul>
+          </div>
+        </div>
+        <div v-else class="center">
+          <p>Ketik minimal 3 huruf</p>
+        </div>
         <hr class="mt-5">
       </div>
 
@@ -100,6 +173,12 @@ export default {
   data () {
     return {
       search_query: '',
+      query_data: {
+        in_name: [],
+        in_topic: [],
+        in_translation: [],
+        in_tafsir: []
+      },
       surah_list: {},
       display_modal: false,
       search_result: null
@@ -120,9 +199,48 @@ export default {
     searchbar (query) {
       if (this.search_query !== '') {
         this.search_result = `Hasil dari "${this.search_query}"`
+        if (this.search_query.length > 2) {
+          this.filterName(this.surah_list, this.search_query)
+          this.filterTopic(this.surah_list, this.search_query)
+        }
       } else {
         this.search_result = null
       }
+    },
+    // BaseFilter (arr, searchKey) {
+    //   return arr.filter(
+    //     obj => Object.keys(obj).some(
+    //       key => obj[key].includes(searchKey)
+    //     )
+    //   )
+    // },
+    filterName (arr, searchKey) {
+      this.query_data.in_name = arr.filter(
+        obj => obj.name_latin.toLowerCase().includes(searchKey.toLowerCase()) || obj.name_translation.toLowerCase().includes(searchKey.toLowerCase())
+      )
+    },
+    filterTopic (arr, searchKey) {
+      this.query_data.in_topic = []
+      arr.forEach((surah) => {
+        surah.topic.forEach((topic) => {
+          const subtopic = this.filterSubTopic(topic.subs, searchKey)
+          if (topic.topic.toLowerCase().includes(searchKey.toLowerCase()) || subtopic.length > 0) {
+            this.query_data.in_topic.push({ surah_name: surah.name_latin, surah_number: surah.number, topic, subtopic })
+          }
+        })
+      })
+    },
+    filterSubTopic (arr, searchKey) {
+      if (arr === undefined) {
+        return []
+      }
+      const data = []
+      arr.forEach((subs) => {
+        if (subs.text.toLowerCase().includes(searchKey.toLowerCase())) {
+          data.push({ subs })
+        }
+      })
+      return data
     },
     show_modal (surah, topics) {
       this.$store.commit('summary_topic/set', { surah, topics })

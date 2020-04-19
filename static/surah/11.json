@@ -443,17 +443,17 @@
           {
             "from": 84,
             "to": 95,
-            "topic": "Kisah Nabi Syu'aib"
+            "text": "Kisah Nabi Syu'aib"
           },
           {
             "from": 96,
             "to": 99,
-            "topic": "Kisah Nabi Musa"
+            "text": "Kisah Nabi Musa"
           },
           {
             "from": 100,
             "to": 123,
-            "text": "Pelajaran dari kisah-kisah beberapa nabi "
+            "text": "Pelajaran dari kisah-kisah beberapa nabi"
           }
         ]
       }

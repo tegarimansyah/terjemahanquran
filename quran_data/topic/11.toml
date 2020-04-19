@@ -41,12 +41,12 @@ topic = "KISAH PARA NABI"
     [[topics.subs]]
     from = 84
     to = 95
-    topic = "Kisah Nabi Syu'aib"
+    text = "Kisah Nabi Syu'aib"
     [[topics.subs]]
     from = 96
     to = 99
-    topic = "Kisah Nabi Musa"
+    text = "Kisah Nabi Musa"
     [[topics.subs]]
     from = 100
     to = 123
-    text = "Pelajaran dari kisah-kisah beberapa nabi "
+    text = "Pelajaran dari kisah-kisah beberapa nabi"
