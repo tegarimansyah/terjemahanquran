@@ -4,15 +4,15 @@ number = 4
 [[topics]]
 from = 1
 to = 35
-topic = "HUKUM KELUARGA "
+topic = "HUKUM KELUARGA"
     [[topics.subs]]
     from = 1
     to = 6
-    text = "Kewajiban para washi terhadap asuhannya dan para wali terhadap orang yang di bawah perwaliannya "
+    text = "Kewajiban para washi terhadap asuhannya dan para wali terhadap orang yang di bawah perwaliannya"
     [[topics.subs]]
     from = 7
     to = 14
-    text = "Pokok-pokok hukum warisan "
+    text = "Pokok-pokok hukum warisan"
     [[topics.subs]]
     from = 15
     to = 18
@@ -24,7 +24,7 @@ topic = "HUKUM KELUARGA "
     [[topics.subs]]
     from = 22
     to = 28
-    text = "Beberapa hukum pernikahan "
+    text = "Beberapa hukum pernikahan"
     [[topics.subs]]
     from = 29
     to = 33
@@ -32,7 +32,7 @@ topic = "HUKUM KELUARGA "
     [[topics.subs]]
     from = 34
     to = 35
-    text = "Beberapa peraturan hidup bersuami-istri "
+    text = "Beberapa peraturan hidup bersuami-istri"
 
 [[topics]]
 from = 36
@@ -42,7 +42,7 @@ topic = "KEWAJIBAN TERHADAP ALLAH DAN TERHADAP SESAMA MANUSIA"
 [[topics]]
 from = 43
 to = 1
-topic = "KESUCIAN LAHIR DAN BATIN "
+topic = "KESUCIAN LAHIR DAN BATIN"
     [[topics.subs]]
     from = 43
     to = 43
@@ -50,7 +50,7 @@ topic = "KESUCIAN LAHIR DAN BATIN "
     [[topics.subs]]
     from = 44
     to = 57
-    text = "Orang yang tidak suci batinnya dan ancaman Allah terhadapnya "
+    text = "Orang yang tidak suci batinnya dan ancaman Allah terhadapnya"
 
 [[topics]]
 from = 58
@@ -68,11 +68,11 @@ topic = "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM"
     [[topics.subs]]
     from = 77
     to = 83
-    text = "Sikap orang munafik dalam menghadapi peperangan "
+    text = "Sikap orang munafik dalam menghadapi peperangan"
     [[topics.subs]]
     from = 84
     to = 87
-    text = "Kewajiban berperang dan beberapa adabnya "
+    text = "Kewajiban berperang dan beberapa adabnya"
     [[topics.subs]]
     from = 88
     to = 91
@@ -88,11 +88,11 @@ topic = "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM"
     [[topics.subs]]
     from = 95
     to = 96
-    text = "Perbedaan antara orang yang berjihad dan yang tidak berjihad karena uzur, dengan yang tidak berjihad "
+    text = "Perbedaan antara orang yang berjihad dan yang tidak berjihad karena uzur, dengan yang tidak berjihad"
     [[topics.subs]]
     from = 97
     to = 100
-    text = "Kewajiban berhijrah di jalan Allah dan balasannya "
+    text = "Kewajiban berhijrah di jalan Allah dan balasannya"
     [[topics.subs]]
     from = 101
     to = 104
@@ -101,7 +101,7 @@ topic = "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM"
 [[topics]]
 from = 105
 to = 152
-topic = "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN "
+topic = "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN"
     [[topics.subs]]
     from = 105
     to = 115
@@ -121,11 +121,11 @@ topic = "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN "
     [[topics.subs]]
     from = 131
     to = 134
-    text = "Keharusan bertakwa "
+    text = "Keharusan bertakwa"
     [[topics.subs]]
     from = 135
     to = 136
-    text = "Keharusan berlaku adil "
+    text = "Keharusan berlaku adil"
     [[topics.subs]]
     from = 137
     to = 147
@@ -150,11 +150,11 @@ topic = "KESATUAN AGAMA ALLAH"
     [[topics.subs]]
     from = 163
     to = 170
-    text = "Persamaan pokok agama yang diwahyukan kepada para rasul "
+    text = "Persamaan pokok agama yang diwahyukan kepada para rasul"
     [[topics.subs]]
     from = 171
     to = 175
-    text = "Pandangan Al Qur'an terhadap Nabi 'Isa A.S. "
+    text = "Pandangan Al Qur'an terhadap Nabi 'Isa A.S."
     [[topics.subs]]
     from = 176
     to = 176

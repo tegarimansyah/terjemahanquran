@@ -251,8 +251,8 @@
     "topic": [
       {
         "from": 1,
-        "to": 1,
-        "topic": "KISAH PERANG BADAR ",
+        "to": 75,
+        "topic": "KISAH PERANG BADAR",
         "subs": [
           {
             "from": 1,
@@ -277,7 +277,7 @@
           {
             "from": 20,
             "to": 23,
-            "text": "Larangan menyalahi perintah-perintah Allah "
+            "text": "Larangan menyalahi perintah-perintah Allah"
           },
           {
             "from": 24,
@@ -302,7 +302,7 @@
           {
             "from": 42,
             "to": 44,
-            "text": "Rahmat Allah kepada kaum Muslimin dalam perang Badar "
+            "text": "Rahmat Allah kepada kaum Muslimin dalam perang Badar"
           },
           {
             "from": 45,

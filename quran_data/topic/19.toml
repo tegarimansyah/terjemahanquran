@@ -12,16 +12,16 @@ topic = "KISAH NABI ZAKARIYA DAN NABI YAHYA"
     [[topics.subs]]
     from = 7
     to = 11
-    text = "Terkabulnya doa Zakariya sebagai bukti kekuasaan Allah "
+    text = "Terkabulnya doa Zakariya sebagai bukti kekuasaan Allah"
     [[topics.subs]]
     from = 12
     to = 15
-    text = "Pengangkatan Yahya sebagai nabi dan keutamaannya "
+    text = "Pengangkatan Yahya sebagai nabi dan keutamaannya"
 
 [[topics]]
 from = 16
 to = 40
-topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
+topic = "KISAH MARYAM DAN NABI 'ISA A.S."
     [[topics.subs]]
     from = 16
     to = 22
@@ -29,7 +29,7 @@ topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
     [[topics.subs]]
     from = 23
     to = 26
-    text = "Kelahiran Nabi 'Isa "
+    text = "Kelahiran Nabi 'Isa"
     [[topics.subs]]
     from = 27
     to = 36
@@ -37,7 +37,7 @@ topic = "KISAH MARYAM DAN NABI 'ISA A.S. "
     [[topics.subs]]
     from = 37
     to = 40
-    text = "Pertentangan pendapat tentang Isa "
+    text = "Pertentangan pendapat tentang Isa"
 
 [[topics]]
 from = 41
@@ -47,7 +47,7 @@ topic = "KISAH NABI IBRAHIM DENGAN AYAHNYA"
 [[topics]]
 from = 51
 to = 65
-topic = "KISAH BEBERAPA NABI YANG LAIN "
+topic = "KISAH BEBERAPA NABI YANG LAIN"
 
 [[topics]]
 from = 66

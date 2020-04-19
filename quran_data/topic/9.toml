@@ -41,11 +41,11 @@ topic = "PENGUMUMAN TENTANG PEMBATALAN PERJANJIAN DAMAI DENGAN KAUM MUSYRIKIN"
 [[topics]]
 from = 38
 to = 129
-topic = "KISAH PERANG TABUK "
+topic = "KISAH PERANG TABUK"
     [[topics.subs]]
     from = 38
     to = 43
-    text = "Anjuran untuk berjihad "
+    text = "Anjuran untuk berjihad"
     [[topics.subs]]
     from = 44
     to = 57
@@ -57,7 +57,7 @@ topic = "KISAH PERANG TABUK "
     [[topics.subs]]
     from = 60
     to = 61
-    text = "Ketentuan pembagian zakat "
+    text = "Ketentuan pembagian zakat"
     [[topics.subs]]
     from = 62
     to = 66
@@ -65,7 +65,7 @@ topic = "KISAH PERANG TABUK "
     [[topics.subs]]
     from = 67
     to = 70
-    text = "Hasutan orang-orang munafik dan ancaman Allah terhadap mereka "
+    text = "Hasutan orang-orang munafik dan ancaman Allah terhadap mereka"
     [[topics.subs]]
     from = 71
     to = 72
@@ -73,7 +73,7 @@ topic = "KISAH PERANG TABUK "
     [[topics.subs]]
     from = 73
     to = 74
-    text = "Keharusan bersikap tegas terhadap orang kafir dan munafik "
+    text = "Keharusan bersikap tegas terhadap orang kafir dan munafik"
     [[topics.subs]]
     from = 75
     to = 78
@@ -81,7 +81,7 @@ topic = "KISAH PERANG TABUK "
     [[topics.subs]]
     from = 79
     to = 80
-    text = "Kemunafikan adalah dosa yang tidak diampuni Allah "
+    text = "Kemunafikan adalah dosa yang tidak diampuni Allah"
     [[topics.subs]]
     from = 81
     to = 83
@@ -101,11 +101,11 @@ topic = "KISAH PERANG TABUK "
     [[topics.subs]]
     from = 103
     to = 106
-    text = "Keharusan Penguasa memungut zakat "
+    text = "Keharusan Penguasa memungut zakat"
     [[topics.subs]]
     from = 107
     to = 110
-    text = "Keharusan waspada terhadap tipu muslihat orang yang mempergunakan masjid sebagai alatnya "
+    text = "Keharusan waspada terhadap tipu muslihat orang yang mempergunakan masjid sebagai alatnya"
     [[topics.subs]]
     from = 111
     to = 112

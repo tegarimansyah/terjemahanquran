@@ -4,11 +4,11 @@ number = 50
 [[topics]]
 from = 1
 to = 45
-topic = "HARI KEBANGKITAN "
+topic = "HARI KEBANGKITAN"
     [[topics.subs]]
     from = 1
     to = 5
-    text = "Pengingkaran kaum musyrikin terhadap kenabian Muhammad dan hari kebangkitan "
+    text = "Pengingkaran kaum musyrikin terhadap kenabian Muhammad dan hari kebangkitan"
     [[topics.subs]]
     from = 6
     to = 11
@@ -20,7 +20,7 @@ topic = "HARI KEBANGKITAN "
     [[topics.subs]]
     from = 16
     to = 29
-    text = "Gerak-gerik dan perkataan manusia dicatat oleh para malaikat "
+    text = "Gerak-gerik dan perkataan manusia dicatat oleh para malaikat"
     [[topics.subs]]
     from = 30
     to = 35

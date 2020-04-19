@@ -4,7 +4,7 @@ number = 66
 [[topics]]
 from = 1
 to = 1
-topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA "
+topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA"
     [[topics.subs]]
     from = 1
     to = 6
@@ -12,7 +12,7 @@ topic = "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA "
     [[topics.subs]]
     from = 7
     to = 9
-    text = "Perintah taubat dan berjihad "
+    text = "Perintah taubat dan berjihad"
 
 [[topics]]
 from = 10

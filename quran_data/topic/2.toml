@@ -21,7 +21,7 @@ topic = "TIGA GOLONGAN MANUSIA DALAM MENGHADAPI AL QUR'AN"
 [[topics]]
 from = 21
 to = 39
-topic = "KEESAAN DAN KEKUASAAN ALLAH "
+topic = "KEESAAN DAN KEKUASAAN ALLAH"
     [[topics.subs]]
     from = 21
     to = 22
@@ -33,7 +33,7 @@ topic = "KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 25
     to = 25
-    text = "Balasan untuk orang-orang yang beriman "
+    text = "Balasan untuk orang-orang yang beriman"
     [[topics.subs]]
     from = 26
     to = 27
@@ -41,7 +41,7 @@ topic = "KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 28
     to = 29
-    text = "Bukti-bukti kekuasaan Allah "
+    text = "Bukti-bukti kekuasaan Allah"
     [[topics.subs]]
     from = 30
     to = 39
@@ -50,15 +50,15 @@ topic = "KEESAAN DAN KEKUASAAN ALLAH "
 [[topics]]
 from = 40
 to = 141
-topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
+topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL"
     [[topics.subs]]
     from = 40
     to = 48
-    text = "Beberapa perintah dan larangan Allah kepada Bani Israil "
+    text = "Beberapa perintah dan larangan Allah kepada Bani Israil"
     [[topics.subs]]
     from = 49
     to = 60
-    text = "Perincian nikmat Allah kepada Bani Israil "
+    text = "Perincian nikmat Allah kepada Bani Israil"
     [[topics.subs]]
     from = 61
     to = 61
@@ -66,7 +66,7 @@ topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     [[topics.subs]]
     from = 62
     to = 62
-    text = "Pahala orang yang beriman "
+    text = "Pahala orang yang beriman"
     [[topics.subs]]
     from = 63
     to = 66
@@ -78,7 +78,7 @@ topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     [[topics.subs]]
     from = 75
     to = 82
-    text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW "
+    text = "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
     [[topics.subs]]
     from = 83
     to = 86
@@ -86,19 +86,19 @@ topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     [[topics.subs]]
     from = 87
     to = 91
-    text = "Sikap orang Yahudi terhadap para Rasul dan Kitab-kitab yang diturunkan Allah "
+    text = "Sikap orang Yahudi terhadap para Rasul dan Kitab-kitab yang diturunkan Allah"
     [[topics.subs]]
     from = 92
     to = 96
-    text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi merupakan tanda kecenderungan mereka kepada benda "
+    text = "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi merupakan tanda kecenderungan mereka kepada benda"
     [[topics.subs]]
     from = 97
     to = 101
-    text = "Memusuhi Jibril berarti memusuhi Allah yang mengutusnya "
+    text = "Memusuhi Jibril berarti memusuhi Allah yang mengutusnya"
     [[topics.subs]]
     from = 102
     to = 103
-    text = "Tuduhan orang Yahudi terhadap Nabi Sulaiman A.S. "
+    text = "Tuduhan orang Yahudi terhadap Nabi Sulaiman A.S."
     [[topics.subs]]
     from = 104
     to = 105
@@ -110,19 +110,19 @@ topic = "PERINGATAN ALLAH KEPADA BANI ISRAIL "
     [[topics.subs]]
     from = 114
     to = 118
-    text = "Tindakan-tindakan menghalangi beribadah "
+    text = "Tindakan-tindakan menghalangi beribadah"
     [[topics.subs]]
     from = 119
     to = 123
-    text = "Larangan mengikuti Yahudi dan Nasrani "
+    text = "Larangan mengikuti Yahudi dan Nasrani"
     [[topics.subs]]
     from = 124
     to = 129
-    text = "Perjanjian dengan Nabi Ibrahim A.S. "
+    text = "Perjanjian dengan Nabi Ibrahim A.S."
     [[topics.subs]]
     from = 130
     to = 141
-    text = "Agama Nabi Ibrahim A.S. "
+    text = "Agama Nabi Ibrahim A.S."
 
 [[topics]]
 from = 142
@@ -135,11 +135,11 @@ topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     [[topics.subs]]
     from = 153
     to = 157
-    text = "Cobaan berat dalam menegakkan kebenaran "
+    text = "Cobaan berat dalam menegakkan kebenaran"
     [[topics.subs]]
     from = 158
     to = 158
-    text = "Manasik Haji "
+    text = "Manasik Haji"
     [[topics.subs]]
     from = 159
     to = 162
@@ -155,7 +155,7 @@ topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     [[topics.subs]]
     from = 177
     to = 177
-    text = "Pokok-pokok kebajikan "
+    text = "Pokok-pokok kebajikan"
     [[topics.subs]]
     from = 178
     to = 179
@@ -163,11 +163,11 @@ topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     [[topics.subs]]
     from = 180
     to = 182
-    text = "Wasiat "
+    text = "Wasiat"
     [[topics.subs]]
     from = 183
     to = 188
-    text = "Puasa "
+    text = "Puasa"
     [[topics.subs]]
     from = 189
     to = 195
@@ -175,15 +175,15 @@ topic = "KEESAAN TUHANLAH YANG AKHIRNYA MENANG"
     [[topics.subs]]
     from = 196
     to = 203
-    text = "Haji "
+    text = "Haji"
     [[topics.subs]]
     from = 204
     to = 210
-    text = "Perbuatan orang-orang munafik "
+    text = "Perbuatan orang-orang munafik"
     [[topics.subs]]
     from = 211
     to = 214
-    text = "Hikmah diutusnya para Rasul dan pelbagai cobaan bagi para pengikutnya "
+    text = "Hikmah diutusnya para Rasul dan pelbagai cobaan bagi para pengikutnya"
 
 [[topics]]
 from = 215
@@ -204,7 +204,7 @@ topic = "BEBERAPA HUKUM SYARIAT"
     [[topics.subs]]
     from = 220
     to = 237
-    text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan "
+    text = "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
     [[topics.subs]]
     from = 238
     to = 239
@@ -225,7 +225,7 @@ topic = "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH"
     [[topics.subs]]
     from = 253
     to = 253
-    text = "Keistimewaan dan perbedaan derajat rasul-rasul "
+    text = "Keistimewaan dan perbedaan derajat rasul-rasul"
     [[topics.subs]]
     from = 254
     to = 254
@@ -233,7 +233,7 @@ topic = "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH"
     [[topics.subs]]
     from = 255
     to = 255
-    text = "Ayat Kursi "
+    text = "Ayat Kursi"
     [[topics.subs]]
     from = 256
     to = 257
@@ -254,7 +254,7 @@ topic = "CARA-CARA PENGGUNAAN HARTA DAN HUKUM-HUKUMNYA"
     [[topics.subs]]
     from = 275
     to = 281
-    text = "Hukum riba "
+    text = "Hukum riba"
     [[topics.subs]]
     from = 282
     to = 283

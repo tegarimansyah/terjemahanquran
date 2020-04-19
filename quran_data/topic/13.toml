@@ -4,7 +4,7 @@ number = 13
 [[topics]]
 from = 1
 to = 17
-topic = "KEBENARAN AL-QUR'AN "
+topic = "KEBENARAN AL-QUR'AN"
     [[topics.subs]]
     from = 1
     to = 10
@@ -16,24 +16,24 @@ topic = "KEBENARAN AL-QUR'AN "
     [[topics.subs]]
     from = 12
     to = 17
-    text = "Tanda-tanda keesaan Allah "
+    text = "Tanda-tanda keesaan Allah"
 
 [[topics]]
 from = 18
 to = 29
-topic = "MANUSIA MEMPEROLEH BALASAN AMAL PERBUATANNYA "
+topic = "MANUSIA MEMPEROLEH BALASAN AMAL PERBUATANNYA"
     [[topics.subs]]
     from = 18
     to = 24
-    text = "Beberapa sifat dan perbuatan yang mulia dalam Islam "
+    text = "Beberapa sifat dan perbuatan yang mulia dalam Islam"
     [[topics.subs]]
     from = 25
     to = 27
-    text = "Di antara sifat dan perbuatan orang yang ingkar kepada Allah "
+    text = "Di antara sifat dan perbuatan orang yang ingkar kepada Allah"
     [[topics.subs]]
     from = 28
     to = 29
-    text = "Ketenteraman hati orang-orang yang beriman serta pembalasan bagi mereka "
+    text = "Ketenteraman hati orang-orang yang beriman serta pembalasan bagi mereka"
 
 [[topics]]
 from = 30
@@ -54,7 +54,7 @@ topic = "PENGUTUSAN RASUL-RASUL KEPADA UMAT MANUSIA MERUPAKAN SUNNATULLAH"
     [[topics.subs]]
     from = 35
     to = 35
-    text = "Gambaran surga "
+    text = "Gambaran surga"
     [[topics.subs]]
     from = 36
     to = 37
@@ -62,7 +62,7 @@ topic = "PENGUTUSAN RASUL-RASUL KEPADA UMAT MANUSIA MERUPAKAN SUNNATULLAH"
     [[topics.subs]]
     from = 38
     to = 38
-    text = "Hidup berkeluarga tidak berlawanan dengan kerasulan "
+    text = "Hidup berkeluarga tidak berlawanan dengan kerasulan"
     [[topics.subs]]
     from = 39
     to = 43

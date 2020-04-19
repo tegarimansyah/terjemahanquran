@@ -4,7 +4,7 @@ number = 11
 [[topics]]
 from = 1
 to = 24
-topic = "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH "
+topic = "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH"
     [[topics.subs]]
     from = 1
     to = 4
@@ -16,7 +16,7 @@ topic = "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH "
     [[topics.subs]]
     from = 12
     to = 24
-    text = "Kebenaran wahyu "
+    text = "Kebenaran wahyu"
     
 [[topics]]
 from = 25
@@ -25,19 +25,19 @@ topic = "KISAH PARA NABI"
     [[topics.subs]]
     from = 25
     to = 49
-    text = "Kisah Nabi Nuh "
+    text = "Kisah Nabi Nuh"
     [[topics.subs]]
     from = 50
     to = 60
-    text = "Kisah Nabi Hud "
+    text = "Kisah Nabi Hud"
     [[topics.subs]]
     from = 61
     to = 68
-    text = "Kisah Nabi Shaleh "
+    text = "Kisah Nabi Shaleh"
     [[topics.subs]]
     from = 69
     to = 83
-    text = "Kisah Nabi Ibrahim dan Nabi Luth "
+    text = "Kisah Nabi Ibrahim dan Nabi Luth"
     [[topics.subs]]
     from = 84
     to = 95

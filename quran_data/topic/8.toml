@@ -4,7 +4,7 @@ number = 8
 [[topics]]
 from = 1
 to = 75
-topic = "KISAH PERANG BADAR "
+topic = "KISAH PERANG BADAR"
     [[topics.subs]]
     from = 1
     to = 1
@@ -24,7 +24,7 @@ topic = "KISAH PERANG BADAR "
     [[topics.subs]]
     from = 20
     to = 23
-    text = "Larangan menyalahi perintah-perintah Allah "
+    text = "Larangan menyalahi perintah-perintah Allah"
     [[topics.subs]]
     from = 24
     to = 26
@@ -44,7 +44,7 @@ topic = "KISAH PERANG BADAR "
     [[topics.subs]]
     from = 42
     to = 44
-    text = "Rahmat Allah kepada kaum Muslimin dalam perang Badar "
+    text = "Rahmat Allah kepada kaum Muslimin dalam perang Badar"
     [[topics.subs]]
     from = 45
     to = 47

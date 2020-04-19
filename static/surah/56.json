@@ -315,7 +315,7 @@
       {
         "from": 1,
         "to": 1,
-        "topic": "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT ",
+        "topic": "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT",
         "subs": [
           {
             "from": 1,
@@ -325,12 +325,12 @@
           {
             "from": 8,
             "to": 10,
-            "text": "Golongan kanan, golongan kiri, dan orang-orang yang paling dahulu beriman "
+            "text": "Golongan kanan, golongan kiri, dan orang-orang yang paling dahulu beriman"
           },
           {
             "from": 11,
             "to": 26,
-            "text": "Balasan kepada orang yang paling dahulu beriman "
+            "text": "Balasan kepada orang yang paling dahulu beriman"
           },
           {
             "from": 27,

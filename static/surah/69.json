@@ -183,12 +183,12 @@
       {
         "from": 1,
         "to": 37,
-        "topic": "KEPASTIAN HARI KIAMAT ",
+        "topic": "KEPASTIAN HARI KIAMAT",
         "subs": [
           {
             "from": 1,
             "to": 12,
-            "text": "Orang yang mendustakan kebenaran pasti binasa "
+            "text": "Orang yang mendustakan kebenaran pasti binasa"
           },
           {
             "from": 13,
@@ -205,7 +205,7 @@
       {
         "from": 38,
         "to": 52,
-        "topic": "AL-QUR'AN BENAR-BENAR WAHYU ALLAH "
+        "topic": "AL-QUR'AN BENAR-BENAR WAHYU ALLAH"
       }
     ]
   }

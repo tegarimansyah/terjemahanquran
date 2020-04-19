@@ -4,7 +4,7 @@ number = 12
 [[topics]]
 from = 1
 to = 111
-topic = "KISAH NABI YUSUF "
+topic = "KISAH NABI YUSUF"
     [[topics.subs]]
     from = 1
     to = 6
@@ -20,7 +20,7 @@ topic = "KISAH NABI YUSUF "
     [[topics.subs]]
     from = 30
     to = 35
-    text = "Yusuf dipenjara "
+    text = "Yusuf dipenjara"
     [[topics.subs]]
     from = 36
     to = 42
@@ -40,11 +40,11 @@ topic = "KISAH NABI YUSUF "
     [[topics.subs]]
     from = 94
     to = 100
-    text = "Pertemuan Yusuf A.S. dengan kedua orang tuanya "
+    text = "Pertemuan Yusuf A.S. dengan kedua orang tuanya"
     [[topics.subs]]
     from = 101
     to = 101
-    text = "Doa Yusuf A.S.  "
+    text = "Doa Yusuf A.S. "
     [[topics.subs]]
     from = 102
     to = 111

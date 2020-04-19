@@ -4,15 +4,15 @@ number = 23
 [[topics]]
 from = 1
 to = 22
-topic = "KEMENANGAN ORANG MUKMIN "
+topic = "KEMENANGAN ORANG MUKMIN"
     [[topics.subs]]
     from = 1
     to = 11
-    text = "Tujuh sifat yang menjadikan orang mukmin beruntung "
+    text = "Tujuh sifat yang menjadikan orang mukmin beruntung"
     [[topics.subs]]
     from = 12
     to = 16
-    text = "Perkembangan kejadian manusia "
+    text = "Perkembangan kejadian manusia"
     [[topics.subs]]
     from = 17
     to = 22
@@ -21,12 +21,12 @@ topic = "KEMENANGAN ORANG MUKMIN "
 [[topics]]
 from = 23
 to = 50
-topic = "KISAH BEBERAPA ORANG RASUL "
+topic = "KISAH BEBERAPA ORANG RASUL"
 
 [[topics]]
 from = 51
 to = 118
-topic = "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA "
+topic = "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA"
     [[topics.subs]]
     from = 51
     to = 56
@@ -46,11 +46,11 @@ topic = "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA "
     [[topics.subs]]
     from = 77
     to = 83
-    text = "Meskipun dalil-dalil tentang kebangkitan di akhirat cukup banyak, namun orang kafir tetap mengingkarinya "
+    text = "Meskipun dalil-dalil tentang kebangkitan di akhirat cukup banyak, namun orang kafir tetap mengingkarinya"
     [[topics.subs]]
     from = 84
     to = 92
-    text = "Sanggahan terhadap pendirian orang kafir, terutama anggapan bahwa Tuhan mempunyai anak atau sekutu "
+    text = "Sanggahan terhadap pendirian orang kafir, terutama anggapan bahwa Tuhan mempunyai anak atau sekutu"
     [[topics.subs]]
     from = 93
     to = 100
@@ -58,9 +58,9 @@ topic = "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA "
     [[topics.subs]]
     from = 101
     to = 114
-    text = "Peristiwa-peristiwa pada hari kiamat dan kedahsyatannya "
+    text = "Peristiwa-peristiwa pada hari kiamat dan kedahsyatannya"
     [[topics.subs]]
     from = 115
     to = 118
-    text = "Tuhan menciptakan manusia bukan sia-sia "
+    text = "Tuhan menciptakan manusia bukan sia-sia"
     

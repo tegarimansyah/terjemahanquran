@@ -360,7 +360,7 @@
       {
         "from": 1,
         "to": 111,
-        "topic": "KISAH NABI YUSUF ",
+        "topic": "KISAH NABI YUSUF",
         "subs": [
           {
             "from": 1,
@@ -380,7 +380,7 @@
           {
             "from": 30,
             "to": 35,
-            "text": "Yusuf dipenjara "
+            "text": "Yusuf dipenjara"
           },
           {
             "from": 36,
@@ -405,12 +405,12 @@
           {
             "from": 94,
             "to": 100,
-            "text": "Pertemuan Yusuf A.S. dengan kedua orang tuanya "
+            "text": "Pertemuan Yusuf A.S. dengan kedua orang tuanya"
           },
           {
             "from": 101,
             "to": 101,
-            "text": "Doa Yusuf A.S.  "
+            "text": "Doa Yusuf A.S. "
           },
           {
             "from": 102,

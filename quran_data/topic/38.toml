@@ -4,12 +4,12 @@ number = 38
 [[topics]]
 from = 1
 to = 1
-topic = "MUSUH PARA NABI AKAN HANCUR "
+topic = "MUSUH PARA NABI AKAN HANCUR"
 
 [[topics]]
 from = 17
 to = 1
-topic = "KISAH BEBERAPA NABI "
+topic = "KISAH BEBERAPA NABI"
     [[topics.subs]]
     from = 17
     to = 29
@@ -25,7 +25,7 @@ topic = "KISAH BEBERAPA NABI "
     [[topics.subs]]
     from = 45
     to = 48
-    text = "Beberapa orang nabi pilihan "
+    text = "Beberapa orang nabi pilihan"
     [[topics.subs]]
     from = 49
     to = 54

@@ -14,15 +14,15 @@ topic = "MUSA MENERIMA WAHYU, DAN MUHAMMAD PUN MENERIMA WAHYU AL-QUR'AN"
 [[topics]]
 from = 15
 to = 44
-topic = "KISAH NABI DAWUD DAN NABI SULAIMAN "
+topic = "KISAH NABI DAWUD DAN NABI SULAIMAN"
     [[topics.subs]]
     from = 15
     to = 19
-    text = "Sulaiman mewarisi kerajaan Dawud "
+    text = "Sulaiman mewarisi kerajaan Dawud"
     [[topics.subs]]
     from = 20
     to = 44
-    text = "Pembicaraan Sulaiman dengan burung Hud-hud "
+    text = "Pembicaraan Sulaiman dengan burung Hud-hud"
 
 [[topics]]
 from = 45
@@ -32,12 +32,12 @@ topic = "PELAJARAN DARI KEINGKARAN KAUM SHALEH"
 [[topics]]
 from = 54
 to = 58
-topic = "PERBUATAN CABUL KAUM LUTH "
+topic = "PERBUATAN CABUL KAUM LUTH"
 
 [[topics]]
 from = 59
 to = 66
-topic = "PERINTAH ALLAH KEPADA MUHAMMAD UNTUK MENSYUKURI NIKMAT "
+topic = "PERINTAH ALLAH KEPADA MUHAMMAD UNTUK MENSYUKURI NIKMAT"
 
 [[topics]]
 from = 67
@@ -47,7 +47,7 @@ topic = "ORANG KAFIR MENGINGKARI HARI KEBANGKITAN"
 [[topics]]
 from = 76
 to = 81
-topic = "AL-QUR'AN BUKTI KENABIAN MUHAMMAD "
+topic = "AL-QUR'AN BUKTI KENABIAN MUHAMMAD"
 
 [[topics]]
 from = 82

@@ -8,11 +8,11 @@ topic = "KEHIDUPAN PADA HARI AKHIR"
     [[topics.subs]]
     from = 1
     to = 2
-    text = "Kedahsyatan hari kiamat "
+    text = "Kedahsyatan hari kiamat"
     [[topics.subs]]
     from = 3
     to = 4
-    text = "Celaan terhadap orang yang membantah Tuhan "
+    text = "Celaan terhadap orang yang membantah Tuhan"
     [[topics.subs]]
     from = 5
     to = 7
@@ -20,7 +20,7 @@ topic = "KEHIDUPAN PADA HARI AKHIR"
     [[topics.subs]]
     from = 8
     to = 10
-    text = "Celaan terhadap orang yang membantah Tuhan karena kesombongan "
+    text = "Celaan terhadap orang yang membantah Tuhan karena kesombongan"
     [[topics.subs]]
     from = 11
     to = 13
@@ -51,7 +51,7 @@ topic = "IZIN BERPERANG BAGI ORANG-ORANG MUKMIN"
 [[topics]]
 from = 42
 to = 48
-topic = "AYAT-AYAT ALLAH SEBAGAI PENGHIBUR NABI MUHAMMAD "
+topic = "AYAT-AYAT ALLAH SEBAGAI PENGHIBUR NABI MUHAMMAD"
 
 [[topics]]
 from = 49
@@ -71,12 +71,12 @@ topic = "NIKMAT ALLAH YANG DIBERIKAN KEPADA MANUSIA"
 [[topics]]
 from = 67
 to = 70
-topic = "SETIAP UMAT MEMPUNYAI SYARIAT TERTENTU "
+topic = "SETIAP UMAT MEMPUNYAI SYARIAT TERTENTU"
 
 [[topics]]
 from = 71
 to = 77
-topic = "KELEMAHAN PENDIRIAN ORANG KAFIR DALAM MENYEMBAH SELAIN ALLAH "
+topic = "KELEMAHAN PENDIRIAN ORANG KAFIR DALAM MENYEMBAH SELAIN ALLAH"
 
 [[topics]]
 from = 78

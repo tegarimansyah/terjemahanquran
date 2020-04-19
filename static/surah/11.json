@@ -396,7 +396,7 @@
       {
         "from": 1,
         "to": 24,
-        "topic": "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH ",
+        "topic": "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH",
         "subs": [
           {
             "from": 1,
@@ -411,7 +411,7 @@
           {
             "from": 12,
             "to": 24,
-            "text": "Kebenaran wahyu "
+            "text": "Kebenaran wahyu"
           }
         ]
       },
@@ -423,22 +423,22 @@
           {
             "from": 25,
             "to": 49,
-            "text": "Kisah Nabi Nuh "
+            "text": "Kisah Nabi Nuh"
           },
           {
             "from": 50,
             "to": 60,
-            "text": "Kisah Nabi Hud "
+            "text": "Kisah Nabi Hud"
           },
           {
             "from": 61,
             "to": 68,
-            "text": "Kisah Nabi Shaleh "
+            "text": "Kisah Nabi Shaleh"
           },
           {
             "from": 69,
             "to": 83,
-            "text": "Kisah Nabi Ibrahim dan Nabi Luth "
+            "text": "Kisah Nabi Ibrahim dan Nabi Luth"
           },
           {
             "from": 84,
