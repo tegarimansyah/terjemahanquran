@@ -190,7 +190,7 @@ export default {
     if (localStorage.surah_summary && localStorage.summary_hash === Hash.summary) {
       this.surah_list = JSON.parse(localStorage.surah_summary)
     } else {
-      this.$axios.$get(`/surah/summary.json`)
+      this.$axios.$get(process.env.baseURL + '/surah/summary.json')
         .then((response) => {
           this.surah_list = response.surah
           localStorage.surah_summary = JSON.stringify(response.surah)

@@ -4,6 +4,9 @@ export default {
   /*
   ** Headers of the page
   */
+  env: {
+    baseURL: (process.env.NODE_ENV === 'production' ? 'https//quran.urusan.id' : 'http://localhost:3000')
+  },
   head: {
     title: 'Al Qur\'an Interaktif' || process.env.npm_package_name,
     meta: [
