@@ -9,7 +9,7 @@ const stringfile = filenames.reduce((acc, filename) => [
 ], [])
 
 // write js file
-const filedata = `const data = [${stringfile}]
+const filedata = `const data = ${stringfile}
 
 const topicList = (num) => {
     if (num === 'all') {

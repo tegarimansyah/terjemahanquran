@@ -8,7 +8,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate_quran_data": "node quran_data/combine_surah_with_topic.js",
+    "generate_quran_data": "node quran_data/combine_surah_with_topic.js && eslint --fix components/hash.js",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "test": "jest"
@@ -18,7 +18,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "fs": "0.0.1-security",
+    "hasha": "^5.2.0",
     "nuxt": "^2.11.0",
     "toml": "^3.0.0",
     "vue-intersect": "^1.1.6",
