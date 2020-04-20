@@ -189,7 +189,6 @@ export default {
   mounted () {
     if (localStorage.surah_summary && localStorage.summary_hash === Hash.summary) {
       this.surah_list = JSON.parse(localStorage.surah_summary)
-      console.log('get from local')
     } else {
       this.$axios.$get(`/surah/summary.json`)
         .then((response) => {
@@ -197,7 +196,6 @@ export default {
           localStorage.surah_summary = JSON.stringify(response.surah)
           localStorage.summary_hash = response.hash
         })
-      console.log('get from json')
     }
   },
   methods: {
