@@ -1,5 +1,5 @@
 {
-  "102": {
+  "data": {
     "number": "102",
     "name": "التكاثر",
     "name_latin": "At-Takasur",
@@ -47,7 +47,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 8,
@@ -55,5 +55,5 @@
       }
     ]
   },
-  "hash": "60cd9d51bb5793cf5398e96f9d4a57e88d4f768ca73c1179b823f431e7212304e8e613bb9cf25c35f327e72c9994eabd76acb80e206feacde1dfec53ddbd573f"
+  "hash": "21938773f7e6411b1c81c137fe9b4837d7cf9f8da3e4be9ff0f82428a8a4fbb8c7871645835106ea809e3afbe4ab853870f9b9bc59155b58dc6ae8240308147d"
 }

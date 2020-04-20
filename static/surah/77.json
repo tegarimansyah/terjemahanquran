@@ -1,5 +1,5 @@
 {
-  "77": {
+  "data": {
     "number": "77",
     "name": "المرسلٰت",
     "name_latin": "Al-Mursalat",
@@ -173,7 +173,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 50,
@@ -193,5 +193,5 @@
       }
     ]
   },
-  "hash": "9290823d145dc777520917505b02e797c2ca5b3369529c06882abf35eb4f1c87bec7b513c2a5cd893ff3a6b977a2069b98b204e7e868970952bfffb3c7353db4"
+  "hash": "0a7df9c1bd44c4e8ed3e06651bb2e1857a6dc926ff772f8d8df8b653d854761591f1eb1b799167f61eb5e2239886a46586999ca5b27850b2965c926145daa294"
 }

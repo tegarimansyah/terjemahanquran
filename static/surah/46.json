@@ -1,5 +1,5 @@
 {
-  "46": {
+  "data": {
     "number": "46",
     "name": "الاحقاف",
     "name_latin": "Al-Ahqaf",
@@ -128,7 +128,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 14,
@@ -151,5 +151,5 @@
       }
     ]
   },
-  "hash": "94e5fd2edd6272dca69f82fc7bbe3ffa352d8e615f137b4a24e21466d44ff815f56e65642854ea4d44f0408abd0c19b1fd63416bbc3562216a708fcd884c217f"
+  "hash": "ce5aa30a81269833a7ed621c954790ed0d9bf85ca0e782604652171a5b49d4e6005bb26c9bc3d1453b19aa0665b7ad7efcf2cac16fefa39fbdf976ef034c894c"
 }

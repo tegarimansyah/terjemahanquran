@@ -1,5 +1,5 @@
 {
-  "91": {
+  "data": {
     "number": "91",
     "name": "الشمس",
     "name_latin": "Asy-Syams",
@@ -68,7 +68,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 15,
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "hash": "ca1cbce69a82636c99da3681079e4b4e39276f2337a05fb4788ecf4d4b9dee371792f003a01e822010ca39c82aea85a4245451cbca5ca8051df679b71aa1ab0b"
+  "hash": "4aa7ddcf94485e725543c8ae0a8e8b55e54be688da62dcf86e0ceea276a1a3c9b87208d2b5aaa5575f09f1507d9513111272573a58d2f0bb918dc172b317800b"
 }

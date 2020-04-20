@@ -1,5 +1,5 @@
 {
-  "79": {
+  "data": {
     "number": "79",
     "name": "النّٰزعٰت",
     "name_latin": "An-Nazi'at",
@@ -161,7 +161,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 14,
@@ -184,5 +184,5 @@
       }
     ]
   },
-  "hash": "f4ccc96cf82dd794f336405691777c5103b73c96e18b54b8d27d70ab6e973e30021e513c042bef5447e015e2283f7c92edce9208248e859aafeb5c7b7c7408fd"
+  "hash": "cbceb2db3af95c62cac3528cba30409f82b3ff4b1757d4be9d2df97f024e3084c327ed1ec72f720c87d89cf91ab8131ca2ce20ad3f5be8bb182b30add62d5b83"
 }

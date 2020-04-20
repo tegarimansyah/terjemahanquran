@@ -1,5 +1,5 @@
 {
-  "37": {
+  "data": {
     "number": "37",
     "name": "الصّٰۤفّٰت",
     "name_latin": "As-Saffat",
@@ -569,7 +569,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 182,
@@ -649,5 +649,5 @@
       }
     ]
   },
-  "hash": "12d3a5b45fff72c2201aff754f70c51b5ba9d01362dbece678f62de4d013924574fa029de65e5dc1abf9bd66df6875ea2864eb7b82b8f2c497cf47adf4841386"
+  "hash": "b45b56a139a0d78c8cb2a46883927ef22f82e818b4dafa4fc55846869245ca490303bf2c1051814dfaa12c910ec42829ceb96ce3c1a373a93c64321050e0e0e8"
 }

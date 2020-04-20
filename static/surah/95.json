@@ -1,5 +1,5 @@
 {
-  "95": {
+  "data": {
     "number": "95",
     "name": "التين",
     "name_latin": "At-Tin",
@@ -47,7 +47,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -60,5 +60,5 @@
       }
     ]
   },
-  "hash": "61ba1103770bee722040e54ba9de6b3b2c7cbbaad305159a0074e2a9a23689ea7805faef022013b44db4cbbf180f29bb59b74bde16e867d62d6c0d42567deac8"
+  "hash": "73fd5ed4e1d4c1c947d8e7059333df0f2c748ffec65457ee0c494115f9497294d8bcc549a4864a9ad88633ac538e0d9973782f3c3c6a48cb00b1e35fb9c29717"
 }

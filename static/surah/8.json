@@ -1,5 +1,5 @@
 {
-  "8": {
+  "data": {
     "number": "8",
     "name": "الانفال",
     "name_latin": "Al-Anfal",
@@ -248,7 +248,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 75,
@@ -333,5 +333,5 @@
       }
     ]
   },
-  "hash": "2ca17bb3dd91e43e1042efedc12a1fe1941e85add8ad3e812fcbb139477e8c56b957a0edb0297699e5a5a662c78592bd6df8740b16a7f916858dd4db0c7b6980"
+  "hash": "e15c1f35adb6a7dd57311b7ba53cdbabc4160d1ec7cf060a048b6f662b29f8c90f9351dc4262972a19235e6537fb1b68ab05d0ba40086cb14d5ee0387d2a9456"
 }

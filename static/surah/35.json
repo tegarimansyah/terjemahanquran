@@ -1,5 +1,5 @@
 {
-  "35": {
+  "data": {
     "number": "35",
     "name": "فاطر",
     "name_latin": "Fatir",
@@ -158,7 +158,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 4,
@@ -221,5 +221,5 @@
       }
     ]
   },
-  "hash": "e013fdd30eef44b58a4165e46147a38056bce7df51657ace08ea16b628db3d3608ecf86c9a624631427bc25af66ef3832958ba4b77d443f711c91acb315eea04"
+  "hash": "7a3500cec37c60cb41b63f8b40f4b80daf62df5dbdca6692941e1b3418bee1933439cc80b583bc57ca2b13ad35a907d81aa9a6b4a68d3fdc49a87f1f7c9916f7"
 }

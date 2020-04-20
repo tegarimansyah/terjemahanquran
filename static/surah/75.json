@@ -1,5 +1,5 @@
 {
-  "75": {
+  "data": {
     "number": "75",
     "name": "القيٰمة",
     "name_latin": "Al-Qiyamah",
@@ -143,7 +143,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 40,
@@ -173,5 +173,5 @@
       }
     ]
   },
-  "hash": "2a96f496a3329727e2fb2b3b4f5d12e14b9777fb0e904e19d91eaa48d28003dc754a3ef42e632f96cafb2b399743d1b823bd3ae0734edbe9d98ad56ddbba4bb5"
+  "hash": "33809da68c378affa29e2fcb1d1d74bdd9906fd3a3f76ce9e0b3f8522c4430d4032b0ebed937ec72f012781a831df62179ec602bdd28775549fa63c2c6a084b2"
 }

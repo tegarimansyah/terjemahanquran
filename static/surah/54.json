@@ -1,5 +1,5 @@
 {
-  "54": {
+  "data": {
     "number": "54",
     "name": "القمر",
     "name_latin": "Al-Qamar",
@@ -188,7 +188,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 55,
@@ -238,5 +238,5 @@
       }
     ]
   },
-  "hash": "e38e36f5634a08a4805e43c68eca807596c69f0fe4649bdf502394640d87df2b0ece5e486660551d01d628c526e3a4a4f9802afa8341fdc411d85bde828410ee"
+  "hash": "f2f563abcb7c27c28c955e8ad7c335143bbc904fd4d1502fe31315f13eb18935ea52b0b19456bebf0bde765ef2a0e07fe99be4db95a0acde8f5e19f05c44830e"
 }

@@ -1,5 +1,5 @@
 {
-  "13": {
+  "data": {
     "number": "13",
     "name": "الرّعد",
     "name_latin": "Ar-Ra'd",
@@ -152,7 +152,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 17,
@@ -241,5 +241,5 @@
       }
     ]
   },
-  "hash": "1d52d14ef4f07292011f69cc1640323ab6bb85415b56c2799cee637a0ec3c9e93685045f878ba576fdab469946613fd03b4b9a3e0cb01f3346ffc720a151fe9e"
+  "hash": "0b3177ee85fa0e08b45a5085922acf10754da6a829af7802cfb9e5978fc0c56f8df220cb7f7cc636a5b14a2b14c85374057d2c56fb36de30c327779f1c523e84"
 }

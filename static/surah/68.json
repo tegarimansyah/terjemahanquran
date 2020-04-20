@@ -1,5 +1,5 @@
 {
-  "68": {
+  "data": {
     "number": "68",
     "name": "القلم",
     "name_latin": "Al-Qalam",
@@ -179,7 +179,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 16,
@@ -209,5 +209,5 @@
       }
     ]
   },
-  "hash": "03dbf97e1ba7b5fd5aa0d77703fc493ab9dedc0ca2d5e1f47cfadeb2f667a560feceed244760c07db1b8141deead7bcea7ab6872b98bd0e59d1765585003c555"
+  "hash": "0e5230162aa88236082125a994c3f8f7ecb3736c8e13a3869232c18bacef39a22d036b93035e53d51767f4db2c305db193826ba1c7b389b982128ac034285907"
 }

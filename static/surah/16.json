@@ -1,5 +1,5 @@
 {
-  "16": {
+  "data": {
     "number": "16",
     "name": "النحل",
     "name_latin": "An-Nahl",
@@ -407,7 +407,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 1,
@@ -502,5 +502,5 @@
       }
     ]
   },
-  "hash": "d760a26c3cf3a727dd0c06b796f6f362414f373001d7788295a29395fa7ed041cea0650119706ffbc0a15fd38f248649eaa05016613704886679b9443c45c548"
+  "hash": "b4ce00a64f59427194d9fb26702792939da5cb606c7771a5f35ed1f241e32732dcbd04723c9ce1fde705886cb287c95b1a947208b94c77115d5a5c65dd1171d2"
 }

@@ -1,5 +1,5 @@
 {
-  "89": {
+  "data": {
     "number": "89",
     "name": "الفجر",
     "name_latin": "Al-Fajr",
@@ -113,7 +113,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 14,
@@ -136,5 +136,5 @@
       }
     ]
   },
-  "hash": "680431bd5910b424b029b996fc8ffbdb6be13a3b7032b1c85a6a07699a9482aa1fd1023bbdf41384d1a706a19ff3c613760b3b1cba2f62016c87c0d875a0f63c"
+  "hash": "2d79a1c3478d00d5b33d67419808047bb208698ef3deb688bf048583db8464283250bad802ae335e6b70cd2523096f8686d67ba9134d41200069c587369e59fa"
 }

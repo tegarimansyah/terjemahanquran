@@ -1,5 +1,5 @@
 {
-  "64": {
+  "data": {
     "number": "64",
     "name": "التغابن",
     "name_latin": "At-Tagabun",
@@ -77,7 +77,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 10,
@@ -90,5 +90,5 @@
       }
     ]
   },
-  "hash": "543f2b699fa9b03693efec5b0b1564b6589d7956384812e98a674a1b75763b194ecaaa89fcff664da06ee25f40eb0060fae5cf43d2c3c92bf1f74e8649f8db96"
+  "hash": "f1df1f9914b578c1e75089f130c9ca5293bacf784d08397edcf063c180c2088a3f1c9705696ef1eb4a496226c50d9a1689b77249453e843e7c86a9e9f3f164ae"
 }

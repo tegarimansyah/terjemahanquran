@@ -1,5 +1,5 @@
 {
-  "110": {
+  "data": {
     "number": "110",
     "name": "النصر",
     "name_latin": "An-Nasr",
@@ -32,7 +32,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 3,
@@ -40,5 +40,5 @@
       }
     ]
   },
-  "hash": "fd84978e964ccae4dd082070b589a1947d884ed52b01b2cb1e2c68f0fc816bacccd2c55823010a740b80f468be475e0530efea8c4280c9ce53721d41afeb2bd3"
+  "hash": "8a4c034a5d409879d8b3300b996ebf0a24033fe529a2ceb60c302d23375669b3e776f3b713c7f5943779a76197f7add7058112287b27639defc60f5d40df5bc6"
 }

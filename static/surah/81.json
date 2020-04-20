@@ -1,5 +1,5 @@
 {
-  "81": {
+  "data": {
     "number": "81",
     "name": "التكوير",
     "name_latin": "At-Takwir",
@@ -110,7 +110,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 14,
@@ -123,5 +123,5 @@
       }
     ]
   },
-  "hash": "0f934690e453d3787e1da218d43450b047da952127186c1988bca2061d77d7a774fb6e5469a1d48048cf7ce58d4446142139f909cf05b0bf42dc5d95c0b6328d"
+  "hash": "5f67b68c6d21d659437489940718cda5402e0600291f19a46ce6349ab4d00c349cd2d74b16d44ddf629a235246d65df86ae87ac0838b033ad402145b8c9f8900"
 }

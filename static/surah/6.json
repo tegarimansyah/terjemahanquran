@@ -1,5 +1,5 @@
 {
-  "6": {
+  "data": {
     "number": "6",
     "name": "الانعام",
     "name_latin": "Al-An'am",
@@ -518,7 +518,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 49,
@@ -593,5 +593,5 @@
       }
     ]
   },
-  "hash": "45c312e193dbabc6b337f9e01be3d027ce67d0e55512520891385dc9336381aa612a643cac043e584d355e49a6938be3b569dfcfab2828f2e6a58e18400bd2cd"
+  "hash": "902e7afbdd30dacc310c7537d18fa7d517429be6645ad4ab492c45d768d278c61a636bb1d1241d0541b744b8f3d5d20f31af00492a013f0e44e0c146f82465b5"
 }

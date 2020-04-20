@@ -1,5 +1,5 @@
 {
-  "111": {
+  "data": {
     "number": "111",
     "name": "اللهب",
     "name_latin": "Al-Lahab",
@@ -38,7 +38,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -46,5 +46,5 @@
       }
     ]
   },
-  "hash": "0102dda85c311d352b152d9fddb50137f96394c548dcc111544530286268e484afca9adceace03a311a8e918c3ba2c9441c7503903c6d0bd8e06c53e2e4b1f4c"
+  "hash": "9ec326890ce205ab2bea21529cb540396bdb2bd92e48f009930e5a2547e8f6389337bb9d8d05ff9bf8c5695b8617af3735895b7c64d76027a7eae999062c0cdf"
 }

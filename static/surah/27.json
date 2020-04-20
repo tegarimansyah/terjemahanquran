@@ -1,5 +1,5 @@
 {
-  "27": {
+  "data": {
     "number": "27",
     "name": "النمل",
     "name_latin": "An-Naml",
@@ -302,7 +302,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -362,5 +362,5 @@
       }
     ]
   },
-  "hash": "9911d3d65df0795004e7b252d009ad21601b40baa4d994d6cce1403906f220f7f5abec94a73bec826acec69f4c420ceaae40ebcbe0623e3f32da84cf26436c59"
+  "hash": "65f5b70a12d0c482c5eee5f11faa3208a17bd9263ed24a3f7b1f774020b35f8270ad7269b72f85cf1af8e5c2b597ff8d308a1a969d670d8754ba0cc7fd667245"
 }

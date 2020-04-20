@@ -1,5 +1,5 @@
 {
-  "100": {
+  "data": {
     "number": "100",
     "name": "العٰديٰت",
     "name_latin": "Al-'Adiyat",
@@ -56,7 +56,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 11,
@@ -64,5 +64,5 @@
       }
     ]
   },
-  "hash": "c5c163253dc8a1261f540d5305b0793a99d7f5d6bbca333fef42d1acd50379a32a9b7b7685f4ba4daabe129f68ae8fed86b76e2620f525d00fdfcccf1cb0f4c2"
+  "hash": "9ba25ea9f6a98b2d5d04d1c481cb3515a753e5f39abb8535eec86289dfb5facf24938ae0ed7549931e9fe49c6a3a69b61899ce2506a345f3efaaa7c3547547a7"
 }

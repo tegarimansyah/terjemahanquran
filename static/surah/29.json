@@ -1,5 +1,5 @@
 {
-  "29": {
+  "data": {
     "number": "29",
     "name": "العنكبوت",
     "name_latin": "Al-'Ankabut",
@@ -230,7 +230,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 44,
@@ -339,5 +339,5 @@
       }
     ]
   },
-  "hash": "2ed6fb552a9a64f3c6faf25cb092036df21f9f6c91a8fc41c803e118828ea9e2e5a7f15d4f8114f69b1688dc4e504637ba825758f54fc186828f5c1da1d033bf"
+  "hash": "fdbee8d2099555e9f840f06a5c33c0cc45996461e00984eae09023a232542fe204e01ce9b55a8c3e797e3cc06e92d0edf2a6435797fae77016fd162f33fa6880"
 }

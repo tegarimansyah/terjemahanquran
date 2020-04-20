@@ -1,5 +1,5 @@
 {
-  "17": {
+  "data": {
     "number": "17",
     "name": "الاسراۤء",
     "name_latin": "Al-Isra'",
@@ -356,7 +356,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 111,
@@ -451,5 +451,5 @@
       }
     ]
   },
-  "hash": "f32527c8d689c22b5a686482de4267ac7464058e19a3bd4b31ccb7dce3c13daa8790966a405b2fe4b761304d69393070b7c292cd41e356908b2be2fc63dae230"
+  "hash": "1c4f7f1e7fdda01698930cc3cbaf2cf902cc23a24e5569a5070354c65e0484d1f99bd1518472deceeb18cf03d29889b6d16043d31b46340027f7b16f0c23cdab"
 }

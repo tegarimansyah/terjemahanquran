@@ -1,5 +1,5 @@
 {
-  "93": {
+  "data": {
     "number": "93",
     "name": "الضحى",
     "name_latin": "Ad-Duha",
@@ -56,7 +56,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 11,
@@ -64,5 +64,5 @@
       }
     ]
   },
-  "hash": "6e11fa674169ae5214e22de8d22942780b7f548364f8cafa3cbd06869128ce7444bcacfbdefb996e6d6b89684c814a3229c0db33cc524c000cb43ae67c456e48"
+  "hash": "e0cde843298dbd1568986e486b6fb53df3a3f1e7c1027e246218aeca21a7ce7babedd9b8a9d35f2d99d204e4a67823f61d4a97e17e61d2e8785032753f0f0c45"
 }

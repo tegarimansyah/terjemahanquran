@@ -1,5 +1,5 @@
 {
-  "113": {
+  "data": {
     "number": "113",
     "name": "الفلق",
     "name_latin": "Al-Falaq",
@@ -38,7 +38,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -46,5 +46,5 @@
       }
     ]
   },
-  "hash": "b66988fe2bbc77013ff4da95b316b40cdbf56e9da152f07eaba8ef82da219a181484dfe35c17f62c81d9404d7d9c972d787f8d01921c885032d51344734ce08a"
+  "hash": "92084e65ae78356846b38e474c5b0942c58c85ff23bffe429a8b6b2eaca0ad42eabfac22b7cd780f7eb3c25e1d5ad571c122504c8865f044e5a28bf485ae943a"
 }

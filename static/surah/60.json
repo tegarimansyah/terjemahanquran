@@ -1,5 +1,5 @@
 {
-  "60": {
+  "data": {
     "number": "60",
     "name": "الممتحنة",
     "name_latin": "Al-Mumtahanah",
@@ -62,7 +62,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 13,
@@ -87,5 +87,5 @@
       }
     ]
   },
-  "hash": "34fa714a5b1c50fbf929a2f1c339cbef7d1e058d97b1cc35321492513306d10831f80011e1c3e189e864a5058eca3cc6b2d9a87e1375de38579f5fa801df64d1"
+  "hash": "b6e540746f8bb5384a81b83d0e9a0d2ca387a801ce1bba53ad9a42bb6e32a7779993f98d4e3b338bc9f09f01ae9f853843411cb1967c9cd307706ea539bd91c3"
 }

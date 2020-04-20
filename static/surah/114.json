@@ -1,5 +1,5 @@
 {
-  "114": {
+  "data": {
     "number": "114",
     "name": "الناس",
     "name_latin": "An-Nas",
@@ -41,7 +41,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 6,
@@ -49,5 +49,5 @@
       }
     ]
   },
-  "hash": "88f4b42afee8aeafdc2962ed8f0382d402deb401d2c16a57ebc1503c8a35d1d27f1eb5927a2ba32d2055c5b1e24d9842c1905159731239a84e14f710e349220e"
+  "hash": "dd76f41c63d5371b619fc2b404f3938d491c37615191474f2f57eeed383346b01a755c45032e64d941c418549fb0808f22aafffb51c42d67c6fa158f4c6bb1b3"
 }

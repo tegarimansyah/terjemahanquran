@@ -1,5 +1,5 @@
 {
-  "4": {
+  "data": {
     "number": "4",
     "name": "النساۤء",
     "name_latin": "An-Nisa'",
@@ -551,7 +551,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 35,
@@ -754,5 +754,5 @@
       }
     ]
   },
-  "hash": "817e9f2b5abeb3e99f3ca45a1bec96ddc3fc422f408e30d7242b16b18030ddea744bf092a32db5bc1431b6c6e76d2e24287287dbdd2ed28b88c9ba279ba853fa"
+  "hash": "d83cd4b5a1a234b6e98e5463c7208dc1a082d408142c8e130e7e9982c46b75d16fbd116d33485e10110ae330b55e31e6261b37197d7ef02c7662dacbe33cf8c0"
 }

@@ -1,5 +1,5 @@
 {
-  "86": {
+  "data": {
     "number": "86",
     "name": "الطارق",
     "name_latin": "At-Tariq",
@@ -74,7 +74,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 4,
@@ -92,5 +92,5 @@
       }
     ]
   },
-  "hash": "9f9cf588386f63a2aab202bdc9f2f04e24cc71c82d1101d8259d7662277887d2202235b39c3081530bfa36c0e5bd84fa9c880c4314c797cdd04957c979c1b42f"
+  "hash": "17c596afa1c902905a9614156a3f205eed391a1ef637482eea1289c52490dd2f6f858597c38a25b0d98727c3c1812fe2d84d21cadf0065f0e52bfdaa72558062"
 }

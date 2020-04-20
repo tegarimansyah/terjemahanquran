@@ -1,5 +1,5 @@
 {
-  "97": {
+  "data": {
     "number": "97",
     "name": "القدر",
     "name_latin": "Al-Qadr",
@@ -38,7 +38,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -46,5 +46,5 @@
       }
     ]
   },
-  "hash": "c1a9c36f345b3b7203d96c9ff6151b11292031c389060be1a9fa7c85dacc7c4bcdbb271262b4acc9e96e828d486884c9a838164df68f5b25ab8b1ead3e692f03"
+  "hash": "77c47f772e29c5892952b7f476d1992705c1b731688ae841ca4013b033b2bf6edfab4f0e4db986690c8e0460fc7dc257f348903794f19e56cf1f9a6c69684f04"
 }

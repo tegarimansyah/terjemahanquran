@@ -1,5 +1,5 @@
 {
-  "58": {
+  "data": {
     "number": "58",
     "name": "المجادلة",
     "name_latin": "Al-Mujadalah",
@@ -89,7 +89,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 22,
@@ -119,5 +119,5 @@
       }
     ]
   },
-  "hash": "e4b78d8afee4dc872c3a8ea43dec1b5d671d16a814e6253d54da4b9887a7461b8d1a16d26a11fa55af43af4a4d74482e11cc3ef7a96ca8e42a62f9c58b2144b5"
+  "hash": "06d74dd9029ca2f82a484a07e7f58907552c552ff2c077cca04d04136a900b4977c82345bc6e9d7c1308368815712ae5c577f3d10c572ae3968678375f5201c0"
 }

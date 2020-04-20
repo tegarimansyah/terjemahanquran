@@ -1,5 +1,5 @@
 {
-  "3": {
+  "data": {
     "number": "3",
     "name": "اٰل عمران",
     "name_latin": "Ali 'Imran",
@@ -623,7 +623,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 32,
@@ -824,5 +824,5 @@
       }
     ]
   },
-  "hash": "d318ec9f5b0eafc4f6c25a0a95a67111fb48afb39928721afb2e6530eb4ac16055f10ca59be21c84db6665e1848b887d85369e3631e4ad328b53f171d18b2861"
+  "hash": "5a0768f6744e95e2c9bd895f0cc6a0b82ef53ba91f8b88d175e7d8d86c47c63eb036bf68ac417790d085da176cc44c4fb8075044c166db49c5f05582c4b142ef"
 }

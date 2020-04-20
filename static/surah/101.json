@@ -1,5 +1,5 @@
 {
-  "101": {
+  "data": {
     "number": "101",
     "name": "القارعة",
     "name_latin": "Al-Qari'ah",
@@ -56,7 +56,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 11,
@@ -64,5 +64,5 @@
       }
     ]
   },
-  "hash": "a30a447a097431ab3fd0c13a001e9765d979c9174b3daf7f2ef77861685df0b1c71206c695f32b8b4817f82f35db083d5f9759385b72b532b1be9fe74c99d85e"
+  "hash": "eeb2c208b6092825418636bf16ace0244bb6a592de07ec4e3a39cd27018eb287fe3fb18859cfc60338d7671ea33633024562050f201faa98bd779250a1e89dc1"
 }

@@ -1,22 +1,22 @@
 <template>
   <div>
-    <div v-if="surah_data !== null" class="container">
-      <!-- <div ref="mark">
+    <div v-if="surah != null" class="container">
+      <!-- <div id="mark">
         300px above viewport
       </div> -->
       <!-- Header -->
       <div>
         <nuxt-link to="/tadarus">
-          <span class="block text-sm text-blue-600">Kembali ke Beranda</span>
+          <span class="block text-sm text-blue-600">Back to home</span>
         </nuxt-link>
         <h1 class="text-2xl font-bold">
-          {{ surah_data.name_latin }} - {{ surah_data.translations['id'].name }}
+          {{ surah_name.id.surah_name }} - {{ surah_name.id.surah_translation }}
         </h1>
-        <em class="text-sm block">Jika menemukan kesalahan, tolong <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new/choose" class="text-blue-600">tinggalkan komentar</a> atau email kami: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
+        <em class="text-sm block">If you find any mistake, please <a href="https://github.com/tegarimansyah/quran.urusan.id/issues/new/choose" class="text-blue-600">leave a comment</a> or email me: <a href="mailto:imansyahtegar@gmail.com" class="text-blue-600">imansyahtegar [at] gmail [dot] com</a></em>
         <hr class="my-3">
       </div>
       <!-- List of Ayah -->
-      <div v-for="currentTopic in surah_data.topics" :key="`${currentTopic.from}-${currentTopic.to}`">
+      <div v-for="currentTopic in topics" :key="`${currentTopic.from}-${currentTopic.to}`">
         <span :class="{ hide: !enable_topic }" class="block font-bold mt-10 topic">{{ currentTopic.topic }}</span>
         <!-- Sub Topic Start -->
         <div v-if="currentTopic.subs != null">
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-span-11">
                   <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
-                  <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.translation }}</span>
+                  <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
                 </div>
               </div>
             </div>
@@ -50,7 +50,7 @@
               </div>
               <div class="col-span-11">
                 <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
-                <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.translation }}</span>
+                <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.text }}</span>
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@
         <div class="px-4 pt-2 pb-2">
           <span class="block text-xs">
             <nuxt-link :to="`/tadarus`" class="underline"> &lt; Kembali</nuxt-link> |
-            <span> {{ surah_data.name_latin }} - {{ surah_data.translations['id'].name }}</span> |
+            <span> {{ surah_name.id.surah_name }} - {{ surah_name.id.surah_translation }}</span> |
             <span v-on:click="scrollToTop"> Scroll to Top &#8593; </span>
           </span>
           <span class="text-base font-semibold tracking-widest text-gray-900 rounded-lg dark-mode:text-white">
@@ -96,32 +96,30 @@
 .hide {
     display: none;
 }
-/* @font-face {
+@font-face {
   font-family: 'MeQuran';
   src: url('//cdn.alquran.cloud/public/fonts/me_quran-webfont.otf');
-} */
-/* .font-mequran {
+}
+.font-mequran {
     font-family: 'MeQuran';
-} */
+}
 </style>
 
 <script>
 import Intersect from 'vue-intersect'
-import Hash from '@/components/hash.js'
+import surahList from '@/components/surah.js'
 
 export default {
   components: { Intersect },
   head () {
     return {
-      title: `Tadarus ${this.surah_name}`
+      title: `${this.surah_name.id.surah_name} | Tadarus`
     }
   },
   data () {
     return {
       current_topic: 'Akan Ditampilkan Topik',
-      surah_name: '',
-      surah_data: null,
-      surah_number: null,
+      surah: null,
       enable_translation: true,
       enable_arabic: true,
       enable_topic: true
@@ -139,55 +137,30 @@ export default {
     }
   },
   created () {
-    // New
     this.surah_number = this.$route.params.surah
-    const rawSurah = localStorage[`surah_${this.surah_number}`]
+    this.surah = localStorage[`surah_${this.surah_number}`]
 
-    if (!rawSurah) {
-      // Tidak ada data tersimpan
-      this.$axios.$get(process.env.baseURL + `/surah/${this.surah_number}.json`)
-        .then((response) => {
-          this.surah_data = response.data
-          localStorage[`surah_${this.surah_number}`] = JSON.stringify(response)
-        })
+    if (!this.surah) {
+      this.$router.push(`/tadarus/${this.surah_number}/load_data`)
     } else {
-      const surahData = JSON.parse(rawSurah)
-      if (surahData.hash === Hash[this.surah_number]) {
-        this.surah_data = surahData.data
-      } else {
-        this.$axios.$get(process.env.baseURL + `/surah/${this.surah_number}.json`)
-          .then((response) => {
-            this.surah_data = response.data
-            localStorage[`surah_${this.surah_number}`] = JSON.stringify(response)
-          })
+      this.surah = JSON.parse(this.surah)
+      this.topics = this.surah.topics
+      if (!this.topics) {
+        this.$router.push(`/tadarus/${this.surah_number}/load_data`)
       }
+      this.surah_name = surahList(this.surah_number)
+      if (localStorage.enable_translation === undefined) {
+        localStorage.enable_translation = 'true'
+        localStorage.enable_topic = 'true'
+        localStorage.enable_arabic = 'false'
+      }
+      this.enable_translation = localStorage.enable_translation === 'true'
+      this.enable_arabic = localStorage.enable_arabic === 'true'
     }
-
-    this.surah_name = this.surah_data.name_latin
-
-    if (localStorage.enable_translation === undefined) {
-      localStorage.enable_translation = 'true'
-      localStorage.enable_topic = 'true'
-      localStorage.enable_arabic = 'true'
-    }
-    this.enable_translation = localStorage.enable_translation === 'true'
-    this.enable_topic = localStorage.enable_topic === 'true'
-    this.enable_arabic = localStorage.enable_arabic === 'true'
-    // end
   },
   methods: {
     selectedAyah (start, end) {
-      const data = []
-      for (let number = start; number <= end; number++) {
-        data.push({
-          numberInSurah: number,
-          arabic: this.surah_data.text[number],
-          translation: this.surah_data.translations.id.text[number],
-          tafsir: this.surah_data.tafsir.id.kemenag.text[number]
-        })
-      }
-      console.log(data)
-      return data
+      return this.surah.ayahs.slice(start - 1, end)
     },
     scrollToTop () {
       window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })

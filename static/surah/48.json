@@ -1,5 +1,5 @@
 {
-  "48": {
+  "data": {
     "number": "48",
     "name": "الفتح",
     "name_latin": "Al-Fath",
@@ -110,7 +110,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 29,
@@ -150,5 +150,5 @@
       }
     ]
   },
-  "hash": "eb381db219f01db4531feb62d0d389519e10429ba660a5e8182809fdeeee6db2d1cd13fdbcc2e59af8ab48a604c104311b3f8af7c39c81794cd63314db0fa7e8"
+  "hash": "a267b54e62fca91fcbfb7ca5537f17d27bd270a0c40bae15639cbd9485d9a1272561d2c2bde900e2d14363feb8aa56a573b6e83bd32c5d177b13274c80bf2fa7"
 }

@@ -1,5 +1,5 @@
 {
-  "49": {
+  "data": {
     "number": "49",
     "name": "الحجرٰت",
     "name_latin": "Al-Hujurat",
@@ -77,7 +77,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -117,5 +117,5 @@
       }
     ]
   },
-  "hash": "1d992e1432a702d775989f9215f0a8f6b7c3d5348fe4f7ee64a313bf35e78fabd8b48e18d4489280b421febdbc5f9941dd4869fe70fe452256b697ba3f545d24"
+  "hash": "3b216915410f9c772ecccc07d149fa02847f4c5d53914d6d098e1d928aa1560b548e558c5e0477045ad7195db6bd2a739fc0efcec9386d58000ffe4ad9c60ebf"
 }

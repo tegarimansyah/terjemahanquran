@@ -1,5 +1,5 @@
 {
-  "44": {
+  "data": {
     "number": "44",
     "name": "الدخان",
     "name_latin": "Ad-Dukhan",
@@ -200,7 +200,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 14,
@@ -223,5 +223,5 @@
       }
     ]
   },
-  "hash": "af34cda27e30cf02342aee7c425d7a80c1c04c3fc4c39acfa07f2ff3221a82a3c39bb4b0dba6039545a8c6559235a0f8fc5e9a991c12081c208ab65e68da92d2"
+  "hash": "73c1a9441f78c096e8097a1f18fe31201a0897252241d2a017b10a874f1d8ffd93926f9d4b1e0c8e956ac8fce0e623e90a2d059a9c5c0e81ffef5144803c76c9"
 }

@@ -1,5 +1,5 @@
 {
-  "70": {
+  "data": {
     "number": "70",
     "name": "المعارج",
     "name_latin": "Al-Ma'arij",
@@ -155,7 +155,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 18,
@@ -173,5 +173,5 @@
       }
     ]
   },
-  "hash": "c5ca6328fc022134f88d7102aee5455dedde398b912fb18abd380d23c9a722fb42e8984d073ae4726be58fed05273e527cf87270dc89a615ec35c94a5f17a7a1"
+  "hash": "05731b2b5b8f59d457f8d4f01972021cdf7f5687e904824e858a9e32f758965fa6c5094741a2f8bc979a9cafa9db0cadcd0b3e19cdd5eacc2c03f630ea31ae58"
 }

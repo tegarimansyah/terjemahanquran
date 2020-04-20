@@ -1,5 +1,5 @@
 {
-  "108": {
+  "data": {
     "number": "108",
     "name": "الكوثر",
     "name_latin": "Al-Kausar",
@@ -32,7 +32,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 3,
@@ -40,5 +40,5 @@
       }
     ]
   },
-  "hash": "93b8401d70794549309c433d984dd30d2fe6f64af02eac8ba4a7ee8d7e71bb45ae484e8d7414785a786024f1be34f7b0d9969bf7481e8656c29a301ed31996dd"
+  "hash": "22425ecd48cf04c56e0d60ad2045b5d9fa93fd11b8fbb14b6253647a87c0eba3bbbc3d9f899b05603acc58e40d36b189ee807e3dba9a910a188e1e74fd5fd03e"
 }

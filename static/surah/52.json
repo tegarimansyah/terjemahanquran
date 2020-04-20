@@ -1,5 +1,5 @@
 {
-  "52": {
+  "data": {
     "number": "52",
     "name": "الطور",
     "name_latin": "At-Tur",
@@ -170,7 +170,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 28,
@@ -188,5 +188,5 @@
       }
     ]
   },
-  "hash": "325b19dd16261c99ec953c65c590443c23da7f28eb211336ea08034994b32198c3c2b57bd6c62b22bf6b3208fd7bfb533afba6b33f0504d46be43a27e999dc42"
+  "hash": "93f89fc70fc35aca2f20e43e06633e4e902c239b4e435208645667c193fcade639343dac4653532025c77da5e7460eeaf224c21d28f3f22dbfdaded08e18e801"
 }

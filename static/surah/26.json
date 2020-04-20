@@ -1,5 +1,5 @@
 {
-  "26": {
+  "data": {
     "number": "26",
     "name": "الشعراۤء",
     "name_latin": "Asy-Syu'ara'",
@@ -704,7 +704,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 9,
@@ -781,5 +781,5 @@
       }
     ]
   },
-  "hash": "537a8fb9b2b8a1da46c0d7678df937e8aba9eea1996feb13637fc9fd4403aec1d2cd9e87c2ffc01284e226a438cefd91284b1293c726babf796ffe49e9f19f61"
+  "hash": "56db90421f4d80fb64b59c801921cc339e8667f0e034c651586126bb971c978079950010e380e25a05fc5beea5ddb027fe3915fa65ab1cd011f918b6dcce689f"
 }

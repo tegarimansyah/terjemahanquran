@@ -1,5 +1,5 @@
 {
-  "21": {
+  "data": {
     "number": "21",
     "name": "الانبياۤء",
     "name_latin": "Al-Anbiya'",
@@ -359,7 +359,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 19,
@@ -377,5 +377,5 @@
       }
     ]
   },
-  "hash": "990e16387c0cb46a3df1a1118a0bb4e9e9413479a5eba1c0120a5f67ae9f6a3c7475554ceb008d876c9e495cf03c2c23904a82e2f5c6a0aa5bd5a01cf9bd6bde"
+  "hash": "fefabd3b10006bdbc25ca5a7a75734b636827d3238ae34114cf92b7e9b7931be027715f790acdca0eb68350aab7555394e1ae242a1f4a52b8a7701909c328f1d"
 }

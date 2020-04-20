@@ -1,5 +1,5 @@
 {
-  "25": {
+  "data": {
     "number": "25",
     "name": "الفرقان",
     "name_latin": "Al-Furqan",
@@ -254,7 +254,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 1,
@@ -309,5 +309,5 @@
       }
     ]
   },
-  "hash": "4e9e42d55de6782e01e95e591555746c9f69939f25b4d5713d79a9ac2f2b9bc8e95b4e47842aa4eec8e0081c94314f6d58e85f34e7ecd032e148281d1ccf1441"
+  "hash": "08a29f17cfcf34bcd7426ebd257cf6da554bdff80b0dcc46b7612e47d1221cf9c789abd2839d79758145a5302a295e417d3cb3f2b0b7707b1511c043e3aee143"
 }

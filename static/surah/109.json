@@ -1,5 +1,5 @@
 {
-  "109": {
+  "data": {
     "number": "109",
     "name": "الكٰفرون",
     "name_latin": "Al-Kafirun",
@@ -41,7 +41,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 6,
@@ -49,5 +49,5 @@
       }
     ]
   },
-  "hash": "7d75bb953adc30bb0b68f77cea41e04735ec3e01700d63158fac6c60acc7961ae371eaed7c25b2507212128f8482dd5e212a89cc44698e5752e1215c5dc2fc7b"
+  "hash": "09c7d2abe463ca9ec883759e295d106709cf29dbca0ac2edd7e72f4eaae7c44b18f5dbd959120a907118a45fa4fb8c6c983a0eaf8290bcf636ef1237e2ea7f21"
 }

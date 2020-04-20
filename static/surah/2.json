@@ -1,5 +1,5 @@
 {
-  "2": {
+  "data": {
     "number": "2",
     "name": "البقرة",
     "name_latin": "Al-Baqarah",
@@ -881,7 +881,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 20,
@@ -1218,5 +1218,5 @@
       }
     ]
   },
-  "hash": "c85cd8c3b933c00f5c2f36212e73a27d34b7ed27c92c60a9f12884be220aa28d48ed4524f4d57d338e99d9bec6b4b6170f6d9462ed18f68d21d985bde7ec4298"
+  "hash": "705a881819cb2960b79d6e0429793f2a55f04715e12b728cf9689bab90263126db3cbba2bd3ddabff985984f57449cb886594ca5408e1e0ad39585291aca3cf6"
 }

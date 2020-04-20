@@ -1,5 +1,5 @@
 {
-  "53": {
+  "data": {
     "number": "53",
     "name": "النجم",
     "name_latin": "An-Najm",
@@ -209,7 +209,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 25,
@@ -232,5 +232,5 @@
       }
     ]
   },
-  "hash": "a6b5fbbdcf5be30449f80cd1a3a41c9d53abbd294c25d1e73b0852685e81f37a89aa7ad375db0ff741a5278c7be8b197e075d42f309526d219f47f102471747d"
+  "hash": "171cb0f54648314105ef2db03dc41d092b290e137160a00cc2a1bceef229f89821f77543f3ecb118a477907ad1c6984f93c1e211404dc4fd8da5ce7f440a0612"
 }

@@ -1,5 +1,5 @@
 {
-  "107": {
+  "data": {
     "number": "107",
     "name": "الماعون",
     "name_latin": "Al-Ma'un",
@@ -44,7 +44,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 7,
@@ -52,5 +52,5 @@
       }
     ]
   },
-  "hash": "d498631b12714b745765cacf7a7becf1ee8b583a861a9315e5b6585cef54ea87776a2ffb878966138394d7f8d547653a9ce3c63929fc21116c54fa8bd1bf59f6"
+  "hash": "38ac17069925eec7512fa4dd7b057890aadd5e3d681d2c2bea939f75702f18ab22f2a66f930779751ba9f5fa8ae65434818a2c71f8896a1b19bcea643bed4c4c"
 }

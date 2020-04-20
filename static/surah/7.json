@@ -1,5 +1,5 @@
 {
-  "7": {
+  "data": {
     "number": "7",
     "name": "الاعراف",
     "name_latin": "Al-A'raf",
@@ -641,7 +641,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 10,
@@ -775,5 +775,5 @@
       }
     ]
   },
-  "hash": "d9756ab5e61d1f62f489c11a5dbe580031e61feb0ffa097d716bb6545fbb30311b6bc5a6548d5f3f0cc242bd0d419f8c8c2a317187ecd498c0b666e2bcd9879a"
+  "hash": "9ca999edf9754eaf1601df63cacf8993910737a98ca7757567acdec62932bdbeb52d5869cc93cce5d71e2a27c2f84a1939b211d6253abfaa6868d6cbcde717d6"
 }

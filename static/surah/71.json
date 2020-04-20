@@ -1,5 +1,5 @@
 {
-  "71": {
+  "data": {
     "number": "71",
     "name": "نوح",
     "name_latin": "Nuh",
@@ -107,7 +107,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 28,
@@ -132,5 +132,5 @@
       }
     ]
   },
-  "hash": "9c16ea23a02cb15d7121d6767cd636ab7347e97dea510a3b79a0d51b51a6c4d3e7369ef655d725b32021f16080419f265ec7afa8076a7f91c88b42715126aeb4"
+  "hash": "c298a0960c681075cd289157e03a997652a835c94a7cdc87842dcd3e5008c3af9c77f036c97d0057e72bce362b71a28e4d22757d67c34b889386d4a0882f75fb"
 }

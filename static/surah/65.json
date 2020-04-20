@@ -1,5 +1,5 @@
 {
-  "65": {
+  "data": {
     "number": "65",
     "name": "الطلاق",
     "name_latin": "At-Talaq",
@@ -59,7 +59,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 7,
@@ -72,5 +72,5 @@
       }
     ]
   },
-  "hash": "d9c05ce03f5f0c61ee9695ed6532fe8f617a14c21b1bb094c0a245bd93102352996f4a09111b30a19c6f57db375fdc9844f55aa0048bb31947be3753bcaf01f8"
+  "hash": "59489a047432a929f95e62dee0f96ac53ea2ac9ad0e502ae94ba0c30a80d792a89241240425d8ca05bcdf49883a92fd3963828dd532efbedc6f40ce730f08d32"
 }

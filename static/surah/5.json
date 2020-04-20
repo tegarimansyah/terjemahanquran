@@ -1,5 +1,5 @@
 {
-  "5": {
+  "data": {
     "number": "5",
     "name": "الماۤئدة",
     "name_latin": "Al-Ma'idah",
@@ -383,7 +383,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -503,5 +503,5 @@
       }
     ]
   },
-  "hash": "e3fda411a5b3ebaf4f1b0e027512f4239f89b5c01ee3e5dae4ebe2617bda9e75f5a5ab354c0ada4269b9d7e4fc2c4afc7183aa8fa5adafd1f997a6e3d9e128fc"
+  "hash": "ebe258b43b22b829d64cfb19ad4089ccefdf81192a78d268f591b38e3325f3da6dcac32e81fd9acd7c301e065e3b10b295615deef45d22d9a1e88df08382db46"
 }

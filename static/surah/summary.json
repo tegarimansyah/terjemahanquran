@@ -6,7 +6,7 @@
       "name_latin": "Al-Fatihah",
       "name_translation": "Pembukaan",
       "number_of_ayah": "7",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 4,
@@ -30,7 +30,7 @@
       "name_latin": "Al-Baqarah",
       "name_translation": "Sapi",
       "number_of_ayah": "286",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 20,
@@ -373,7 +373,7 @@
       "name_latin": "Ali 'Imran",
       "name_translation": "Keluarga Imran",
       "number_of_ayah": "200",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 32,
@@ -580,7 +580,7 @@
       "name_latin": "An-Nisa'",
       "name_translation": "Wanita",
       "number_of_ayah": "176",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 35,
@@ -789,7 +789,7 @@
       "name_latin": "Al-Ma'idah",
       "name_translation": "Hidangan",
       "number_of_ayah": "120",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -915,7 +915,7 @@
       "name_latin": "Al-An'am",
       "name_translation": "Binatang Ternak",
       "number_of_ayah": "165",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 49,
@@ -996,7 +996,7 @@
       "name_latin": "Al-A'raf",
       "name_translation": "Tempat Tertinggi",
       "number_of_ayah": "206",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 10,
@@ -1136,7 +1136,7 @@
       "name_latin": "Al-Anfal",
       "name_translation": "Rampasan Perang",
       "number_of_ayah": "75",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 75,
@@ -1227,7 +1227,7 @@
       "name_latin": "At-Taubah",
       "name_translation": "Pengampunan",
       "number_of_ayah": "129",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 37,
@@ -1380,7 +1380,7 @@
       "name_latin": "Yunus",
       "name_translation": "Yunus",
       "number_of_ayah": "109",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 109,
@@ -1456,7 +1456,7 @@
       "name_latin": "Hud",
       "name_translation": "Hud",
       "number_of_ayah": "123",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 24,
@@ -1529,7 +1529,7 @@
       "name_latin": "Yusuf",
       "name_translation": "Yusuf",
       "number_of_ayah": "111",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 111,
@@ -1600,7 +1600,7 @@
       "name_latin": "Ar-Ra'd",
       "name_translation": "Guruh",
       "number_of_ayah": "43",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 17,
@@ -1695,7 +1695,7 @@
       "name_latin": "Ibrahim",
       "name_translation": "Ibrahim",
       "number_of_ayah": "52",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 7,
@@ -1792,7 +1792,7 @@
       "name_latin": "Al-Hijr",
       "name_translation": "Hijr",
       "number_of_ayah": "99",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 15,
@@ -1853,7 +1853,7 @@
       "name_latin": "An-Nahl",
       "name_translation": "Lebah",
       "number_of_ayah": "128",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 1,
@@ -1954,7 +1954,7 @@
       "name_latin": "Al-Isra'",
       "name_translation": "Memperjalankan Malam Hari",
       "number_of_ayah": "111",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 111,
@@ -2055,7 +2055,7 @@
       "name_latin": "Al-Kahf",
       "name_translation": "Goa",
       "number_of_ayah": "110",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -2165,7 +2165,7 @@
       "name_latin": "Maryam",
       "name_translation": "Maryam",
       "number_of_ayah": "98",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 15,
@@ -2243,7 +2243,7 @@
       "name_latin": "Taha",
       "name_translation": "Taha",
       "number_of_ayah": "135",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -2349,7 +2349,7 @@
       "name_latin": "Al-Anbiya'",
       "name_translation": "Para Nabi",
       "number_of_ayah": "112",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 19,
@@ -2373,7 +2373,7 @@
       "name_latin": "Al-Hajj",
       "name_translation": "Haji",
       "number_of_ayah": "78",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 25,
@@ -2474,7 +2474,7 @@
       "name_latin": "Al-Mu'minun",
       "name_translation": "Orang-Orang Mukmin",
       "number_of_ayah": "118",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 22,
@@ -2562,7 +2562,7 @@
       "name_latin": "An-Nur",
       "name_translation": "Cahaya",
       "number_of_ayah": "64",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 64,
@@ -2653,7 +2653,7 @@
       "name_latin": "Al-Furqan",
       "name_translation": "Pembeda",
       "number_of_ayah": "77",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 1,
@@ -2714,7 +2714,7 @@
       "name_latin": "Asy-Syu'ara'",
       "name_translation": "Para Penyair",
       "number_of_ayah": "227",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 9,
@@ -2797,7 +2797,7 @@
       "name_latin": "An-Naml",
       "name_translation": "Semut-semut",
       "number_of_ayah": "93",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -2863,7 +2863,7 @@
       "name_latin": "Al-Qasas",
       "name_translation": "Kisah-Kisah",
       "number_of_ayah": "88",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 57,
@@ -2984,7 +2984,7 @@
       "name_latin": "Al-'Ankabut",
       "name_translation": "Laba-Laba",
       "number_of_ayah": "69",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 44,
@@ -3099,7 +3099,7 @@
       "name_latin": "Ar-Rum",
       "name_translation": "Romawi",
       "number_of_ayah": "60",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 10,
@@ -3182,7 +3182,7 @@
       "name_latin": "Luqman",
       "name_translation": "Luqman",
       "number_of_ayah": "34",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 11,
@@ -3206,7 +3206,7 @@
       "name_latin": "As-Sajdah",
       "name_translation": "Sajdah",
       "number_of_ayah": "30",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 30,
@@ -3247,7 +3247,7 @@
       "name_latin": "Al-Ahzab",
       "name_translation": "Golongan Yang Bersekutu",
       "number_of_ayah": "73",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -3375,7 +3375,7 @@
       "name_latin": "Saba'",
       "name_translation": "Saba'",
       "number_of_ayah": "54",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 9,
@@ -3419,7 +3419,7 @@
       "name_latin": "Fatir",
       "name_translation": "Maha Pencipta",
       "number_of_ayah": "45",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 4,
@@ -3488,7 +3488,7 @@
       "name_latin": "Yasin",
       "name_translation": "Yasin",
       "number_of_ayah": "83",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 83,
@@ -3554,7 +3554,7 @@
       "name_latin": "As-Saffat",
       "name_translation": "Barisan-Barisan",
       "number_of_ayah": "182",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 182,
@@ -3640,7 +3640,7 @@
       "name_latin": "Sad",
       "name_translation": "Sad",
       "number_of_ayah": "88",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 1,
@@ -3696,7 +3696,7 @@
       "name_latin": "Az-Zumar",
       "name_translation": "Rombongan",
       "number_of_ayah": "75",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 9,
@@ -3798,7 +3798,7 @@
       "name_latin": "Gafir",
       "name_translation": "Maha Pengampun",
       "number_of_ayah": "85",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 85,
@@ -3874,7 +3874,7 @@
       "name_latin": "Fussilat",
       "name_translation": "Yang Dijelaskan",
       "number_of_ayah": "54",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -3913,7 +3913,7 @@
       "name_latin": "Asy-Syura",
       "name_translation": "Musyawarah",
       "number_of_ayah": "53",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 53,
@@ -3984,7 +3984,7 @@
       "name_latin": "Az-Zukhruf",
       "name_translation": "Perhiasan",
       "number_of_ayah": "89",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 15,
@@ -4033,7 +4033,7 @@
       "name_latin": "Ad-Dukhan",
       "name_translation": "Kabut",
       "number_of_ayah": "59",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 14,
@@ -4062,7 +4062,7 @@
       "name_latin": "Al-Jasiyah",
       "name_translation": "Berlutut",
       "number_of_ayah": "37",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 37,
@@ -4103,7 +4103,7 @@
       "name_latin": "Al-Ahqaf",
       "name_translation": "Bukit Pasir",
       "number_of_ayah": "35",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 14,
@@ -4132,7 +4132,7 @@
       "name_latin": "Muhammad",
       "name_translation": "Muhammad",
       "number_of_ayah": "38",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 38,
@@ -4163,7 +4163,7 @@
       "name_latin": "Al-Fath",
       "name_translation": "Kemenangan",
       "number_of_ayah": "29",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 29,
@@ -4209,7 +4209,7 @@
       "name_latin": "Al-Hujurat",
       "name_translation": "Kamar-Kamar",
       "number_of_ayah": "18",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -4255,7 +4255,7 @@
       "name_latin": "Qaf",
       "name_translation": "Qaf",
       "number_of_ayah": "45",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 45,
@@ -4301,7 +4301,7 @@
       "name_latin": "Az-Zariyat",
       "name_translation": "Angin yang Menerbangkan",
       "number_of_ayah": "60",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 23,
@@ -4320,7 +4320,7 @@
       "name_latin": "At-Tur",
       "name_translation": "Bukit Tursina",
       "number_of_ayah": "49",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 28,
@@ -4344,7 +4344,7 @@
       "name_latin": "An-Najm",
       "name_translation": "Bintang",
       "number_of_ayah": "62",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 25,
@@ -4373,7 +4373,7 @@
       "name_latin": "Al-Qamar",
       "name_translation": "Bulan",
       "number_of_ayah": "55",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 55,
@@ -4429,7 +4429,7 @@
       "name_latin": "Ar-Rahman",
       "name_translation": "Maha Pengasih",
       "number_of_ayah": "78",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 30,
@@ -4453,7 +4453,7 @@
       "name_latin": "Al-Waqi'ah",
       "name_translation": "Hari Kiamat",
       "number_of_ayah": "96",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 1,
@@ -4499,7 +4499,7 @@
       "name_latin": "Al-Hadid",
       "name_translation": "Besi",
       "number_of_ayah": "29",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 24,
@@ -4523,7 +4523,7 @@
       "name_latin": "Al-Mujadalah",
       "name_translation": "Gugatan",
       "number_of_ayah": "22",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 22,
@@ -4559,7 +4559,7 @@
       "name_latin": "Al-Hasyr",
       "name_translation": "Pengusiran",
       "number_of_ayah": "24",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 24,
@@ -4600,7 +4600,7 @@
       "name_latin": "Al-Mumtahanah",
       "name_translation": "Wanita Yang Diuji",
       "number_of_ayah": "13",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 13,
@@ -4631,7 +4631,7 @@
       "name_latin": "As-Saff",
       "name_translation": "Barisan",
       "number_of_ayah": "14",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 14,
@@ -4657,7 +4657,7 @@
       "name_latin": "Al-Jumu'ah",
       "name_translation": "Jumat",
       "number_of_ayah": "11",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 4,
@@ -4681,7 +4681,7 @@
       "name_latin": "Al-Munafiqun",
       "name_translation": "Orang-Orang Munafik",
       "number_of_ayah": "11",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 11,
@@ -4707,7 +4707,7 @@
       "name_latin": "At-Tagabun",
       "name_translation": "Pengungkapan Kesalahan",
       "number_of_ayah": "18",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 10,
@@ -4726,7 +4726,7 @@
       "name_latin": "At-Talaq",
       "name_translation": "Talak",
       "number_of_ayah": "12",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 7,
@@ -4745,7 +4745,7 @@
       "name_latin": "At-Tahrim",
       "name_translation": "Pengharaman",
       "number_of_ayah": "12",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 1,
@@ -4776,7 +4776,7 @@
       "name_latin": "Al-Mulk",
       "name_translation": "Kerajaan",
       "number_of_ayah": "30",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 30,
@@ -4812,7 +4812,7 @@
       "name_latin": "Al-Qalam",
       "name_translation": "Pena",
       "number_of_ayah": "52",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 16,
@@ -4848,7 +4848,7 @@
       "name_latin": "Al-Haqqah",
       "name_translation": "Hari Kiamat",
       "number_of_ayah": "52",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 37,
@@ -4884,7 +4884,7 @@
       "name_latin": "Al-Ma'arij",
       "name_translation": "Tempat Naik",
       "number_of_ayah": "44",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 18,
@@ -4908,7 +4908,7 @@
       "name_latin": "Nuh",
       "name_translation": "Nuh",
       "number_of_ayah": "28",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 28,
@@ -4939,7 +4939,7 @@
       "name_latin": "Al-Jinn",
       "name_translation": "Jin",
       "number_of_ayah": "28",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 19,
@@ -4958,7 +4958,7 @@
       "name_latin": "Al-Muzzammil",
       "name_translation": "Orang Yang Berselimut",
       "number_of_ayah": "20",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 19,
@@ -4989,7 +4989,7 @@
       "name_latin": "Al-Muddassir",
       "name_translation": "Orang Yang Berkemul",
       "number_of_ayah": "56",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 1,
@@ -5020,7 +5020,7 @@
       "name_latin": "Al-Qiyamah",
       "name_translation": "Hari Kiamat",
       "number_of_ayah": "40",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 40,
@@ -5056,7 +5056,7 @@
       "name_latin": "Al-Insan",
       "name_translation": "Manusia",
       "number_of_ayah": "31",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 31,
@@ -5087,7 +5087,7 @@
       "name_latin": "Al-Mursalat",
       "name_translation": "Malaikat Yang Diutus",
       "number_of_ayah": "50",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 50,
@@ -5113,7 +5113,7 @@
       "name_latin": "An-Naba'",
       "name_translation": "Berita Besar",
       "number_of_ayah": "40",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 40,
@@ -5154,7 +5154,7 @@
       "name_latin": "An-Nazi'at",
       "name_translation": "Malaikat Yang Mencabut",
       "number_of_ayah": "46",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 14,
@@ -5183,7 +5183,7 @@
       "name_latin": "'Abasa",
       "name_translation": "Bermuka Masam",
       "number_of_ayah": "42",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 16,
@@ -5202,7 +5202,7 @@
       "name_latin": "At-Takwir",
       "name_translation": "Penggulungan",
       "number_of_ayah": "29",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 14,
@@ -5221,7 +5221,7 @@
       "name_latin": "Al-Infitar",
       "name_translation": "Terbelah",
       "number_of_ayah": "19",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 9,
@@ -5240,7 +5240,7 @@
       "name_latin": "Al-Mutaffifin",
       "name_translation": "Orang-Orang Curang",
       "number_of_ayah": "36",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 6,
@@ -5269,7 +5269,7 @@
       "name_latin": "Al-Insyiqaq",
       "name_translation": "Terbelah",
       "number_of_ayah": "25",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -5293,7 +5293,7 @@
       "name_latin": "Al-Buruj",
       "name_translation": "Gugusan Bintang",
       "number_of_ayah": "22",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 22,
@@ -5307,7 +5307,7 @@
       "name_latin": "At-Tariq",
       "name_translation": "Yang Datang Di Malam Hari",
       "number_of_ayah": "17",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 4,
@@ -5331,7 +5331,7 @@
       "name_latin": "Al-A'la",
       "name_translation": "Maha Tinggi",
       "number_of_ayah": "19",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 19,
@@ -5345,7 +5345,7 @@
       "name_latin": "Al-Gasyiyah",
       "name_translation": "Hari Kiamat",
       "number_of_ayah": "26",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 16,
@@ -5364,7 +5364,7 @@
       "name_latin": "Al-Fajr",
       "name_translation": "Fajar",
       "number_of_ayah": "30",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 14,
@@ -5393,7 +5393,7 @@
       "name_latin": "Al-Balad",
       "name_translation": "Negeri",
       "number_of_ayah": "20",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 20,
@@ -5407,7 +5407,7 @@
       "name_latin": "Asy-Syams",
       "name_translation": "Matahari",
       "number_of_ayah": "15",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 15,
@@ -5421,7 +5421,7 @@
       "name_latin": "Al-Lail",
       "name_translation": "Malam",
       "number_of_ayah": "21",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 21,
@@ -5435,7 +5435,7 @@
       "name_latin": "Ad-Duha",
       "name_translation": "Duha",
       "number_of_ayah": "11",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 11,
@@ -5449,7 +5449,7 @@
       "name_latin": "Asy-Syarh",
       "name_translation": "Lapang",
       "number_of_ayah": "8",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -5463,7 +5463,7 @@
       "name_latin": "At-Tin",
       "name_translation": "Buah Tin",
       "number_of_ayah": "8",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -5482,7 +5482,7 @@
       "name_latin": "Al-'Alaq",
       "name_translation": "Segumpal Darah",
       "number_of_ayah": "19",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -5501,7 +5501,7 @@
       "name_latin": "Al-Qadr",
       "name_translation": "Kemuliaan",
       "number_of_ayah": "5",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -5515,7 +5515,7 @@
       "name_latin": "Al-Bayyinah",
       "name_translation": "Bukti Nyata",
       "number_of_ayah": "8",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -5529,7 +5529,7 @@
       "name_latin": "Az-Zalzalah",
       "name_translation": "Guncangan",
       "number_of_ayah": "8",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -5543,7 +5543,7 @@
       "name_latin": "Al-'Adiyat",
       "name_translation": "Kuda Yang Berlari Kencang",
       "number_of_ayah": "11",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 11,
@@ -5557,7 +5557,7 @@
       "name_latin": "Al-Qari'ah",
       "name_translation": "Hari Kiamat",
       "number_of_ayah": "11",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 11,
@@ -5571,7 +5571,7 @@
       "name_latin": "At-Takasur",
       "name_translation": "Bermegah-Megahan",
       "number_of_ayah": "8",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 8,
@@ -5585,7 +5585,7 @@
       "name_latin": "Al-'Asr",
       "name_translation": "Asar",
       "number_of_ayah": "3",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 3,
@@ -5599,7 +5599,7 @@
       "name_latin": "Al-Humazah",
       "name_translation": "Pengumpat",
       "number_of_ayah": "9",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 9,
@@ -5613,7 +5613,7 @@
       "name_latin": "Al-Fil",
       "name_translation": "Gajah",
       "number_of_ayah": "5",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -5627,7 +5627,7 @@
       "name_latin": "Quraisy",
       "name_translation": "Quraisy",
       "number_of_ayah": "4",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 4,
@@ -5641,7 +5641,7 @@
       "name_latin": "Al-Ma'un",
       "name_translation": "Barang Yang Berguna",
       "number_of_ayah": "7",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 7,
@@ -5655,7 +5655,7 @@
       "name_latin": "Al-Kausar",
       "name_translation": "Pemberian Yang Banyak",
       "number_of_ayah": "3",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 3,
@@ -5669,7 +5669,7 @@
       "name_latin": "Al-Kafirun",
       "name_translation": "Orang-Orang kafir",
       "number_of_ayah": "6",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 6,
@@ -5683,7 +5683,7 @@
       "name_latin": "An-Nasr",
       "name_translation": "Pertolongan",
       "number_of_ayah": "3",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 3,
@@ -5697,7 +5697,7 @@
       "name_latin": "Al-Lahab",
       "name_translation": "Api Yang Bergejolak",
       "number_of_ayah": "5",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -5711,7 +5711,7 @@
       "name_latin": "Al-Ikhlas",
       "name_translation": "Ikhlas",
       "number_of_ayah": "4",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 4,
@@ -5725,7 +5725,7 @@
       "name_latin": "Al-Falaq",
       "name_translation": "Subuh",
       "number_of_ayah": "5",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 5,
@@ -5739,7 +5739,7 @@
       "name_latin": "An-Nas",
       "name_translation": "Manusia",
       "number_of_ayah": "6",
-      "topic": [
+      "topics": [
         {
           "from": 1,
           "to": 6,
@@ -5748,5 +5748,5 @@
       ]
     }
   ],
-  "hash": "23dd468ee7e8214192d86599e6e884c07d9254b0e48d136a18fbbc41f2fc003bba03e8f820f977d7d46092e3dd0e9b3d8b5cf8bc486f5aeed8d4004bfc4dbe05"
+  "hash": "e2d01e3efc0fd019c965d4c7e46d51f0d1f172b09b9d2758b390b1f44a7c7d30cd8b278c76773c763d42f8a20d852c2ec09127433a3e156fe34f2b68f2ff973b"
 }

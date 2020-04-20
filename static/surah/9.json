@@ -1,5 +1,5 @@
 {
-  "9": {
+  "data": {
     "number": "9",
     "name": "التوبة",
     "name_latin": "At-Taubah",
@@ -410,7 +410,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 37,
@@ -557,5 +557,5 @@
       }
     ]
   },
-  "hash": "e157ea5c382f5064b0ee9218e43751d4a2c105add5b8a8799381a621470bd786593be1214136267f10f3c97fc9274ee4b555f512324a3c28f900aef37826bcaa"
+  "hash": "56f13a74ba1c4572828f250ae20b7421d5dea15e9edd4fb6077ee8cd852f832a9f220223e5e79e9db86ada8a58b1600a6c5529dc08ce107e28b362c409730c64"
 }

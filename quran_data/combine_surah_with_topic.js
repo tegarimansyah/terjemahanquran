@@ -10,17 +10,18 @@ summary.surah = []
 files.forEach((file) => {
   const surah = JSON.parse(fs.readFileSync(`quran_data/surah_ori/${file}.json`, 'utf-8'))
   const topic = TOML.parse(fs.readFileSync(`quran_data/topic/${file}.toml`, 'utf-8'))
-  surah[file].topic = topic.topics
+  delete Object.assign(surah, { data: surah[file] })[file]
+  surah.data.topics = topic.topics
   summary.surah.push({
     'number': file,
-    'name': surah[file].name,
-    'name_latin': surah[file].name_latin,
-    'name_translation': surah[file].translations.id.name,
-    'number_of_ayah': surah[file].number_of_ayah,
-    'topic': topic.topics
+    'name': surah.data.name,
+    'name_latin': surah.data.name_latin,
+    'name_translation': surah.data.translations.id.name,
+    'number_of_ayah': surah.data.number_of_ayah,
+    'topics': topic.topics
   })
 
-  const surahHash = hasha(JSON.stringify(surah[file]))
+  const surahHash = hasha(JSON.stringify(surah.data))
   surah.hash = surahHash
   hashFile[file] = surahHash
 

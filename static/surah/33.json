@@ -1,5 +1,5 @@
 {
-  "33": {
+  "data": {
     "number": "33",
     "name": "الاحزاب",
     "name_latin": "Al-Ahzab",
@@ -242,7 +242,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 8,
@@ -364,5 +364,5 @@
       }
     ]
   },
-  "hash": "b4986989e10c9c1869e6710b742b50c5149d1b5734b467d05ef301acdc4ad8b0050070c8b8248b949702bd419edd48b716b948859076eae5d3af0708f06c22a1"
+  "hash": "bb8652d5435011fee20f340789d2ddb9d727f08b3a6dbbd7ad31edd9c0240511b54067c79169be980aaff67f41c8e6df7ef86f254186d07660b2e1751ffcef5d"
 }

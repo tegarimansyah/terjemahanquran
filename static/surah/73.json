@@ -1,5 +1,5 @@
 {
-  "73": {
+  "data": {
     "number": "73",
     "name": "المزّمّل",
     "name_latin": "Al-Muzzammil",
@@ -83,7 +83,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 19,
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "hash": "cc491718ec1f160985a9af820f11340d2fb5c139e66ad0ae57dbfee89d74d363117fa25c0b4394ed143253c0b645e4c858b32aec7c5f02a5ae53a57f80c4503a"
+  "hash": "6ce4100fc3c08b654014acd7738ebd2a255e725f17f1b1862946c8aef5f19b10a807a5dafcf1fcf8cd3a29e13be3ebf9c30ed25154ca552a03062e3609dcad05"
 }

@@ -1,5 +1,5 @@
 {
-  "51": {
+  "data": {
     "number": "51",
     "name": "الذّٰريٰت",
     "name_latin": "Az-Zariyat",
@@ -203,7 +203,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 23,
@@ -216,5 +216,5 @@
       }
     ]
   },
-  "hash": "a963be936da21bc72e1a8f2a22ec9d52a79341978178b079c3b63e93cfafc067cb63947a587ee8a47f8e0d1c491f255ddaa5c8ffefb88ea13ab3c8eb327416e4"
+  "hash": "8458279239b2b1a3facad6330d716b2133a56fbd93f6f0b428cd19d96be3a0c8bf489409d4f32eda63d5a559345d882b961638ba8d77de8fc6d8d1139349b185"
 }

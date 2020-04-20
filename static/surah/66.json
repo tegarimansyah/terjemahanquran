@@ -1,5 +1,5 @@
 {
-  "66": {
+  "data": {
     "number": "66",
     "name": "التحريم",
     "name_latin": "At-Tahrim",
@@ -59,7 +59,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 1,
@@ -84,5 +84,5 @@
       }
     ]
   },
-  "hash": "2688c4879b738ce0a09c02b19b3a56a3acce1c5c6a01d6e15d56788bc2b1badbd414323add1a3f39e2abd066cc366d9d2c899c7934996290e8ab5bc96010c087"
+  "hash": "1c71a4e35f5aaebf694bf54262c0619137f45804375b864195272ad5110ce02f28963a40fad459cad712a23faeb055d0f61d150a7e0802a66e41141c65ad3c51"
 }

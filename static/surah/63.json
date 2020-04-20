@@ -1,5 +1,5 @@
 {
-  "63": {
+  "data": {
     "number": "63",
     "name": "المنٰفقون",
     "name_latin": "Al-Munafiqun",
@@ -56,7 +56,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 11,
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "hash": "905d3d6b20daed6b60a678b405b7293c301231ca1a23d1f72af0fd47378ca390f19b85284b4f36f2318c0717cc5ad4316079baff7b53556e7581cad25b5590aa"
+  "hash": "c0fe8f1925d3ae2ece7b6b1ae5e715eb362d602cd7186d37d3777cc838dc8a43e839e138ad6b78d4161225d6caad26251b5682ca1493b02c93ccbda715a55c59"
 }

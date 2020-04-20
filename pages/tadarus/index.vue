@@ -152,10 +152,10 @@
                 name: surah.name_latin,
                 number: surah.number
               },
-              surah.topic
+              surah.topics
             )"
           >
-            Lihat {{ surah.topic.length }} topik
+            Lihat {{ surah.topics.length }} topik
           </div>
         </div>
       </div>
@@ -225,7 +225,7 @@ export default {
     filterTopic (arr, searchKey) {
       this.query_data.in_topic = []
       arr.forEach((surah) => {
-        surah.topic.forEach((topic) => {
+        surah.topics.forEach((topic) => {
           const subtopic = this.filterSubTopic(topic.subs, searchKey)
           if (topic.topic.toLowerCase().includes(searchKey.toLowerCase()) || subtopic.length > 0) {
             this.query_data.in_topic.push({ surah_name: surah.name_latin, surah_number: surah.number, topic, subtopic })

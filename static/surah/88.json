@@ -1,5 +1,5 @@
 {
-  "88": {
+  "data": {
     "number": "88",
     "name": "الغاشية",
     "name_latin": "Al-Gasyiyah",
@@ -101,7 +101,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 16,
@@ -114,5 +114,5 @@
       }
     ]
   },
-  "hash": "ef484f3ebddaaaa7f48bd1bd872410285204daee9db7cfdd04b99afb6e3dcd6895d657d56976a4c3d4b91cf29c45122d0a68b96e6425a954278bbc696981fdf5"
+  "hash": "0dd701db2f39132c3fa1dfed9840787ab820cf2b571623f6ae3b17ea080c1873ec1b27bacb76b593a96b6759f29dc65bcd0057a4558aa20b2a19cc841c2364a0"
 }

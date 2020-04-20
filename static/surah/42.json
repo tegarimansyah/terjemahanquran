@@ -1,5 +1,5 @@
 {
-  "42": {
+  "data": {
     "number": "42",
     "name": "الشورى",
     "name_latin": "Asy-Syura",
@@ -182,7 +182,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 53,
@@ -247,5 +247,5 @@
       }
     ]
   },
-  "hash": "d6e52a97ff519587c09e2880d57eb55a788818c154150c41bfafc0650409cdb44cb47d08a49a9775877a7615c031acdf7c72fd51d5fb5f29dd7b9b7ffa31ed95"
+  "hash": "00d0893d93e3a13eaa6609d79e6d9beb5a07e17f48ddb51e6b20a995a938fd1afa04822f8e45beb894737ba1524c43c96723ec800065ef443f22ec2b6de2fc5a"
 }

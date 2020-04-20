@@ -1,5 +1,5 @@
 {
-  "78": {
+  "data": {
     "number": "78",
     "name": "النبأ",
     "name_latin": "An-Naba'",
@@ -143,7 +143,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 40,
@@ -178,5 +178,5 @@
       }
     ]
   },
-  "hash": "b55562b635f115c5dced65ae3dfb0611bb377a84a401cea279485095a4514e6d29b99fb6b9bff20200c05320ceaca3848a3b91af3292fde546009f9f3fdae06f"
+  "hash": "267c8e26c633bc6ee4db986a2d4eba31db20f8773c0d144d09c564dfbdffbff2bd3f1f7890c628828ec5aec90254dfb107b6d311a46e061fe3f3e12ead28c112"
 }

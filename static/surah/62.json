@@ -1,5 +1,5 @@
 {
-  "62": {
+  "data": {
     "number": "62",
     "name": "الجمعة",
     "name_latin": "Al-Jumu'ah",
@@ -56,7 +56,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 4,
@@ -74,5 +74,5 @@
       }
     ]
   },
-  "hash": "62bae4afff74ed4cda4a8776538366e09b15398e7854f34e6b70955df8f581faf3bf4971fac9865d9ffab1d40148a54b6ff6a00a323ddb84e4560ad0254f4b6b"
+  "hash": "d7cd125374d9aab548743ce23c2cff0ed7bc74fa97a858c068d270d0d71fddd9324f67141df9e350eac9b30d2168f6c7fbef568cb9af17dd7cfd35e164a7f732"
 }

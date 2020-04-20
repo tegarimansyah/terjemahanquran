@@ -1,5 +1,5 @@
 {
-  "55": {
+  "data": {
     "number": "55",
     "name": "الرحمن",
     "name_latin": "Ar-Rahman",
@@ -257,7 +257,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 30,
@@ -275,5 +275,5 @@
       }
     ]
   },
-  "hash": "c6098dfcb0fd5036be07f1b249ff978779b28618051e043c174c573d780563b82d798ba52491b0a0e4ad949efdf5399306148f475664cf15aca6937723e5746d"
+  "hash": "1c357d00aede757784661226b9e62f4ad875bdb1315ea08eb8eb6befd278562049756c5caf10eb0ec58a37785ce5d438d40c4f8db61cc39b30bf2e4adb0b7a0c"
 }

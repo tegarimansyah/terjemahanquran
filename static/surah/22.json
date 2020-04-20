@@ -1,5 +1,5 @@
 {
-  "22": {
+  "data": {
     "number": "22",
     "name": "الحج",
     "name_latin": "Al-Hajj",
@@ -257,7 +257,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 25,
@@ -352,5 +352,5 @@
       }
     ]
   },
-  "hash": "be5930d2a2e7126faabb3c031095b8e696b41c72da22671bf38ff04afa0e875bf8067f19d3b16234db145a4f37c75b3c72d7960754b39fb55d62c1fa24a57ab5"
+  "hash": "23e91574d97e5a733fcbab736430d9c0b3a10f94dce78c9a02425d48531d628644531238614faa4b7bbac1ff2882d61f94956bff603e6bcb48edea88e5f5e02b"
 }

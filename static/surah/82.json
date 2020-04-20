@@ -1,5 +1,5 @@
 {
-  "82": {
+  "data": {
     "number": "82",
     "name": "الانفطار",
     "name_latin": "Al-Infitar",
@@ -80,7 +80,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 9,
@@ -93,5 +93,5 @@
       }
     ]
   },
-  "hash": "5bf9bf1ce140173887f85a715015b0e8d8d804cec1081b53912aeb320f7acff0be54312e5c54b8f9f8d1b861a0a13090c4e0fc8191aa29900e890cd25d9e3bec"
+  "hash": "db2a4fdf9652142eafb535ae7c4084c16e0d42d12a9d3e413601516a22ae683b297c8990a82ba95f4b1ba29ff729c1c13d9b95f78b7a5b02d02dd6dd0c93f127"
 }

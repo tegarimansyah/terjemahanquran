@@ -1,5 +1,5 @@
 {
-  "85": {
+  "data": {
     "number": "85",
     "name": "البروج",
     "name_latin": "Al-Buruj",
@@ -89,7 +89,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 22,
@@ -97,5 +97,5 @@
       }
     ]
   },
-  "hash": "7d5c712556f6141c0830216a4daa4561de1a23192ef800cc0e053a628e37c69ccba0adb7000998f4f8393dca8d4ae46103e82ea0a6029eb125e7be4d5be3099b"
+  "hash": "8b832b52ab1644ec4b46ab85cd48094a339c235e6b095ffcfe1ef379856597d68ff1b5329d8b3812cc409380d8c7718b9e3ae113a4aa63221516bf26495936f1"
 }

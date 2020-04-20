@@ -1,5 +1,5 @@
 {
-  "92": {
+  "data": {
     "number": "92",
     "name": "الّيل",
     "name_latin": "Al-Lail",
@@ -86,7 +86,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 21,
@@ -94,5 +94,5 @@
       }
     ]
   },
-  "hash": "9bc902ff36d7df8d1d5bd9e2bb370ec413f0dc9458129af6e05a952f392dba9116b059afaf1cf61041b91d74e257a297da7e23636b9ca1fec093955989438cee"
+  "hash": "94d5d44b8f8ad8356952c4b6f10bc3e2ec5cd1bb393737ea3c0672ae8d24ffe33fc7b60242b6f58761d0baad9ce9631485da65e831e451abb9d9545e74b70448"
 }

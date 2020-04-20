@@ -1,5 +1,5 @@
 {
-  "67": {
+  "data": {
     "number": "67",
     "name": "الملك",
     "name_latin": "Al-Mulk",
@@ -113,7 +113,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 30,
@@ -143,5 +143,5 @@
       }
     ]
   },
-  "hash": "dc7fe26a440fa4a3e1d0297cf36b68c0f5640d37188bcb8a282c3f15e582241c0d582f3baca95cfc20dfd5bd7c30694f158655d2d03f8649c6536b056f4ca7be"
+  "hash": "8ae54c7b199ee1ddd99a6c74be04d328078393e7b13670f1fad99b4786bfef7588be64e442cb2e9d690097a06547b69a73e3a8f84185c21da47d5bc3144cbe26"
 }

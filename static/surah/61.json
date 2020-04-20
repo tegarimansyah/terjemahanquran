@@ -1,5 +1,5 @@
 {
-  "61": {
+  "data": {
     "number": "61",
     "name": "الصّفّ",
     "name_latin": "As-Saff",
@@ -65,7 +65,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 14,
@@ -85,5 +85,5 @@
       }
     ]
   },
-  "hash": "af42884c7e952dd9b2da3aaf4534b0115e7d5e0556937259105ae31ff308aa7446e938a7d131b94e4daedfc8d6dce7f8123fb6921179b4f8cbfc11750f8acd92"
+  "hash": "3092e2851f34cc88dc8ef7307a601bba8fe930fe0ddbbea999aa6c2a8f524c6e260fab4568a6b22aaffdade68c4488d1581ed9463cae53baeb7d17b6bf5da78e"
 }

@@ -1,5 +1,5 @@
 {
-  "28": {
+  "data": {
     "number": "28",
     "name": "القصص",
     "name_latin": "Al-Qasas",
@@ -287,7 +287,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 57,
@@ -402,5 +402,5 @@
       }
     ]
   },
-  "hash": "a002fd13a4961581fc023b439783f44ad55486c0e70f356f6f5e269b2195149ce02a0344d9461c125ab8d0d5163a274e29bddfe900b0a542c6a3a6d473b080bd"
+  "hash": "30cca22c78a47f95b55fb74a61a256661a836b4322b43087ac73b9f587007dfdb739a4e7c78af462e7effff70259f025468cff5c9646431a5fb86d75e45166cd"
 }

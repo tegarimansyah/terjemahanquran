@@ -1,5 +1,5 @@
 {
-  "104": {
+  "data": {
     "number": "104",
     "name": "الهمزة",
     "name_latin": "Al-Humazah",
@@ -50,7 +50,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 9,
@@ -58,5 +58,5 @@
       }
     ]
   },
-  "hash": "b44fe7185d47bebd54b67a8d2bccf6e3ddac70b40881e2a2e9ce2c476ffe81d768f03281f95bfcb9eea27354a8b6b9326f19de899648d5088dc8b7b831fbb613"
+  "hash": "89a9ff52ecaf31b584539fb3bf7c66cc9c591b15c8a57d602adebc8442a3a9b63ab66c24363a468dbdb374b0c0497ccc16c7415fa77cc2ca721298e46fdb030c"
 }

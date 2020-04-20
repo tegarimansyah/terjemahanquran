@@ -1,5 +1,5 @@
 {
-  "43": {
+  "data": {
     "number": "43",
     "name": "الزخرف",
     "name_latin": "Az-Zukhruf",
@@ -290,7 +290,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 15,
@@ -333,5 +333,5 @@
       }
     ]
   },
-  "hash": "e3999ed646b0abaa1da6d0cb8a55733f2f4a2d53727ffd1f8f560cba0fd5062bc788a1ca4491cab83d2f1db209c947ff3e7a0a08e2638a9e47222c446dcfc222"
+  "hash": "24cb59c922be889c32b85c31bccbf3917e52cdaacf5cb9b6bcb8d1ba6ae795dc8c2c335f04f8b205378764a1c295dd329796b7cf864d01d2fe3a02a143e6cd72"
 }

@@ -1,5 +1,5 @@
 {
-  "83": {
+  "data": {
     "number": "83",
     "name": "المطفّفين",
     "name_latin": "Al-Mutaffifin",
@@ -131,7 +131,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 6,
@@ -154,5 +154,5 @@
       }
     ]
   },
-  "hash": "f85547417e100b7d28f0f4373963f34e857ba09d83d3322d655589b1f3453d69b99d4c9ebf830e77d2fe6433014e4d4e243fe194a21c75e7842f2047e10650b0"
+  "hash": "43b8536eb7471cb581786c65f7c89550c4481fb9ee905a59e0bd70d4761a805c81bcd962d27875cb52a1ff647b8133611c1a3bad23e3d42858fd434d2b052c08"
 }

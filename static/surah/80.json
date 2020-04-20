@@ -1,5 +1,5 @@
 {
-  "80": {
+  "data": {
     "number": "80",
     "name": "عبس",
     "name_latin": "'Abasa",
@@ -149,7 +149,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 16,
@@ -162,5 +162,5 @@
       }
     ]
   },
-  "hash": "ef6e024daaa3b60a81334ece2a7af73496315b134d4e1f5e96b630fa235b178d28825c86a619ba5688f2ee7892c40c30ad762efd9e0fb33d96605afa2b564ac2"
+  "hash": "8a1cfcd4b3f5496866d51ff22599f585936c8e3501c42fe61ca6ae95e0d6007f9ffd1d8b67f0ad211f802da5456fcae37d9af0ea103c03366e5b84803f4c80bf"
 }

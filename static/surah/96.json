@@ -1,5 +1,5 @@
 {
-  "96": {
+  "data": {
     "number": "96",
     "name": "العلق",
     "name_latin": "Al-'Alaq",
@@ -80,7 +80,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 5,
@@ -93,5 +93,5 @@
       }
     ]
   },
-  "hash": "446ab11f342719b963f264532d027b857d0d477193238cd12d7dec1e1c8869404ab8f534474eb8ae126101aa9581f033c5579869d8d6f7934d191733d30ad994"
+  "hash": "886d82d450e090185d5e5631ff4db42376ef7293aa20dcf195f86bd5698a0b2e9b5c5501fb71d6b3296d3c8467ba8d52b7bed5c632052b0d091481f5756679e4"
 }

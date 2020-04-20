@@ -1,5 +1,5 @@
 {
-  "23": {
+  "data": {
     "number": "23",
     "name": "المؤمنون",
     "name_latin": "Al-Mu'minun",
@@ -377,7 +377,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 22,
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "hash": "1ff6d4af7eda52c8adc9af4dfd23d6c593ac896a95509c0b32f19cb1dd842b15155d104a047e8333ee112f74fae5b8a177e65189fbeba3eb7e8828e7739af123"
+  "hash": "87938788a79f39ad2723289f849a4e0a836cec1980a8ad7b0ec91c00c4a079823cdddff931bf5c70968c2b134c47fe07ca43b5f246650f61b14a20ac8bc72661"
 }

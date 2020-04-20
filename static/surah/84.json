@@ -1,5 +1,5 @@
 {
-  "84": {
+  "data": {
     "number": "84",
     "name": "الانشقاق",
     "name_latin": "Al-Insyiqaq",
@@ -98,7 +98,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 8,
@@ -116,5 +116,5 @@
       }
     ]
   },
-  "hash": "a03927bf81ca9cfdb5c6aac64d0a01b0d94d24425a1ee39696c80d5eb0793925065dbe01ed12a0123eea7ed4d6f0c230ed2b465219305cda7c1fca68b0469645"
+  "hash": "cb9fcf881d58e4552542b32c47a99753a3fe8949c2958dc1a372a8c9eacd850521d14ab689348eb92e93f0449eef489e2bcf75c753b455e53be29c29fa893b6f"
 }

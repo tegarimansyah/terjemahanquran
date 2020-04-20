@@ -1,5 +1,5 @@
 {
-  "69": {
+  "data": {
     "number": "69",
     "name": "الحاۤقّة",
     "name_latin": "Al-Haqqah",
@@ -179,7 +179,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 37,
@@ -209,5 +209,5 @@
       }
     ]
   },
-  "hash": "5f639287b98d6773cc8f539246fbf5252fe511166f943c253912f5588063e59eaaffcf027133c154d303e9bb46411247393d691736bfb9d4a65fba680773cc01"
+  "hash": "7498df368cff99a1eb21bfeec9404d4e10185cc95a78a5a9499e56b060d668aaa3f622f515ccbaf44776468e42913e002ee17ea124c8624fc673cba2fd8b5eb1"
 }

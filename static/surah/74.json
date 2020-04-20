@@ -1,5 +1,5 @@
 {
-  "74": {
+  "data": {
     "number": "74",
     "name": "المدّثّر",
     "name_latin": "Al-Muddassir",
@@ -191,7 +191,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 1,
@@ -216,5 +216,5 @@
       }
     ]
   },
-  "hash": "94bfc925be9325fff156ee85ce9e480013cdfd68e20fe6e42867caf13a8aa041fbe3093896708022202e7c1e511a18b2d0e9448c9c2ac37ec54893731bc2f7cd"
+  "hash": "c5d4c3ff18a7ae99e9cdbd278fe78e02ddaa55e160619c9de9aff9cb716620fd38470deb5f5f8f7c28de9f4f1cf090814cb314c6c40ff410335996979bf30497"
 }

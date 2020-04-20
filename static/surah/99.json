@@ -1,5 +1,5 @@
 {
-  "99": {
+  "data": {
     "number": "99",
     "name": "الزلزلة",
     "name_latin": "Az-Zalzalah",
@@ -47,7 +47,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 8,
@@ -55,5 +55,5 @@
       }
     ]
   },
-  "hash": "0acc0ea7a689cac61aafe313e93a559c254c0c4f9ad87b375eab75cf46a5450f5442ff1fb3cbc3a174f5d3c8483b6f8344f81e3ef12f187dc0250c1adfdf33d4"
+  "hash": "a4f685f2ece3cec1989e2370981425e1a733bfba9d1f86cda75aa800c7826a1755eaf1d4e9d801d303c35d50ad0bd05cc6c87a817e0a3808a4de1c95bf232847"
 }

@@ -1,5 +1,5 @@
 {
-  "41": {
+  "data": {
     "number": "41",
     "name": "فصّلت",
     "name_latin": "Fussilat",
@@ -185,7 +185,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 8,
@@ -218,5 +218,5 @@
       }
     ]
   },
-  "hash": "9c1fb201cd7914f3a4cae3b3043ae4c4d16b81d0dc2d6be42d1b91d76a5d4171bed406b4cfb42a36e01a2288f5067f4d733d21c205c42f85b661864e3e765981"
+  "hash": "796321792b40c792d71d5d316003c01eb8d3ea5a6da6e17d1676c1d1cd7d79e52502b52ce338acdc17bdbf3f58b4d86ad08f1a06070ec8f88185b64deedca91b"
 }

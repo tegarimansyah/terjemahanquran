@@ -1,5 +1,5 @@
 {
-  "76": {
+  "data": {
     "number": "76",
     "name": "الانسان",
     "name_latin": "Al-Insan",
@@ -116,7 +116,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 31,
@@ -141,5 +141,5 @@
       }
     ]
   },
-  "hash": "2bf7a21f22a1af0390072b01f9ca06dcf83f377f50b109ecb50c372f0c6f821a2b3240ee3ae13b3d957cb1a29bb968ca447f832977a95120a8ceb11de9d88e82"
+  "hash": "e341671a8c1257523bcdab090f819cbe06d0fdb3f9e3630390819920147467516c9129f041138f20849bd86db9c544f1a4d220a49c5893bb24974857bcf9c05f"
 }

@@ -1,5 +1,5 @@
 {
-  "39": {
+  "data": {
     "number": "39",
     "name": "الزمر",
     "name_latin": "Az-Zumar",
@@ -248,7 +248,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 9,
@@ -344,5 +344,5 @@
       }
     ]
   },
-  "hash": "1f802a6f96464282e1cd5243343924c95d0fe62f97346315bb9b28845eed87dc7f170b7c990fa6b2106886496623a8e7f498ec5998223bae84d132a0536e7176"
+  "hash": "ce130a7ef3ffb5b6287784fb683d085d94b38eb1c3bc8b0143cb44e6f0e22923104528149582c15b0b0178fcb5c3d188fdbb30b758a6c6dbecb0d18f8283ff34"
 }

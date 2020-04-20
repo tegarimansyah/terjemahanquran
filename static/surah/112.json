@@ -1,5 +1,5 @@
 {
-  "112": {
+  "data": {
     "number": "112",
     "name": "الاخلاص",
     "name_latin": "Al-Ikhlas",
@@ -35,7 +35,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 4,
@@ -43,5 +43,5 @@
       }
     ]
   },
-  "hash": "0a48a6667cf46949b30da4dc99fd2ecfb02d6f41cdd64dfe20de05ba705eb2a10f268965986e5021fbfa845eec4e1a0295044eda6b9056f4d67a97da6edd6f72"
+  "hash": "ae1a5097b40e18ae516a45ecc20386ae2c3951659428973d55719513c8e1a72afc3c8e35be491972e608eeb487049fe9954ba7c03de9c64261ccfa377c6d0273"
 }

@@ -1,5 +1,5 @@
 {
-  "32": {
+  "data": {
     "number": "32",
     "name": "السّجدة",
     "name_latin": "As-Sajdah",
@@ -113,7 +113,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 30,
@@ -148,5 +148,5 @@
       }
     ]
   },
-  "hash": "6f1d7665cf2aa1b838c4d18d0b5e082ef6b823248b9c34ad7dc1d82babcc788c83dc6a6eaffee097e4bd194e029e535c8734f8cfa38920f552fc6c26a403f7df"
+  "hash": "aad620a58167e48bb7e78b3a795f7dea219311a73996e8d6011c9ca1f60b6b945d64b683a1c6431b002608478ab55678ee95ece013e893cc818a36751769281b"
 }

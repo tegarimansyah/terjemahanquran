@@ -1,5 +1,5 @@
 {
-  "24": {
+  "data": {
     "number": "24",
     "name": "النّور",
     "name_latin": "An-Nur",
@@ -215,7 +215,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 64,
@@ -300,5 +300,5 @@
       }
     ]
   },
-  "hash": "f9a4a544818fe31f941212400e09bed85e4c79976715a3985ff8185110901c94392d3fed75a34d3e365aa1061be883b0ec6d6af000500e43eeee902227f5d000"
+  "hash": "f52cd3c14263a65bd1f08b92c1529e2f444d4f89101b6226b1dfa4d62496c8db9086ecd35f67c7811f4edb353568168351bc6d7e1a7d9c492fce2e747caa9393"
 }

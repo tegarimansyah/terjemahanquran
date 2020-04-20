@@ -1,5 +1,5 @@
 {
-  "36": {
+  "data": {
     "number": "36",
     "name": "يٰسۤ",
     "name_latin": "Yasin",
@@ -272,7 +272,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 83,
@@ -332,5 +332,5 @@
       }
     ]
   },
-  "hash": "0889e0f7d7ef210fd8aeea673f6324716c2f1a86b265b9e854f68b396374fdae559c4e96b8c5c97f52fddc76d26e887c41f1e241e6ff94f5467c16615feeac75"
+  "hash": "0b942565f6dbcb205855096f6a9430ae65932e1cc40cdb9cd09270f85ab85dcdd73df4be770b30d1cc356c52cec02ac55c09cb47748ec43422f9c39b90f76d30"
 }

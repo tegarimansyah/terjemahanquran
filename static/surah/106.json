@@ -1,5 +1,5 @@
 {
-  "106": {
+  "data": {
     "number": "106",
     "name": "قريش",
     "name_latin": "Quraisy",
@@ -35,7 +35,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 4,
@@ -43,5 +43,5 @@
       }
     ]
   },
-  "hash": "a3ff2247ebdf393af18a9b423f2d724589374f193d5f0edbbf60b287eff94f2e1ffcdcc093314e8fa1f15aa4590a130721ac806fea6d2aa4e2d068cdc1a432b3"
+  "hash": "4a7681d760fccf372556ca4894fcf7dd84bd39854b358c0a6492baba55daad5e3d66a2b227e50786de0ed40b532b190c2d7f1b6da444d2101a830d8cd971a429"
 }

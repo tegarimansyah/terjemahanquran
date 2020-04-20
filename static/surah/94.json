@@ -1,5 +1,5 @@
 {
-  "94": {
+  "data": {
     "number": "94",
     "name": "الشرح",
     "name_latin": "Asy-Syarh",
@@ -47,7 +47,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 8,
@@ -55,5 +55,5 @@
       }
     ]
   },
-  "hash": "e7b71250c744e157dcab6edc3b1e850bb9204e97bc72a13bb413f8f080ab887a2c38baf5b62dbf7cbf4442f86e48425ca86e580b88ddc56debc8b4f345b531fb"
+  "hash": "c47754e62cfebc198fc8c3f26ab0c182765b91fabc0a1528eca3a7e4d2ad80b7bb912c22b6218168b5466232b796e6f2d49dc9ca0e8f260c6003b57851c208c0"
 }

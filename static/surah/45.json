@@ -1,5 +1,5 @@
 {
-  "45": {
+  "data": {
     "number": "45",
     "name": "الجاثية",
     "name_latin": "Al-Jasiyah",
@@ -134,7 +134,7 @@
         }
       }
     },
-    "topic": [
+    "topics": [
       {
         "from": 1,
         "to": 37,
@@ -169,5 +169,5 @@
       }
     ]
   },
-  "hash": "a292bdfc7cbc772f140d54ec0a55568eaacc473cf07c24ebaea8ae38236e809c3be4333c02d9f66a9234d67abbfc5ce11609be64567d82afa566c91ac5b9edad"
+  "hash": "2edd7abe11787f2028384d71250988a33a27202fa03655834388cc90706c50faf8e1914ff3bab00b436d51cd8030fb7f879f5c5af69470270431cc4e61a483c5"
 }
