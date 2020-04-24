@@ -199,6 +199,7 @@ export default {
       this.$store.commit('modal/set', { header: `${this.surah_data.name_latin} - ${number}`, body: tafsir })
     },
     save_ayah (number) {
+      alert('Berhasil disimpan')
       localStorage.last_read = `${this.surah_number}/${number}`
     },
     selectedAyah (start, end) {
