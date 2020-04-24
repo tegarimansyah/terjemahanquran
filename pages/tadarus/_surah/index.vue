@@ -1,9 +1,10 @@
 <template>
   <div>
-    <div v-if="surah_data !== null" class="container">
-      <!-- <div ref="mark">
-        300px above viewport
+    <div v-if="surah_data !== null" class="container lg:p-10">
+      <!-- <div id="mark" ref="mark">
+        300px above bottom viewport
       </div> -->
+      <Modal />
       <!-- Header -->
       <div>
         <nuxt-link to="/tadarus">
@@ -17,21 +18,29 @@
       </div>
       <!-- List of Ayah -->
       <div v-for="currentTopic in surah_data.topics" :key="`${currentTopic.from}-${currentTopic.to}`">
-        <span :class="{ hide: !enable_topic }" class="block font-bold mt-10 topic">{{ currentTopic.topic }}</span>
+        <intersect @enter="current_topic = `${currentTopic.topic}`">
+          <span :class="{ hide: !enable_topic }" class="block font-bold mt-10 topic">{{ currentTopic.topic }}</span>
+        </intersect>
         <!-- Sub Topic Start -->
         <div v-if="currentTopic.subs != null">
           <div v-for="sub in currentTopic.subs" :key="sub.from" :id="`topic-${sub.from}`">
-            <intersect @enter="current_topic = `${sub.text}`" :threshold="[0]">
-              <span :class="{ hide: !enable_topic }" class="block font-light mt-5 ml-2 topic">{{ sub.text }}</span>
-            </intersect>
+            <span :class="{ hide: !enable_topic }" class="block font-light mt-5 ml-2 pb-2 topic border-blue-500 border-solid border-b">{{ sub.text }}</span>
             <!-- Display Ayah and Translation Start -->
             <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(sub.from, sub.to)" :key="ayah.numberInSurah">
-              <div class="flex mt-1 mb-3 ml-2 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
-                <div class="col-span-1 flex items-center">
-                  <span class="block">{{ ayah.numberInSurah }}</span>
+              <div class="flex mt-1 mb-3 lg:p-8 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
+                <div class="col-span-3 lg:col-span-1 items-center lg:text-center border-gray-500 border-solid border-r mr-3">
+                  <p class="py-3">
+                    {{ ayah.numberInSurah }}
+                  </p>
+                  <p @click="save_ayah(ayah.numberInSurah)" class="py-3">
+                    Save
+                  </p>
+                  <p @click="show_tafsir(ayah.numberInSurah, ayah.tafsir)" class="py-3">
+                    Tafsir
+                  </p>
                 </div>
-                <div class="col-span-11">
-                  <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
+                <div class="col-span-9 lg:col-span-11">
+                  <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-4 leading-loose tracking-wide text-right text-3xl">{{ ayah.arabic }}</span>
                   <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.translation }}</span>
                 </div>
               </div>
@@ -42,14 +51,23 @@
         </div>
         <!-- Sub Topic End -->
         <div v-else>
+          <!-- Without sub topic -->
           <!-- Display Ayah and Translation Start -->
           <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTopic.from, currentTopic.to)" :key="ayah.numberInSurah">
             <div class="flex mt-1 mb-3 ml-2 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
-              <div class="col-span-1 flex items-center">
-                <span class="block">{{ ayah.numberInSurah }}</span>
+              <div class="col-span-3 lg:col-span-1 items-center lg:text-center border-gray-500 border-solid border-r mr-3">
+                <p class="py-3">
+                  {{ ayah.numberInSurah }}
+                </p>
+                <p @click="save_ayah(ayah.numberInSurah)" class="py-3">
+                  Save
+                </p>
+                <p @click="show_tafsir(ayah.numberInSurah, ayah.tafsir)" class="py-3">
+                  Tafsir
+                </p>
               </div>
-              <div class="col-span-11">
-                <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-2 text-right text-3xl">{{ ayah.arabic }}</span>
+              <div class="col-span-9 lg:col-span-11">
+                <span :class="{ hide: !enable_arabic }" class="arabic font-mequran block mb-4 leading-loose tracking-wide text-right text-3xl">{{ ayah.arabic }}</span>
                 <span :class="{ hide: !enable_translation }" class="translation block">{{ ayah.translation }}</span>
               </div>
             </div>
@@ -85,32 +103,33 @@
 <style>
 #mark{
     width: 100%;
-    position: fixed; bottom: 300px;
+    position: fixed; top: 300px;
     font-size: 16pt;
     border-bottom: dashed 2px currentColor;
     text-shadow: 0 0 10px black;
 }
 .container {
-    @apply p-10 pb-32 m-auto;
+    @apply p-6 pb-40 m-auto;
 }
 .hide {
     display: none;
 }
-/* @font-face {
+@font-face {
   font-family: 'MeQuran';
   src: url('//cdn.alquran.cloud/public/fonts/me_quran-webfont.otf');
-} */
-/* .font-mequran {
+}
+  .font-mequran {
     font-family: 'MeQuran';
-} */
+}
 </style>
 
 <script>
 import Intersect from 'vue-intersect'
+import Modal from '@/components/Modal'
 import Hash from '@/components/hash.js'
 
 export default {
-  components: { Intersect },
+  components: { Intersect, Modal },
   head () {
     return {
       title: `Tadarus ${this.surah_name}`
@@ -176,6 +195,12 @@ export default {
     // end
   },
   methods: {
+    show_tafsir (number, tafsir) {
+      this.$store.commit('modal/set', { header: `${this.surah_data.name_latin} - ${number}`, body: tafsir })
+    },
+    save_ayah (number) {
+      localStorage.last_read = `${this.surah_number}/${number}`
+    },
     selectedAyah (start, end) {
       const data = []
       for (let number = start; number <= end; number++) {
@@ -186,7 +211,6 @@ export default {
           tafsir: this.surah_data.tafsir.id.kemenag.text[number]
         })
       }
-      console.log(data)
       return data
     },
     scrollToTop () {

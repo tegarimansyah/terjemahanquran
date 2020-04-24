@@ -50,7 +50,7 @@
       <h1 class="text-2xl font-bold">
         Tadarus
       </h1>
-      <p>Membaca dan memahami Al Qur'an dengan lebih interaktif.</p>
+      <p>Membaca dan memahami Al Qur'an dengan lebih interaktif. <strong>Bacaan Terakhir: {{ last_read }}</strong></p>
 
       <!-- Search Bar -->
       <div class="text-gray-600 mt-2">
@@ -94,7 +94,7 @@
               {{ query_data.in_topic.length }} Topik
             </h2>
             <ul v-if="query_data.in_topic.length > 0">
-              <nuxt-link v-for="data in query_data.in_topic" :key="data.surah_name" :to="`/tadarus/${data.surah_number}`" class="mt-2 text-black hover:text-blue-500">
+              <nuxt-link v-for="data in query_data.in_topic" :key="`${data.surah_name}-${data.topic.from}`" :to="`/tadarus/${data.surah_number}`" class="mt-2 text-black hover:text-blue-500">
                 <li class="ml-4 mb-2">
                   <span class="font-semibold">Dari {{ data.surah_name }} {{ data.topic.from }}-{{ data.topic.to }}</span>: {{ data.topic.topic }}
                   <ul v-if="data.subtopic.length > 0" class="ml-6">
@@ -183,7 +183,8 @@ export default {
       },
       surah_list: {},
       display_modal: false,
-      search_result: null
+      search_result: null,
+      last_read: localStorage.last_read || 'Belum ada'
     }
   },
   mounted () {
