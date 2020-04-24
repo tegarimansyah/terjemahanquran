@@ -26,14 +26,14 @@
           <div v-for="sub in currentTopic.subs" :key="sub.from" :id="`topic-${sub.from}`">
             <span :class="{ hide: !enable_topic }" class="block font-light mt-5 ml-2 pb-2 topic border-blue-500 border-solid border-b">{{ sub.text }}</span>
             <!-- Display Ayah and Translation Start -->
-            <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(sub.from, sub.to)" :key="ayah.numberInSurah">
+            <div :id="`ayah-${ayah.numberInSurah}`" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(sub.from, sub.to)" :key="ayah.numberInSurah">
               <div class="flex mt-1 mb-3 lg:p-8 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
                 <div class="col-span-3 lg:col-span-1 items-center lg:text-center border-gray-500 border-solid border-r mr-3">
                   <p class="py-3">
                     {{ ayah.numberInSurah }}
                   </p>
                   <p @click="save_ayah(ayah.numberInSurah)" class="py-3">
-                    Save
+                    Simpan
                   </p>
                   <p @click="show_tafsir(ayah.numberInSurah, ayah.tafsir)" class="py-3">
                     Tafsir
@@ -53,14 +53,14 @@
         <div v-else>
           <!-- Without sub topic -->
           <!-- Display Ayah and Translation Start -->
-          <div :id="ayah.numberInSurah" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTopic.from, currentTopic.to)" :key="ayah.numberInSurah">
+          <div :id="`ayah-${ayah.numberInSurah}`" :class="{ hide: !enable_arabic && !enable_translation }" v-for="ayah in selectedAyah(currentTopic.from, currentTopic.to)" :key="ayah.numberInSurah">
             <div class="flex mt-1 mb-3 ml-2 p-1 pt-3 grid grid-cols-12 gap-0 sm:gap-1 hover:bg-gray-300">
               <div class="col-span-3 lg:col-span-1 items-center lg:text-center border-gray-500 border-solid border-r mr-3">
                 <p class="py-3">
                   {{ ayah.numberInSurah }}
                 </p>
                 <p @click="save_ayah(ayah.numberInSurah)" class="py-3">
-                  Save
+                  Simpan
                 </p>
                 <p @click="show_tafsir(ayah.numberInSurah, ayah.tafsir)" class="py-3">
                   Tafsir
@@ -90,7 +90,7 @@
           </span>
         </div>
         <div class="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-4 lg:grid-cols-2 gap-4 text-center py-3 ">
-          <span class="mr-3">Daftar Isi</span>
+          <span @click="show_topic(surah_data.topics)" class="mr-3">Daftar Isi</span>
           <span class="mr-3"><label><input v-model="enable_arabic" type="checkbox"> Tampilkan Arabic</label></span>
           <span class="mr-3"><label><input v-model="enable_translation" type="checkbox"> Tampilkan Terjemahan</label></span>
           <span class="mr-3"><label><input v-model="enable_topic" type="checkbox"> Tampilkan Topik</label></span>
@@ -132,14 +132,22 @@ export default {
   components: { Intersect, Modal },
   head () {
     return {
-      title: `Tadarus ${this.surah_name}`
+      title: `Tadarus ${this.surah_data.name_latin}`
     }
   },
   data () {
     return {
       current_topic: 'Akan Ditampilkan Topik',
-      surah_name: '',
-      surah_data: null,
+      surah_name: '.',
+      surah_data: {
+        number: '',
+        name: '',
+        name_latin: '',
+        number_of_ayah: '',
+        text: {},
+        translations: { id: { name: '', text: {} } },
+        topics: []
+      },
       surah_number: null,
       enable_translation: true,
       enable_arabic: true,
@@ -195,12 +203,15 @@ export default {
     // end
   },
   methods: {
+    show_topic (data) {
+      this.$store.commit('modal/set_topic_list', { header: `${this.surah_data.name_latin} - Daftar Topik`, body: data })
+    },
     show_tafsir (number, tafsir) {
-      this.$store.commit('modal/set', { header: `${this.surah_data.name_latin} - ${number}`, body: tafsir })
+      this.$store.commit('modal/set_tafsir', { header: `${this.surah_data.name_latin} - Tafsir Ayat ${number}`, body: tafsir })
     },
     save_ayah (number) {
       alert('Berhasil disimpan')
-      localStorage.last_read = `${this.surah_number}/${number}`
+      localStorage.last_read = JSON.stringify({ text: `Surat ${this.surah_name} Ayat ${number}`, link: `${this.surah_number}/#ayah-${number}` })
     },
     selectedAyah (start, end) {
       const data = []

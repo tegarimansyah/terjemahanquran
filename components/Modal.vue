@@ -19,15 +19,23 @@
 
         <!--Body-->
         <div class="h-64 max-h-full overflow-y-scroll">
-          {{ $store.state.modal.body }}
-          <!-- <div v-for="(topic, index) in $store.state.summary_topic.topics" :key="index" class="mb-2">
-            <span>Ayat {{ topic.from }}-{{ topic.to }}: {{ titleCase(topic.topic) }}</span>
-            <ul class="list-inside list-disc">
-              <li v-for="(subtopic, index2) in topic.subs" :key="index2">
-                {{ subtopic.text }}
-              </li>
-            </ul>
-          </div> -->
+          <div v-if="$store.state.modal.type === 'tafsir'">
+            {{ $store.state.modal.body }}
+          </div>
+          <div v-else>
+            <div v-for="(topic, index) in $store.state.modal.body" :key="index" class="mb-2">
+              <nuxt-link :to="`#ayah-${topic.from}`" class="hover:text-blue-500">
+                <span>Ayat {{ topic.from }}-{{ topic.to }}: {{ titleCase(topic.topic) }}</span>
+              </nuxt-link>
+              <ul class="list-inside list-disc">
+                <li v-for="(subtopic, index2) in topic.subs" :key="index2">
+                  <nuxt-link :to="`#ayah-${subtopic.from}`" class="hover:text-blue-500">
+                    {{ subtopic.text }}
+                  </nuxt-link>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
 
         <!--Footer-->
@@ -47,6 +55,16 @@ export default {
   methods: {
     hide_modal () {
       this.$store.commit('modal/close')
+    },
+    titleCase (string) {
+      console.log('title case func called')
+      console.log(this.$store.state.modal.type)
+      let sentence = string.toLowerCase().split(' ')
+      for (let i = 0; i < sentence.length; i++) {
+        sentence[i] = sentence[i][0].toUpperCase() + sentence[i].slice(1)
+      }
+      sentence = sentence.join(' ')
+      return sentence
     }
   }
 }

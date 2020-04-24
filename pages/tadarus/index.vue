@@ -22,10 +22,14 @@
           <!--Body-->
           <div class="h-64 max-h-full overflow-y-scroll">
             <div v-for="(topic, index) in $store.state.summary_topic.topics" :key="index" class="mb-2">
-              <span>Ayat {{ topic.from }}-{{ topic.to }}: {{ titleCase(topic.topic) }}</span>
+              <nuxt-link :to="{path: `/tadarus/${$store.state.summary_topic.surah.number}`, hash: `ayah-${topic.from}`}" class="hover:text-blue-500">
+                <span>Ayat {{ topic.from }}-{{ topic.to }}: {{ titleCase(topic.topic) }}</span>
+              </nuxt-link>
               <ul class="list-inside list-disc">
                 <li v-for="(subtopic, index2) in topic.subs" :key="index2">
-                  {{ subtopic.text }}
+                  <nuxt-link :to="{path: `/tadarus/${$store.state.summary_topic.surah.number}`, hash: `ayah-${subtopic.from}`}" class="hover:text-blue-500">
+                    {{ subtopic.text }}
+                  </nuxt-link>
                 </li>
               </ul>
             </div>
@@ -50,7 +54,7 @@
       <h1 class="text-2xl font-bold">
         Tadarus
       </h1>
-      <p>Membaca dan memahami Al Qur'an dengan lebih interaktif. <strong>Bacaan Terakhir: {{ last_read }}</strong></p>
+      <p>Membaca dan memahami Al Qur'an dengan lebih interaktif. <strong>Bacaan Terakhir: <nuxt-link :to="`/tadarus/${last_read.link}`" class="hover:text-blue-500">{{ last_read.text }}</nuxt-link></strong></p>
 
       <!-- Search Bar -->
       <div class="text-gray-600 mt-2">
@@ -94,16 +98,20 @@
               {{ query_data.in_topic.length }} Topik
             </h2>
             <ul v-if="query_data.in_topic.length > 0">
-              <nuxt-link v-for="data in query_data.in_topic" :key="`${data.surah_name}-${data.topic.from}`" :to="`/tadarus/${data.surah_number}`" class="mt-2 text-black hover:text-blue-500">
+              <div v-for="data in query_data.in_topic" :key="`${data.surah_name}-${data.topic.from}`" class="mt-2 text-black">
                 <li class="ml-4 mb-2">
-                  <span class="font-semibold">Dari {{ data.surah_name }} {{ data.topic.from }}-{{ data.topic.to }}</span>: {{ data.topic.topic }}
+                  <nuxt-link :to="{path: `/tadarus/${data.surah_number}`, hash: `ayah-${data.topic.from}`}" class="hover:text-blue-500">
+                    <span class="font-semibold">Dari {{ data.surah_name }} {{ data.topic.from }}-{{ data.topic.to }}</span>: {{ data.topic.topic }}
+                  </nuxt-link>
                   <ul v-if="data.subtopic.length > 0" class="ml-6">
-                    <li v-for="subtopic in data.subtopic" :key="`${data.surah_name}-${subtopic.from}`">
-                      {{ subtopic.subs.text }}
+                    <li v-for="subtopic in data.subtopic" :key="`${data.surah_name}-${subtopic.subs.from}`">
+                      <nuxt-link :to="{path: `/tadarus/${data.surah_number}`, hash: `ayah-${subtopic.subs.from}`}" class="hover:text-blue-500">
+                        {{ subtopic.subs.text }}
+                      </nuxt-link>
                     </li>
                   </ul>
                 </li>
-              </nuxt-link>
+              </div>
             </ul>
             <p v-else class="ml-4">
               Tidak ditemukan
@@ -154,6 +162,7 @@
               },
               surah.topics
             )"
+            class="hover:text-blue-500 hover:bg-gray-300"
           >
             Lihat {{ surah.topics.length }} topik
           </div>
@@ -184,7 +193,7 @@ export default {
       surah_list: {},
       display_modal: false,
       search_result: null,
-      last_read: localStorage.last_read || 'Belum ada'
+      last_read: { text: 'Belum ada', link: '#' }
     }
   },
   mounted () {
@@ -197,6 +206,10 @@ export default {
           localStorage.surah_summary = JSON.stringify(response.surah)
           localStorage.summary_hash = response.hash
         })
+    }
+
+    if (localStorage.last_read) {
+      this.last_read = JSON.parse(localStorage.last_read)
     }
   },
   methods: {
