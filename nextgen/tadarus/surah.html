@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Riset Al Qur'an</title>
+    <title>Nama Surah | Tadarus</title>
     <script src="/js/vue.js"></script>
     <script src="/js/axios.min.js"></script>
     <link href="/css/tailwind.min.css" rel="stylesheet">
@@ -28,7 +28,7 @@
             <div
                 class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
                 <div class="p-4 flex flex-row items-center justify-between"><a href="/" class="nuxt-link-active"><a
-                            href="#"
+                            href="/"
                             class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white">Urusan Al Qur'an</a></a>
                     <button class="md:hidden rounded-lg focus:outline-none focus:shadow-outline"><svg
                             fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
@@ -49,56 +49,42 @@
                     </a></nav>
             </div>
         </header>
-
         <div class="px-4 md:px-6 lg:px-8 mx-10 lg:mx-40 my-10 mt-24">
-            <div class="my-10">
-                <h1 class="text-4xl font-bold">
-                    Ahlan wa sahlan di Urusan Al Qur'an
-                </h1>
-                <p class="pb-4">
-                    [Beta Version - Masih dalam pengembangan]
-                </p>
-                
-                <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 text-center mb-4">
-                    <div v-for="item in menu" class="p-5 border-2">
-                        <h2 class="text-xl font-bold mb-2">{{ item.title }}</h2> 
-                        <p>{{ item.subtitle }}</p>
-                        <a v-if="item.url" :href="item.url">
-                            <button class="mt-4 inline-flex items-center justify-center px-4 py-2 text-base leading-5 rounded-md border font-medium shadow-sm transition ease-in-out duration-150 focus:outline-none focus:shadow-outline bg-blue-600 border-blue-600 text-gray-100 hover:bg-blue-500 hover:border-blue-500 hover:text-gray-100">
-                                Mulai Belajar
-                            </button>
-                        </a>
-                        <a v-else href="#">
-                            <button class="mt-4 inline-flex items-center justify-center px-4 py-2 text-base leading-5 rounded-md border font-medium shadow-sm transition ease-in-out duration-150 focus:outline-none focus:shadow-outline bg-gray-600 border-gray-600 text-gray-100 hover:bg-gray-500 hover:border-gray-500 hover:text-gray-100" disabled>
-                                Coming Soon
-                            </button>
-                        </a>
-                        
-                    </div>
-                </div>
-            </div>
-            <hr class="my-3">
+            <h1 class="text-2xl font-bold">
+                {{ surah_data.name_latin }} - {{ surah_data.translations.id.name }}
+            </h1>
+            <p>Tafsir <strong>{{ surah_data.tafsir.id.kemenag.name }}</strong>. Diambil dari <strong>{{ surah_data.tafsir.id.kemenag.name }}</strong></p>
 
+            <ol class="mt-5" style="list-style: decimal">
+                <li v-for="number in parseInt(surah_data.number_of_ayah)" class="pb-5">
+                    <p class="text-lg">{{ surah_data.translations.id.text[number] }}</p>
+                    <details>
+                    <summary>Lihat tafsir</summary>
+                    <p style="white-space: pre-wrap;"><em>tafsir:</em> {{ surah_data.tafsir.id.kemenag.text[number] }} </p>
+                    <hr class="my-2">
+                    </details>
+                </li>
+            </ol>
+
+            <!-- Surah Container -->
+            <!-- End of Surah Container -->
         </div>
     </div>
 
     <script>
+        var surah_url =
+            '/data/surah/1.json'
+
         var QuranApp = new Vue({
             el: '#app',
             data: {
-                menu: [
-                    {
-                        title:'Tadarus', 
-                        subtitle:'Lakukan riset untuk memahami Al Qur\'an lebih baik lagi dengan topik dan fitur pencarian.', 
-                        url:'/tadarus'
-                    },
-                    {
-                        title:'Murottal', 
-                        subtitle:'Merekam bacaan Anda untuk didengar dilain waktu dan di dapat diperbaiki oleh orang lain.', 
-                        url:''
-                    },
-                ]
-            }
+                surah_data: []
+            },
+            mounted() {
+                axios
+                    .get(surah_url)
+                    .then(response => (this.surah_data = response.data.data))
+            },
         })
     </script>
 
