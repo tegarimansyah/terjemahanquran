@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Riset Al Qur'an | Tadarus</title>
+    <script src="/js/vue.js"></script>
+    <script src="/js/axios.min.js"></script>
+    <link href="/css/tailwind.min.css" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'LPMQ_IsepMisbah';
+            src: url('/fonts/LPMQIsepMisbah.eot'); /* IE9 Compat Modes */
+            src: url('/fonts/LPMQIsepMisbah.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+                url('/fonts/LPMQIsepMisbah.ttf')  format('truetype'), /* Safari, Android, iOS */
+                url('/fonts/LPMQIsepMisbah.woff') format('woff'), /* Modern Browsers */
+                url('/fonts/LPMQIsepMisbah.svg#svgFontName') format('svg'); /* Legacy iOS */
+        }
+        .arabic {
+            font-family: "LPMQ_IsepMisbah";
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="app">
+        <header class="w-full text-gray-700 bg-white dark-mode:text-gray-200 dark-mode:bg-gray-800 fixed top-0 left-0">
+            <div
+                class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+                <div class="p-4 flex flex-row items-center justify-between"><a href="/" class="nuxt-link-active"><a
+                            href="/"
+                            class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white">Urusan Al Qur'an</a></a>
+                    <button class="md:hidden rounded-lg focus:outline-none focus:shadow-outline"><svg
+                            fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
+                            <path fill-rule="evenodd"
+                                d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
+                                clip-rule="evenodd" class="flex"></path>
+                            <path fill-rule="evenodd"
+                                d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                                clip-rule="evenodd" class="hidden"></path>
+                        </svg></button></div>
+                <nav class="flex-col flex-grow pb-4 md:pb-0 md:justify-end md:flex-row md:flex hidden"><a
+                        href="/tentang"
+                        class="nav_text md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline">
+                        Tentang
+                    </a> <a href="/kontributor"
+                        class="nav_text md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline">
+                        Kontributor
+                    </a></nav>
+            </div>
+        </header>
+        <div class="px-4 md:px-6 lg:px-8 mx-10 lg:mx-40 my-10 mt-24">
+            <h1 class="text-2xl font-bold">
+                Tadarus
+            </h1>
+            <p>Membaca dan memahami Al Qur'an dengan lebih interaktif. 
+                <!-- <strong>Bacaan Terakhir: <a
+                        href="/tadarus/2/#ayah-1" class="hover:text-blue-500">Surat Al-Baqarah Ayat 1</a>
+                </strong> -->
+            </p>
+            <!-- Search Bar -->
+            <div class="text-gray-600 mt-2">
+                <input
+                v-model="search_query"
+                v-on:input="searchbar"
+                class="border-2 border-gray-300 bg-white w-full h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none"
+                autocomplete="off"
+                type="search"
+                name="search"
+                placeholder="Cari Surat, Arti atau Topik dalam Al Qur'an"
+                >
+            </div>
+            <hr class="my-3">
+            
+            <!-- Search Result -->
+            <div v-if="search_result !== null">
+                <span class="mb-3 block text-2xl">{{ search_result }}</span>
+
+                <div v-if="search_query.length > 2">
+                    <!-- Search by Surah Name Container -->
+                    <div>
+                        <hr class="mt-2 mb-4 border-blue-400">
+                        <h2 class="font-semibold mb-2">
+                        {{ query_data.in_name.length }} Nama Surat Ditemukan
+                        </h2>
+                        <div v-if="query_data.in_name.length > 0" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-2 text-center mb-4">
+                            <div v-for="surah in query_data.in_name" class="p-5 border-2">
+                                <h2 class="text-4xl mb-2 arabic">{{ surah.name }}</h2>
+                                <p>{{ surah.name_latin }} - {{ surah.name_translation }}</p>
+                                <p class="pb-4"> (QS {{ surah.number }})</p>
+                            </div>
+                        </div>
+                        <p v-else class="ml-4">
+                            Tidak ditemukan
+                        </p>
+                    </div>
+                    <!-- End of Search by Surah Name Container -->
+
+                    <!-- Based on Topic -->
+                    <!-- Search by Topic Container -->
+                    <div>
+                        <hr class="mt-2 mb-4 border-blue-400">
+                        <h2 class="font-semibold mb-2">
+                        {{ query_data.in_topic.length }} Topik Ditemukan
+                        </h2>
+                        <div v-if="query_data.in_topic.length > 0">
+                            <div v-for="(surah, index) in query_data.in_topic">
+                                <hr class="my-3">
+                                <p class="pb-1 text-lg">
+                                    {{ index+1 }}. {{ toTitleCase(surah.topic.topic) }}
+                                    <span class="text-sm">(QS {{ surah.surah_name_latin }} - {{ surah.surah_name_translation }} {{ surah.surah_number }}:{{ surah.topic.from }}-{{ surah.topic.to }})</span>
+                                </p>
+                                <p class="pb-1 text-sm" v-if="surah.subtopic.length > 0">
+                                    Sub topik:
+                                </p>
+                                <div v-if="surah.subtopic.length > 0" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 text-center mb-4">
+                                    <div v-for="subtopic in surah.subtopic" class="p-5 border-2">
+                                        <p>
+                                            {{ subtopic.subs.text }}
+                                        </p>
+                                        <p>
+                                            (QS {{ surah.surah_number }}:{{ subtopic.subs.from }}-{{ subtopic.subs.to }})
+                                        </p>
+                                    </div>
+                                </div>
+                                <div v-else class="pb-5"></div>
+                            </div>
+                        </div>
+                        <p v-else class="ml-4">
+                            Tidak ditemukan
+                            <hr class="my-3">
+                        </p>
+                    </div>
+
+                    <!-- End of Search by Topic Container -->
+
+                    <!-- Based on Translation -->
+                    <div>
+                        <hr class="mt-2 mb-4 border-blue-400">
+                        <h2 class="font-semibold">
+                        Arti
+                        </h2>
+                        <ul>
+                        ( COMING SOON )
+                        </ul>
+                    </div>
+                    
+                    <!-- Based on Tafsir -->
+                    <div>
+                        <hr class="mt-2 mb-4 border-blue-400">
+                        <h2 class="font-semibold">
+                        Tafsir
+                        </h2>
+                        <ul>
+                        ( COMING SOON )
+                        </ul>
+                    </div>
+                </div>
+                <div v-else class="center">
+                    <p>Ketik minimal 3 huruf</p>
+                </div>
+                <hr class="mt-5">
+            </div>
+
+            <!-- Surah Container -->
+            <div v-for="surah in all_surah" v-if="search_query.length == 0" class="my-10">
+                <h2 class="text-4xl arabic">{{ surah.name }}</h2>
+                <p class="pb-4">{{ surah.name_latin }} - {{ surah.name_translation }}</p>
+                <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 text-center mb-4">
+                    <a v-bind:href="'/tadarus/surah.html/?surah=' + surah.number + '#' + topic.from" v-for="topic in surah.topics">
+                    <div class="p-5 border-2">
+                        <p>{{ toTitleCase(topic.topic) }}</p> 
+                        <p>(QS {{ surah.number }}:{{ topic.from }}-{{ topic.to }})</p>
+                    </div>
+                    </a>
+                </div>
+                <hr class="my-3">
+            </div>
+            <!-- End of Surah Container -->
+        </div>
+    </div>
+
+    <script>
+        var summary_url =
+            '/data/summary.json'
+
+        var QuranApp = new Vue({
+            el: '#app',
+            data: {
+                all_surah: [],
+                search_query: '',
+                query_data: {
+                    in_name: [],
+                    in_topic: [],
+                    in_translation: [],
+                    in_tafsir: []
+                },
+                search_result: null,
+            },
+            mounted() {
+                axios
+                    .get(summary_url)
+                    .then(response => (this.all_surah = response.data.surah))
+            },
+            methods: {
+                toTitleCase: function (str) {
+                    return str.replace(
+                        /\w\S*/g,
+                        function (txt) {
+                            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                        }
+                    )
+                },
+                searchbar (query) {
+                    if (this.search_query !== '') {
+                        this.search_result = `Hasil dari "${this.search_query}"`
+                        if (this.search_query.length > 2) {
+                        this.filterName(this.all_surah, this.search_query)
+                        this.filterTopic(this.all_surah, this.search_query)
+                        }
+                    } else {
+                        this.search_result = null
+                    }
+                },
+                filterName (arr, searchKey) {
+                    this.query_data.in_name = arr.filter(
+                        obj => obj.name_latin.toLowerCase().includes(searchKey.toLowerCase()) || obj.name_translation.toLowerCase().includes(searchKey.toLowerCase())
+                    )
+                },
+                filterTopic (arr, searchKey) {
+                    this.query_data.in_topic = []
+                    arr.forEach((surah) => {
+                        surah.topics.forEach((topic) => {
+                        const subtopic = this.filterSubTopic(topic.subs, searchKey)
+                        if (topic.topic.toLowerCase().includes(searchKey.toLowerCase()) || subtopic.length > 0) {
+                            this.query_data.in_topic.push({ surah_name: surah.name, surah_name_latin: surah.name_latin, surah_name_translation: surah.name_translation, surah_number: surah.number, topic, subtopic })
+                        }
+                        })
+                    })
+                },
+                filterSubTopic (arr, searchKey) {
+                    if (arr === undefined) {
+                        return []
+                    }
+                    const data = []
+                    arr.forEach((subs) => {
+                        if (subs.text.toLowerCase().includes(searchKey.toLowerCase())) {
+                        data.push({ subs })
+                        }
+                    })
+                    return data
+                },
+            },
+        })
+    </script>
+
+</body>
+
+</html>

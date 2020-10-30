@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Riset Al Qur'an</title>
+    <script src="/js/vue.js"></script>
+    <script src="/js/axios.min.js"></script>
+    <link href="/css/tailwind.min.css" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'LPMQ_IsepMisbah';
+            src: url('/fonts/LPMQIsepMisbah.eot'); /* IE9 Compat Modes */
+            src: url('/fonts/LPMQIsepMisbah.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+                url('/fonts/LPMQIsepMisbah.ttf')  format('truetype'), /* Safari, Android, iOS */
+                url('/fonts/LPMQIsepMisbah.woff') format('woff'), /* Modern Browsers */
+                url('/fonts/LPMQIsepMisbah.svg#svgFontName') format('svg'); /* Legacy iOS */
+        }
+        .arabic {
+            font-family: "LPMQ_IsepMisbah";
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="app">
+        <header class="w-full text-gray-700 bg-white dark-mode:text-gray-200 dark-mode:bg-gray-800 fixed top-0 left-0">
+            <div
+                class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+                <div class="p-4 flex flex-row items-center justify-between"><a href="/" class="nuxt-link-active"><a
+                            href="#"
+                            class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white">Urusan Al Qur'an</a></a>
+                    <button class="md:hidden rounded-lg focus:outline-none focus:shadow-outline"><svg
+                            fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
+                            <path fill-rule="evenodd"
+                                d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
+                                clip-rule="evenodd" class="flex"></path>
+                            <path fill-rule="evenodd"
+                                d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                                clip-rule="evenodd" class="hidden"></path>
+                        </svg></button></div>
+                <nav class="flex-col flex-grow pb-4 md:pb-0 md:justify-end md:flex-row md:flex hidden"><a
+                        href="/tentang"
+                        class="nav_text md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline">
+                        Tentang
+                    </a> <a href="/kontributor"
+                        class="nav_text md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline">
+                        Kontributor
+                    </a></nav>
+            </div>
+        </header>
+
+        <div class="px-4 md:px-6 lg:px-8 mx-10 lg:mx-40 my-10 mt-24">
+            <div class="my-10">
+                <h1 class="text-4xl font-bold">
+                    Ahlan wa sahlan di Urusan Al Qur'an
+                </h1>
+                <p class="pb-4">
+                    [Beta Version - Masih dalam pengembangan]
+                </p>
+                
+                <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 text-center mb-4">
+                    <div v-for="item in menu" class="p-5 border-2">
+                        <h2 class="text-xl font-bold mb-2">{{ item.title }}</h2> 
+                        <p>{{ item.subtitle }}</p>
+                        <a v-if="item.url" :href="item.url">
+                            <button class="mt-4 inline-flex items-center justify-center px-4 py-2 text-base leading-5 rounded-md border font-medium shadow-sm transition ease-in-out duration-150 focus:outline-none focus:shadow-outline bg-blue-600 border-blue-600 text-gray-100 hover:bg-blue-500 hover:border-blue-500 hover:text-gray-100">
+                                Mulai Belajar
+                            </button>
+                        </a>
+                        <a v-else href="#">
+                            <button class="mt-4 inline-flex items-center justify-center px-4 py-2 text-base leading-5 rounded-md border font-medium shadow-sm transition ease-in-out duration-150 focus:outline-none focus:shadow-outline bg-gray-600 border-gray-600 text-gray-100 hover:bg-gray-500 hover:border-gray-500 hover:text-gray-100" disabled>
+                                Coming Soon
+                            </button>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <hr class="my-3">
+
+        </div>
+    </div>
+
+    <script>
+        var QuranApp = new Vue({
+            el: '#app',
+            data: {
+                menu: [
+                    {
+                        title:'Tadarus', 
+                        subtitle:'Lakukan riset untuk memahami Al Qur\'an lebih baik lagi dengan topik dan fitur pencarian.', 
+                        url:'/tadarus'
+                    },
+                    {
+                        title:'Murottal', 
+                        subtitle:'Merekam bacaan Anda untuk didengar dilain waktu dan di dapat diperbaiki oleh orang lain.', 
+                        url:''
+                    },
+                ]
+            }
+        })
+    </script>
+
+</body>
+
+</html>

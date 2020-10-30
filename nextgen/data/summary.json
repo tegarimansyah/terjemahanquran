@@ -1,0 +1,5752 @@
+{
+    "surah": [
+      {
+        "number": "1",
+        "name": "الفاتحة",
+        "name_latin": "Al-Fatihah",
+        "name_translation": "Pembukaan",
+        "number_of_ayah": "7",
+        "topics": [
+          {
+            "from": 1,
+            "to": 4,
+            "topic": "Pujian bagi Allah"
+          },
+          {
+            "from": 5,
+            "to": 5,
+            "topic": "Pernyataan penghambaan"
+          },
+          {
+            "from": 6,
+            "to": 7,
+            "topic": "Permintaan untuk mendapatkan jalan yang lurus"
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "name": "البقرة",
+        "name_latin": "Al-Baqarah",
+        "name_translation": "Sapi",
+        "number_of_ayah": "286",
+        "topics": [
+          {
+            "from": 1,
+            "to": 20,
+            "topic": "TIGA GOLONGAN MANUSIA DALAM MENGHADAPI AL QUR'AN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 5,
+                "text": "Golongan Mukmin"
+              },
+              {
+                "from": 6,
+                "to": 7,
+                "text": "Golongan kafir"
+              },
+              {
+                "from": 8,
+                "to": 20,
+                "text": "Golongan munafik"
+              }
+            ]
+          },
+          {
+            "from": 21,
+            "to": 39,
+            "topic": "KEESAAN DAN KEKUASAAN ALLAH",
+            "subs": [
+              {
+                "from": 21,
+                "to": 22,
+                "text": "Perintah menyembah Allah Yang Maha Esa"
+              },
+              {
+                "from": 23,
+                "to": 24,
+                "text": "Tantangan kepada kaum musyrikin mengenai Al Qur'an"
+              },
+              {
+                "from": 25,
+                "to": 25,
+                "text": "Balasan untuk orang-orang yang beriman"
+              },
+              {
+                "from": 26,
+                "to": 27,
+                "text": "Perumpamaan-perumpamaan dalam Al Qur'an dan hikmah-hikmahnya"
+              },
+              {
+                "from": 28,
+                "to": 29,
+                "text": "Bukti-bukti kekuasaan Allah"
+              },
+              {
+                "from": 30,
+                "to": 39,
+                "text": "Penciptaan manusia dan penguasaannya di bumi"
+              }
+            ]
+          },
+          {
+            "from": 40,
+            "to": 141,
+            "topic": "PERINGATAN ALLAH KEPADA BANI ISRAIL",
+            "subs": [
+              {
+                "from": 40,
+                "to": 48,
+                "text": "Beberapa perintah dan larangan Allah kepada Bani Israil"
+              },
+              {
+                "from": 49,
+                "to": 60,
+                "text": "Perincian nikmat Allah kepada Bani Israil"
+              },
+              {
+                "from": 61,
+                "to": 61,
+                "text": "Pembalasan terhadap sikap dan perbuatan Bani Israil"
+              },
+              {
+                "from": 62,
+                "to": 62,
+                "text": "Pahala orang yang beriman"
+              },
+              {
+                "from": 63,
+                "to": 66,
+                "text": "Pembalasan terhadap Bani Israil yang melanggar perjanjian dengan Allah"
+              },
+              {
+                "from": 67,
+                "to": 74,
+                "text": "Kisah penyembelihan sapi betina"
+              },
+              {
+                "from": 75,
+                "to": 82,
+                "text": "Keimanan orang Yahudi sukar diharapkan di masa Rasulullah SAW"
+              },
+              {
+                "from": 83,
+                "to": 86,
+                "text": "Bani Israil mengingkari janjinya dengan Allah"
+              },
+              {
+                "from": 87,
+                "to": 91,
+                "text": "Sikap orang Yahudi terhadap para Rasul dan Kitab-kitab yang diturunkan Allah"
+              },
+              {
+                "from": 92,
+                "to": 96,
+                "text": "Penyembahan yang dilakukan bangsa Yahudi terhadap anak sapi merupakan tanda kecenderungan mereka kepada benda"
+              },
+              {
+                "from": 97,
+                "to": 101,
+                "text": "Memusuhi Jibril berarti memusuhi Allah yang mengutusnya"
+              },
+              {
+                "from": 102,
+                "to": 103,
+                "text": "Tuduhan orang Yahudi terhadap Nabi Sulaiman A.S."
+              },
+              {
+                "from": 104,
+                "to": 105,
+                "text": "Ketidaksopanan orang-orang Yahudi terhadap Nabi dan sahabat-sahabatnya"
+              },
+              {
+                "from": 106,
+                "to": 113,
+                "text": "Menasakhkan sesuatu ayat adalah hak Allah"
+              },
+              {
+                "from": 114,
+                "to": 118,
+                "text": "Tindakan-tindakan menghalangi beribadah"
+              },
+              {
+                "from": 119,
+                "to": 123,
+                "text": "Larangan mengikuti Yahudi dan Nasrani"
+              },
+              {
+                "from": 124,
+                "to": 129,
+                "text": "Perjanjian dengan Nabi Ibrahim A.S."
+              },
+              {
+                "from": 130,
+                "to": 141,
+                "text": "Agama Nabi Ibrahim A.S."
+              }
+            ]
+          },
+          {
+            "from": 142,
+            "to": 214,
+            "topic": "KEESAAN TUHANLAH YANG AKHIRNYA MENANG",
+            "subs": [
+              {
+                "from": 142,
+                "to": 152,
+                "text": "Sekitar pemindahan kiblat"
+              },
+              {
+                "from": 153,
+                "to": 157,
+                "text": "Cobaan berat dalam menegakkan kebenaran"
+              },
+              {
+                "from": 158,
+                "to": 158,
+                "text": "Manasik Haji"
+              },
+              {
+                "from": 159,
+                "to": 162,
+                "text": "Laknat untuk orang-orang yang menyembunyikan ayat-ayat Allah dan orang-orang kafir"
+              },
+              {
+                "from": 163,
+                "to": 171,
+                "text": "Allah Yang Berkuasa dan Yang menentukan"
+              },
+              {
+                "from": 172,
+                "to": 176,
+                "text": "Makanan yang halal dan yang haram"
+              },
+              {
+                "from": 177,
+                "to": 177,
+                "text": "Pokok-pokok kebajikan"
+              },
+              {
+                "from": 178,
+                "to": 179,
+                "text": "Qishash dan hikmahnya"
+              },
+              {
+                "from": 180,
+                "to": 182,
+                "text": "Wasiat"
+              },
+              {
+                "from": 183,
+                "to": 188,
+                "text": "Puasa"
+              },
+              {
+                "from": 189,
+                "to": 195,
+                "text": "Berjihad dengan jiwa dan harta di jalan Allah"
+              },
+              {
+                "from": 196,
+                "to": 203,
+                "text": "Haji"
+              },
+              {
+                "from": 204,
+                "to": 210,
+                "text": "Perbuatan orang-orang munafik"
+              },
+              {
+                "from": 211,
+                "to": 214,
+                "text": "Hikmah diutusnya para Rasul dan pelbagai cobaan bagi para pengikutnya"
+              }
+            ]
+          },
+          {
+            "from": 215,
+            "to": 252,
+            "topic": "BEBERAPA HUKUM SYARIAT",
+            "subs": [
+              {
+                "from": 215,
+                "to": 215,
+                "text": "Orang-orang yang diberi nafkah"
+              },
+              {
+                "from": 216,
+                "to": 218,
+                "text": "Hukum perang dalam Islam"
+              },
+              {
+                "from": 219,
+                "to": 219,
+                "text": "Khamar, judi, harta yang dinafkahkan dan pemeliharaan anak yatim"
+              },
+              {
+                "from": 220,
+                "to": 237,
+                "text": "Pokok-pokok hukum perkawinan, perceraian dan penyusuan"
+              },
+              {
+                "from": 238,
+                "to": 239,
+                "text": "Kewajiban mengerjakan shalat meskipun dalam keadaan takut"
+              },
+              {
+                "from": 240,
+                "to": 242,
+                "text": "Wasiat untuk istri dan mut'ah"
+              },
+              {
+                "from": 243,
+                "to": 252,
+                "text": "Kewajiban berjihad dan mengeluarkan harta di jalan Allah"
+              }
+            ]
+          },
+          {
+            "from": 253,
+            "to": 260,
+            "topic": "TENTANG RASUL-RASUL DAN KEKUASAAN ALLAH",
+            "subs": [
+              {
+                "from": 253,
+                "to": 253,
+                "text": "Keistimewaan dan perbedaan derajat rasul-rasul"
+              },
+              {
+                "from": 254,
+                "to": 254,
+                "text": "Anjuran menginfakkan harta"
+              },
+              {
+                "from": 255,
+                "to": 255,
+                "text": "Ayat Kursi"
+              },
+              {
+                "from": 256,
+                "to": 257,
+                "text": "Tidak ada paksaan memeluk agama Islam"
+              },
+              {
+                "from": 258,
+                "to": 260,
+                "text": "Membangkitkan kembali orang-orang yang sudah mati"
+              }
+            ]
+          },
+          {
+            "from": 261,
+            "to": 286,
+            "topic": "CARA-CARA PENGGUNAAN HARTA DAN HUKUM-HUKUMNYA",
+            "subs": [
+              {
+                "from": 261,
+                "to": 274,
+                "text": "Menginfakkan harta di jalan Allah"
+              },
+              {
+                "from": 275,
+                "to": 281,
+                "text": "Hukum riba"
+              },
+              {
+                "from": 282,
+                "to": 283,
+                "text": "Kesaksian dalam muamalah"
+              },
+              {
+                "from": 284,
+                "to": 286,
+                "text": "Pujian Allah terhadap para mukmin dan doa mereka"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "name": "اٰل عمران",
+        "name_latin": "Ali 'Imran",
+        "name_translation": "Keluarga Imran",
+        "number_of_ayah": "200",
+        "topics": [
+          {
+            "from": 1,
+            "to": 32,
+            "topic": "KEESAAN DAN KEKUASAAN ALLAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 9,
+                "text": "Al Qur'an dan Kitab-kitab terdahulu"
+              },
+              {
+                "from": 10,
+                "to": 17,
+                "text": "Ancaman Allah kepada orang kafir dan pengaruh harta"
+              },
+              {
+                "from": 18,
+                "to": 20,
+                "text": "Pernyataan Allah tentang keesaan dan keadilan-Nya serta agama yang diridhai-Nya"
+              },
+              {
+                "from": 21,
+                "to": 22,
+                "text": "Pembalasan terhadap orang-orang yang membunuh nabi-nabi"
+              },
+              {
+                "from": 23,
+                "to": 25,
+                "text": "Orang-orang Yahudi berpaling dari hukum Allah"
+              },
+              {
+                "from": 26,
+                "to": 27,
+                "text": "Bukti-bukti kekuasaan dan kebenaran Allah SWT"
+              },
+              {
+                "from": 28,
+                "to": 30,
+                "text": "Larangan berpihak kepada orang kafir"
+              },
+              {
+                "from": 31,
+                "to": 32,
+                "text": "Bukti cinta kepada Allah SWT"
+              }
+            ]
+          },
+          {
+            "from": 33,
+            "to": 92,
+            "topic": "KELUARGA 'IMRAN",
+            "subs": [
+              {
+                "from": 33,
+                "to": 44,
+                "text": "Keutamaan keluarga 'Imran"
+              },
+              {
+                "from": 45,
+                "to": 63,
+                "text": "Kisah Al Masih 'Isa putra Maryam"
+              },
+              {
+                "from": 64,
+                "to": 68,
+                "text": "Ajakan kepada agama Tauhid Millatu Ibrahim"
+              },
+              {
+                "from": 69,
+                "to": 74,
+                "text": "Sikap Ahli Kitab terhadap orang Islam"
+              },
+              {
+                "from": 75,
+                "to": 78,
+                "text": "Keburukan-keburukan orang Yahudi"
+              },
+              {
+                "from": 79,
+                "to": 80,
+                "text": "Seorang nabi tidak akan menyuruh manusia menyembah dirinya"
+              },
+              {
+                "from": 81,
+                "to": 92,
+                "text": "Janji para Nabi kepada Allah tentang kenabian Muhammad SAW"
+              }
+            ]
+          },
+          {
+            "from": 93,
+            "to": 120,
+            "topic": "BANTAHAN ALLAH TERHADAP PENDAPAT-PENDAPAT AHLI KITAB YANG KELIRU",
+            "subs": [
+              {
+                "from": 93,
+                "to": 95,
+                "text": "Bantahan terhadap larangan orang Yahudi tentang makanan"
+              },
+              {
+                "from": 96,
+                "to": 99,
+                "text": "Bantahan terhadap pengakuan Ahli Kitab tentang rumah ibadah yang pertama"
+              },
+              {
+                "from": 100,
+                "to": 109,
+                "text": "Keharusan menjaga persatuan"
+              },
+              {
+                "from": 110,
+                "to": 115,
+                "text": "Kelebihan umat Islam dari umat lain"
+              },
+              {
+                "from": 116,
+                "to": 117,
+                "text": "Perumpamaan harta yang diinfakkan orang-orang kafir"
+              },
+              {
+                "from": 118,
+                "to": 120,
+                "text": "Larangan mengambil orang Yahudi sebagai teman kepercayaan"
+              }
+            ]
+          },
+          {
+            "from": 121,
+            "to": 200,
+            "topic": "KISAH PERANG BADAR DAN UHUD",
+            "subs": [
+              {
+                "from": 121,
+                "to": 129,
+                "text": "Sabar dan tawakkal kepada Allah pangkal kemenangan"
+              },
+              {
+                "from": 130,
+                "to": 131,
+                "text": "Larangan melakukan riba dan perintah untuk bertakwa"
+              },
+              {
+                "from": 132,
+                "to": 148,
+                "text": "Perintah taat kepada Allah dan Rasul, serta sifat-sifat orang yang bertakwa"
+              },
+              {
+                "from": 149,
+                "to": 151,
+                "text": "Peringatan supaya waspada terhadap ajakan orang-orang kafir"
+              },
+              {
+                "from": 152,
+                "to": 155,
+                "text": "Sebab-sebab kekalahan umat Islam dalam perang Uhud"
+              },
+              {
+                "from": 156,
+                "to": 158,
+                "text": "Menanamkan jiwa berkorban dan berjihad"
+              },
+              {
+                "from": 159,
+                "to": 164,
+                "text": "Akhlak dan beberapa sifat Nabi Muhammad SAW"
+              },
+              {
+                "from": 165,
+                "to": 168,
+                "text": "Beberapa sifat orang-orang munafik"
+              },
+              {
+                "from": 169,
+                "to": 175,
+                "text": "Pahala orang-orang yang mati syahid"
+              },
+              {
+                "from": 176,
+                "to": 179,
+                "text": "Ayat-ayat yang menenteramkan hati Nabi Muhammad SAW"
+              },
+              {
+                "from": 180,
+                "to": 189,
+                "text": "Kikir dan dusta serta balasannya"
+              },
+              {
+                "from": 190,
+                "to": 195,
+                "text": "Faedah selalu mengingat Allah dan merenungkan ciptaan-Nya"
+              },
+              {
+                "from": 196,
+                "to": 200,
+                "text": "Kesenangan semu bagi orang kafir dan kebahagiaan abadi bagi orang mukmin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "name": "النساۤء",
+        "name_latin": "An-Nisa'",
+        "name_translation": "Wanita",
+        "number_of_ayah": "176",
+        "topics": [
+          {
+            "from": 1,
+            "to": 35,
+            "topic": "HUKUM KELUARGA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Kewajiban para washi terhadap asuhannya dan para wali terhadap orang yang di bawah perwaliannya"
+              },
+              {
+                "from": 7,
+                "to": 14,
+                "text": "Pokok-pokok hukum warisan"
+              },
+              {
+                "from": 15,
+                "to": 18,
+                "text": "Dasar-dasar untuk menetapkan perbuatan keji dan hukumnya"
+              },
+              {
+                "from": 19,
+                "to": 21,
+                "text": "Cara bergaul dengan istri"
+              },
+              {
+                "from": 22,
+                "to": 28,
+                "text": "Beberapa hukum pernikahan"
+              },
+              {
+                "from": 29,
+                "to": 33,
+                "text": "Islam melindungi hak milik laki-laki dan perempuan"
+              },
+              {
+                "from": 34,
+                "to": 35,
+                "text": "Beberapa peraturan hidup bersuami-istri"
+              }
+            ]
+          },
+          {
+            "from": 36,
+            "to": 42,
+            "topic": "KEWAJIBAN TERHADAP ALLAH DAN TERHADAP SESAMA MANUSIA"
+          },
+          {
+            "from": 43,
+            "to": 1,
+            "topic": "KESUCIAN LAHIR DAN BATIN",
+            "subs": [
+              {
+                "from": 43,
+                "to": 43,
+                "text": "Kesucian zhahir dan batin dalam shalat"
+              },
+              {
+                "from": 44,
+                "to": 57,
+                "text": "Orang yang tidak suci batinnya dan ancaman Allah terhadapnya"
+              }
+            ]
+          },
+          {
+            "from": 58,
+            "to": 70,
+            "topic": "DASAR-DASAR PEMERINTAHAN"
+          },
+          {
+            "from": 71,
+            "to": 104,
+            "topic": "TAKTIK, TUJUAN, DAN ADAB PERANG DALAM ISLAM",
+            "subs": [
+              {
+                "from": 71,
+                "to": 76,
+                "text": "Keharusan siap siaga terhadap musuh"
+              },
+              {
+                "from": 77,
+                "to": 83,
+                "text": "Sikap orang munafik dalam menghadapi peperangan"
+              },
+              {
+                "from": 84,
+                "to": 87,
+                "text": "Kewajiban berperang dan beberapa adabnya"
+              },
+              {
+                "from": 88,
+                "to": 91,
+                "text": "Cara menghadapi orang munafik"
+              },
+              {
+                "from": 92,
+                "to": 93,
+                "text": "Hukum membunuh seseorang Muslim"
+              },
+              {
+                "from": 94,
+                "to": 94,
+                "text": "Berlaku telitilah mengambil suatu tindakan"
+              },
+              {
+                "from": 95,
+                "to": 96,
+                "text": "Perbedaan antara orang yang berjihad dan yang tidak berjihad karena uzur, dengan yang tidak berjihad"
+              },
+              {
+                "from": 97,
+                "to": 100,
+                "text": "Kewajiban berhijrah di jalan Allah dan balasannya"
+              },
+              {
+                "from": 101,
+                "to": 104,
+                "text": "Kewajiban mengerjakan shalat dalam keadaan apa pun"
+              }
+            ]
+          },
+          {
+            "from": 105,
+            "to": 152,
+            "topic": "KEHARUSAN MENJAGA KEBENARAN DAN KEADILAN",
+            "subs": [
+              {
+                "from": 105,
+                "to": 115,
+                "text": "Keharusan bersikap adil dan tidak memihak dalam menetapkan hukum"
+              },
+              {
+                "from": 116,
+                "to": 122,
+                "text": "Kejelekan syirik dan pengaruh setan"
+              },
+              {
+                "from": 123,
+                "to": 126,
+                "text": "Pembalasan sesuai dengan perbuatan, bukan menurut angan-angan"
+              },
+              {
+                "from": 127,
+                "to": 130,
+                "text": "Keharusan memberikan hak-hak orang lemah dan cara menyelesaikan kesulitan rumah tangga"
+              },
+              {
+                "from": 131,
+                "to": 134,
+                "text": "Keharusan bertakwa"
+              },
+              {
+                "from": 135,
+                "to": 136,
+                "text": "Keharusan berlaku adil"
+              },
+              {
+                "from": 137,
+                "to": 147,
+                "text": "Beberapa keburukan orang munafik"
+              },
+              {
+                "from": 148,
+                "to": 149,
+                "text": "Larangan mengucapkan perkataan buruk"
+              },
+              {
+                "from": 150,
+                "to": 152,
+                "text": "Akibat kekafiran dan buah keimanan"
+              }
+            ]
+          },
+          {
+            "from": 153,
+            "to": 176,
+            "topic": "KESATUAN AGAMA ALLAH",
+            "subs": [
+              {
+                "from": 153,
+                "to": 162,
+                "text": "Pembalasan Allah terhadap pelanggaran-pelanggaran orang Yahudi"
+              },
+              {
+                "from": 163,
+                "to": 170,
+                "text": "Persamaan pokok agama yang diwahyukan kepada para rasul"
+              },
+              {
+                "from": 171,
+                "to": 175,
+                "text": "Pandangan Al Qur'an terhadap Nabi 'Isa A.S."
+              },
+              {
+                "from": 176,
+                "to": 176,
+                "text": "Warisan Kalalah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "name": "الماۤئدة",
+        "name_latin": "Al-Ma'idah",
+        "name_translation": "Hidangan",
+        "number_of_ayah": "120",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "JANJI PRASETIA KEPADA ALLAH DAN PENYEMPURNAAN AGAMA ISLAM"
+          },
+          {
+            "from": 6,
+            "to": 7,
+            "topic": "WUDHU, MANDI, DAN TAYAMUM"
+          },
+          {
+            "from": 8,
+            "to": 11,
+            "topic": "KEWAJIBAN BERSIKAP ADIL DAN JUJUR"
+          },
+          {
+            "from": 12,
+            "to": 19,
+            "topic": "PENGINGKARAN JANJI PRASETIA OLEH ORANG YAHUDI DAN NASRANI"
+          },
+          {
+            "from": 20,
+            "to": 26,
+            "topic": "KEENGGANAN BANGSA YAHUDI MENAATI PERINTAH NABI MUSA A.S. UNTUK MEMASUKI PALESTINA DAN AKIBATNYA"
+          },
+          {
+            "from": 27,
+            "to": 32,
+            "topic": "KISAH PEMBUNUHAN PERTAMA DAN BESARNYA MALAPETAKA AKIBAT PEMBUNUHAN"
+          },
+          {
+            "from": 33,
+            "to": 40,
+            "topic": "HUKUMAN BAGI PERUSUH DAN PENGACAU KEAMANAN"
+          },
+          {
+            "from": 41,
+            "to": 50,
+            "topic": "PENGINGKARAN ORANG YAHUDI TERHADAP HUKUM-HUKUM TAURAT DAN KEWAJIBAN MEMUTUSKAN PERKARA MENURUT HUKUM YANG DITURUNKAN ALLAH"
+          },
+          {
+            "from": 51,
+            "to": 63,
+            "topic": "LARANGAN BERTEMAN AKRAB DENGAN ORANG YAHUDI DAN NASRANI DAN AKIBAT MELANGGARNYA"
+          },
+          {
+            "from": 64,
+            "to": 66,
+            "topic": "LAKNAT ALLAH TERHADAP ORANG YAHUDI"
+          },
+          {
+            "from": 67,
+            "to": 71,
+            "topic": "KEWAJIBAN RASULULLAH SAW MENYAMPAIKAN AGAMA"
+          },
+          {
+            "from": 72,
+            "to": 77,
+            "topic": "PERNYATAAN ALLAH TENTANG KEKAFIRAN ORANG YANG MEYAKINI 'ISA A.S. SEBAGAI TUHAN"
+          },
+          {
+            "from": 78,
+            "to": 81,
+            "topic": "PENYEBAB LAKNAT ALLAH TERHADAP ORANG YAHUDI"
+          },
+          {
+            "from": 82,
+            "to": 86,
+            "topic": "HUBUNGAN ORANG YAHUDI DAN NASRANI DENGAN ORANG MUKMIN"
+          },
+          {
+            "from": 87,
+            "to": 105,
+            "topic": "PERINGATAN UNTUK KAUM MUSLIMIN TERKAIT ADAT JAHILIYAH YANG TERLARANG",
+            "subs": [
+              {
+                "from": 87,
+                "to": 88,
+                "text": "Larangan mengharamkan makanan yang halal"
+              },
+              {
+                "from": 89,
+                "to": 89,
+                "text": "Sumpah dan kaffaratnya"
+              },
+              {
+                "from": 90,
+                "to": 93,
+                "text": "Larangan meminum khamar, berjudi, berkurban untuk berhala, dan mengundi nasib"
+              },
+              {
+                "from": 94,
+                "to": 100,
+                "text": "Menghormati Ka'bah sebagai pusat kehidupan manusia,"
+              },
+              {
+                "from": 101,
+                "to": 105,
+                "text": "Larangan bertanya sesuatu yang menyebabkan kemudharatan"
+              }
+            ]
+          },
+          {
+            "from": 106,
+            "to": 108,
+            "topic": "ANJURAN BERWASIAT DENGAN PERSAKSIAN"
+          },
+          {
+            "from": 109,
+            "to": 109,
+            "topic": "SALAH SATU PERISTIWA PADA HARI KIAMAT"
+          },
+          {
+            "from": 110,
+            "to": 120,
+            "topic": "BEBERAPA KISAH TENTANG 'ISA A.S. "
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "name": "الانعام",
+        "name_latin": "Al-An'am",
+        "name_translation": "Binatang Ternak",
+        "number_of_ayah": "165",
+        "topics": [
+          {
+            "from": 1,
+            "to": 49,
+            "topic": "KEYAKINAN TENTANG KEESAAN ALLAH-LAH YANG MENANG",
+            "subs": [
+              {
+                "from": 1,
+                "to": 3,
+                "text": "Dalil-dalil tentang keesaan Allah"
+              },
+              {
+                "from": 4,
+                "to": 11,
+                "text": "Faktor penyebab kekafiran kaum musyrikin dan ancaman untuk mereka"
+              },
+              {
+                "from": 12,
+                "to": 21,
+                "text": "Keagungan Allah dan persaksian-Nya atas kenabian Muhammad SAW "
+              },
+              {
+                "from": 22,
+                "to": 32,
+                "text": "Kesaksian kaum musyrikin terhadap dirinya sendiri dan keadaan mereka pada hari kiamat"
+              },
+              {
+                "from": 33,
+                "to": 37,
+                "text": "Firman Allah yang membesarkan hati Nabi Muhammad SAW "
+              },
+              {
+                "from": 38,
+                "to": 49,
+                "text": "Kesempurnaan ilmu Allah dan bukti-bukti kekuasaan-Nya"
+              }
+            ]
+          },
+          {
+            "from": 50,
+            "to": 73,
+            "topic": "TUNTUNAN DALAM HIDUP BERMASYARAKAT"
+          },
+          {
+            "from": 74,
+            "to": 83,
+            "topic": "NABI IBRAHIM A.S. MEMIMPIN KAUMNYA KEPADA AGAMA TAUHID"
+          },
+          {
+            "from": 84,
+            "to": 92,
+            "topic": "ORANG YANG DIBERI KITAB, HIKMAH, DAN KENABIAN"
+          },
+          {
+            "from": 93,
+            "to": 110,
+            "topic": "KEBENARAN WAHYU, AKIBAT BERBUAT DUSTA TERHADAP ALLAH, DAN LARANGAN MEMAKI BERHALA"
+          },
+          {
+            "from": 111,
+            "to": 129,
+            "topic": "SIKAP KERAS KEPALA KAUM MUSYRIKIN DAN SIKAP MEREKA TERHADAP KERASULAN MUHAMMAD SAW"
+          },
+          {
+            "from": 130,
+            "to": 135,
+            "topic": "DERAJAT SESEORANG SESUAI DENGAN AMALNYA"
+          },
+          {
+            "from": 136,
+            "to": 165,
+            "topic": "PERATURAN YANG DIBUAT-BUAT OLEH KAUM MUSYRIKIN DAN PETUNJUK ALLAH UNTUK KAUM MUSLIMIN"
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "name": "الاعراف",
+        "name_latin": "Al-A'raf",
+        "name_translation": "Tempat Tertinggi",
+        "number_of_ayah": "206",
+        "topics": [
+          {
+            "from": 1,
+            "to": 10,
+            "topic": "KEWAJIBAN MENGIKUTI WAHYU DAN AKIBAT MENANTANGNYA"
+          },
+          {
+            "from": 11,
+            "to": 58,
+            "topic": "PERMUSUHAN DAN GODAAN SETAN TERHADAP MANUSIA",
+            "subs": [
+              {
+                "from": 11,
+                "to": 25,
+                "text": "Penghargaan Allah kepada Nabi Adam dan keturunannya"
+              },
+              {
+                "from": 26,
+                "to": 30,
+                "text": "Peringatan Allah terhadap godaan setan"
+              },
+              {
+                "from": 31,
+                "to": 33,
+                "text": "Adab berpakaian, makan, dan minum"
+              },
+              {
+                "from": 34,
+                "to": 53,
+                "text": "Pengutusan para rasul dan akibat penerimaan dan penolakan kerasulan"
+              },
+              {
+                "from": 54,
+                "to": 56,
+                "text": "Siapakah Tuhan semesta alam dan bagaimana bermohon kepada-Nya?"
+              },
+              {
+                "from": 57,
+                "to": 58,
+                "text": "Bukti kekuasaan Allah membangkitkan manusia setelah mati"
+              }
+            ]
+          },
+          {
+            "from": 59,
+            "to": 171,
+            "topic": "KISAH BEBERAPA ORANG RASUL",
+            "subs": [
+              {
+                "from": 59,
+                "to": 64,
+                "text": "Kisah Nabi Nuh A.S. "
+              },
+              {
+                "from": 65,
+                "to": 72,
+                "text": "Kisah Nabi Huud A.S."
+              },
+              {
+                "from": 73,
+                "to": 79,
+                "text": "Kisah Nabi Shaleh A.S."
+              },
+              {
+                "from": 80,
+                "to": 84,
+                "text": "Kisah Nabi Luth A.S. "
+              },
+              {
+                "from": 85,
+                "to": 102,
+                "text": "Kisah Nabi Syu'aib A.S."
+              },
+              {
+                "from": 103,
+                "to": 171,
+                "text": "Kisah Nabi Musa A.S. "
+              }
+            ]
+          },
+          {
+            "from": 172,
+            "to": 202,
+            "topic": "PENGKHIANATAN ORANG-ORANG YAHUDI TERHADAP PERJANJIAN DENGAN ALLAH",
+            "subs": [
+              {
+                "from": 172,
+                "to": 174,
+                "text": "Ketauhidan sesuai dengan fitrah manusia"
+              },
+              {
+                "from": 175,
+                "to": 177,
+                "text": "Perumpamaan orang-orang yang mendustakan ayat-ayat Allah"
+              },
+              {
+                "from": 178,
+                "to": 179,
+                "text": "Sifat-sifat penghuni neraka"
+              },
+              {
+                "from": 180,
+                "to": 186,
+                "text": "Kedatangan azab Allah kepada orang-orang yang mendustakan ayat-ayat-Nya dengan cara istidraj"
+              },
+              {
+                "from": 187,
+                "to": 188,
+                "text": "Hanya Allah yang mengetahui waktu hari kiamat"
+              },
+              {
+                "from": 189,
+                "to": 193,
+                "text": "Tuhan mengingatkan manusia kepada asal-usul kejadiannya"
+              },
+              {
+                "from": 194,
+                "to": 198,
+                "text": "Berhala tidak pantas disembah"
+              },
+              {
+                "from": 199,
+                "to": 202,
+                "text": "Dasar-dasar al-akhlaqul kariimah"
+              }
+            ]
+          },
+          {
+            "from": 203,
+            "to": 206,
+            "topic": "ADAB MENDENGAR AL-QUR'AN DAN BERZIKIR "
+          }
+        ]
+      },
+      {
+        "number": "8",
+        "name": "الانفال",
+        "name_latin": "Al-Anfal",
+        "name_translation": "Rampasan Perang",
+        "number_of_ayah": "75",
+        "topics": [
+          {
+            "from": 1,
+            "to": 75,
+            "topic": "KISAH PERANG BADAR",
+            "subs": [
+              {
+                "from": 1,
+                "to": 1,
+                "text": "Cara pembagian ghanimah"
+              },
+              {
+                "from": 2,
+                "to": 4,
+                "text": "Sifat-sifat orang mukmin"
+              },
+              {
+                "from": 5,
+                "to": 14,
+                "text": "Keengganan sebagian sahabat untuk pergi ke perang Badar dan pertolongan Allah kepada kaum muslimin"
+              },
+              {
+                "from": 15,
+                "to": 19,
+                "text": "Larangan melarikan diri dari pertempuran"
+              },
+              {
+                "from": 20,
+                "to": 23,
+                "text": "Larangan menyalahi perintah-perintah Allah"
+              },
+              {
+                "from": 24,
+                "to": 26,
+                "text": "Kewajiban mentaati perintah Allah dan Rasul-Nya"
+              },
+              {
+                "from": 27,
+                "to": 29,
+                "text": "Larangan berkhianat dan faedah bertakwa"
+              },
+              {
+                "from": 30,
+                "to": 40,
+                "text": "Permusuhan kaum musyrikin terhadap Nabi dan kewajiban memerangi mereka sampai agama Allah tegak"
+              },
+              {
+                "from": 41,
+                "to": 41,
+                "text": "Cara pembagian ghanimah"
+              },
+              {
+                "from": 42,
+                "to": 44,
+                "text": "Rahmat Allah kepada kaum Muslimin dalam perang Badar"
+              },
+              {
+                "from": 45,
+                "to": 47,
+                "text": "Kewajiban berteguh hati, bersatu dalam peperangan, dan larangan berlaku sombong dan riya'"
+              },
+              {
+                "from": 48,
+                "to": 51,
+                "text": "Pengkhianatan setan terhadap janjinya kepada pengikut-pengikutnya"
+              },
+              {
+                "from": 52,
+                "to": 57,
+                "text": "Kebinasaan sesuatu kaum disebabkan perbuatan mereka sendiri"
+              },
+              {
+                "from": 58,
+                "to": 60,
+                "text": "Syirik adalah dosa yang paling besar dan sikap menghadapi kaum musyrikin dalam peperangan"
+              },
+              {
+                "from": 61,
+                "to": 75,
+                "text": "Cinta perdamaian dan keharusan mempertebal semangat jihad "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "9",
+        "name": "التوبة",
+        "name_latin": "At-Taubah",
+        "name_translation": "Pengampunan",
+        "number_of_ayah": "129",
+        "topics": [
+          {
+            "from": 1,
+            "to": 37,
+            "topic": "PENGUMUMAN TENTANG PEMBATALAN PERJANJIAN DAMAI DENGAN KAUM MUSYRIKIN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 4,
+                "text": "Orang Islam terbebas dari tanggung jawab terhadap perjanjian dengan kaum musyrikin"
+              },
+              {
+                "from": 5,
+                "to": 6,
+                "text": "Pengumuman perang terhadap kaum musyrikin"
+              },
+              {
+                "from": 7,
+                "to": 15,
+                "text": "Penyebab perjanjian damai dibatalkan"
+              },
+              {
+                "from": 16,
+                "to": 16,
+                "text": "Ujian keimanan"
+              },
+              {
+                "from": 17,
+                "to": 24,
+                "text": "Orang yang layak memakmurkan masjid"
+              },
+              {
+                "from": 25,
+                "to": 29,
+                "text": "Umat Islam mendapat kemenangan dalam berbagai pertempuran"
+              },
+              {
+                "from": 30,
+                "to": 35,
+                "text": "Kepercayaan orang-orang Yahudi dan Nasrani serta sikap mereka"
+              },
+              {
+                "from": 36,
+                "to": 37,
+                "text": "Bulan-bulan yang dihormati"
+              }
+            ]
+          },
+          {
+            "from": 38,
+            "to": 129,
+            "topic": "KISAH PERANG TABUK",
+            "subs": [
+              {
+                "from": 38,
+                "to": 43,
+                "text": "Anjuran untuk berjihad"
+              },
+              {
+                "from": 44,
+                "to": 57,
+                "text": "Hanya orang munafik yang tidak mau berperang"
+              },
+              {
+                "from": 58,
+                "to": 59,
+                "text": "Sikap orang munafik terhadap pembagian sedekah"
+              },
+              {
+                "from": 60,
+                "to": 61,
+                "text": "Ketentuan pembagian zakat"
+              },
+              {
+                "from": 62,
+                "to": 66,
+                "text": "Tuduhan orang munafik terhadap Nabi"
+              },
+              {
+                "from": 67,
+                "to": 70,
+                "text": "Hasutan orang-orang munafik dan ancaman Allah terhadap mereka"
+              },
+              {
+                "from": 71,
+                "to": 72,
+                "text": "Anjuran kepada orang-orang mukmin dan janji Allah terhadap mereka"
+              },
+              {
+                "from": 73,
+                "to": 74,
+                "text": "Keharusan bersikap tegas terhadap orang kafir dan munafik"
+              },
+              {
+                "from": 75,
+                "to": 78,
+                "text": "Ikrar orang munafik tidak dapat dipercaya"
+              },
+              {
+                "from": 79,
+                "to": 80,
+                "text": "Kemunafikan adalah dosa yang tidak diampuni Allah"
+              },
+              {
+                "from": 81,
+                "to": 83,
+                "text": "Keadaan orang-orang munafik yang tidak mau turut berjihad"
+              },
+              {
+                "from": 84,
+                "to": 85,
+                "text": "Larangan menshalatkan jenazah orang munafik"
+              },
+              {
+                "from": 86,
+                "to": 90,
+                "text": "Keengganan orang munafik untuk berjihad dan pahala orang yang berjihad"
+              },
+              {
+                "from": 91,
+                "to": 102,
+                "text": "Uzur yang dibenarkan syariat untuk tidak berjihad"
+              },
+              {
+                "from": 103,
+                "to": 106,
+                "text": "Keharusan Penguasa memungut zakat"
+              },
+              {
+                "from": 107,
+                "to": 110,
+                "text": "Keharusan waspada terhadap tipu muslihat orang yang mempergunakan masjid sebagai alatnya"
+              },
+              {
+                "from": 111,
+                "to": 112,
+                "text": "Penghargaan Allah terhadap para syuhada'"
+              },
+              {
+                "from": 113,
+                "to": 129,
+                "text": "Larangan memintakan ampun untuk orang musyrik"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "10",
+        "name": "يونس",
+        "name_latin": "Yunus",
+        "name_translation": "Yunus",
+        "number_of_ayah": "109",
+        "topics": [
+          {
+            "from": 1,
+            "to": 109,
+            "topic": "TANDA-TANDA KEBESARAN ALLAH DALAM ALAM SEMESTA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Wahyu dan dasar-dasar kebenarannya"
+              },
+              {
+                "from": 7,
+                "to": 18,
+                "text": "Balasan karena mengingkari wahyu"
+              },
+              {
+                "from": 19,
+                "to": 20,
+                "text": "Manusia adalah satu umat yang memeluk agama yang satu"
+              },
+              {
+                "from": 21,
+                "to": 24,
+                "text": "Perlakuan Allah yang penuh rahmat"
+              },
+              {
+                "from": 25,
+                "to": 30,
+                "text": "Seruan Allah ke Darussalam (Surga) dan penolakan terhadapnya"
+              },
+              {
+                "from": 31,
+                "to": 36,
+                "text": "Bukti-bukti kekuasaan Allah yang membatalkan kepercayaan orang musyrik"
+              },
+              {
+                "from": 37,
+                "to": 53,
+                "text": "Jaminan Allah tentang kemurnian Al-Qur'an"
+              },
+              {
+                "from": 54,
+                "to": 60,
+                "text": "Penyesalan manusia di akhirat kelak"
+              },
+              {
+                "from": 61,
+                "to": 61,
+                "text": "Segala perbuatan manusia tidak lepas dari pengawasan Allah"
+              },
+              {
+                "from": 62,
+                "to": 70,
+                "text": "Wali-wali Allah dan berita gembira bagi mereka"
+              },
+              {
+                "from": 71,
+                "to": 103,
+                "text": "Kisah-kisah Nabi Nuh, Musa, dan Yunus sebagai ibrah bagi manusia"
+              },
+              {
+                "from": 104,
+                "to": 109,
+                "text": "Dakwah Islam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "11",
+        "name": "هود",
+        "name_latin": "Hud",
+        "name_translation": "Hud",
+        "number_of_ayah": "123",
+        "topics": [
+          {
+            "from": 1,
+            "to": 24,
+            "topic": "BUKTI-BUKTI KEESAAN DAN KEKUASAAN ALLAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 4,
+                "text": "Perintah menyembah Allah"
+              },
+              {
+                "from": 5,
+                "to": 11,
+                "text": "Perbedaan sifat orang kafir dan orang mukmin"
+              },
+              {
+                "from": 12,
+                "to": 24,
+                "text": "Kebenaran wahyu"
+              }
+            ]
+          },
+          {
+            "from": 25,
+            "to": 123,
+            "topic": "KISAH PARA NABI",
+            "subs": [
+              {
+                "from": 25,
+                "to": 49,
+                "text": "Kisah Nabi Nuh"
+              },
+              {
+                "from": 50,
+                "to": 60,
+                "text": "Kisah Nabi Hud"
+              },
+              {
+                "from": 61,
+                "to": 68,
+                "text": "Kisah Nabi Shaleh"
+              },
+              {
+                "from": 69,
+                "to": 83,
+                "text": "Kisah Nabi Ibrahim dan Nabi Luth"
+              },
+              {
+                "from": 84,
+                "to": 95,
+                "text": "Kisah Nabi Syu'aib"
+              },
+              {
+                "from": 96,
+                "to": 99,
+                "text": "Kisah Nabi Musa"
+              },
+              {
+                "from": 100,
+                "to": 123,
+                "text": "Pelajaran dari kisah-kisah beberapa nabi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "12",
+        "name": "يوسف",
+        "name_latin": "Yusuf",
+        "name_translation": "Yusuf",
+        "number_of_ayah": "111",
+        "topics": [
+          {
+            "from": 1,
+            "to": 111,
+            "topic": "KISAH NABI YUSUF",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Yusuf bermimpi"
+              },
+              {
+                "from": 7,
+                "to": 18,
+                "text": "Yusuf dan saudara-saudaranya"
+              },
+              {
+                "from": 19,
+                "to": 29,
+                "text": "Yusuf mendapat godaan"
+              },
+              {
+                "from": 30,
+                "to": 35,
+                "text": "Yusuf dipenjara"
+              },
+              {
+                "from": 36,
+                "to": 42,
+                "text": "Dakwah Yusuf dalam penjara"
+              },
+              {
+                "from": 43,
+                "to": 49,
+                "text": "Takwil Yusuf tentang mimpi raja"
+              },
+              {
+                "from": 50,
+                "to": 57,
+                "text": "Yusuf dibebaskan dari penjara"
+              },
+              {
+                "from": 58,
+                "to": 93,
+                "text": "Pertemuan Yusuf dengan saudara-saudaranya"
+              },
+              {
+                "from": 94,
+                "to": 100,
+                "text": "Pertemuan Yusuf A.S. dengan kedua orang tuanya"
+              },
+              {
+                "from": 101,
+                "to": 101,
+                "text": "Doa Yusuf A.S. "
+              },
+              {
+                "from": 102,
+                "to": 111,
+                "text": "Pelajaran yang dapat diambil dari kisah Yusuf A.S. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "13",
+        "name": "الرّعد",
+        "name_latin": "Ar-Ra'd",
+        "name_translation": "Guruh",
+        "number_of_ayah": "43",
+        "topics": [
+          {
+            "from": 1,
+            "to": 17,
+            "topic": "KEBENARAN AL-QUR'AN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 10,
+                "text": "Bukti kekuasaan Allah dan kesempurnaan ilmu-Nya"
+              },
+              {
+                "from": 11,
+                "to": 11,
+                "text": "Kebangkitan dan keruntuhan suatu bangsa tergantung pada sikap dan tindakan mereka sendiri"
+              },
+              {
+                "from": 12,
+                "to": 17,
+                "text": "Tanda-tanda keesaan Allah"
+              }
+            ]
+          },
+          {
+            "from": 18,
+            "to": 29,
+            "topic": "MANUSIA MEMPEROLEH BALASAN AMAL PERBUATANNYA",
+            "subs": [
+              {
+                "from": 18,
+                "to": 24,
+                "text": "Beberapa sifat dan perbuatan yang mulia dalam Islam"
+              },
+              {
+                "from": 25,
+                "to": 27,
+                "text": "Di antara sifat dan perbuatan orang yang ingkar kepada Allah"
+              },
+              {
+                "from": 28,
+                "to": 29,
+                "text": "Ketenteraman hati orang-orang yang beriman serta pembalasan bagi mereka"
+              }
+            ]
+          },
+          {
+            "from": 30,
+            "to": 43,
+            "topic": "PENGUTUSAN RASUL-RASUL KEPADA UMAT MANUSIA MERUPAKAN SUNNATULLAH",
+            "subs": [
+              {
+                "from": 30,
+                "to": 30,
+                "text": "Allah mengutus Muhammad kepada umatnya sebagaimana Dia mengutus rasul-rasul kepada umat-umat mereka"
+              },
+              {
+                "from": 31,
+                "to": 31,
+                "text": "Al-Qur'an kitab yang menggoncangkan dunia"
+              },
+              {
+                "from": 32,
+                "to": 34,
+                "text": "Penentang Rasul pasti akan hancur"
+              },
+              {
+                "from": 35,
+                "to": 35,
+                "text": "Gambaran surga"
+              },
+              {
+                "from": 36,
+                "to": 37,
+                "text": "Orang mukmin menerima keseluruhan Al-Qur'an"
+              },
+              {
+                "from": 38,
+                "to": 38,
+                "text": "Hidup berkeluarga tidak berlawanan dengan kerasulan"
+              },
+              {
+                "from": 39,
+                "to": 43,
+                "text": "Tiap-tiap masa memiliki tantangan dan jawabannya sendiri-sendiri"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "14",
+        "name": "ابرٰهيم",
+        "name_latin": "Ibrahim",
+        "name_translation": "Ibrahim",
+        "number_of_ayah": "52",
+        "topics": [
+          {
+            "from": 1,
+            "to": 7,
+            "topic": "WAHYU ILAHI MENGHAPUS KEGELAPAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 3,
+                "text": "Al-Qur'an menunjukkan semua umat manusia ke jalan yang terang"
+              },
+              {
+                "from": 4,
+                "to": 7,
+                "text": "Musa A.S. dan rasul-rasul sebelum Nabi Muhammad SAW  adalah pemimpin kaum mereka masing-masing"
+              }
+            ]
+          },
+          {
+            "from": 8,
+            "to": 21,
+            "topic": "SIKAP UMAT MANUSIA MENGHADAPI AJARAN RASUL",
+            "subs": [
+              {
+                "from": 8,
+                "to": 12,
+                "text": "Kebenaran pada permulaannya ditolak"
+              },
+              {
+                "from": 13,
+                "to": 21,
+                "text": "Akibat yang diderita oleh kaum yang menolak kebenaran"
+              }
+            ]
+          },
+          {
+            "from": 22,
+            "to": 23,
+            "topic": "PENGAKUAN SETAN SETELAH ALLAH MENJATUHKAN KEPUTUSANNYA YANG TERAKHIR"
+          },
+          {
+            "from": 24,
+            "to": 27,
+            "topic": "PERUMPAMAAN TENTANG KEBENARAN DAN KEBATILAN"
+          },
+          {
+            "from": 28,
+            "to": 34,
+            "topic": "TINDAKAN PEMIMPIN YANG MENYEBABKAN KEHANCURAN PENGIKUTNYA",
+            "subs": [
+              {
+                "from": 28,
+                "to": 30,
+                "text": "Akibat kufur kepada nikmat Allah serta mempersekutukannya"
+              },
+              {
+                "from": 31,
+                "to": 31,
+                "text": "Perintah Allah untuk mendirikan shalat dan bersedekah"
+              },
+              {
+                "from": 32,
+                "to": 34,
+                "text": "Beberapa nikmat Allah yang dilimpahkan kepada hamba-hamba-Nya"
+              }
+            ]
+          },
+          {
+            "from": 35,
+            "to": 41,
+            "topic": "PERMOHONAN NABI IBRAHIM A.S. "
+          },
+          {
+            "from": 42,
+            "to": 52,
+            "topic": "HUKUM TERHADAP PENANTANG ALLAH",
+            "subs": [
+              {
+                "from": 42,
+                "to": 45,
+                "text": "Orang yang zalim pasti mendapat azab"
+              },
+              {
+                "from": 46,
+                "to": 52,
+                "text": "Segala tipu daya akan gagal "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "15",
+        "name": "الحجر",
+        "name_latin": "Al-Hijr",
+        "name_translation": "Hijr",
+        "number_of_ayah": "99",
+        "topics": [
+          {
+            "from": 1,
+            "to": 15,
+            "topic": "JAMINAN ALLAH TERHADAP KEMURNIAN AL-QUR'AN DAN KEJAYAAN ISLAM"
+          },
+          {
+            "from": 16,
+            "to": 27,
+            "topic": "KEKUASAAN ALLAH MELIPUTI ALAM SEMESTA"
+          },
+          {
+            "from": 28,
+            "to": 44,
+            "topic": "PANDANGAN ISLAM TENTANG KEJADIAN MANUSIA"
+          },
+          {
+            "from": 45,
+            "to": 50,
+            "topic": "RAHMAT ALLAH BAGI ORANG YANG BERTAKWA"
+          },
+          {
+            "from": 51,
+            "to": 86,
+            "topic": "KISAH BEBERAPA ORANG NABI",
+            "subs": [
+              {
+                "from": 51,
+                "to": 58,
+                "text": "Kisah Nabi Ibrahim dengan tamunya"
+              },
+              {
+                "from": 59,
+                "to": 77,
+                "text": "Kisah Nabi Luth"
+              },
+              {
+                "from": 78,
+                "to": 79,
+                "text": "Kisah Nabi Syu'aib"
+              },
+              {
+                "from": 80,
+                "to": 86,
+                "text": "Kisah kaum Tsamud"
+              }
+            ]
+          },
+          {
+            "from": 87,
+            "to": 99,
+            "topic": "ANUGERAH ALLAH DAN PERINTAHKEPADA NABI MUHAMMAD"
+          }
+        ]
+      },
+      {
+        "number": "16",
+        "name": "النحل",
+        "name_latin": "An-Nahl",
+        "name_translation": "Lebah",
+        "number_of_ayah": "128",
+        "topics": [
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "BUKTI KEBESARAN ALLAH DALAM ALAM SEMESTA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 2,
+                "text": "Kepastian hari kiamat dan kebenaran wahyu"
+              },
+              {
+                "from": 3,
+                "to": 21,
+                "text": "Alam merupakan suatu kesatuan yang membuktikan kekuasaan Allah"
+              },
+              {
+                "from": 22,
+                "to": 25,
+                "text": "Takabur menjadikan seseorang ingkar kepada kebenaran"
+              },
+              {
+                "from": 26,
+                "to": 29,
+                "text": "Orang yang berbuat tipu daya pasti mengalami kehancuran"
+              },
+              {
+                "from": 30,
+                "to": 32,
+                "text": "Balasan bagi orang yang bertakwa"
+              },
+              {
+                "from": 33,
+                "to": 35,
+                "text": "Orang yang binasa karena perbuatannya sendiri"
+              },
+              {
+                "from": 36,
+                "to": 50,
+                "text": "Setiap umat mempunyai rasul yang diutus untuk menerangkan kebenaran"
+              },
+              {
+                "from": 51,
+                "to": 60,
+                "text": "Dalam keadaan terjepit, manusia ingat dan kembali kepada Allah"
+              },
+              {
+                "from": 61,
+                "to": 64,
+                "text": "Orang musyrik menisbatkan sesuatu kepada Allah"
+              },
+              {
+                "from": 65,
+                "to": 83,
+                "text": "Pelajaran yang dapat diambil dari alam semesta"
+              },
+              {
+                "from": 84,
+                "to": 89,
+                "text": "Setiap rasul menjadi saksi atas umatnya pada hari kiamat"
+              },
+              {
+                "from": 90,
+                "to": 99,
+                "text": "Pokok-pokok akhlak yang baik"
+              },
+              {
+                "from": 100,
+                "to": 103,
+                "text": "Allah lebih mengetahui apa yang bermanfaat dan yang sesuai dengan suatu masa"
+              },
+              {
+                "from": 104,
+                "to": 113,
+                "text": "Orang yang jauh dari hidayah Allah"
+              },
+              {
+                "from": 114,
+                "to": 119,
+                "text": "Makanan yang halal dan yang haram"
+              },
+              {
+                "from": 120,
+                "to": 124,
+                "text": "Nabi Ibrahim adalah teladan yang baik"
+              },
+              {
+                "from": 125,
+                "to": 128,
+                "text": "Dasar-dasar dakwah dan sikap Islam terhadap lawan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "17",
+        "name": "الاسراۤء",
+        "name_latin": "Al-Isra'",
+        "name_translation": "Memperjalankan Malam Hari",
+        "number_of_ayah": "111",
+        "topics": [
+          {
+            "from": 1,
+            "to": 111,
+            "topic": "Isyarat kepada umat islam sebagai suatu umat yang akan menjadi besar",
+            "subs": [
+              {
+                "from": 1,
+                "to": 1,
+                "text": "Isra' dari Mekkah ke Baitul Maqdis sebagai penghormatan terhadap Nabi Muhammad"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "text": "Penghormatan terhadap Nabi Musa dengan menurunkan Taurat kepadanya"
+              },
+              {
+                "from": 4,
+                "to": 8,
+                "text": "Kehancuran Bani Israil karena tidak mengikuti ajaran Taurat"
+              },
+              {
+                "from": 9,
+                "to": 12,
+                "text": "Al-Qur'an petunjuk ke jalan yang benar"
+              },
+              {
+                "from": 13,
+                "to": 22,
+                "text": "Setiap orang memikul dosanya sendiri"
+              },
+              {
+                "from": 23,
+                "to": 41,
+                "text": "Beberapa tata krama pergaulan"
+              },
+              {
+                "from": 42,
+                "to": 44,
+                "text": "Sanggahan terhadap orang yang mempersekutukan Allah"
+              },
+              {
+                "from": 45,
+                "to": 48,
+                "text": "Orang kafir tidak memahami Al-Qur'an"
+              },
+              {
+                "from": 49,
+                "to": 57,
+                "text": "Cara membantah keinkaran kaum musyrikin"
+              },
+              {
+                "from": 58,
+                "to": 50,
+                "text": "Kaum yang ingkar pasti mendapat hukuman"
+              },
+              {
+                "from": 61,
+                "to": 65,
+                "text": "Permusuhan dan godaan setan terhadap manusia"
+              },
+              {
+                "from": 66,
+                "to": 72,
+                "text": "Peringatan tentang nikmat Allah dengan beberapa kejadian pada hari kiamat"
+              },
+              {
+                "from": 73,
+                "to": 77,
+                "text": "Perlawanan terhadap Nabi Muhammad akan gagal seperti terhadap nabi-nabi terdahulu"
+              },
+              {
+                "from": 78,
+                "to": 85,
+                "text": "Petunjuk Allah dalam menghadapi tantangan"
+              },
+              {
+                "from": 86,
+                "to": 93,
+                "text": "Tantangan Nabi Muhammad untuk menandingi Al-Qur'an"
+              },
+              {
+                "from": 94,
+                "to": 100,
+                "text": "Keingkaran orang kafir daan bantahan terhadapnya"
+              },
+              {
+                "from": 101,
+                "to": 111,
+                "text": "Beberapa kisah pengalaman Nabi Musa sebagai pelipur Nabi Muhammad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "18",
+        "name": "الكهف",
+        "name_latin": "Al-Kahf",
+        "name_translation": "Goa",
+        "number_of_ayah": "110",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "Ancaman terhadap kepercayaan Tuhan punya anak"
+          },
+          {
+            "from": 9,
+            "to": 26,
+            "topic": "Kisah Ashabul Kahfi"
+          },
+          {
+            "from": 27,
+            "to": 59,
+            "topic": "Petunjuk Tentang Dakwah",
+            "subs": [
+              {
+                "from": 27,
+                "to": 31,
+                "text": "Teguran untuk Nabi agar jangan mementingkan orang terkemuka saja dalam berdakwah"
+              },
+              {
+                "from": 32,
+                "to": 46,
+                "text": "Perumpamaan kehidupan dunia dan orang yang tertipu olehnya (Kisah pemilik kebun anggur)"
+              },
+              {
+                "from": 47,
+                "to": 53,
+                "text": "Beberapa kejadian pada hari kiamat dan kedurhakaan iblis"
+              },
+              {
+                "from": 54,
+                "to": 59,
+                "text": "Akibat tidak mengindahkan peringatan Allah"
+              }
+            ]
+          },
+          {
+            "from": 60,
+            "to": 82,
+            "topic": "Kisah Nabi Musa Mencari Ilmu",
+            "subs": [
+              {
+                "from": 60,
+                "to": 70,
+                "text": "Nabi Musa bertemu dengan Khidir"
+              },
+              {
+                "from": 71,
+                "to": 73,
+                "text": "Khidhir membocorkan perahu"
+              },
+              {
+                "from": 74,
+                "to": 76,
+                "text": "Khidhir membunuh seorang anak"
+              },
+              {
+                "from": 77,
+                "to": 77,
+                "text": "Khidhir membetulkan dinding rumah"
+              },
+              {
+                "from": 78,
+                "to": 82,
+                "text": "Hikmah di balik perbuatan Khidhir"
+              }
+            ]
+          },
+          {
+            "from": 83,
+            "to": 101,
+            "topic": "Kisah Zulkarnain Dengan Ya'juj dan Ma'juj"
+          },
+          {
+            "from": 102,
+            "to": 108,
+            "topic": "Azab Bagi Orang Musyrik dan Pahala Bagi Orang Beriman",
+            "subs": [
+              {
+                "from": 102,
+                "to": 102,
+                "text": "Celakalah orang musyrik"
+              },
+              {
+                "from": 103,
+                "to": 106,
+                "text": "Orang yang terperdaya oleh diri sendiri sangat rugi"
+              },
+              {
+                "from": 107,
+                "to": 108,
+                "text": "Surga Firdaus bagi orang yang beramal saleh"
+              }
+            ]
+          },
+          {
+            "from": 109,
+            "to": 110,
+            "topic": "Luasnya Ilmu Allah Tidak Terhingga"
+          }
+        ]
+      },
+      {
+        "number": "19",
+        "name": "مريم",
+        "name_latin": "Maryam",
+        "name_translation": "Maryam",
+        "number_of_ayah": "98",
+        "topics": [
+          {
+            "from": 1,
+            "to": 15,
+            "topic": "KISAH NABI ZAKARIYA DAN NABI YAHYA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Penyebab Zakariya berdoa memohon keturunan"
+              },
+              {
+                "from": 7,
+                "to": 11,
+                "text": "Terkabulnya doa Zakariya sebagai bukti kekuasaan Allah"
+              },
+              {
+                "from": 12,
+                "to": 15,
+                "text": "Pengangkatan Yahya sebagai nabi dan keutamaannya"
+              }
+            ]
+          },
+          {
+            "from": 16,
+            "to": 40,
+            "topic": "KISAH MARYAM DAN NABI 'ISA A.S.",
+            "subs": [
+              {
+                "from": 16,
+                "to": 22,
+                "text": "Kehamilan Maryam tanpa sentuhan seorang laki-laki"
+              },
+              {
+                "from": 23,
+                "to": 26,
+                "text": "Kelahiran Nabi 'Isa"
+              },
+              {
+                "from": 27,
+                "to": 36,
+                "text": "Tuduhan terhadap Maryam dan pembelaan Nabi Isa terhadap ibunya"
+              },
+              {
+                "from": 37,
+                "to": 40,
+                "text": "Pertentangan pendapat tentang Isa"
+              }
+            ]
+          },
+          {
+            "from": 41,
+            "to": 50,
+            "topic": "KISAH NABI IBRAHIM DENGAN AYAHNYA"
+          },
+          {
+            "from": 51,
+            "to": 65,
+            "topic": "KISAH BEBERAPA NABI YANG LAIN"
+          },
+          {
+            "from": 66,
+            "to": 87,
+            "topic": "AZAB BAGI ORANG YANG MENENTANG PARA NABI DAN PAHALA BAGI ORANG YANG MENAATINYA"
+          },
+          {
+            "from": 88,
+            "to": 98,
+            "topic": "KEPALSUAN AJARAN BAHWA TUHAN MEMPUNYAI ANAK"
+          }
+        ]
+      },
+      {
+        "number": "20",
+        "name": "طٰهٰ",
+        "name_latin": "Taha",
+        "name_translation": "Taha",
+        "number_of_ayah": "135",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "AL-QUR'AN DITURUNKAN SEBAGAI PERINGATAN BAGI MANUSIA"
+          },
+          {
+            "from": 9,
+            "to": 114,
+            "topic": "KISAH NABI MUSA",
+            "subs": [
+              {
+                "from": 9,
+                "to": 16,
+                "text": "Nabi Musa menerima permulaan wahyu"
+              },
+              {
+                "from": 17,
+                "to": 23,
+                "text": "Dua macam mukjizat Musa"
+              },
+              {
+                "from": 24,
+                "to": 36,
+                "text": "Perintah Allah kepada Nabi Musa dan permohonan Nabi Musa"
+              },
+              {
+                "from": 37,
+                "to": 41,
+                "text": "Nikmat Allah kepada Nabi Musa sejak kecil"
+              },
+              {
+                "from": 42,
+                "to": 56,
+                "text": "Musa dan Harun diperintah menghadap Fir'aun"
+              },
+              {
+                "from": 57,
+                "to": 69,
+                "text": "Nabi Musa menundukkan tukang sihir Fir'aun"
+              },
+              {
+                "from": 70,
+                "to": 76,
+                "text": "Tukang sihir Fir'aun menjadi orang yang beriman"
+              },
+              {
+                "from": 77,
+                "to": 82,
+                "text": "Pembelahan laut dan pembebasan Bani Israil"
+              },
+              {
+                "from": 83,
+                "to": 84,
+                "text": "Teguran Allah kepada Nabi Musa"
+              },
+              {
+                "from": 85,
+                "to": 91,
+                "text": "Pengkhianatan Samiri"
+              },
+              {
+                "from": 92,
+                "to": 94,
+                "text": "Teguran Musa kepada Harun dan balasan Harun"
+              },
+              {
+                "from": 95,
+                "to": 96,
+                "text": "Hardikan Musa terhadap Samiri"
+              },
+              {
+                "from": 97,
+                "to": 98,
+                "text": "Azab yang ditimpakan kepada Samiri"
+              },
+              {
+                "from": 99,
+                "to": 104,
+                "text": "Kisah umat-umat terdahulu merupakan peringatan bagi manusia"
+              },
+              {
+                "from": 105,
+                "to": 114,
+                "text": "Keadaan pada hari kiamat"
+              }
+            ]
+          },
+          {
+            "from": 115,
+            "to": 127,
+            "topic": "KISAH NABI ADAM DAN PEMBANGKANGAN IBLIS"
+          },
+          {
+            "from": 128,
+            "to": 135,
+            "topic": "BEBERAPA PERINGATAN DAN AJARAN TENTANG MORAL"
+          }
+        ]
+      },
+      {
+        "number": "21",
+        "name": "الانبياۤء",
+        "name_latin": "Al-Anbiya'",
+        "name_translation": "Para Nabi",
+        "number_of_ayah": "112",
+        "topics": [
+          {
+            "from": 1,
+            "to": 19,
+            "topic": "SIKAP KAUM MUSYRIKIN TERHADAP KERASULAN MUHAMMAD SERTA WAHYU YANG DIBAWANYA DAN PENOLAKAN AL-QUR'AN TERHADAPNYA"
+          },
+          {
+            "from": 20,
+            "to": 47,
+            "topic": "BUKTI KESALAHAN KEPERCAYAAN ORANG MUSYRIK"
+          },
+          {
+            "from": 48,
+            "to": 112,
+            "topic": "KISAH BEBERAPA ORANG NABI"
+          }
+        ]
+      },
+      {
+        "number": "22",
+        "name": "الحج",
+        "name_latin": "Al-Hajj",
+        "name_translation": "Haji",
+        "number_of_ayah": "78",
+        "topics": [
+          {
+            "from": 1,
+            "to": 25,
+            "topic": "KEHIDUPAN PADA HARI AKHIR",
+            "subs": [
+              {
+                "from": 1,
+                "to": 2,
+                "text": "Kedahsyatan hari kiamat"
+              },
+              {
+                "from": 3,
+                "to": 4,
+                "text": "Celaan terhadap orang yang membantah Tuhan"
+              },
+              {
+                "from": 5,
+                "to": 7,
+                "text": "Proses kejadian manusia dan tumbuh-tumbuhan adalah bukti yang nyata tentang kebenaran hari kebangkitan"
+              },
+              {
+                "from": 8,
+                "to": 10,
+                "text": "Celaan terhadap orang yang membantah Tuhan karena kesombongan"
+              },
+              {
+                "from": 11,
+                "to": 13,
+                "text": "Celaan terhadap orang yang tidak memiliki pendirian"
+              },
+              {
+                "from": 14,
+                "to": 14,
+                "text": "Balasan terhadap orang yang beriman dan beramal saleh"
+              },
+              {
+                "from": 15,
+                "to": 18,
+                "text": "Pertolongan Allah pasti datang"
+              },
+              {
+                "from": 19,
+                "to": 25,
+                "text": "Keadaan orang kafir di dalam neraka dan balasan untuk orang yang beriman"
+              }
+            ]
+          },
+          {
+            "from": 26,
+            "to": 37,
+            "topic": "HAJI, MANASIK DAN SYI'ARNYA"
+          },
+          {
+            "from": 38,
+            "to": 41,
+            "topic": "IZIN BERPERANG BAGI ORANG-ORANG MUKMIN"
+          },
+          {
+            "from": 42,
+            "to": 48,
+            "topic": "AYAT-AYAT ALLAH SEBAGAI PENGHIBUR NABI MUHAMMAD"
+          },
+          {
+            "from": 49,
+            "to": 57,
+            "topic": "TUGAS RASUL ADALAH MEMBERI PERINGATAN"
+          },
+          {
+            "from": 58,
+            "to": 62,
+            "topic": "BALASAN UNTUK ORANG YANG MATI DALAM HIJRAH DI JALAN ALLAH"
+          },
+          {
+            "from": 63,
+            "to": 66,
+            "topic": "NIKMAT ALLAH YANG DIBERIKAN KEPADA MANUSIA"
+          },
+          {
+            "from": 67,
+            "to": 70,
+            "topic": "SETIAP UMAT MEMPUNYAI SYARIAT TERTENTU"
+          },
+          {
+            "from": 71,
+            "to": 77,
+            "topic": "KELEMAHAN PENDIRIAN ORANG KAFIR DALAM MENYEMBAH SELAIN ALLAH"
+          },
+          {
+            "from": 78,
+            "to": 78,
+            "topic": "AGAMA ISLAM BUKANLAH AGAMA YANG SEMPIT"
+          }
+        ]
+      },
+      {
+        "number": "23",
+        "name": "المؤمنون",
+        "name_latin": "Al-Mu'minun",
+        "name_translation": "Orang-Orang Mukmin",
+        "number_of_ayah": "118",
+        "topics": [
+          {
+            "from": 1,
+            "to": 22,
+            "topic": "KEMENANGAN ORANG MUKMIN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 11,
+                "text": "Tujuh sifat yang menjadikan orang mukmin beruntung"
+              },
+              {
+                "from": 12,
+                "to": 16,
+                "text": "Perkembangan kejadian manusia"
+              },
+              {
+                "from": 17,
+                "to": 22,
+                "text": "Langit dan segala sesuatu yang ada di bumi, diciptakan Allah untuk kelanjutan hidup manusia dan wajib disyukuri"
+              }
+            ]
+          },
+          {
+            "from": 23,
+            "to": 50,
+            "topic": "KISAH BEBERAPA ORANG RASUL"
+          },
+          {
+            "from": 51,
+            "to": 118,
+            "topic": "AGAMA YANG DIBAWA NABI-NABI ADALAH SAMA",
+            "subs": [
+              {
+                "from": 51,
+                "to": 56,
+                "text": "Hawa nafsu memecah belah manusia"
+              },
+              {
+                "from": 57,
+                "to": 61,
+                "text": "Sifat-sifat seorang muslim yang mukhlis"
+              },
+              {
+                "from": 62,
+                "to": 62,
+                "text": "Kewajiban menjalankan agama sesuai dengan kemampuan"
+              },
+              {
+                "from": 63,
+                "to": 76,
+                "text": "Celaan dan azab yang diancamkan terhadap orang kafir"
+              },
+              {
+                "from": 77,
+                "to": 83,
+                "text": "Meskipun dalil-dalil tentang kebangkitan di akhirat cukup banyak, namun orang kafir tetap mengingkarinya"
+              },
+              {
+                "from": 84,
+                "to": 92,
+                "text": "Sanggahan terhadap pendirian orang kafir, terutama anggapan bahwa Tuhan mempunyai anak atau sekutu"
+              },
+              {
+                "from": 93,
+                "to": 100,
+                "text": "Doa agar tidak dimasukkan ke dalam golongan orang zalim, pedoman dalam menghadapi lawan dan perintah berlindung dari godaan setan"
+              },
+              {
+                "from": 101,
+                "to": 114,
+                "text": "Peristiwa-peristiwa pada hari kiamat dan kedahsyatannya"
+              },
+              {
+                "from": 115,
+                "to": 118,
+                "text": "Tuhan menciptakan manusia bukan sia-sia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "24",
+        "name": "النّور",
+        "name_latin": "An-Nur",
+        "name_translation": "Cahaya",
+        "number_of_ayah": "64",
+        "topics": [
+          {
+            "from": 1,
+            "to": 64,
+            "topic": "HUKUM PERZINAAN DAN PERGAULAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 3,
+                "text": "Hukum perzinaan"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "text": "Hukum menuduh perempuan baik-baik berzina"
+              },
+              {
+                "from": 6,
+                "to": 10,
+                "text": "Hukum Li'an"
+              },
+              {
+                "from": 11,
+                "to": 26,
+                "text": "Tuduhan terhadap 'Aisyah Ummul Mukminin"
+              },
+              {
+                "from": 27,
+                "to": 29,
+                "text": "Pedoman memasuki rumah orang lain"
+              },
+              {
+                "from": 30,
+                "to": 31,
+                "text": "Pedoman pergaulan antara laki-laki dan perempuan yang bukan mahram"
+              },
+              {
+                "from": 32,
+                "to": 33,
+                "text": "Anjuran menikah"
+              },
+              {
+                "from": 34,
+                "to": 35,
+                "text": "Pencerminan ayat-ayat Al-Qur'an sebagai nur Ilahi pada langit dan bumi"
+              },
+              {
+                "from": 36,
+                "to": 38,
+                "text": "Orang yang mendapat pancaran nur Ilahi"
+              },
+              {
+                "from": 39,
+                "to": 40,
+                "text": "Orang yang tidak mendapat pancaran nur Ilahi"
+              },
+              {
+                "from": 41,
+                "to": 46,
+                "text": "Cerminan kekuasaan Allah"
+              },
+              {
+                "from": 47,
+                "to": 53,
+                "text": "Perbedaan sikap orang munafik dan orang mukmin dalam bertahkim kepada rasul"
+              },
+              {
+                "from": 54,
+                "to": 57,
+                "text": "Kekuasaan yang dijanjikan Allah kepada orang yang taat dan mengerjakan amal saleh"
+              },
+              {
+                "from": 58,
+                "to": 61,
+                "text": "Pedoman pergaulan dalam rumah tangga"
+              },
+              {
+                "from": 62,
+                "to": 64,
+                "text": "Adab pergaulan orang mukmin terhadap Rasul "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "25",
+        "name": "الفرقان",
+        "name_latin": "Al-Furqan",
+        "name_translation": "Pembeda",
+        "number_of_ayah": "77",
+        "topics": [
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "AL-QUR'AN ADALAH PERINGATAN UNTUK SELURUH MANUSIA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 3,
+                "text": "Kekuasaan Allah dan keharmonisan ciptaan-Nya"
+              },
+              {
+                "from": 4,
+                "to": 6,
+                "text": "Tuduhan palsu orang kafir terhadap Al-Qur'an"
+              },
+              {
+                "from": 7,
+                "to": 15,
+                "text": "Keheranan orang kafir tentang diutusnya rasul dari manusia biasa"
+              },
+              {
+                "from": 16,
+                "to": 18,
+                "text": "Tanya-jawab antara Allah dengan sembahan orang kafir pada hari kiamat"
+              },
+              {
+                "from": 19,
+                "to": 20,
+                "text": "Para rasul diutus dari manusia biasa"
+              },
+              {
+                "from": 21,
+                "to": 34,
+                "text": "Keadaan manusia yang tidak membenarkan Al-Qur'an pada hari kiamat"
+              }
+            ]
+          },
+          {
+            "from": 35,
+            "to": 44,
+            "topic": "PELAJARAN DARI KISAH UMAT TERDAHULU"
+          },
+          {
+            "from": 45,
+            "to": 62,
+            "topic": "TANDA-TANDA KEKUASAAN ALLAH DALAM ALAM"
+          },
+          {
+            "from": 63,
+            "to": 77,
+            "topic": "SIFAT-SIFAT HAMBA ALLAH YANG MENDAPAT KEMULIAAN"
+          }
+        ]
+      },
+      {
+        "number": "26",
+        "name": "الشعراۤء",
+        "name_latin": "Asy-Syu'ara'",
+        "name_translation": "Para Penyair",
+        "number_of_ayah": "227",
+        "topics": [
+          {
+            "from": 1,
+            "to": 9,
+            "topic": "NABI MUHAMMAD TIDAK PERLU BERSEDIH ATAS KEINGKARAN KAUM MUSYRIKIN"
+          },
+          {
+            "from": 10,
+            "to": 68,
+            "topic": "KISAH NABI MUSA",
+            "subs": [
+              {
+                "from": 10,
+                "to": 17,
+                "text": "Perintah Tuhan kepada Nabi Musa untuk menyeru Fir'aun"
+              },
+              {
+                "from": 18,
+                "to": 51,
+                "text": "Tanya jawab antara Musa dan Fir'aun"
+              },
+              {
+                "from": 52,
+                "to": 68,
+                "text": "Perintah Tuhan kepada Musa untuk menyelamatkan Bani Israil dan pembinasaan Fir'aun"
+              }
+            ]
+          },
+          {
+            "from": 69,
+            "to": 104,
+            "topic": "KISAH IBRAHIM"
+          },
+          {
+            "from": 105,
+            "to": 122,
+            "topic": "KISAH NUH DENGAN KAUMNYA"
+          },
+          {
+            "from": 123,
+            "to": 140,
+            "topic": "KISAH HUUD"
+          },
+          {
+            "from": 141,
+            "to": 159,
+            "topic": "KISAH SHALEH"
+          },
+          {
+            "from": 160,
+            "to": 175,
+            "topic": "KISAH LUTH DENGAN KAUMNYA"
+          },
+          {
+            "from": 176,
+            "to": 191,
+            "topic": "KISAH SYU'AIB"
+          },
+          {
+            "from": 192,
+            "to": 227,
+            "topic": "AL-QUR'AN DITURUNKAN KEPADA NABI MUHAMMAD DALAM BAHASA ARAB",
+            "subs": [
+              {
+                "from": 192,
+                "to": 220,
+                "text": "Perintah memberi peringatan kepada keluarga dan bersikap lemah-lembut terhadap orang mukmin"
+              },
+              {
+                "from": 221,
+                "to": 227,
+                "text": "Setan turun kepada pembohong dan peringatan terhadap penyair"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "27",
+        "name": "النمل",
+        "name_latin": "An-Naml",
+        "name_translation": "Semut-semut",
+        "number_of_ayah": "93",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "AL-QUR'AN PEDOMAN HIDUP DAN BERITA GEMBIRA BAGI ORANG MUKMIN"
+          },
+          {
+            "from": 6,
+            "to": 14,
+            "topic": "MUSA MENERIMA WAHYU, DAN MUHAMMAD PUN MENERIMA WAHYU AL-QUR'AN"
+          },
+          {
+            "from": 15,
+            "to": 44,
+            "topic": "KISAH NABI DAWUD DAN NABI SULAIMAN",
+            "subs": [
+              {
+                "from": 15,
+                "to": 19,
+                "text": "Sulaiman mewarisi kerajaan Dawud"
+              },
+              {
+                "from": 20,
+                "to": 44,
+                "text": "Pembicaraan Sulaiman dengan burung Hud-hud"
+              }
+            ]
+          },
+          {
+            "from": 45,
+            "to": 53,
+            "topic": "PELAJARAN DARI KEINGKARAN KAUM SHALEH"
+          },
+          {
+            "from": 54,
+            "to": 58,
+            "topic": "PERBUATAN CABUL KAUM LUTH"
+          },
+          {
+            "from": 59,
+            "to": 66,
+            "topic": "PERINTAH ALLAH KEPADA MUHAMMAD UNTUK MENSYUKURI NIKMAT"
+          },
+          {
+            "from": 67,
+            "to": 75,
+            "topic": "ORANG KAFIR MENGINGKARI HARI KEBANGKITAN"
+          },
+          {
+            "from": 76,
+            "to": 81,
+            "topic": "AL-QUR'AN BUKTI KENABIAN MUHAMMAD"
+          },
+          {
+            "from": 82,
+            "to": 93,
+            "topic": "TANDA-TANDA KEDATANGAN HARI KIAMAT"
+          }
+        ]
+      },
+      {
+        "number": "28",
+        "name": "القصص",
+        "name_latin": "Al-Qasas",
+        "name_translation": "Kisah-Kisah",
+        "number_of_ayah": "88",
+        "topics": [
+          {
+            "from": 1,
+            "to": 57,
+            "topic": "KISAH MUSA DAN FIR'AUN SEBAGAI BUKTI KEBENARAN AL-QUR'AN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Kekejaman Fir'aun dan pertolongan Allah kepada Bani Israil"
+              },
+              {
+                "from": 7,
+                "to": 13,
+                "text": "Musa dicampakkan ke sungai Nil"
+              },
+              {
+                "from": 14,
+                "to": 19,
+                "text": "Musa diberi ilham dan hikmah sebagai persiapan menjadi rasul"
+              },
+              {
+                "from": 20,
+                "to": 28,
+                "text": "Musa mendapat nasihat agar meninggalkan negeri Mesir"
+              },
+              {
+                "from": 29,
+                "to": 32,
+                "text": "Musa pulang ke Mesir dan menerima wahyu untuk menyeru Fir'aun"
+              },
+              {
+                "from": 33,
+                "to": 37,
+                "text": "Permohonan Musa kepada Allah untuk mengangkat Harun menjadi pembantunya"
+              },
+              {
+                "from": 38,
+                "to": 42,
+                "text": "Kesombongan Fir'aun"
+              },
+              {
+                "from": 43,
+                "to": 43,
+                "text": "Taurat diturunkan untuk menjadi petunjuk bagi Bani Israil"
+              },
+              {
+                "from": 44,
+                "to": 47,
+                "text": "Kisah Musa menerima Taurat hanya diketahui Nabi Muhammad melalui wahyu"
+              },
+              {
+                "from": 48,
+                "to": 51,
+                "text": "Orang kafir selalu mengingkari bukti sekalipun dahulu meminta"
+              },
+              {
+                "from": 52,
+                "to": 55,
+                "text": "Sebagian ahli kitab ada yang beriman kepada Muhammad SAW setelah menyaksikan bukti kebenaran"
+              },
+              {
+                "from": 56,
+                "to": 57,
+                "text": "Hanya Allah yang dapat memberi taufiq untuk beriman"
+              }
+            ]
+          },
+          {
+            "from": 58,
+            "to": 59,
+            "topic": "TUHAN TIDAK AKAN MEMBINASAKAN SESUATU UMAT SEBELUM SEORANG RASUL DIUTUS KEPADA MEREKA"
+          },
+          {
+            "from": 60,
+            "to": 61,
+            "topic": "KEHIDUPAN DUNIAWI ADALAH BAYANGAN DAN KEHIDUPAN AKHIRAT KEKAL DAN ABADI"
+          },
+          {
+            "from": 62,
+            "to": 67,
+            "topic": "PERTANGGUNGJAWABAN PADA HARI KIAMAT"
+          },
+          {
+            "from": 68,
+            "to": 70,
+            "topic": "HANYA ALLAH YANG BERHAK MENENTUKAN SEGALA SESUATU"
+          },
+          {
+            "from": 71,
+            "to": 73,
+            "topic": "BUKTI YANG MENGHARUSKAN KITA MEMUJI ALLAH"
+          },
+          {
+            "from": 74,
+            "to": 75,
+            "topic": "ORANG MUSYRIKIN MEMPERSEKUTUKAN ALLAH KARENA HAWA NAFSU"
+          },
+          {
+            "from": 76,
+            "to": 82,
+            "topic": "KISAH KARUN DAN KEKAYAANNYA ADALAH PELAJARAN BAGI MANUSIA"
+          },
+          {
+            "from": 83,
+            "to": 84,
+            "topic": "SATU KEBAJIKAN DIBALAS BERLIPAT GANDA"
+          },
+          {
+            "from": 85,
+            "to": 88,
+            "topic": "JANJI ALLAH AKAN MEMENANGKAN MUHAMMAD"
+          }
+        ]
+      },
+      {
+        "number": "29",
+        "name": "العنكبوت",
+        "name_latin": "Al-'Ankabut",
+        "name_translation": "Laba-Laba",
+        "number_of_ayah": "69",
+        "topics": [
+          {
+            "from": 1,
+            "to": 44,
+            "topic": "COBAAN ADALAH BAROMETER BAGI SEMPURNA ATAU TIDAKNYA IMAN SESEORANG",
+            "subs": [
+              {
+                "from": 1,
+                "to": 5,
+                "text": "Cobaan memang diperlukan"
+              },
+              {
+                "from": 6,
+                "to": 7,
+                "text": "Manfaat usaha manusia kembali kepada dirinya sendiri"
+              },
+              {
+                "from": 8,
+                "to": 9,
+                "text": "Ajakan mempersekutukan Tuhan harus ditentang sekalipun dari ibu-bapak"
+              },
+              {
+                "from": 10,
+                "to": 13,
+                "text": "Sikap orang yang lemah iman dalam menghadapi cobaan"
+              },
+              {
+                "from": 14,
+                "to": 15,
+                "text": "Cobaan terhadap Nabi Nuh"
+              },
+              {
+                "from": 16,
+                "to": 35,
+                "text": "Cobaan terhadap Nabi Ibrahim dan Nabi Luth"
+              },
+              {
+                "from": 36,
+                "to": 37,
+                "text": "Cobaan terhadap Nabi Syu'aib"
+              },
+              {
+                "from": 38,
+                "to": 38,
+                "text": "Cobaan terhadap Nabi Huud dan Nabi Shaleh"
+              },
+              {
+                "from": 39,
+                "to": 39,
+                "text": "Cobaan terhadap Nabi Musa"
+              },
+              {
+                "from": 40,
+                "to": 44,
+                "text": "Perlawanan terhadap kebenaran pasti hancur"
+              }
+            ]
+          },
+          {
+            "from": 45,
+            "to": 55,
+            "topic": "AL-QUR'AN MENYUCIKAN JIWA MANUSIA",
+            "subs": [
+              {
+                "from": 45,
+                "to": 45,
+                "text": "Shalat mencegah kejahatan"
+              },
+              {
+                "from": 46,
+                "to": 52,
+                "text": "Berdebat dengan nonmuslim"
+              },
+              {
+                "from": 53,
+                "to": 55,
+                "text": "Azab Allah pasti datang pada waktunya"
+              }
+            ]
+          },
+          {
+            "from": 56,
+            "to": 66,
+            "topic": "KEHIDUPAN AKHIRAT ADALAH KEHIDUPAN YANG SEBENARNYA",
+            "subs": [
+              {
+                "from": 56,
+                "to": 59,
+                "text": "Kabar gembira untuk orang yang beriman"
+              },
+              {
+                "from": 60,
+                "to": 63,
+                "text": "Allah menentukan rezeki setiap makhluk"
+              },
+              {
+                "from": 64,
+                "to": 66,
+                "text": "Dalam keadaan terdesak manusia mengakui kekuasaan Allah"
+              }
+            ]
+          },
+          {
+            "from": 67,
+            "to": 69,
+            "topic": "JAMINAN ALLAH TERHADAP KEAMANAN TANAH SUCI"
+          }
+        ]
+      },
+      {
+        "number": "30",
+        "name": "الرّوم",
+        "name_latin": "Ar-Rum",
+        "name_translation": "Romawi",
+        "number_of_ayah": "60",
+        "topics": [
+          {
+            "from": 1,
+            "to": 10,
+            "topic": "KEBENARAN PEMBERITAAN AL-QUR'AN TENTANG PERISTIWA YANG AKAN TERJADI",
+            "subs": [
+              {
+                "from": 1,
+                "to": 7,
+                "text": "Berita kemenangan bangsa Romawi, Ahli Kitab, atas bangsa Persia musyrik"
+              },
+              {
+                "from": 8,
+                "to": 10,
+                "text": "Kaum yang menentang Nabi Muhammad akan hancur seperti halnya kaum yang menentang nabi-nabi terdahulu"
+              }
+            ]
+          },
+          {
+            "from": 11,
+            "to": 18,
+            "topic": "BUKTI KEBENARAN HARI KEBANGKITAN DAN PENGGOLONGAN MANUSIA MENJADI MUKMIN DAN KAFIR"
+          },
+          {
+            "from": 19,
+            "to": 27,
+            "topic": "BUKTI-BUKTI KEBESARAN ALLAH SWT YANG TERDAPAT PADA ALAM SEMESTA"
+          },
+          {
+            "from": 28,
+            "to": 40,
+            "topic": "ISLAM ADALAH AGAMA FITRAH",
+            "subs": [
+              {
+                "from": 28,
+                "to": 29,
+                "text": "Suatu tamsil yang terdapat pada keadaan manusia tentang keesaan Allah"
+              },
+              {
+                "from": 30,
+                "to": 32,
+                "text": "Manusia, menurut fitrahnya, beragama tauhid"
+              },
+              {
+                "from": 33,
+                "to": 36,
+                "text": "Sifat-sifat manusia yang tercela"
+              },
+              {
+                "from": 37,
+                "to": 40,
+                "text": "Allah mengatur pemberian dan penggunaan rezeki"
+              }
+            ]
+          },
+          {
+            "from": 41,
+            "to": 45,
+            "topic": "AKIBAT YANG BURUK DAN YANG BAIK DARI PERBUATAN MANUSIA"
+          },
+          {
+            "from": 46,
+            "to": 49,
+            "topic": "MEMPERHATIKAN ALAM MENAMBAH KEYAKINAN TERHADAP ALLAH"
+          },
+          {
+            "from": 50,
+            "to": 57,
+            "topic": "BUKTI-BUKTI TENTANG KEKUASAAN ALLAH DAN KEADAAN MANUSIA PADA HARI KIAMAT"
+          },
+          {
+            "from": 58,
+            "to": 60,
+            "topic": "ANJURAN MEMPERHATIKAN PERUMPAMAAN YANG TERDAPAT DALAM AL-QUR'AN"
+          }
+        ]
+      },
+      {
+        "number": "31",
+        "name": "لقمٰن",
+        "name_latin": "Luqman",
+        "name_translation": "Luqman",
+        "number_of_ayah": "34",
+        "topics": [
+          {
+            "from": 1,
+            "to": 11,
+            "topic": "AL-QUR'AN MENJAMIN KESUKSESAN ORANG-ORANG YANG BERIMAN"
+          },
+          {
+            "from": 12,
+            "to": 19,
+            "topic": "NASIHAT LUQMAN KEPADA ANAKNYA"
+          },
+          {
+            "from": 20,
+            "to": 34,
+            "topic": "KEKUASAAN ALLAH ADALAH MUTLAK DAN AKIBAT PENGINGKARAN TERHADAPNYA "
+          }
+        ]
+      },
+      {
+        "number": "32",
+        "name": "السّجدة",
+        "name_latin": "As-Sajdah",
+        "name_translation": "Sajdah",
+        "number_of_ayah": "30",
+        "topics": [
+          {
+            "from": 1,
+            "to": 30,
+            "topic": "AL-QUR'AN ADALAH WAHYU DARI ALLAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 3,
+                "text": "Al-Qur'an bukanlah ciptaan Muhammad SAW"
+              },
+              {
+                "from": 4,
+                "to": 6,
+                "text": "Masa terciptanya alam semesta"
+              },
+              {
+                "from": 7,
+                "to": 11,
+                "text": "Proses kejadian manusia dan kebangkitannya pada hari kiamat"
+              },
+              {
+                "from": 12,
+                "to": 22,
+                "text": "Sebuah perbandingan antara orang mukmin dan orang kafir"
+              },
+              {
+                "from": 23,
+                "to": 30,
+                "text": "Perintah Allah untuk menerima Al-Qur'an tanpa ragu-ragu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "33",
+        "name": "الاحزاب",
+        "name_latin": "Al-Ahzab",
+        "name_translation": "Golongan Yang Bersekutu",
+        "number_of_ayah": "73",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "HUKUM KEKELUARGAAN HARUS BERDASARKAN KETETAPAN ALLAH DAN RASUL",
+            "subs": [
+              {
+                "from": 1,
+                "to": 3,
+                "text": "Takwa dan tawakkal kepada Allah"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "text": "Hukum zhihar dan kedudukan anak angkat"
+              },
+              {
+                "from": 6,
+                "to": 8,
+                "text": "Kedudukan hubungan darah dalam hubungan waris"
+              }
+            ]
+          },
+          {
+            "from": 9,
+            "to": 25,
+            "topic": "BANTUAN ALLAH KEPADA KAUM MUSLIMIN DALAM PERANG AHZAB"
+          },
+          {
+            "from": 26,
+            "to": 27,
+            "topic": "PERANG DENGAN BANI QURAIZHAH"
+          },
+          {
+            "from": 28,
+            "to": 34,
+            "topic": "KETENTUAN ALLAH TERHADAP ISTRI NABI"
+          },
+          {
+            "from": 35,
+            "to": 36,
+            "topic": "SIFAT-SIFAT ORANG MUKMIN DAN KEWAJIBAN MEREKA TERHADAP PERINTAH RASUL"
+          },
+          {
+            "from": 37,
+            "to": 40,
+            "topic": "ANAK ANGKAT TIDAK SAMA DENGAN ANAK KANDUNG"
+          },
+          {
+            "from": 41,
+            "to": 44,
+            "topic": "KEHARUSAN MENGINGAT ALLAH"
+          },
+          {
+            "from": 45,
+            "to": 48,
+            "topic": "MUHAMMAD ADALAH RASUL YANG DIUTUS UNTUK SEGENAP UMAT MANUSIA"
+          },
+          {
+            "from": 49,
+            "to": 52,
+            "topic": "BEBERAPA KETENTUAN ISLAM TENTANG HUKUM PERKAWINAN",
+            "subs": [
+              {
+                "from": 49,
+                "to": 49,
+                "text": "Perempuan yang diceraikan sebelum dicampuri tidak ada 'iddah dan harus diberi mut'ah"
+              },
+              {
+                "from": 50,
+                "to": 50,
+                "text": "Perempuan yang halal dinikahi oleh Rasul"
+              },
+              {
+                "from": 51,
+                "to": 51,
+                "text": "Nabi boleh memilih di antara istri-istrinya, siapa yang dipertahankannya dan siapa dilepaskannya"
+              },
+              {
+                "from": 52,
+                "to": 52,
+                "text": "Nabi tidak boleh menikah lagi setelah ayat ini diturunkan"
+              }
+            ]
+          },
+          {
+            "from": 53,
+            "to": 58,
+            "topic": "ADAB DAN SOPAN SANTUN DALAM RUMAH TANGGA NABI"
+          },
+          {
+            "from": 59,
+            "to": 59,
+            "topic": "KEHARUSAN PEREMPUAN BERJILBAB, JIKA BERADA DI LUAR RUMAH"
+          },
+          {
+            "from": 60,
+            "to": 62,
+            "topic": "ANCAMAN TERHADAP ORANG MUNAFIK DAN ORANG YANG BERBUAT KERUSUHAN DI MADINAH"
+          },
+          {
+            "from": 63,
+            "to": 63,
+            "topic": "HANYA ALLAH YANG MENGETAHUI KAPAN HARI KEBANGKITAN TERJADI"
+          },
+          {
+            "from": 64,
+            "to": 64,
+            "topic": "ANCAMAN TERHADAP ORANG KAFIR"
+          },
+          {
+            "from": 69,
+            "to": 71,
+            "topic": "TAKWA KEPADA ALLAH MEMBAWA PERBAIKAN AMAL DAN AMPUNAN DOSA"
+          },
+          {
+            "from": 72,
+            "to": 73,
+            "topic": "MENERIMA TUGAS TETAPI TIDAK MELAKSANAKANNYA ADALAH KEZALIMAN"
+          }
+        ]
+      },
+      {
+        "number": "34",
+        "name": "سبأ",
+        "name_latin": "Saba'",
+        "name_translation": "Saba'",
+        "number_of_ayah": "54",
+        "topics": [
+          {
+            "from": 1,
+            "to": 9,
+            "topic": "ALLAH SANGAT TERPUJI DAN ILMUNYA SANGAT SEMPURNA"
+          },
+          {
+            "from": 10,
+            "to": 14,
+            "topic": "KEPANDAIAN YANG DIBERIKAN KEPADA NABI DAWUD DAN KEKUASAAN YANG DIBERIKAN KEPADA NABI SULAIMAN"
+          },
+          {
+            "from": 15,
+            "to": 21,
+            "topic": "KEINGKARAN KAUM SABA' TERHADAP NIKMAT ALLAH DAN AKIBATNYA"
+          },
+          {
+            "from": 22,
+            "to": 27,
+            "topic": "SEMBAHAN SELAIN ALLAH TIDAK MEMPUNYAI KEKUASAAN SEDIKIT PUN"
+          },
+          {
+            "from": 28,
+            "to": 28,
+            "topic": "RISALAH MUHAMMAD ADALAH UNIVERSAL"
+          },
+          {
+            "from": 29,
+            "to": 45,
+            "topic": "KEINGKARAN ORANG KAFIR DAN KEADAAN MEREKA DI AKHIRAT"
+          },
+          {
+            "from": 46,
+            "to": 47,
+            "topic": "PERNYATAAN ALLAH TENTANG MUHAMMAD DAN TUGASNYA"
+          }
+        ]
+      },
+      {
+        "number": "35",
+        "name": "فاطر",
+        "name_latin": "Fatir",
+        "name_translation": "Maha Pencipta",
+        "number_of_ayah": "45",
+        "topics": [
+          {
+            "from": 1,
+            "to": 4,
+            "topic": "ALLAH ADALAH PENCIPTA, PENGUASA, DAN PEMBERI RAHMAT"
+          },
+          {
+            "from": 5,
+            "to": 7,
+            "topic": "JANJI ALLAH PASTI DATANG"
+          },
+          {
+            "from": 8,
+            "to": 8,
+            "topic": "ORANG YANG TERTIPU DENGAN AMALAN YANG BURUK"
+          },
+          {
+            "from": 9,
+            "to": 14,
+            "topic": "KEKUASAAN ALLAH YANG TERCERMIN DALAM ALAM SEMESTA"
+          },
+          {
+            "from": 15,
+            "to": 17,
+            "topic": "HANYA ALLAH YANG MAHA KAYA DAN TERPUJI"
+          },
+          {
+            "from": 18,
+            "to": 23,
+            "topic": "MASING-MASING MANUSIA HANYA MEMIKUL KESALAHANNYA SENDIRI"
+          },
+          {
+            "from": 24,
+            "to": 26,
+            "topic": "NABI MUHAMMAD PEMBAWA KEBENARAN"
+          },
+          {
+            "from": 27,
+            "to": 28,
+            "topic": "HANYA ORANG YANG BERPENGETAHUAN YANG SEBENARNYA TAKUT KEPADA ALLAH"
+          },
+          {
+            "from": 29,
+            "to": 31,
+            "topic": "HANYA ORANG YANG MEMAHAMI KITAB ALLAH, MENDIRIKAN SHALAT,DAN BERINFAK DI JALAN ALLAH ITULAH YANG MENGHARAP PAHALA YANG KEKAL"
+          },
+          {
+            "from": 32,
+            "to": 37,
+            "topic": "TINGKATAN UMAT ISLAM DALAM MENERIMA AL-QUR'AN"
+          },
+          {
+            "from": 38,
+            "to": 43,
+            "topic": "KETIDAKBERDAYAAN SEMBAHAN SELAIN ALLAH"
+          },
+          {
+            "from": 44,
+            "to": 45,
+            "topic": "ANJURAN AGAR MELAKUKAN PERJALANAN DI BUMI UNTUK MEMBUKTIKAN  KEKUASAAN ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "36",
+        "name": "يٰسۤ",
+        "name_latin": "Yasin",
+        "name_translation": "Yasin",
+        "number_of_ayah": "83",
+        "topics": [
+          {
+            "from": 1,
+            "to": 83,
+            "topic": "PERNYATAAN DARI ALLAH BAHWA MUHAMMAD BENAR-BENAR SEORANG RASUL",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Kegunaan Al-Qur'an yang diturunkan kepada Muhammad"
+              },
+              {
+                "from": 7,
+                "to": 10,
+                "text": "Orang kafir pasti mendapat azab karena tidak mengindahkan peringatan Allah"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "text": "Peringatan hanya berguna bagi orang yang takut kepada Allah"
+              },
+              {
+                "from": 13,
+                "to": 29,
+                "text": "Kisah penduduk sebuah kota yang harus menjadi pelajaran bagi penduduk Mekah"
+              },
+              {
+                "from": 30,
+                "to": 32,
+                "text": "Penyesalan terhadap orang-orang yang tidak beriman"
+              },
+              {
+                "from": 33,
+                "to": 50,
+                "text": "Tanda-tanda kekuasaan Allah"
+              },
+              {
+                "from": 51,
+                "to": 58,
+                "text": "Keadaan orang-orang mukmin pada hari kiamat"
+              },
+              {
+                "from": 59,
+                "to": 68,
+                "text": "Cercaan Allah terhadap orang yang tidak beriman"
+              },
+              {
+                "from": 69,
+                "to": 70,
+                "text": "Nabi Muhammad bukanlah seorang penyair"
+              },
+              {
+                "from": 71,
+                "to": 83,
+                "text": "Kekuasaan Allah membangkitkan manusia pada hari kiamat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "37",
+        "name": "الصّٰۤفّٰت",
+        "name_latin": "As-Saffat",
+        "name_translation": "Barisan-Barisan",
+        "number_of_ayah": "182",
+        "topics": [
+          {
+            "from": 1,
+            "to": 182,
+            "topic": "BUKTI-BUKTI KEESAAN ALLAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 10,
+                "text": "Alam langit dipelihara dari gangguan setan"
+              },
+              {
+                "from": 11,
+                "to": 19,
+                "text": "Tuhan mematahkan dalil-dalil kaum musyrikin"
+              },
+              {
+                "from": 20,
+                "to": 39,
+                "text": "Keadaan orang-orang musyrik di akhirat"
+              },
+              {
+                "from": 40,
+                "to": 61,
+                "text": "Keadaan orang-orang mukmin di surga"
+              },
+              {
+                "from": 62,
+                "to": 70,
+                "text": "Buah pohon zaqqum makanan ahli neraka"
+              },
+              {
+                "from": 71,
+                "to": 74,
+                "text": "Akibat yang diderita umat terdahulu karena membangkang terhadap kebenaran"
+              },
+              {
+                "from": 75,
+                "to": 82,
+                "text": "Allah mengabulkan permohonan Nabi Nuh"
+              },
+              {
+                "from": 83,
+                "to": 99,
+                "text": "Nabi Ibrahim menghancurkan berhala"
+              },
+              {
+                "from": 100,
+                "to": 111,
+                "text": "Penyembelihan Isma'il"
+              },
+              {
+                "from": 112,
+                "to": 113,
+                "text": "Kabar gembira tentang kelahiran Ishaq"
+              },
+              {
+                "from": 114,
+                "to": 148,
+                "text": "Nikmat yang diberikan Allah kepada nabi Musa, Harun, Ilyas, Luth, dan Yunus"
+              },
+              {
+                "from": 149,
+                "to": 160,
+                "text": "Tak layak Allah mempunyai anak perempuan"
+              },
+              {
+                "from": 161,
+                "to": 170,
+                "text": "Kaum musyrikin beserta sembahannya tidak berdaya"
+              },
+              {
+                "from": 171,
+                "to": 182,
+                "text": "Para rasul dan pengikutnya pasti mendapat kemenangan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "38",
+        "name": "ص",
+        "name_latin": "Sad",
+        "name_translation": "Sad",
+        "number_of_ayah": "88",
+        "topics": [
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "MUSUH PARA NABI AKAN HANCUR"
+          },
+          {
+            "from": 17,
+            "to": 1,
+            "topic": "KISAH BEBERAPA NABI",
+            "subs": [
+              {
+                "from": 17,
+                "to": 29,
+                "text": "Nabi Dawud mendapat cobaan dari Allah"
+              },
+              {
+                "from": 30,
+                "to": 40,
+                "text": "Nabi Sulaiman mendapat cobaan dari Allah"
+              },
+              {
+                "from": 41,
+                "to": 44,
+                "text": "Nabi Ayyub dan kesabarannya"
+              },
+              {
+                "from": 45,
+                "to": 48,
+                "text": "Beberapa orang nabi pilihan"
+              },
+              {
+                "from": 49,
+                "to": 54,
+                "text": "Pahala bagi pengikut nabi-nabi"
+              },
+              {
+                "from": 55,
+                "to": 70,
+                "text": "Azab terhadap orang-orang yang menentang nabi"
+              },
+              {
+                "from": 71,
+                "to": 88,
+                "text": "Adam dan godaan iblis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "39",
+        "name": "الزمر",
+        "name_latin": "Az-Zumar",
+        "name_translation": "Rombongan",
+        "number_of_ayah": "75",
+        "topics": [
+          {
+            "from": 1,
+            "to": 9,
+            "topic": "BERIBADAH KEPADA ALLAH DENGAN HATI PENUH KEIKHLASAN"
+          },
+          {
+            "from": 10,
+            "to": 41,
+            "topic": "PERBANDINGAN ANTARA ORANG MUKMIN DAN ORANG KAFIR",
+            "subs": [
+              {
+                "from": 10,
+                "to": 31,
+                "text": "Perbandingan antara orang mungkin dan orang kafir"
+              },
+              {
+                "from": 32,
+                "to": 37,
+                "text": "Orang kafir akan menemui azab neraka dan orang yang berbuat kebaikan akan mendapat pahala berlipat ganda"
+              },
+              {
+                "from": 38,
+                "to": 40,
+                "text": "Hanya kepada Allah orang mukmin bertawakal"
+              },
+              {
+                "from": 41,
+                "to": 41,
+                "text": "Setiap orang akan memetik buah amalnya sendiri"
+              }
+            ]
+          },
+          {
+            "from": 42,
+            "to": 52,
+            "topic": "ORANG YANG ZALIM PASTI MENDAPAT AZAB PADA HARI KIAMAT",
+            "subs": [
+              {
+                "from": 42,
+                "to": 44,
+                "text": "Syafaat itu adalah semata-mata hak Allah"
+              },
+              {
+                "from": 45,
+                "to": 48,
+                "text": "Salah satu sifat orang yang tidak beriman kepada kehidupan akhirat"
+              },
+              {
+                "from": 49,
+                "to": 51,
+                "text": "Salah satu watak manusia yang buruk"
+              },
+              {
+                "from": 52,
+                "to": 52,
+                "text": "Allah menentukan kadar rezeki hamba-Nya"
+              }
+            ]
+          },
+          {
+            "from": 53,
+            "to": 63,
+            "topic": "LARANGAN BERPUTUS ASA TERHADAP RAHMAT ALLAH",
+            "subs": [
+              {
+                "from": 53,
+                "to": 59,
+                "text": "Perintah segera bertaubat sebelum datangnya azab"
+              },
+              {
+                "from": 60,
+                "to": 63,
+                "text": "Perbedaan keadaan orang yang bertakwa dengan orang yang mendustakan hari kiamat"
+              }
+            ]
+          },
+          {
+            "from": 64,
+            "to": 75,
+            "topic": "GAMBARAN TENTANG KEKUASAAN ALLAH PADA HARI KIAMAT",
+            "subs": [
+              {
+                "from": 64,
+                "to": 66,
+                "text": "Peringatan agar menjauhi kemusyrikan"
+              },
+              {
+                "from": 67,
+                "to": 75,
+                "text": "Beberapa peristiwa yang terjadi pada hari kiamat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "40",
+        "name": "غافر",
+        "name_latin": "Gafir",
+        "name_translation": "Maha Pengampun",
+        "number_of_ayah": "85",
+        "topics": [
+          {
+            "from": 1,
+            "to": 85,
+            "topic": "PENENTANGAN TERHADAP AGAMA PASTI MENEMUI KEGAGALAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Orang-orang mukmin jangan teperdaya oleh kemakmuran orang-orang musyrikin"
+              },
+              {
+                "from": 7,
+                "to": 9,
+                "text": "Para malaikat bertasbih kepada Allah dan mendoakan orang-orang mukmin"
+              },
+              {
+                "from": 10,
+                "to": 12,
+                "text": "Keinginan orang-orang kafir keluar dari neraka"
+              },
+              {
+                "from": 13,
+                "to": 20,
+                "text": "Kewajiban menunaikan ibadah kepada Allah"
+              },
+              {
+                "from": 21,
+                "to": 55,
+                "text": "Pelajaran yang dapat diambil dari kisah Nabi Musa"
+              },
+              {
+                "from": 56,
+                "to": 59,
+                "text": "Pengingkaran terhadap kekuasaan Allah hanyalah karena kesombongan semata"
+              },
+              {
+                "from": 60,
+                "to": 60,
+                "text": "Allah akan memperkenankan doa hamba-Nya"
+              },
+              {
+                "from": 61,
+                "to": 68,
+                "text": "Kekuasaan Allah yang tercermin pada alam semesta"
+              },
+              {
+                "from": 69,
+                "to": 77,
+                "text": "Nasib orang yang menentang ayat-ayat Allah dan rasul-Nya"
+              },
+              {
+                "from": 78,
+                "to": 78,
+                "text": "Rasul ada yang disebutkan kisahnya dalam Al-Qur'an dan ada yang tidak disebutkan"
+              },
+              {
+                "from": 79,
+                "to": 83,
+                "text": "Pelajaran yang dapat diambil dari peristiwa yang terjadi pada umat-umat terdahulu"
+              },
+              {
+                "from": 84,
+                "to": 85,
+                "text": "Iman pada waktu azab telah datang tidak berguna lagi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "41",
+        "name": "فصّلت",
+        "name_latin": "Fussilat",
+        "name_translation": "Yang Dijelaskan",
+        "number_of_ayah": "54",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "NABI ADALAH MANUSIA BIASA YANG DIBERI WAHYU"
+          },
+          {
+            "from": 9,
+            "to": 12,
+            "topic": "ALLAH MENCIPTAKAN LANGIT DAN BUMI DALAM BEBERAPA PERIODE"
+          },
+          {
+            "from": 13,
+            "to": 18,
+            "topic": "PERINGATAN KEPADA KAUM QURAISY TENTANG PERISTIWA YANG DIALAMI KAUM 'AD DAN TSAMUD"
+          },
+          {
+            "from": 19,
+            "to": 25,
+            "topic": "ANGGOTA TUBUH MANUSIA AKAN MENJADI SAKSI PADA HARI KIAMAT"
+          },
+          {
+            "from": 26,
+            "to": 32,
+            "topic": "PEMBALASAN ALLAH TERHADAP ORANG KAFIR DAN ORANG YANG BERIMAN"
+          },
+          {
+            "from": 33,
+            "to": 54,
+            "topic": "AL-QUR'AN ADALAH PETUNJUK DAN PENAWAR"
+          }
+        ]
+      },
+      {
+        "number": "42",
+        "name": "الشورى",
+        "name_latin": "Asy-Syura",
+        "name_translation": "Musyawarah",
+        "number_of_ayah": "53",
+        "topics": [
+          {
+            "from": 1,
+            "to": 53,
+            "topic": "POKOK-POKOK AJARAN PARA RASUL ADALAH SAMA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 4,
+                "text": "Wahyu yang diturunkan kepada Nabi Muhammad sama dengan yang diturunkan kepada rasul-rasul sebelumnya"
+              },
+              {
+                "from": 5,
+                "to": 6,
+                "text": "Para malaikat memohonkan ampunan kepada Allah untuk penghuni bumi"
+              },
+              {
+                "from": 7,
+                "to": 9,
+                "text": "Al-Qur'an sebagai peringatan untuk seluruh umat manusia"
+              },
+              {
+                "from": 10,
+                "to": 12,
+                "text": "Penyelesaian perselisihan umat manusia dikembalikan kepada kitab Allah"
+              },
+              {
+                "from": 13,
+                "to": 19,
+                "text": "Semua rasul mengajak untuk menyembah Allah Yang Maha Esa"
+              },
+              {
+                "from": 20,
+                "to": 29,
+                "text": "Allah memberikan balasan amal seseorang menurut niatnya"
+              },
+              {
+                "from": 30,
+                "to": 37,
+                "text": "Allah memaafkan sebagian besar dosa hamba-Nya"
+              },
+              {
+                "from": 38,
+                "to": 38,
+                "text": "Kewajiban bermusyawarah tentang masalah keduniaan"
+              },
+              {
+                "from": 39,
+                "to": 43,
+                "text": "Bersabar dan memberi maaf lebih baik daripada menuntut balas"
+              },
+              {
+                "from": 44,
+                "to": 50,
+                "text": "Orang yang dibiarkan sesat oleh Allah tidak akan menemukan pemimpin yang memberi petunjuk"
+              },
+              {
+                "from": 51,
+                "to": 53,
+                "text": "Cara wahyu diturunkan kepada rasul"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "43",
+        "name": "الزخرف",
+        "name_latin": "Az-Zukhruf",
+        "name_translation": "Perhiasan",
+        "number_of_ayah": "89",
+        "topics": [
+          {
+            "from": 1,
+            "to": 15,
+            "topic": "KAUM MUSYRIKIN MENGAKUI BAHWA ALLAH-LAH PENCIPTA LANGIT DAN BUMI MESKIPUN MEREKA MENYEMBAH BERHALA"
+          },
+          {
+            "from": 16,
+            "to": 25,
+            "topic": "KEINGKARAN KAUM MUSYRIKIN KARENA BERPEGANG TEGUH PADA TRADISI"
+          },
+          {
+            "from": 26,
+            "to": 30,
+            "topic": "NABI IBRAHIM SEBAGAI NENEK MOYANG MEREKA SENDIRI MENENTANG TRADISI"
+          },
+          {
+            "from": 31,
+            "to": 45,
+            "topic": "KEKAYAAN DAN PERHIASAN HANYALAH KENIKMATAN HIDUP DUNIAWI SEDANGKAN KEBAHAGIAAN DI AKHIRAT HANYA DAPAT DICAPAI DENGAN TAKWA"
+          },
+          {
+            "from": 46,
+            "to": 56,
+            "topic": "KEHANCURAN FIR'AUN ADALAH PELAJARAN BAGI UMAT ISLAM"
+          },
+          {
+            "from": 57,
+            "to": 67,
+            "topic": "NABI 'ISA MENGAJAK KAUMNYA UNTUK BERIMAN KEPADA ALLAH"
+          },
+          {
+            "from": 68,
+            "to": 80,
+            "topic": "KEBAHAGIAAN PENDUDUK SURGA DAN KESENGSARAAN PENDUDUK NERAKA"
+          },
+          {
+            "from": 81,
+            "to": 89,
+            "topic": "BANTAHAN AL-QUR'AN TENTANG KEPERCAYAAN TUHAN MEMPUNYAI ANAK"
+          }
+        ]
+      },
+      {
+        "number": "44",
+        "name": "الدخان",
+        "name_latin": "Ad-Dukhan",
+        "name_translation": "Kabut",
+        "number_of_ayah": "59",
+        "topics": [
+          {
+            "from": 1,
+            "to": 14,
+            "topic": "KAUM MUSYRIKIN DIAZAB ALLAH DENGAN KELAPARAN SEBAGAI HUKUMAN YANG RINGAN"
+          },
+          {
+            "from": 15,
+            "to": 16,
+            "topic": "KAUM MUSYRIKIN TETAP INGKAR, ALLAH MENDATANGKAN AZAB YANG BESAR"
+          },
+          {
+            "from": 17,
+            "to": 42,
+            "topic": "KISAH MUSA DAN FIR'AUN SEBAGAI PELAJARAN BAGI ORANG KAFIR"
+          },
+          {
+            "from": 43,
+            "to": 59,
+            "topic": "PERBUATAN JELEK DAN AMAL SALEH AKAN MENDAPATKAN BALASAN YANG SETIMPAL"
+          }
+        ]
+      },
+      {
+        "number": "45",
+        "name": "الجاثية",
+        "name_latin": "Al-Jasiyah",
+        "name_translation": "Berlutut",
+        "number_of_ayah": "37",
+        "topics": [
+          {
+            "from": 1,
+            "to": 37,
+            "topic": "BUKTI-BUKTI TENTANG KEBERADAAN ALLAH DI ALAM SEMESTA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 11,
+                "text": "Celakalah orang yang mendustakan wahyu"
+              },
+              {
+                "from": 12,
+                "to": 15,
+                "text": "Perbuatan manusia baik atau buruk kembali kepada dirinya sendiri"
+              },
+              {
+                "from": 16,
+                "to": 21,
+                "text": "Bani Israil mengingkari kerasulan Muhammad setelah mereka mengetahui bukti-bukti kebenarannya"
+              },
+              {
+                "from": 22,
+                "to": 26,
+                "text": "Tidak ada yang dapat memberikan petunjuk kepada penyembah hawa nafsu"
+              },
+              {
+                "from": 27,
+                "to": 37,
+                "text": "Pada hari penghisaban, manusia berlutut dan membaca catatan perbuatannya selama di dunia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "46",
+        "name": "الاحقاف",
+        "name_latin": "Al-Ahqaf",
+        "name_translation": "Bukit Pasir",
+        "number_of_ayah": "35",
+        "topics": [
+          {
+            "from": 1,
+            "to": 14,
+            "topic": "KEBENARAN TAUHID DAN KEBATILAN SYIRIK"
+          },
+          {
+            "from": 15,
+            "to": 20,
+            "topic": "KEWAJIBAN MENGHORMATI KEDUA ORANG TUA"
+          },
+          {
+            "from": 21,
+            "to": 28,
+            "topic": "KEHANCURAN KAUM 'AD"
+          },
+          {
+            "from": 29,
+            "to": 35,
+            "topic": "PENYIARAN AL-QUR'AN KEPADA GOLONGAN JIN"
+          }
+        ]
+      },
+      {
+        "number": "47",
+        "name": "محمّد",
+        "name_latin": "Muhammad",
+        "name_translation": "Muhammad",
+        "number_of_ayah": "38",
+        "topics": [
+          {
+            "from": 1,
+            "to": 38,
+            "topic": "KETENTUAN-KETENTUAN PEPERANGAN DALAM ISLAM",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Sikap menghadapi orang-orang kafir dalam peperangan"
+              },
+              {
+                "from": 7,
+                "to": 19,
+                "text": "Orang mukmin pasti menang dan orang kafir pasti hancur"
+              },
+              {
+                "from": 20,
+                "to": 38,
+                "text": "Ancaman terhadap orang munafik dan orang murtad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "48",
+        "name": "الفتح",
+        "name_latin": "Al-Fath",
+        "name_translation": "Kemenangan",
+        "number_of_ayah": "29",
+        "topics": [
+          {
+            "from": 1,
+            "to": 29,
+            "topic": "PERDAMAIAN HUDAIBIYAH ADALAH KEMENANGAN YANG BESAR BAGI KAUM MUSLIMIN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 7,
+                "text": "Kabar gembira bagi Nabi Muhammad dan kaum muslimin"
+              },
+              {
+                "from": 8,
+                "to": 10,
+                "text": "Terjadinya Bai'aturridhwan"
+              },
+              {
+                "from": 11,
+                "to": 17,
+                "text": "Celaan untuk orang yang takut berperang"
+              },
+              {
+                "from": 18,
+                "to": 26,
+                "text": "Allah meridhai orang-orang yang melakukan Bai'aturridhwan dan menjanjikan kemenangan bagi kaum muslimin"
+              },
+              {
+                "from": 27,
+                "to": 28,
+                "text": "Mimpi Nabi Muhammad memasuki Mekah akan terbukti"
+              },
+              {
+                "from": 29,
+                "to": 29,
+                "text": "Sifat-sifat Nabi Muhammad SAW dan Sahabatnya di dalam Taurat dan Injil "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "49",
+        "name": "الحجرٰت",
+        "name_latin": "Al-Hujurat",
+        "name_translation": "Kamar-Kamar",
+        "number_of_ayah": "18",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "TATA KRAMA TERHADAP RASULULLAH"
+          },
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "PERATURAN TENTANG PERGAULAN UMAT ISLAM",
+            "subs": [
+              {
+                "from": 6,
+                "to": 8,
+                "text": "Cara menghadapi berita yang dibawa orang fasik"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "text": "Cara menyelesaikan persengketaan yang timbul antara kaum Muslimin"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "text": "Larangan memperolok-olokkan, banyak berprasangka, dan lain-lain"
+              },
+              {
+                "from": 13,
+                "to": 13,
+                "text": "Manusia diciptakan berbangsa-bangsa untuk saling mengenal"
+              },
+              {
+                "from": 14,
+                "to": 18,
+                "text": "Ciri-ciri iman yang sebenarnya"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "50",
+        "name": "ق",
+        "name_latin": "Qaf",
+        "name_translation": "Qaf",
+        "number_of_ayah": "45",
+        "topics": [
+          {
+            "from": 1,
+            "to": 45,
+            "topic": "HARI KEBANGKITAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 5,
+                "text": "Pengingkaran kaum musyrikin terhadap kenabian Muhammad dan hari kebangkitan"
+              },
+              {
+                "from": 6,
+                "to": 11,
+                "text": "Kejadian-kejadian alam membuktikan kebenaran adanya hari kebangkitan"
+              },
+              {
+                "from": 12,
+                "to": 15,
+                "text": "Pelajaran yang dapat diambil dari umat-umat terdahulu yang menentang para nabi"
+              },
+              {
+                "from": 16,
+                "to": 29,
+                "text": "Gerak-gerik dan perkataan manusia dicatat oleh para malaikat"
+              },
+              {
+                "from": 30,
+                "to": 35,
+                "text": "Balasan terhadap amal baik dan perbuatan jelek"
+              },
+              {
+                "from": 36,
+                "to": 45,
+                "text": "Ancaman terhadap orang yang mengingkari hari kebangkitan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "51",
+        "name": "الذّٰريٰت",
+        "name_latin": "Az-Zariyat",
+        "name_translation": "Angin yang Menerbangkan",
+        "number_of_ayah": "60",
+        "topics": [
+          {
+            "from": 1,
+            "to": 23,
+            "topic": "PENEGASAN TENTANG HARI KEBANGKITAN"
+          },
+          {
+            "from": 24,
+            "to": 60,
+            "topic": "KISAH TENTANG UMAT-UMAT TERDAHULU YANG MENDUSTAKAN PARA NABI"
+          }
+        ]
+      },
+      {
+        "number": "52",
+        "name": "الطور",
+        "name_latin": "At-Tur",
+        "name_translation": "Bukit Tursina",
+        "number_of_ayah": "49",
+        "topics": [
+          {
+            "from": 1,
+            "to": 28,
+            "topic": "SUMPAH YANG MENEGASKAN BAHWA AZAB ALLAH PASTI MENIMPA ORANG YANG MENDUSTAKAN DAN KARUNIANYA PASTI DILIMPAHKAN KEPADA ORANG YANG BERTAKWA"
+          },
+          {
+            "from": 29,
+            "to": 47,
+            "topic": "BANTAHAN ALLAH TERHADAP OCEHAN KAUM MUSYRIKIN"
+          },
+          {
+            "from": 48,
+            "to": 49,
+            "topic": "KEHARUSAN BERSABAR, BERTASBIH, DAN SHALAT MALAM"
+          }
+        ]
+      },
+      {
+        "number": "53",
+        "name": "النجم",
+        "name_latin": "An-Najm",
+        "name_translation": "Bintang",
+        "number_of_ayah": "62",
+        "topics": [
+          {
+            "from": 1,
+            "to": 25,
+            "topic": "ALLAH BERSUMPAH BAHWA WAHYU YANG DITURUNKAN KEPADA NABI MUHAMMAD ADALAH BENAR"
+          },
+          {
+            "from": 26,
+            "to": 30,
+            "topic": "CELAAN ALLAH KEPADA KAUM MUSYRIKIN YANG MENGHARAPKAN SYAF'AT DARI MALAIKAT"
+          },
+          {
+            "from": 31,
+            "to": 32,
+            "topic": "ORANG YANG MENJAUHI DOSA BESAR MENDAPAT AMPUNAN DAN BALASAN YANG BAIK"
+          },
+          {
+            "from": 33,
+            "to": 62,
+            "topic": "KEHANCURAN ORANG YANG MENDUSTAKAN KEBENARAN DAN PERTANGGUNGJAWABAN MANUSIA ATAS PERBUATANNYA"
+          }
+        ]
+      },
+      {
+        "number": "54",
+        "name": "القمر",
+        "name_latin": "Al-Qamar",
+        "name_translation": "Bulan",
+        "number_of_ayah": "55",
+        "topics": [
+          {
+            "from": 1,
+            "to": 55,
+            "topic": "MUSUH NABI MUHAMMAD AKAN MENGALAMI KEHANCURAN SEBAGAIMANA MUSUH RASUL TERDAHULU",
+            "subs": [
+              {
+                "from": 1,
+                "to": 8,
+                "text": "Berita kehancuran musuh Nabi Muhammad"
+              },
+              {
+                "from": 9,
+                "to": 17,
+                "text": "Kehancuran kaum Nabi Nuh"
+              },
+              {
+                "from": 18,
+                "to": 22,
+                "text": "Kehancuran kaum 'Ad"
+              },
+              {
+                "from": 23,
+                "to": 32,
+                "text": "Kehancuran kaum Tsamud"
+              },
+              {
+                "from": 33,
+                "to": 40,
+                "text": "Kehancuran kaum Luth"
+              },
+              {
+                "from": 41,
+                "to": 43,
+                "text": "Kehancuran Fir'aun"
+              },
+              {
+                "from": 44,
+                "to": 46,
+                "text": "Peringatan kepada kaum musyrikin bahwa mereka tidak lebih kuat dari umat-umat yang telah dihancurkan Allah"
+              },
+              {
+                "from": 47,
+                "to": 55,
+                "text": "Balasan terhadap orang yang berdosa dan pahala bagi orang yang bertakwa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "55",
+        "name": "الرحمن",
+        "name_latin": "Ar-Rahman",
+        "name_translation": "Maha Pengasih",
+        "number_of_ayah": "78",
+        "topics": [
+          {
+            "from": 1,
+            "to": 30,
+            "topic": "BEBERAPA NIKMAT ALLAH YANG DAPAT DIRASAKAN DI DUNIA"
+          },
+          {
+            "from": 31,
+            "to": 45,
+            "topic": "ANCAMAN ALLAH TERHADAP PERBUATAN DURHAKA"
+          },
+          {
+            "from": 46,
+            "to": 78,
+            "topic": "PAHALA BAGI ORANG YANG BERTAKWA"
+          }
+        ]
+      },
+      {
+        "number": "56",
+        "name": "الواقعة",
+        "name_latin": "Al-Waqi'ah",
+        "name_translation": "Hari Kiamat",
+        "number_of_ayah": "96",
+        "topics": [
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "KEJADIAN-KEJADIAN BESAR PADA HARI KIAMAT",
+            "subs": [
+              {
+                "from": 1,
+                "to": 7,
+                "text": "Pada hari kiamat manusia terbagi menjadi tiga golongan"
+              },
+              {
+                "from": 8,
+                "to": 10,
+                "text": "Golongan kanan, golongan kiri, dan orang-orang yang paling dahulu beriman"
+              },
+              {
+                "from": 11,
+                "to": 26,
+                "text": "Balasan kepada orang yang paling dahulu beriman"
+              },
+              {
+                "from": 27,
+                "to": 40,
+                "text": "Balasan kepada golongan kanan"
+              },
+              {
+                "from": 41,
+                "to": 74,
+                "text": "Azab atas golongan kiri dan celaan untuk mereka"
+              }
+            ]
+          },
+          {
+            "from": 75,
+            "to": 96,
+            "topic": "SUMPAH ALLAH TENTANG KEMULIAAN AL-QUR'AN"
+          }
+        ]
+      },
+      {
+        "number": "57",
+        "name": "الحديد",
+        "name_latin": "Al-Hadid",
+        "name_translation": "Besi",
+        "number_of_ayah": "29",
+        "topics": [
+          {
+            "from": 1,
+            "to": 24,
+            "topic": "SEGALA SESUATU PADA HAKIKATNYA MILIK ALLAH MAKA JANGANLAH KAMU MERASA BERAT MENGINFAKKAN HARTA"
+          },
+          {
+            "from": 25,
+            "to": 26,
+            "topic": "BESI ADALAH KARUNIA ALLAH YANG MERUPAKAN POKOK KEKUATAN UNTUK MEMBELA AGAMA ALLAH DAN MEMENUHI KEPERLUAN HIDUP"
+          },
+          {
+            "from": 27,
+            "to": 29,
+            "topic": "TIDAK ADA KERAHIBAN DALAM AGAMA ISLAM"
+          }
+        ]
+      },
+      {
+        "number": "58",
+        "name": "المجادلة",
+        "name_latin": "Al-Mujadalah",
+        "name_translation": "Gugatan",
+        "number_of_ayah": "22",
+        "topics": [
+          {
+            "from": 1,
+            "to": 22,
+            "topic": "BEBERAPA KETENTUAN DALAM ISLAM",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Hukum Zhihar"
+              },
+              {
+                "from": 7,
+                "to": 10,
+                "text": "Celaan terhadap perundingan rahasia untuk memusuhi Islam"
+              },
+              {
+                "from": 11,
+                "to": 13,
+                "text": "Sopan-santun menghadiri majelis Nabi"
+              },
+              {
+                "from": 14,
+                "to": 22,
+                "text": "Larangan bersahabat dengan orang yang memusuhi Islam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "59",
+        "name": "الحشر",
+        "name_latin": "Al-Hasyr",
+        "name_translation": "Pengusiran",
+        "number_of_ayah": "24",
+        "topics": [
+          {
+            "from": 1,
+            "to": 24,
+            "topic": "PENGUSIRAN ORANG-ORANG YAHUDI DARI MADINAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 5,
+                "text": "Pengusiran Bani Nadhir dari Madinah"
+              },
+              {
+                "from": 6,
+                "to": 10,
+                "text": "Hukum Fai"
+              },
+              {
+                "from": 11,
+                "to": 17,
+                "text": "Orang munafik tidak menepati janji terhadap orang Yahudi"
+              },
+              {
+                "from": 18,
+                "to": 21,
+                "text": "Beberapa peringatan"
+              },
+              {
+                "from": 22,
+                "to": 24,
+                "text": "Beberapa Al-Asmaa' al Husna "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "60",
+        "name": "الممتحنة",
+        "name_latin": "Al-Mumtahanah",
+        "name_translation": "Wanita Yang Diuji",
+        "number_of_ayah": "13",
+        "topics": [
+          {
+            "from": 1,
+            "to": 13,
+            "topic": "BEBERAPA KETENTUAN DALAM KEADAAN PERANG",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Larangan menjadikan seseorang dari golongan musuh sebagai teman setia"
+              },
+              {
+                "from": 7,
+                "to": 9,
+                "text": "Hubungan antara orang Islam dan orang kafir yang tidak memusuhi Islam"
+              },
+              {
+                "from": 10,
+                "to": 13,
+                "text": "Perlakuan terhadap perempuan-perempuan mukmin yang masuk daerah Islam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "61",
+        "name": "الصّفّ",
+        "name_latin": "As-Saff",
+        "name_translation": "Barisan",
+        "number_of_ayah": "14",
+        "topics": [
+          {
+            "from": 1,
+            "to": 14,
+            "topic": "JALAN MENCAPAI KEMENANGAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 9,
+                "text": "Keharusan umat Islam mempertahankan agama dalam barisan yang teratur"
+              },
+              {
+                "from": 10,
+                "to": 14,
+                "text": "Kemenangan hanya dapat diperoleh dengan pengorbanan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "62",
+        "name": "الجمعة",
+        "name_latin": "Al-Jumu'ah",
+        "name_translation": "Jumat",
+        "number_of_ayah": "11",
+        "topics": [
+          {
+            "from": 1,
+            "to": 4,
+            "topic": "PENGUTUSAN MUHAMMAD ADALAH KARUNIA ALLAH KEPADA MANUSIA"
+          },
+          {
+            "from": 5,
+            "to": 8,
+            "topic": "PERINGATAN KEPADA UMAT ISLAM SUPAYA JANGAN SEPERTI ORANG YAHUDI YANG TIDAK MENGAMALKAN ISI KITAB SUCI"
+          },
+          {
+            "from": 9,
+            "to": 11,
+            "topic": "BEBERAPA HUKUM YANG BERHUBUNGAN DENGAN SHALAT JUM'AT"
+          }
+        ]
+      },
+      {
+        "number": "63",
+        "name": "المنٰفقون",
+        "name_latin": "Al-Munafiqun",
+        "name_translation": "Orang-Orang Munafik",
+        "number_of_ayah": "11",
+        "topics": [
+          {
+            "from": 1,
+            "to": 11,
+            "topic": "ORANG-ORANG MUNAFIK",
+            "subs": [
+              {
+                "from": 1,
+                "to": 8,
+                "text": "Sifat-sifat orang munafik"
+              },
+              {
+                "from": 9,
+                "to": 11,
+                "text": "Peringatan kepada orang-orang mukmin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "64",
+        "name": "التغابن",
+        "name_latin": "At-Tagabun",
+        "name_translation": "Pengungkapan Kesalahan",
+        "number_of_ayah": "18",
+        "topics": [
+          {
+            "from": 1,
+            "to": 10,
+            "topic": "KESALAHAN MANUSIA AKAN DITAMPAKKAN ALLAH PADA HARI KIAMAT"
+          },
+          {
+            "from": 11,
+            "to": 18,
+            "topic": "BERHATI-HATI TERHADAP KEHIDUPAN DUNIA"
+          }
+        ]
+      },
+      {
+        "number": "65",
+        "name": "الطلاق",
+        "name_latin": "At-Talaq",
+        "name_translation": "Talak",
+        "number_of_ayah": "12",
+        "topics": [
+          {
+            "from": 1,
+            "to": 7,
+            "topic": "BEBERAPA KETENTUAN TENTANG TALAK DAN 'IDDAH"
+          },
+          {
+            "from": 8,
+            "to": 12,
+            "topic": "HUKUM-HUKUM YANG DIBAWA NABI MUHAMMAD MEMBAWA KEBAHAGIAAN BAGI MANUSIA"
+          }
+        ]
+      },
+      {
+        "number": "66",
+        "name": "التحريم",
+        "name_latin": "At-Tahrim",
+        "name_translation": "Pengharaman",
+        "number_of_ayah": "12",
+        "topics": [
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "BEBERAPA TUNTUNAN TENTANG KEHIDUPAN RUMAH TANGGA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 6,
+                "text": "Nabi Muhammad dan istri-istrinya"
+              },
+              {
+                "from": 7,
+                "to": 9,
+                "text": "Perintah taubat dan berjihad"
+              }
+            ]
+          },
+          {
+            "from": 10,
+            "to": 12,
+            "topic": "CONTOH ISTRI YANG TIDAK BAIK DAN ISTRI YANG BAIK"
+          }
+        ]
+      },
+      {
+        "number": "67",
+        "name": "الملك",
+        "name_latin": "Al-Mulk",
+        "name_translation": "Kerajaan",
+        "number_of_ayah": "30",
+        "topics": [
+          {
+            "from": 1,
+            "to": 30,
+            "topic": "KERAJAAN ALLAH MELIPUTI KERAJAAN DUNIA DAN AKHIRAT",
+            "subs": [
+              {
+                "from": 1,
+                "to": 5,
+                "text": "Kekuasaan dan ilmu Allah yang tergambar di alam semesta"
+              },
+              {
+                "from": 6,
+                "to": 11,
+                "text": "Azab yang diderita orang-orang kafir di akhirat"
+              },
+              {
+                "from": 12,
+                "to": 15,
+                "text": "Janji-janji Allah kepada orang-orang mukmin"
+              },
+              {
+                "from": 16,
+                "to": 30,
+                "text": "Ancaman Allah kepada orang-orang kafir"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "68",
+        "name": "القلم",
+        "name_latin": "Al-Qalam",
+        "name_translation": "Pena",
+        "number_of_ayah": "52",
+        "topics": [
+          {
+            "from": 1,
+            "to": 16,
+            "topic": "BANTAHAN ALLAH TERHADAP TUDUHAN ORANG KAFIR KEPADA NABI MUHAMMAD",
+            "subs": [
+              {
+                "from": 1,
+                "to": 7,
+                "text": "Muhammad adalah seorang yang berakhlak agung"
+              },
+              {
+                "from": 8,
+                "to": 16,
+                "text": "Larangan mentaati orang-orang yang mendustakan kebenaran"
+              }
+            ]
+          },
+          {
+            "from": 17,
+            "to": 33,
+            "topic": "ALLAH TELAH MENIMPAKAN COBAAN KEPADA ORANG KAFIR SEPERTI YANG DITIMPAKAN KEPADA PEMILIK KEBUN"
+          },
+          {
+            "from": 34,
+            "to": 52,
+            "topic": "ALLAH TIDAK MENYAMAKAN ORANG YANG BAIK DENGAN ORANG YANG BURUK"
+          }
+        ]
+      },
+      {
+        "number": "69",
+        "name": "الحاۤقّة",
+        "name_latin": "Al-Haqqah",
+        "name_translation": "Hari Kiamat",
+        "number_of_ayah": "52",
+        "topics": [
+          {
+            "from": 1,
+            "to": 37,
+            "topic": "KEPASTIAN HARI KIAMAT",
+            "subs": [
+              {
+                "from": 1,
+                "to": 12,
+                "text": "Orang yang mendustakan kebenaran pasti binasa"
+              },
+              {
+                "from": 13,
+                "to": 18,
+                "text": "Peristiwa-peristiwa ketika hari kiamat terjadi"
+              },
+              {
+                "from": 19,
+                "to": 37,
+                "text": "Hari penghisaban dan peristiwa-peristiwa berikutnya"
+              }
+            ]
+          },
+          {
+            "from": 38,
+            "to": 52,
+            "topic": "AL-QUR'AN BENAR-BENAR WAHYU ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "70",
+        "name": "المعارج",
+        "name_latin": "Al-Ma'arij",
+        "name_translation": "Tempat Naik",
+        "number_of_ayah": "44",
+        "topics": [
+          {
+            "from": 1,
+            "to": 18,
+            "topic": "KEPASTIAN DATANGNYA AZAB KEPADA ORANG KAFIR"
+          },
+          {
+            "from": 19,
+            "to": 35,
+            "topic": "AJARAN ISLAM UNTUK MENGATASI SIFAT-SIFAT YANG JELEK PADA MANUSIA"
+          },
+          {
+            "from": 36,
+            "to": 44,
+            "topic": "AZAB YANG MENGHINAKAN AKAN MENIMPA ORANG YANG MENDUSTAKAN ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "71",
+        "name": "نوح",
+        "name_latin": "Nuh",
+        "name_translation": "Nuh",
+        "number_of_ayah": "28",
+        "topics": [
+          {
+            "from": 1,
+            "to": 28,
+            "topic": "KISAH NUH DENGAN KAUMNYA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 4,
+                "text": "Seruan Nabi Nuh kepada kaumnya"
+              },
+              {
+                "from": 5,
+                "to": 24,
+                "text": "Pengaduan Nuh kepada Allah tentang keingkaran kaumnya"
+              },
+              {
+                "from": 25,
+                "to": 28,
+                "text": "Azab yang ditimpakan kepada kaum Nuh"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "72",
+        "name": "الجن",
+        "name_latin": "Al-Jinn",
+        "name_translation": "Jin",
+        "number_of_ayah": "28",
+        "topics": [
+          {
+            "from": 1,
+            "to": 19,
+            "topic": "JIN MASUK ISLAM SETELAH MENDENGAR AL-QUR'AN"
+          },
+          {
+            "from": 20,
+            "to": 28,
+            "topic": "PEMELIHARAAN ALLAH TERHADAP WAHYU YANG DITURUNKAN KEPADA NABI"
+          }
+        ]
+      },
+      {
+        "number": "73",
+        "name": "المزّمّل",
+        "name_latin": "Al-Muzzammil",
+        "name_translation": "Orang Yang Berselimut",
+        "number_of_ayah": "20",
+        "topics": [
+          {
+            "from": 1,
+            "to": 19,
+            "topic": "PETUNJUK ALLAH KEPADA NABI MUHAMMAD UNTUK MEMPERSIAPKAN DIRI DALAM BERDAKWAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 9,
+                "text": "Kewajiban shalat malam atas Nabi Muhammad"
+              },
+              {
+                "from": 10,
+                "to": 19,
+                "text": "Beberapa petunjuk lainnya untuk Nabi Muhammad"
+              }
+            ]
+          },
+          {
+            "from": 20,
+            "to": 20,
+            "topic": "BEBERAPA PETUNJUK BAGI KAUM MUSLIMIN"
+          }
+        ]
+      },
+      {
+        "number": "74",
+        "name": "المدّثّر",
+        "name_latin": "Al-Muddassir",
+        "name_translation": "Orang Yang Berkemul",
+        "number_of_ayah": "56",
+        "topics": [
+          {
+            "from": 1,
+            "to": 1,
+            "topic": "PERINTAH KEPADA NABI UNTUK BERDAKWAH",
+            "subs": [
+              {
+                "from": 1,
+                "to": 10,
+                "text": "Beberapa petunjuk dalam berdakwah"
+              },
+              {
+                "from": 11,
+                "to": 31,
+                "text": "Urusan orang yang ingkar kepada Allah"
+              },
+              {
+                "from": 32,
+                "to": 56,
+                "text": "Yang menerima dakwah akan mendapat pahala dan yang menolaknya akan masuk neraka"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "75",
+        "name": "القيٰمة",
+        "name_latin": "Al-Qiyamah",
+        "name_translation": "Hari Kiamat",
+        "number_of_ayah": "40",
+        "topics": [
+          {
+            "from": 1,
+            "to": 40,
+            "topic": "HARI KIAMAT DAN HURU HARANYA",
+            "subs": [
+              {
+                "from": 1,
+                "to": 15,
+                "text": "Kekuasaan Allah menghidupkan manusia seperti semula"
+              },
+              {
+                "from": 16,
+                "to": 25,
+                "text": "Urutan ayat-ayat dan surat-surat dalam Al-Qur'an menurut ketentuan Allah"
+              },
+              {
+                "from": 26,
+                "to": 35,
+                "text": "Keadaan manusia di saat sakaratul maut"
+              },
+              {
+                "from": 36,
+                "to": 40,
+                "text": "Manusia diciptakan Allah bukan sia-sia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "76",
+        "name": "الانسان",
+        "name_latin": "Al-Insan",
+        "name_translation": "Manusia",
+        "number_of_ayah": "31",
+        "topics": [
+          {
+            "from": 1,
+            "to": 31,
+            "topic": "KEHIDUPAN MANUSIA MENUJU KESEMPURNAAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 4,
+                "text": "Proses kejadian manusia"
+              },
+              {
+                "from": 5,
+                "to": 22,
+                "text": "Balasan Allah kepada orang yang berbuat kebajikan dan tingkatan balasan"
+              },
+              {
+                "from": 23,
+                "to": 31,
+                "text": "Tuntunan-tuntunan Allah kepada Nabi Muhammad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "77",
+        "name": "المرسلٰت",
+        "name_latin": "Al-Mursalat",
+        "name_translation": "Malaikat Yang Diutus",
+        "number_of_ayah": "50",
+        "topics": [
+          {
+            "from": 1,
+            "to": 50,
+            "topic": "KEADAAN MANUSIA PADA HARI KEPUTUSAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 26,
+                "text": "Segala ancaman Allah pasti terjadi"
+              },
+              {
+                "from": 27,
+                "to": 50,
+                "text": "Azab yang ditimpakan kepada orang yang mendustakan kebenaran dan balasan untuk orang yang bertakwa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "78",
+        "name": "النبأ",
+        "name_latin": "An-Naba'",
+        "name_translation": "Berita Besar",
+        "number_of_ayah": "40",
+        "topics": [
+          {
+            "from": 1,
+            "to": 40,
+            "topic": "HARI KEBANGKITAN",
+            "subs": [
+              {
+                "from": 1,
+                "to": 16,
+                "text": "Kekuasaan Allah menciptakan alam adalah bukti kekuasaan-Nya membangkitkan manusia"
+              },
+              {
+                "from": 17,
+                "to": 20,
+                "text": "Kedahsyatan hari kebangkitan"
+              },
+              {
+                "from": 21,
+                "to": 30,
+                "text": "Balasan terhadap orang yang durhaka"
+              },
+              {
+                "from": 31,
+                "to": 37,
+                "text": "Balasan terhadap orang yang bertakwa"
+              },
+              {
+                "from": 38,
+                "to": 40,
+                "text": "Perintah agar manusia memilih jalan yang benar kepada Tuhannya"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "79",
+        "name": "النّٰزعٰت",
+        "name_latin": "An-Nazi'at",
+        "name_translation": "Malaikat Yang Mencabut",
+        "number_of_ayah": "46",
+        "topics": [
+          {
+            "from": 1,
+            "to": 14,
+            "topic": "PENEGASAN HARI KEBANGKITAN KEPADA ORANG MUSYRIK YANG MENGINGKARINYA"
+          },
+          {
+            "from": 15,
+            "to": 26,
+            "topic": "KISAH NABI MUSA DAN FIR'AUN SEBAGAI PENGHIBUR BAGI NABI MUHAMMAD"
+          },
+          {
+            "from": 27,
+            "to": 33,
+            "topic": "MEMBANGKITKAN MANUSIA ADALAH MUDAH BAGI ALLAH SEPERTI MENCIPTAKAN ALAM SEMESTA"
+          },
+          {
+            "from": 34,
+            "to": 46,
+            "topic": "PADA HARI KIAMAT MANUSIA TERINGAT AKAN PERBUATANNYA DI DUNIA "
+          }
+        ]
+      },
+      {
+        "number": "80",
+        "name": "عبس",
+        "name_latin": "'Abasa",
+        "name_translation": "Bermuka Masam",
+        "number_of_ayah": "42",
+        "topics": [
+          {
+            "from": 1,
+            "to": 16,
+            "topic": "TEGURAN KEPADA RASULULLAH"
+          },
+          {
+            "from": 17,
+            "to": 42,
+            "topic": "PERINGATAN ALLAH KEPADA MANUSIA YANG TIDAK TAHU HAKIKAT DIRINYA"
+          }
+        ]
+      },
+      {
+        "number": "81",
+        "name": "التكوير",
+        "name_latin": "At-Takwir",
+        "name_translation": "Penggulungan",
+        "number_of_ayah": "29",
+        "topics": [
+          {
+            "from": 1,
+            "to": 14,
+            "topic": "KETIKA TERJADI PERISTIWA-PERISTIWA BESAR PADA HARI KIAMAT, SETIAP JIWA TAHU APA YANG TELAH DIKERJAKANNYA DI DUNIA"
+          },
+          {
+            "from": 15,
+            "to": 29,
+            "topic": "MUHAMMAD BUKANLAH SEORANG GILA, TAPI RASUL YANG DITURUNKAN AL-QUR'AN"
+          }
+        ]
+      },
+      {
+        "number": "82",
+        "name": "الانفطار",
+        "name_latin": "Al-Infitar",
+        "name_translation": "Terbelah",
+        "number_of_ayah": "19",
+        "topics": [
+          {
+            "from": 1,
+            "to": 9,
+            "topic": "CELAAN TERHADAP MANUSIA YANG DURHAKA KEPADA ALLAH"
+          },
+          {
+            "from": 10,
+            "to": 19,
+            "topic": "SEMUA PERBUATAN MANUSIA DICATAT OLEH MALAIKAT DAN AKAN MENDAPAT BALASAN YANG SEIMBANG"
+          }
+        ]
+      },
+      {
+        "number": "83",
+        "name": "المطفّفين",
+        "name_latin": "Al-Mutaffifin",
+        "name_translation": "Orang-Orang Curang",
+        "number_of_ayah": "36",
+        "topics": [
+          {
+            "from": 1,
+            "to": 6,
+            "topic": "ANCAMAN TERHADAP ORANG YANG CURANG DALAM MENAKAR DAN MENIMBANG"
+          },
+          {
+            "from": 7,
+            "to": 17,
+            "topic": "KEADAAN ORANG YANG DURHAKA PADA HARI KIAMAT"
+          },
+          {
+            "from": 18,
+            "to": 28,
+            "topic": "KEADAAN ORANG YANG BERBAKTI KEPADA ALLAH PADA HARI KIAMAT"
+          },
+          {
+            "from": 29,
+            "to": 36,
+            "topic": "EJEKAN TERHADAP ORANG MUKMIN DI DUNIA DAN BALASANNYA DI AKHIRAT"
+          }
+        ]
+      },
+      {
+        "number": "84",
+        "name": "الانشقاق",
+        "name_latin": "Al-Insyiqaq",
+        "name_translation": "Terbelah",
+        "number_of_ayah": "25",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "ORANG MUKMIN MENERIMA CATATAN AMALNYA DI SEBELAH KANAN"
+          },
+          {
+            "from": 9,
+            "to": 15,
+            "topic": "ORANG DURHAKA MENERIMA CATATAN AMALNYA DARI BELAKANG DAN AKAN DIMASUKKAN KE NERAKA"
+          },
+          {
+            "from": 16,
+            "to": 25,
+            "topic": "MANUSIA MENGALAMI PROSES KEHIDUPAN SECARA BERTAHAP "
+          }
+        ]
+      },
+      {
+        "number": "85",
+        "name": "البروج",
+        "name_latin": "Al-Buruj",
+        "name_translation": "Gugusan Bintang",
+        "number_of_ayah": "22",
+        "topics": [
+          {
+            "from": 1,
+            "to": 22,
+            "topic": "ORANG YANG MENENTANG NABI MUHAMMAD AKAN MENGALAMI KEHANCURAN"
+          }
+        ]
+      },
+      {
+        "number": "86",
+        "name": "الطارق",
+        "name_latin": "At-Tariq",
+        "name_translation": "Yang Datang Di Malam Hari",
+        "number_of_ayah": "17",
+        "topics": [
+          {
+            "from": 1,
+            "to": 4,
+            "topic": "SETIAP ORANG ADA YANG MENJAGANYA"
+          },
+          {
+            "from": 5,
+            "to": 10,
+            "topic": "ALLAH KUASA MEMBANGKITKAN MANUSIA"
+          },
+          {
+            "from": 11,
+            "to": 17,
+            "topic": "AL-QUR'AN PEMISAH ANTARA YANG HAQ DAN YANG BATIL"
+          }
+        ]
+      },
+      {
+        "number": "87",
+        "name": "الاعلى",
+        "name_latin": "Al-A'la",
+        "name_translation": "Maha Tinggi",
+        "number_of_ayah": "19",
+        "topics": [
+          {
+            "from": 1,
+            "to": 19,
+            "topic": "BERTASBIH DAN MENSUCIKAN DIRI ADALAH PANGKAL KEBERUNTUNGAN"
+          }
+        ]
+      },
+      {
+        "number": "88",
+        "name": "الغاشية",
+        "name_latin": "Al-Gasyiyah",
+        "name_translation": "Hari Kiamat",
+        "number_of_ayah": "26",
+        "topics": [
+          {
+            "from": 1,
+            "to": 16,
+            "topic": "KEADAAN PENGHUNI NERAKA DAN PENGHUNI SURGA"
+          },
+          {
+            "from": 17,
+            "to": 26,
+            "topic": "ANJURAN MEMPERHATIKAN ALAM SEMESTA"
+          }
+        ]
+      },
+      {
+        "number": "89",
+        "name": "الفجر",
+        "name_latin": "Al-Fajr",
+        "name_translation": "Fajar",
+        "number_of_ayah": "30",
+        "topics": [
+          {
+            "from": 1,
+            "to": 14,
+            "topic": "ORANG YANG MENENTANG NABI MUHAMMAD PASTI BINASA"
+          },
+          {
+            "from": 15,
+            "to": 20,
+            "topic": "KEKAYAAN DAN KEMISKINAN ADALAH UJIAN BAGI HAMBA ALLAH"
+          },
+          {
+            "from": 21,
+            "to": 26,
+            "topic": "PENYESALAN MANUSIA PADA HARI KIAMAT"
+          },
+          {
+            "from": 27,
+            "to": 30,
+            "topic": "PENGHARGAAN ALLAH TERHADAP MANUSIA YANG SEMPURNA IMANNYA"
+          }
+        ]
+      },
+      {
+        "number": "90",
+        "name": "البلد",
+        "name_latin": "Al-Balad",
+        "name_translation": "Negeri",
+        "number_of_ayah": "20",
+        "topics": [
+          {
+            "from": 1,
+            "to": 20,
+            "topic": "HIDUP MANUSIA PENUH DENGAN PERJUANGAN"
+          }
+        ]
+      },
+      {
+        "number": "91",
+        "name": "الشمس",
+        "name_latin": "Asy-Syams",
+        "name_translation": "Matahari",
+        "number_of_ayah": "15",
+        "topics": [
+          {
+            "from": 1,
+            "to": 15,
+            "topic": "MANUSIA DIILHAMI ALLAH JALAN YANG BURUK DAN YANG BAIK"
+          }
+        ]
+      },
+      {
+        "number": "92",
+        "name": "الّيل",
+        "name_latin": "Al-Lail",
+        "name_translation": "Malam",
+        "number_of_ayah": "21",
+        "topics": [
+          {
+            "from": 1,
+            "to": 21,
+            "topic": "USAHA MANUSIA BERMACAM-MACAM, YANG TERPENTING IALAH MENCARI KERIDHAAN ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "93",
+        "name": "الضحى",
+        "name_latin": "Ad-Duha",
+        "name_translation": "Duha",
+        "number_of_ayah": "11",
+        "topics": [
+          {
+            "from": 1,
+            "to": 11,
+            "topic": "BEBERAPA NIKMAT YANG DIANUGERAHKAN KEPADA NABI MUHAMMAD"
+          }
+        ]
+      },
+      {
+        "number": "94",
+        "name": "الشرح",
+        "name_latin": "Asy-Syarh",
+        "name_translation": "Lapang",
+        "number_of_ayah": "8",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "PERINTAH ALLAH KEPADA NABI MUHAMMAD AGAR TERUS BERJUANG DENGAN IKHLAS DAN TAWAKAL"
+          }
+        ]
+      },
+      {
+        "number": "95",
+        "name": "التين",
+        "name_latin": "At-Tin",
+        "name_translation": "Buah Tin",
+        "number_of_ayah": "8",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "MANUSIA DICIPTAKAN DALAM BENTUK YANG SEBAIK-BAIKNYA"
+          },
+          {
+            "from": 6,
+            "to": 8,
+            "topic": "YANG MENJADI BAROMETER KEMULIAAN IALAH IMAN DAN AMAL"
+          }
+        ]
+      },
+      {
+        "number": "96",
+        "name": "العلق",
+        "name_latin": "Al-'Alaq",
+        "name_translation": "Segumpal Darah",
+        "number_of_ayah": "19",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "BACA TULIS ADALAH KUNCI ILMU PENGETAHUAN"
+          },
+          {
+            "from": 6,
+            "to": 19,
+            "topic": "MANUSIA MENJADI JAHAT KARENA MERASA CUKUP"
+          }
+        ]
+      },
+      {
+        "number": "97",
+        "name": "القدر",
+        "name_latin": "Al-Qadr",
+        "name_translation": "Kemuliaan",
+        "number_of_ayah": "5",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "KEMULIAAN LAILATUL QADR"
+          }
+        ]
+      },
+      {
+        "number": "98",
+        "name": "البيّنة",
+        "name_latin": "Al-Bayyinah",
+        "name_translation": "Bukti Nyata",
+        "number_of_ayah": "8",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "AHLI KITAB BERPECAH BELAH MENGHADAPI NABI MUHAMMAD"
+          }
+        ]
+      },
+      {
+        "number": "99",
+        "name": "الزلزلة",
+        "name_latin": "Az-Zalzalah",
+        "name_translation": "Guncangan",
+        "number_of_ayah": "8",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "PADA HARI KEBANGKITAN MANUSIA MELIHAT BALASAN PERBUATANNYA MESKIPUN SEBESAR ZARRAH"
+          }
+        ]
+      },
+      {
+        "number": "100",
+        "name": "العٰديٰت",
+        "name_latin": "Al-'Adiyat",
+        "name_translation": "Kuda Yang Berlari Kencang",
+        "number_of_ayah": "11",
+        "topics": [
+          {
+            "from": 1,
+            "to": 11,
+            "topic": "MANUSIA MENJADI KIKIR KARENA TAMAK KEPADA HARTA"
+          }
+        ]
+      },
+      {
+        "number": "101",
+        "name": "القارعة",
+        "name_latin": "Al-Qari'ah",
+        "name_translation": "Hari Kiamat",
+        "number_of_ayah": "11",
+        "topics": [
+          {
+            "from": 1,
+            "to": 11,
+            "topic": "ORANG YANG BERAT DAN RINGAN TIMBANGAN PERBUATANNYA PADA HARI KIAMAT"
+          }
+        ]
+      },
+      {
+        "number": "102",
+        "name": "التكاثر",
+        "name_latin": "At-Takasur",
+        "name_translation": "Bermegah-Megahan",
+        "number_of_ayah": "8",
+        "topics": [
+          {
+            "from": 1,
+            "to": 8,
+            "topic": "ANCAMAN ALLAH TERHADAP ORANG YANG LALAI DAN BERMEGAH-MEGAHAN"
+          }
+        ]
+      },
+      {
+        "number": "103",
+        "name": "العصر",
+        "name_latin": "Al-'Asr",
+        "name_translation": "Asar",
+        "number_of_ayah": "3",
+        "topics": [
+          {
+            "from": 1,
+            "to": 3,
+            "topic": "AMAT RUGILAH MANUSIA YANG TIDAK MEMANFAATKAN WAKTUNYA UNTUK BERBAKTI "
+          }
+        ]
+      },
+      {
+        "number": "104",
+        "name": "الهمزة",
+        "name_latin": "Al-Humazah",
+        "name_translation": "Pengumpat",
+        "number_of_ayah": "9",
+        "topics": [
+          {
+            "from": 1,
+            "to": 9,
+            "topic": "CELAKALAH PENIMBUN HARTA YANG TIDAK MENGINFAKKANNYA DI JALAN ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "105",
+        "name": "الفيل",
+        "name_latin": "Al-Fil",
+        "name_translation": "Gajah",
+        "number_of_ayah": "5",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "AZAB ALLAH KEPADA TENTARA BERGAJAH YANG AKAN MENGHANCURKAN KA'BAH"
+          }
+        ]
+      },
+      {
+        "number": "106",
+        "name": "قريش",
+        "name_latin": "Quraisy",
+        "name_translation": "Quraisy",
+        "number_of_ayah": "4",
+        "topics": [
+          {
+            "from": 1,
+            "to": 4,
+            "topic": "KEMAKMURAN DAN KETENTERAMAN SEHARUSNYA MENJADIKAN ORANG BERBAKTI KEPADA ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "107",
+        "name": "الماعون",
+        "name_latin": "Al-Ma'un",
+        "name_translation": "Barang Yang Berguna",
+        "number_of_ayah": "7",
+        "topics": [
+          {
+            "from": 1,
+            "to": 7,
+            "topic": "BEBERAPA SIFAT YANG DIPANDANG SEBAGAI MENDUSTAKAN HARI PEMBALASAN"
+          }
+        ]
+      },
+      {
+        "number": "108",
+        "name": "الكوثر",
+        "name_latin": "Al-Kausar",
+        "name_translation": "Pemberian Yang Banyak",
+        "number_of_ayah": "3",
+        "topics": [
+          {
+            "from": 1,
+            "to": 3,
+            "topic": "SHALAT DAN BERKURBAN TANDA BERSYUKUR KEPADA NIKMAT ALLAH"
+          }
+        ]
+      },
+      {
+        "number": "109",
+        "name": "الكٰفرون",
+        "name_latin": "Al-Kafirun",
+        "name_translation": "Orang-Orang kafir",
+        "number_of_ayah": "6",
+        "topics": [
+          {
+            "from": 1,
+            "to": 6,
+            "topic": "TIDAK ADA TOLERANSI DALAM HAL KEIMANAN DAN PERIBADAHAN"
+          }
+        ]
+      },
+      {
+        "number": "110",
+        "name": "النصر",
+        "name_latin": "An-Nasr",
+        "name_translation": "Pertolongan",
+        "number_of_ayah": "3",
+        "topics": [
+          {
+            "from": 1,
+            "to": 3,
+            "topic": "PERTOLONGAN DAN KEMENANGAN ITU DATANGNYA DARI ALLAH, MAKA PUJILAH DIA"
+          }
+        ]
+      },
+      {
+        "number": "111",
+        "name": "اللهب",
+        "name_latin": "Al-Lahab",
+        "name_translation": "Api Yang Bergejolak",
+        "number_of_ayah": "5",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "TUKANG FITNAH PASTI AKAN CELAKA"
+          }
+        ]
+      },
+      {
+        "number": "112",
+        "name": "الاخلاص",
+        "name_latin": "Al-Ikhlas",
+        "name_translation": "Ikhlas",
+        "number_of_ayah": "4",
+        "topics": [
+          {
+            "from": 1,
+            "to": 4,
+            "topic": "Keesaan Allah"
+          }
+        ]
+      },
+      {
+        "number": "113",
+        "name": "الفلق",
+        "name_latin": "Al-Falaq",
+        "name_translation": "Subuh",
+        "number_of_ayah": "5",
+        "topics": [
+          {
+            "from": 1,
+            "to": 5,
+            "topic": "ALLAH PELINDUNG DARI SEGALA KEJAHATAN"
+          }
+        ]
+      },
+      {
+        "number": "114",
+        "name": "الناس",
+        "name_latin": "An-Nas",
+        "name_translation": "Manusia",
+        "number_of_ayah": "6",
+        "topics": [
+          {
+            "from": 1,
+            "to": 6,
+            "topic": "ALLAH PELINDUNG MANUSIA DARI KEJAHATAN BISIKAN SETAN DAN MANUSIA"
+          }
+        ]
+      }
+    ],
+    "hash": "b0872fd1bdf3a7dc451669614e8078cfee042f627ffe433198567d69afbcb3218b429892df0d36bb0dfa91c692f4bc301ab124cb84589dae4cb11cc6f9f97f8a"
+  }
