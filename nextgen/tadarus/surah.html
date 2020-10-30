@@ -49,16 +49,20 @@
                     </a></nav>
             </div>
         </header>
-        <div class="px-4 md:px-6 lg:px-8 mx-10 lg:mx-40 my-10 mt-24">
+        <div v-if="Object.keys(surah_data).length === 0 && surah_data.constructor === Object">
+            <p>Loading Data</p>
+        </div>
+        <div v-else class="px-4 md:px-6 lg:px-8 mx-10 lg:mx-40 my-10 mt-24">
             <h1 class="text-2xl font-bold">
                 {{ surah_data.name_latin }} - {{ surah_data.translations.id.name }}
             </h1>
             <p>Tafsir <strong>{{ surah_data.tafsir.id.kemenag.name }}</strong>. Diambil dari <strong>{{ surah_data.tafsir.id.kemenag.name }}</strong></p>
 
-            <ol class="mt-5" style="list-style: decimal">
+            <ol class="mt-5">
                 <li v-for="number in parseInt(surah_data.number_of_ayah)" class="pb-5">
-                    <p class="text-lg">{{ surah_data.translations.id.text[number] }}</p>
-                    <details>
+                    <h2 v-if="String(number) in topics_index" class="font-semibold italic text-sm">{{topics_index[number]}}</h2>
+                    <p class="text-lg mb-1">{{number}}. {{ surah_data.translations.id.text[number] }}</p>
+                    <details class="ml-3">
                     <summary>Lihat tafsir</summary>
                     <p style="white-space: pre-wrap;"><em>tafsir:</em> {{ surah_data.tafsir.id.kemenag.text[number] }} </p>
                     <hr class="my-2">
@@ -68,22 +72,43 @@
 
             <!-- Surah Container -->
             <!-- End of Surah Container -->
+            <a v-if="surah_data.number != 1" v-bind:href="'/tadarus/surah.html?surah=' + (parseInt(surah_data.number) - 1)" class="underline"><< Surat Sebelumnya</a>
+            <span v-if="surah_data.number != 1 && surah_data.number != 114"> | </span>
+            <a v-if="surah_data.number != 114" v-bind:href="'/tadarus/surah.html?surah=' + (parseInt(surah_data.number) + 1)" class="underline">Surat Selanjutnya >> </a>
         </div>
+
     </div>
 
     <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const surah_number = urlParams.get('surah') || 1;
+
         var surah_url =
-            '/data/surah/1.json'
+            `/data/surah/${surah_number}.json`
 
         var QuranApp = new Vue({
             el: '#app',
             data: {
-                surah_data: []
+                surah_data: {},
+                topics_index: {}
             },
             mounted() {
                 axios
                     .get(surah_url)
-                    .then(response => (this.surah_data = response.data.data))
+                    .then(response => {
+                        this.surah_data = response.data.data
+
+                        topics_index = {}
+                        topics = response.data.data.topics
+                        for (const index in topics ) {
+                            from_ayah = topics[index].from
+                            text_ayah = topics[index].topic
+                            topics_index[from_ayah] = text_ayah
+                        }
+                        this.topics_index = topics_index
+                    }
+                )
+                
             },
         })
     </script>
