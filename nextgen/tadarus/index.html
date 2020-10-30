@@ -167,10 +167,12 @@
                 <h2 class="text-4xl arabic">{{ surah.name }}</h2>
                 <p class="pb-4">{{ surah.name_latin }} - {{ surah.name_translation }}</p>
                 <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 text-center mb-4">
-                    <div v-for="topic in surah.topics" class="p-5 border-2">
+                    <a v-bind:href="'/tadarus/surah.html/?surah=' + surah.number + '#' + topic.from" v-for="topic in surah.topics">
+                    <div class="p-5 border-2">
                         <p>{{ toTitleCase(topic.topic) }}</p> 
                         <p>(QS {{ surah.number }}:{{ topic.from }}-{{ topic.to }})</p>
                     </div>
+                    </a>
                 </div>
                 <hr class="my-3">
             </div>

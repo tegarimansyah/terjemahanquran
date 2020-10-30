@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Nama Surah | Tadarus</title>
+    <title>Baca Surah | Tadarus</title>
     <script src="/js/vue.js"></script>
     <script src="/js/axios.min.js"></script>
     <link href="/css/tailwind.min.css" rel="stylesheet">
@@ -17,6 +17,14 @@
         }
         .arabic {
             font-family: "LPMQ_IsepMisbah";
+        }
+        h2::before { 
+            display: block; 
+            content: " "; 
+            margin-top: -100px; 
+            height: 100px; 
+            visibility: hidden; 
+            pointer-events: none;
         }
     </style>
 </head>
@@ -60,7 +68,9 @@
 
             <ol class="mt-5">
                 <li v-for="number in parseInt(surah_data.number_of_ayah)" class="pb-5">
-                    <h2 v-if="String(number) in topics_index" class="font-semibold italic text-sm">{{topics_index[number]}}</h2>
+                    <h2 v-if="String(number) in topics_index" class="font-semibold italic text-sm" v-bind:id="number">
+                        {{topics_index[number]}}
+                    </h2>
                     <p class="text-lg mb-1">{{number}}. {{ surah_data.translations.id.text[number] }}</p>
                     <details class="ml-3">
                     <summary>Lihat tafsir</summary>
@@ -83,14 +93,19 @@
         const urlParams = new URLSearchParams(window.location.search);
         const surah_number = urlParams.get('surah') || 1;
 
-        var surah_url =
+        const surah_url =
             `/data/surah/${surah_number}.json`
 
-        var QuranApp = new Vue({
+        const QuranApp = new Vue({
             el: '#app',
             data: {
                 surah_data: {},
                 topics_index: {}
+            },
+            head () {
+                return {
+                    title: `Tadarus ${this.surah_data.name_latin}`
+                }
             },
             mounted() {
                 axios
@@ -108,8 +123,12 @@
                         this.topics_index = topics_index
                     }
                 )
-                
             },
+            updated: function() {
+                if(window.location.hash) {
+                    window.location = location.href
+                }   
+            }
         })
     </script>
 
