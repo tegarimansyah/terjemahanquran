@@ -19,7 +19,7 @@
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
     "hasha": "^5.2.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "toml": "^3.0.0",
     "vue-intersect": "^1.1.6",
     "vuedraggable": "^2.23.2",
